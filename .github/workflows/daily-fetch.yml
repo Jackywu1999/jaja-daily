@@ -1,9 +1,9 @@
 name: Daily News Fetch
 
 on:
-  # 每天北京时间 08:30 自动运行（UTC 00:30）
+  # 每天北京时间 07:00 自动运行（UTC 23:00，前一天）
   schedule:
-    - cron: '30 0 * * *'
+    - cron: '0 23 * * *'
   # 允许手动触发（方便测试）
   workflow_dispatch:
 
