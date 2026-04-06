@@ -64,6 +64,8 @@
       display: flex;
       align-items: baseline;
       justify-content: space-between;
+      flex-wrap: wrap;
+      gap: 4px 12px;
     }
 
     .masthead-title {
@@ -74,6 +76,7 @@
       color: var(--text);
       line-height: 1;
       font-family: var(--font-serif);
+      white-space: nowrap;   /* 标题永远不换行 */
     }
 
     .masthead-date {
@@ -81,6 +84,8 @@
       color: var(--text);
       font-family: var(--font-serif);
       letter-spacing: 0.3px;
+      white-space: nowrap;   /* 日期也不在自身内部换行 */
+      margin-left: auto;     /* 尽量靠右，空间不够时换到下一行 */
     }
 
     /* ── 编辑寄语 ── */
