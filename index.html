@@ -84,8 +84,18 @@
       color: var(--text);
       font-family: var(--font-serif);
       letter-spacing: 0.3px;
-      white-space: nowrap;   /* 日期也不在自身内部换行 */
-      margin-left: auto;     /* 尽量靠右，空间不够时换到下一行 */
+      white-space: nowrap;   /* 日期不在自身内部换行 */
+      flex-basis: 100%;      /* 换行后独占一行，自然靠左与标题对齐 */
+      order: 1;              /* 排在标题后面 */
+    }
+
+    /* 屏幕够宽时恢复同行两端对齐 */
+    @media (min-width: 400px) {
+      .masthead-date {
+        flex-basis: auto;
+        order: 0;
+        margin-left: auto;
+      }
     }
 
     /* ── 编辑寄语 ── */
