@@ -371,8 +371,7 @@
     function renderData(data, isYesterday) {
       if (!data.items || data.items.length === 0) { showEmpty('暂无资讯数据'); return; }
       allItems = data.items;
-      document.getElementById('mastDate').textContent =
-        formatDate(data.date) + (isYesterday ? '（昨日）' : '');
+      document.getElementById('mastDate').textContent = formatDate(data.date);
       buildEditorNote(allItems, data.editor_note || '');
       renderList(allItems);
       document.getElementById('footer').style.display = '';
