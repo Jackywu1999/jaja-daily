@@ -1,26 +1,18 @@
 {
   "date": "2026-04-06",
-  "generated_at": "2026-04-06T12:14:43.010945+08:00",
+  "generated_at": "2026-04-06T15:19:48.121038+08:00",
   "category": "餐饮零售 & AI科技",
   "total": 10,
+  "editor_note": "今天共精选 10 条。餐饮零售板块：沃尔玛、塔吉特等美国零售巨头拥抱 AI，等话题值得关注；AI科技板块：Mac 跑 AI 模型更方便了，Tiny等动态持续发酵。",
   "items": [
     {
-      "title": "“害怕被淘汰”心态席卷美国职场，AI 焦虑催生新词“FOBO”",
-      "url": "https://www.ithome.com/0/936/214.htm",
+      "title": "沃尔玛、塔吉特等美国零售巨头拥抱 AI，明确用户需为购物助手出错担责",
+      "url": "https://www.ithome.com/0/936/222.htm",
       "source": "IT之家",
       "source_icon": "🟢",
-      "summary": "当地时间4 月 5日，据《财富》杂志报道，美国职场在2026 年出现一个新的关键词——FOBO（Fearof BecomingObsolete，对被淘汰的恐惧）。",
-      "tag": "AI产品",
+      "summary": "美国大型零售企业正在加速引入 AI，但在AI出错导致用户损失时，却倾向于将责任转嫁给消费者。当地时间 4 月 5日，据外媒Futurism报道，这种做法正逐渐成为行业常态：企业积极推广AI功能，却在风…",
+      "tag": "零售动态",
       "id": 1
-    },
-    {
-      "title": "研究人员 3D 打印出微米级柔性微型机器人，无需大脑即可自主移动",
-      "url": "https://www.ithome.com/0/936/212.htm",
-      "source": "IT之家",
-      "source_icon": "🟢",
-      "summary": "荷兰莱顿大学的研究人员成功3D打印出一种微型机器人，该机器人无需大脑，便能像单细胞生物一样四处移动。该校表示，这类机器人的尺寸在0.5 至 5微米之间，移动速度可达每秒 7 微米。",
-      "tag": "机器人",
-      "id": 2
     },
     {
       "title": "商务部等 6 部门：发展“人工智能 + 电商”，引导电商企业加强人工智能大模型等技术研发应用",
@@ -29,7 +21,7 @@
       "source_icon": "🟢",
       "summary": "商务部等 6 部门发布关于更好服务实体经济推进电子商务高质量发展的指导意见。 其中提到，支持头部电商企业加大研发投入，加强重点领域核心技术攻关，构建“产研协同、学用转化”创新生态。",
       "tag": "电商",
-      "id": 3
+      "id": 2
     },
     {
       "title": "Mac 跑 AI 模型更方便了，Tiny Corp 称苹果已为英伟达、AMD 外置显卡开绿灯",
@@ -38,7 +30,7 @@
       "source_icon": "🟢",
       "summary": "当地时间4 月 5日，据外媒Tom's Hardware报道，苹果已经批准英伟达 eGPU（外置显卡）驱动，使其能够在Apple silicon平台上运行。",
       "tag": "大模型",
-      "id": 4
+      "id": 3
     },
     {
       "title": "OpenAI 上市节奏应该更快还是更慢？CEO 奥尔特曼与 CFO 弗莱尔被曝对此存在分歧",
@@ -47,7 +39,7 @@
       "source_icon": "🟢",
       "summary": "北京时间今天（4月 6日）凌晨，据The Information披露的消息称，OpenAICEO 奥尔特曼与 CFO 萨拉 ·弗莱尔在IPO推进节奏上出现分歧。",
       "tag": "AI投融资",
-      "id": 5
+      "id": 4
     },
     {
       "title": "买前必看：千问 AI 眼镜 G1 自费长测",
@@ -56,42 +48,51 @@
       "source_icon": "🔵",
       "summary": "千问G1确实有其独特的优势，但在软硬件细节体验上也还有很多需要打磨的地方。",
       "tag": "AI产品",
+      "id": 5
+    },
+    {
+      "title": "荣耀 MagicBook 全新 AI UI 实机再曝：桌面可放三种尺寸相册卡片、Dock 栏外观支持自定义",
+      "url": "https://www.ithome.com/0/936/238.htm",
+      "source": "IT之家",
+      "source_icon": "🟢",
+      "summary": "荣耀全场景软件主理人@荣耀席迎军 今日再度分享了MagicBook全新 AIUI。他透露，他的电脑在升级最新版本后，性能大幅度提升，而且可玩性更高。",
+      "tag": "AI产品",
       "id": 6
     },
     {
-      "title": "OpenAI IPO前夜：CFO说不，COO被调走",
-      "url": "https://www.tmtpost.com/7942711.html",
-      "source": "钛媒体",
-      "source_icon": "🟠",
-      "summary": "财务路线的内部撕裂与高管团队的集中缺位交织在一起。",
+      "title": "亿万富翁投资人马克 · 库班：大公司 CEO 正面临“AI 困境”，进或退都会引发投资者不满",
+      "url": "https://www.ithome.com/0/936/232.htm",
+      "source": "IT之家",
+      "source_icon": "🟢",
+      "summary": "据《商业内幕》今日（4月 6日）报道，美国亿万富翁投资人马克 · 库班认为，大型上市公司CEO 在 AI冲击下面临结构性困境，几乎不存在“理想解”。",
       "tag": "AI投融资",
       "id": 7
     },
     {
-      "title": "AI短剧，苦等一个《狂飙》",
-      "url": "https://www.tmtpost.com/7942686.html",
-      "source": "钛媒体",
-      "source_icon": "🟠",
-      "summary": "产能爆炸，爆款消失。",
+      "title": "字节跳动红果短剧：针对近期 AI 短剧素材违规使用问题频发的情况，已处置作品 670 部",
+      "url": "https://www.ithome.com/0/936/217.htm",
+      "source": "IT之家",
+      "source_icon": "🟢",
+      "summary": "红果短剧官方账号今日发布《关于持续治理AI短剧素材违规使用行为的公告》。IT之家附公告原文如下：内容合规是红果短剧对出品方的一贯要求，为规范AI短剧创作秩序，保护原创与合法权益，平台坚决打击AI短剧素…",
       "tag": "AI产品",
       "id": 8
     },
     {
-      "title": "大模型生死局：从六小龙到双雄上市，AI创业的泡沫、突围与终局",
-      "url": "https://www.tmtpost.com/7942393.html",
-      "source": "钛媒体",
-      "source_icon": "🟠",
-      "summary": "大模型生死局：从六小龙到双雄上市，AI创业的泡沫、突围与终局",
-      "tag": "大模型",
+      "title": "“害怕被淘汰”心态席卷美国职场，AI 焦虑催生新词“FOBO”",
+      "url": "https://www.ithome.com/0/936/214.htm",
+      "source": "IT之家",
+      "source_icon": "🟢",
+      "summary": "当地时间4 月 5日，据《财富》杂志报道，美国职场在2026 年出现一个新的关键词——FOBO（Fearof BecomingObsolete，对被淘汰的恐惧）。",
+      "tag": "AI产品",
       "id": 9
     },
     {
-      "title": "智能体上线就翻车？AWS 这款 “质检神器”，帮你把 Agent 稳稳送上生产线",
-      "url": "https://www.tmtpost.com/7940504.html",
-      "source": "钛媒体",
-      "source_icon": "🟠",
-      "summary": "你的AI Agent演示时惊艳四座，上线后疯狂翻车？问题不在于Agent不行，而在于你没有\"体检报告\"。",
-      "tag": "AI Agent",
+      "title": "研究人员 3D 打印出微米级柔性微型机器人，无需大脑即可自主移动",
+      "url": "https://www.ithome.com/0/936/212.htm",
+      "source": "IT之家",
+      "source_icon": "🟢",
+      "summary": "荷兰莱顿大学的研究人员成功3D打印出一种微型机器人，该机器人无需大脑，便能像单细胞生物一样四处移动。该校表示，这类机器人的尺寸在0.5 至 5微米之间，移动速度可达每秒 7 微米。",
+      "tag": "机器人",
       "id": 10
     }
   ]
