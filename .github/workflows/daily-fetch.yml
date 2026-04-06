@@ -27,14 +27,13 @@ jobs:
           # 如果你有 OpenAI Key，在仓库 Settings → Secrets 里添加 OPENAI_API_KEY
           OPENAI_API_KEY: ${{ secrets.OPENAI_API_KEY }}
         run: |
-          cd daily-news
           python fetch_news.py
 
       - name: Commit and push data
         run: |
           git config user.name "github-actions[bot]"
           git config user.email "github-actions[bot]@users.noreply.github.com"
-          git add daily-news/data/
+          git add data/
           # 只有有新文件时才提交
           git diff --cached --quiet || git commit -m "chore: update daily news $(date -u +%Y-%m-%d)"
           git push
