@@ -6,19 +6,26 @@
   <title>JaJa Daily</title>
   <style>
     :root {
-      --bg: #f5f0e8;
-      --bg2: #ede8de;
-      --card: #faf7f2;
-      --border: #ddd5c4;
-      --border-light: #e8e0d0;
-      --accent: #c0392b;
-      --accent2: #8b6914;
-      --text: #2c2416;
-      --text-sub: #6b5c3e;
-      --text-muted: #9b8c72;
-      --tag-color: #8b6914;
-      --quote-bg: #fdf6e8;
-      --quote-border: #d4a843;
+      /* ── Notion 风格配色 ── */
+      --bg:           #F4F0E9;       /* 主背景：暖米色 */
+      --bg-hover:     #ede8df;       /* hover 背景 */
+      --bg-card:      #faf7f2;       /* 卡片/引用背景 */
+      --border:       #ddd8ce;       /* 主分割线 */
+      --border-light: #e8e3d8;       /* 次分割线 */
+
+      /* ── 文字层级（Notion 三层灰） ── */
+      --text:         #37352f;       /* 主文字：Notion 标准深棕黑 */
+      --text-sub:     #786B5C;       /* 次要文字：暖棕 */
+      --text-muted:   #9b9a97;       /* 辅助信息：浅灰 */
+
+      /* ── 强调色 ── */
+      --accent:       #e03e3e;       /* 红色：阅读原文、竖线 */
+      --accent-gold:  #c17d3c;       /* 暖金：标签、引号装饰 */
+      --tag-bg:       rgba(193, 125, 60, 0.08);
+
+      /* ── 字体栈 ── */
+      --font-serif:   "Georgia", "Songti SC", "STSong", "SimSun", serif;
+      --font-sans:    -apple-system, "PingFang SC", "Helvetica Neue", sans-serif;
     }
 
     * { box-sizing: border-box; margin: 0; padding: 0; }
@@ -26,108 +33,86 @@
     body {
       background: var(--bg);
       color: var(--text);
-      font-family: "Georgia", "STSong", "SimSun", "PingFang SC", serif;
+      font-family: var(--font-sans);
       max-width: 680px;
       margin: 0 auto;
-      padding: 0 0 60px;
+      padding: 0 0 80px;
+      -webkit-font-smoothing: antialiased;
     }
 
     /* ── 顶部 Header ── */
     .masthead {
-      padding: 36px 24px 20px;
+      padding: 40px 24px 22px;
       border-bottom: 2px solid var(--text);
     }
 
     .masthead-top {
       display: flex;
       align-items: baseline;
-      gap: 16px;
-      flex-wrap: wrap;
+      justify-content: space-between;
     }
 
     .masthead-title {
-      font-size: 36px;
+      font-size: 38px;
       font-style: italic;
       font-weight: 700;
       letter-spacing: -0.5px;
       color: var(--text);
       line-height: 1;
+      font-family: var(--font-serif);
     }
 
     .masthead-date {
-      font-size: 14px;
-      color: var(--text-sub);
-      font-family: -apple-system, "PingFang SC", sans-serif;
-      font-style: normal;
-    }
-
-    .masthead-sub {
-      margin-top: 8px;
-      font-size: 11px;
-      letter-spacing: 3px;
-      color: var(--text-muted);
-      font-family: -apple-system, "PingFang SC", sans-serif;
-      font-style: normal;
-      text-transform: uppercase;
+      font-size: 12px;
+      color: var(--text);
+      font-family: var(--font-serif);
+      letter-spacing: 0.3px;
     }
 
     /* ── 编辑寄语 ── */
     .editor-note {
       margin: 20px 24px;
-      background: var(--quote-bg);
-      border: 1px solid var(--quote-border);
-      border-radius: 8px;
-      padding: 18px 20px 18px 24px;
-      position: relative;
-    }
-
-    .editor-note::before {
-      content: '\201C';
-      position: absolute;
-      top: -4px;
-      left: 12px;
-      font-size: 52px;
-      color: var(--quote-border);
-      font-family: Georgia, serif;
-      line-height: 1;
-    }
-
-    .editor-note::after {
-      content: '\201D';
-      position: absolute;
-      bottom: -16px;
-      right: 14px;
-      font-size: 52px;
-      color: var(--quote-border);
-      font-family: Georgia, serif;
-      line-height: 1;
+      background: var(--bg-card);
+      border: 1px solid var(--border);
+      border-left: 3px solid var(--accent-gold);
+      border-radius: 6px;
+      padding: 16px 20px 16px 20px;
     }
 
     .editor-note-header {
       display: flex;
       align-items: center;
-      gap: 8px;
-      margin-bottom: 10px;
+      gap: 10px;
+      margin-bottom: 8px;
+    }
+
+    .editor-avatar {
+      width: 28px;
+      height: 28px;
+      border-radius: 50%;
+      object-fit: cover;
+      flex-shrink: 0;
+      border: 1.5px solid var(--border);
     }
 
     .editor-name {
-      font-size: 14px;
+      font-size: 13px;
       font-weight: 700;
       color: var(--text);
-      font-family: -apple-system, "PingFang SC", sans-serif;
+      font-family: var(--font-serif);
+      letter-spacing: 0.5px;
     }
 
     .editor-note-text {
-      font-size: 14px;
-      line-height: 1.8;
-      color: var(--text-sub);
-      font-family: -apple-system, "PingFang SC", sans-serif;
-      font-style: normal;
+      font-size: 13px;
+      line-height: 1.75;
+      color: var(--text);
+      font-family: var(--font-serif);
     }
 
     /* ── 板块标题 ── */
     .board-section {
-      margin-top: 32px;
+      margin-top: 36px;
     }
 
     .board-header {
@@ -138,12 +123,11 @@
     .board-title {
       display: flex;
       align-items: center;
-      gap: 0;
     }
 
     .board-title-bar {
-      width: 4px;
-      height: 32px;
+      width: 3px;
+      height: 28px;
       background: var(--accent);
       border-radius: 2px;
       margin-right: 12px;
@@ -151,47 +135,54 @@
     }
 
     .board-title-zh {
-      font-size: 22px;
+      font-size: 24px;
       font-weight: 700;
       color: var(--text);
-      font-family: -apple-system, "PingFang SC", sans-serif;
-      letter-spacing: 0.5px;
+      font-family: var(--font-serif);
+      letter-spacing: 1.5px;
     }
 
     .board-title-en {
-      margin-top: 3px;
+      margin-top: 4px;
       font-size: 10px;
-      letter-spacing: 3px;
+      letter-spacing: 3.5px;
       color: var(--text-muted);
-      font-family: -apple-system, sans-serif;
+      font-family: var(--font-serif);
       text-transform: uppercase;
-      padding-left: 16px;
+      font-style: italic;
     }
 
     /* ── 资讯条目 ── */
     .news-item {
-      padding: 18px 24px 16px;
+      padding: 16px 24px 14px;
       border-bottom: 1px solid var(--border-light);
       text-decoration: none;
       display: block;
-      transition: background 0.15s;
+      transition: background 0.12s;
     }
 
     .news-item:hover {
-      background: var(--bg2);
+      background: var(--bg-hover);
     }
 
     .news-meta {
       display: flex;
       align-items: center;
       gap: 6px;
-      margin-bottom: 6px;
+      margin-top: 10px;
+      justify-content: space-between;
+    }
+
+    .news-meta-right {
+      display: flex;
+      align-items: center;
+      gap: 6px;
     }
 
     .news-source {
       font-size: 11px;
       color: var(--text-muted);
-      font-family: -apple-system, "PingFang SC", sans-serif;
+      font-family: var(--font-sans);
     }
 
     .news-meta-dot {
@@ -203,28 +194,26 @@
     }
 
     .news-date {
-      font-size: 11px;
-      color: var(--text-muted);
-      font-family: -apple-system, "PingFang SC", sans-serif;
+      display: none;
     }
 
     .news-tag {
       font-size: 10px;
-      color: var(--tag-color);
-      background: rgba(139, 105, 20, 0.1);
+      color: var(--accent-gold);
+      background: var(--tag-bg);
       border-radius: 3px;
       padding: 1px 6px;
-      font-family: -apple-system, "PingFang SC", sans-serif;
-      margin-left: auto;
+      font-family: var(--font-sans);
+      font-weight: 500;
     }
 
     .news-title {
-      font-size: 18px;
+      font-size: 16px;
       font-weight: 700;
       color: var(--text);
-      line-height: 1.45;
-      margin-bottom: 7px;
-      font-family: -apple-system, "PingFang SC", sans-serif;
+      line-height: 1.5;
+      margin-bottom: 6px;
+      font-family: var(--font-serif);
     }
 
     .news-summary {
@@ -232,16 +221,17 @@
       color: var(--text-sub);
       line-height: 1.7;
       margin-bottom: 10px;
-      font-family: -apple-system, "PingFang SC", sans-serif;
+      font-family: var(--font-serif);
     }
 
     .news-read-more {
       font-size: 12px;
       color: var(--accent);
-      font-family: -apple-system, "PingFang SC", sans-serif;
+      font-family: var(--font-sans);
       display: inline-flex;
       align-items: center;
       gap: 3px;
+      font-weight: 500;
     }
 
     /* ── 状态页 ── */
@@ -249,14 +239,14 @@
       text-align: center;
       padding: 60px 20px;
       color: var(--text-muted);
-      font-family: -apple-system, "PingFang SC", sans-serif;
+      font-family: var(--font-sans);
     }
-    .state-box .icon { font-size: 40px; margin-bottom: 12px; }
-    .state-box .msg { font-size: 15px; color: var(--text-sub); margin-bottom: 6px; }
-    .state-box .sub { font-size: 13px; }
+    .state-box .icon { font-size: 36px; margin-bottom: 12px; }
+    .state-box .msg  { font-size: 15px; color: var(--text-sub); margin-bottom: 6px; }
+    .state-box .sub  { font-size: 13px; color: var(--text-muted); }
 
     .spinner {
-      width: 28px; height: 28px;
+      width: 24px; height: 24px;
       border: 2px solid var(--border);
       border-top-color: var(--accent);
       border-radius: 50%;
@@ -268,11 +258,11 @@
     /* ── Footer ── */
     .footer {
       text-align: center;
-      padding: 32px 20px 0;
+      padding: 36px 20px 0;
       font-size: 11px;
       color: var(--text-muted);
-      font-family: -apple-system, "PingFang SC", sans-serif;
-      letter-spacing: 0.5px;
+      font-family: var(--font-sans);
+      letter-spacing: 0.3px;
     }
   </style>
 </head>
@@ -282,14 +272,14 @@
   <div class="masthead">
     <div class="masthead-top">
       <div class="masthead-title">JaJa Daily</div>
-      <div class="masthead-date" id="mastDate">加载中...</div>
+      <span class="masthead-date" id="mastDate"></span>
     </div>
-    <div class="masthead-sub">餐饮 & 零售 · AI & 科技 · 每日精选 10 条</div>
   </div>
 
   <!-- 编辑寄语 -->
   <div class="editor-note" id="editorNote" style="display:none">
     <div class="editor-note-header">
+      <img class="editor-avatar" src="./avatar.png" alt="小ja" />
       <div class="editor-name">小 ja 碎碎念</div>
     </div>
     <div class="editor-note-text" id="editorText"></div>
@@ -304,58 +294,20 @@
   </div>
 
   <div class="footer" id="footer" style="display:none">
-    数据来源：IT之家 · 少数派 · 机器之心 · 36氪 · 钛媒体 &nbsp;·&nbsp; 每日自动更新
+    每日自动更新
   </div>
 
   <script>
-    // ── 数据源配置 ────────────────────────────────────────────────────────────
-    // GitHub Pages 部署后，JSON 文件与 index.html 在同一仓库，通过相对路径访问
-    // 本地开发时也可以直接用 file:// 打开（会走 fallback 逻辑）
     const DATA_BASE = './data';
-
     let allItems = [];
 
-    // 两大板块 tag 归属
     const FNB_TAGS = ['餐饮动态','零售动态','商业洞察','电商'];
     const AI_TAGS  = ['大模型','AI产品','AI Agent','AIGC','AI算力','AI投融资','政策监管','开源','机器人'];
 
-    // ── 日期工具 ──────────────────────────────────────────────────────────────
     function getTodayCST() {
       const d = new Date();
-      // 转为北京时间
       const cst = new Date(d.getTime() + (8 * 60 - d.getTimezoneOffset()) * 60000);
       return cst.toISOString().slice(0, 10);
-    }
-
-    // ── 加载数据 ──────────────────────────────────────────────────────────────
-    async function loadNews() {
-      showLoading();
-      const dateStr = getTodayCST();
-
-      try {
-        // 直接请求静态 JSON 文件，加时间戳防缓存
-        const url = `${DATA_BASE}/${dateStr}.json?t=${Date.now()}`;
-        const res = await fetch(url);
-
-        if (!res.ok) {
-          // 今日数据还没生成，尝试加载昨天的
-          const yesterday = getOffsetDate(-1);
-          const res2 = await fetch(`${DATA_BASE}/${yesterday}.json?t=${Date.now()}`);
-          if (!res2.ok) {
-            showEmpty('今日数据尚未生成，请稍后再访问');
-            return;
-          }
-          const data2 = await res2.json();
-          renderData(data2, true);
-          return;
-        }
-
-        const data = await res.json();
-        renderData(data, false);
-
-      } catch (e) {
-        showError(e.message);
-      }
     }
 
     function getOffsetDate(offset) {
@@ -365,85 +317,90 @@
       return cst.toISOString().slice(0, 10);
     }
 
-    function renderData(data, isYesterday) {
-      if (!data.items || data.items.length === 0) {
-        showEmpty('暂无资讯数据');
-        return;
+    async function loadNews() {
+      showLoading();
+      const dateStr = getTodayCST();
+      try {
+        const res = await fetch(`${DATA_BASE}/${dateStr}.json?t=${Date.now()}`);
+        if (!res.ok) {
+          const res2 = await fetch(`${DATA_BASE}/${getOffsetDate(-1)}.json?t=${Date.now()}`);
+          if (!res2.ok) { showEmpty('今日数据尚未生成，请稍后再访问'); return; }
+          renderData(await res2.json(), true);
+          return;
+        }
+        renderData(await res.json(), false);
+      } catch (e) {
+        showError(e.message);
       }
+    }
+
+    function renderData(data, isYesterday) {
+      if (!data.items || data.items.length === 0) { showEmpty('暂无资讯数据'); return; }
       allItems = data.items;
       document.getElementById('mastDate').textContent =
         formatDate(data.date) + (isYesterday ? '（昨日）' : '');
-      buildEditorNote(allItems);
+      buildEditorNote(allItems, data.editor_note || '');
       renderList(allItems);
       document.getElementById('footer').style.display = '';
     }
 
-    // ── 编辑寄语 ──────────────────────────────────────────────────────────────
-    function buildEditorNote(items) {
+    function buildEditorNote(items, editorNote) {
       const note = document.getElementById('editorNote');
       const text = document.getElementById('editorText');
-      const aiItems  = items.filter(i => AI_TAGS.includes(i.tag));
-      const fnbItems = items.filter(i => FNB_TAGS.includes(i.tag));
-      let sentence = `今天共精选 ${items.length} 条。`;
-      if (fnbItems.length > 0) sentence += `餐饮零售板块：${fnbItems.slice(0,2).map(i=>extractKeyword(i.title)).join('、')}等话题在发酵；`;
-      if (aiItems.length > 0)  sentence += `AI 科技板块：${aiItems.slice(0,2).map(i=>extractKeyword(i.title)).join('、')}等值得关注。`;
-      text.textContent = sentence;
+      // 优先用后端生成的 editor_note，没有则降级拼接
+      if (editorNote) {
+        text.textContent = editorNote;
+      } else {
+        const aiItems  = items.filter(i => AI_TAGS.includes(i.tag));
+        const fnbItems = items.filter(i => FNB_TAGS.includes(i.tag));
+        let sentence = `今天共精选 ${items.length} 条。`;
+        if (fnbItems.length > 0) sentence += `餐饮零售板块：${fnbItems.slice(0,2).map(i=>i.title.slice(0,14)).join('、')}等话题在发酵；`;
+        if (aiItems.length > 0)  sentence += `AI 科技板块：${aiItems.slice(0,2).map(i=>i.title.slice(0,14)).join('、')}等值得关注。`;
+        text.textContent = sentence;
+      }
       note.style.display = '';
     }
 
-    function extractKeyword(title) {
-      return title.replace(/[，。！？「」【】《》]/g, '').slice(0, 14);
-    }
-
-    // ── 渲染列表（两大板块） ──────────────────────────────────────────────────
     function renderList(items) {
       const list = document.getElementById('newsList');
-
       if (items.length === 0) {
-        list.innerHTML = `<div class="state-box">
-          <div class="icon">🔍</div>
-          <div class="msg">今日暂无资讯</div>
-        </div>`;
+        list.innerHTML = `<div class="state-box"><div class="icon">🔍</div><div class="msg">今日暂无资讯</div></div>`;
         return;
       }
-
-      const fnbItems = items.filter(i => FNB_TAGS.includes(i.tag));
-      const aiItems  = items.filter(i => AI_TAGS.includes(i.tag));
+      const fnbItems   = items.filter(i => FNB_TAGS.includes(i.tag));
+      const aiItems    = items.filter(i => AI_TAGS.includes(i.tag));
       const otherItems = items.filter(i => !FNB_TAGS.includes(i.tag) && !AI_TAGS.includes(i.tag));
-
       let html = '';
 
       if (fnbItems.length > 0) {
-        html += `
-          <div class="board-section">
-            <div class="board-header">
-              <div class="board-title">
-                <div class="board-title-bar"></div>
-                <div>
-                  <div class="board-title-zh">餐饮 &amp; 零售</div>
-                  <div class="board-title-en">FOOD · RETAIL</div>
-                </div>
+        html += `<div class="board-section">
+          <div class="board-header">
+            <div class="board-title">
+              <div class="board-title-bar"></div>
+              <div>
+                <div class="board-title-zh">餐饮 &amp; 零售</div>
+                <div class="board-title-en">FOOD · RETAIL</div>
               </div>
             </div>
-            ${fnbItems.map(item => renderItem(item)).join('')}
-          </div>`;
+          </div>
+          ${fnbItems.map(renderItem).join('')}
+        </div>`;
       }
 
       const aiAll = [...aiItems, ...otherItems];
       if (aiAll.length > 0) {
-        html += `
-          <div class="board-section">
-            <div class="board-header">
-              <div class="board-title">
-                <div class="board-title-bar"></div>
-                <div>
-                  <div class="board-title-zh">AI &amp; 科技</div>
-                  <div class="board-title-en">AI · TECH</div>
-                </div>
+        html += `<div class="board-section">
+          <div class="board-header">
+            <div class="board-title">
+              <div class="board-title-bar"></div>
+              <div>
+                <div class="board-title-zh">AI &amp; 科技</div>
+                <div class="board-title-en">AI · TECH</div>
               </div>
             </div>
-            ${aiAll.map(item => renderItem(item)).join('')}
-          </div>`;
+          </div>
+          ${aiAll.map(renderItem).join('')}
+        </div>`;
       }
 
       list.innerHTML = html;
@@ -454,52 +411,33 @@
       const tag = item.tag || '';
       return `
         <a class="news-item" href="${escHtml(item.url)}" target="_blank" rel="noopener">
-          <div class="news-meta">
-            <span class="news-source">${escHtml(item.source || '')}</span>
-            <span class="news-meta-dot"></span>
-            <span class="news-date">今日</span>
-            ${tag ? `<span class="news-tag">${escHtml(tag)}</span>` : ''}
-          </div>
           <div class="news-title">${escHtml(item.title)}</div>
           ${hasSummary ? `<div class="news-summary">${escHtml(item.summary)}</div>` : ''}
-          <div class="news-read-more">阅读原文 →</div>
+          <div class="news-meta">
+            <span class="news-read-more">阅读原文 →</span>
+            <div class="news-meta-right">
+              <span class="news-source">${escHtml(item.source || '')}</span>
+              ${tag ? `<span class="news-meta-dot"></span><span class="news-tag">${escHtml(tag)}</span>` : ''}
+            </div>
+          </div>
         </a>`;
     }
 
-    // ── 状态页 ────────────────────────────────────────────────────────────────
     function showLoading() {
       document.getElementById('newsList').innerHTML = `
-        <div class="state-box">
-          <div class="spinner"></div>
-          <div class="msg">正在加载今日简报...</div>
-        </div>`;
+        <div class="state-box"><div class="spinner"></div><div class="msg">正在加载今日简报...</div></div>`;
     }
-
     function showEmpty(hint) {
       document.getElementById('newsList').innerHTML = `
-        <div class="state-box">
-          <div class="icon">📭</div>
-          <div class="msg">${hint || '今日暂无资讯'}</div>
-          <div class="sub">数据每日自动更新，请稍后再访问</div>
-        </div>`;
+        <div class="state-box"><div class="icon">📭</div><div class="msg">${hint || '今日暂无资讯'}</div><div class="sub">数据每日自动更新，请稍后再访问</div></div>`;
     }
-
     function showError(msg) {
       document.getElementById('newsList').innerHTML = `
-        <div class="state-box">
-          <div class="icon">⚠️</div>
-          <div class="msg">加载失败</div>
-          <div class="sub">${escHtml(msg)}</div>
-        </div>`;
+        <div class="state-box"><div class="icon">⚠️</div><div class="msg">加载失败</div><div class="sub">${escHtml(msg)}</div></div>`;
     }
 
-    // ── 工具函数 ──────────────────────────────────────────────────────────────
     function escHtml(str) {
-      return String(str || '')
-        .replace(/&/g, '&amp;')
-        .replace(/</g, '&lt;')
-        .replace(/>/g, '&gt;')
-        .replace(/"/g, '&quot;');
+      return String(str || '').replace(/&/g,'&amp;').replace(/</g,'&lt;').replace(/>/g,'&gt;').replace(/"/g,'&quot;');
     }
 
     function formatDate(dateStr) {
@@ -509,7 +447,6 @@
       return `${d.getFullYear()}年${d.getMonth()+1}月${d.getDate()}日　${days[d.getDay()]}`;
     }
 
-    // ── 初始化 ────────────────────────────────────────────────────────────────
     loadNews();
   </script>
 </body>

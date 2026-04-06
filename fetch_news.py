@@ -78,8 +78,8 @@ EXCLUDE_KEYWORDS = [
 ]
 
 # 每板块目标条数
-FNB_TARGET   = 4   # 餐饮&零售
-AI_TARGET    = 6   # AI&科技
+FNB_TARGET   = 5   # 餐饮&零售
+AI_TARGET    = 5   # AI&科技
 TARGET_COUNT = FNB_TARGET + AI_TARGET  # 共 10 条
 
 CST = timezone(timedelta(hours=8))
@@ -353,26 +353,33 @@ def fetch_tmtpost() -> list:
 # -- LLM 摘要增强（可选）--------------------------------------------------------
 
 def enhance_summaries_with_llm(items: list) -> list:
+    """为所有条目生成/补全摘要（40-80字，两行以内），并生成碎碎念总结。"""
     api_key = os.environ.get("OPENAI_API_KEY", "")
     if not api_key:
         return items
     try:
         from openai import OpenAI
         client = OpenAI(api_key=api_key)
-        need_llm = [(i, item) for i, item in enumerate(items) if item["summary"] == item["title"]]
-        if not need_llm:
-            return items
-        titles_text = "\n".join(f"{i+1}. {item['title']}" for i, item in need_llm)
+
+        # 所有条目都参与摘要生成（不只是缺摘要的）
+        all_items_text = "\n".join(
+            f"{i+1}. 标题：{item['title']}\n   原摘要：{item['summary'] if item['summary'] != item['title'] else '（无）'}"
+            for i, item in enumerate(items)
+        )
         prompt = (
-            "以下是一批餐饮零售和 AI 科技行业的新闻标题，请为每条标题生成一句话摘要（30-60字）。\n"
-            "要求：说清楚「谁做了什么/发生了什么/有什么意义」，语言简洁自然，不要重复标题原文。\n"
-            "每条摘要单独一行，格式：序号. 摘要内容\n\n"
-            f"标题列表：\n{titles_text}\n\n摘要："
+            "以下是一批餐饮零售和 AI 科技行业的新闻，请为每条新闻生成一段摘要（40-80字）。\n"
+            "要求：\n"
+            "1. 说清楚「谁做了什么/发生了什么/有什么意义」\n"
+            "2. 语言简洁自然，不要重复标题原文\n"
+            "3. 如果原摘要已经足够好，可以在其基础上润色扩充\n"
+            "4. 每条摘要控制在40-80字，对应约两行显示\n"
+            "5. 每条摘要单独一行，格式：序号. 摘要内容\n\n"
+            f"新闻列表：\n{all_items_text}\n\n摘要："
         )
         resp = client.chat.completions.create(
             model="gpt-4o-mini",
             messages=[{"role": "user", "content": prompt}],
-            max_tokens=1000,
+            max_tokens=2000,
             temperature=0.3,
         )
         raw = resp.choices[0].message.content.strip()
@@ -384,13 +391,60 @@ def enhance_summaries_with_llm(items: list) -> list:
             cleaned = re.sub(r"^\d+[\.、。]\s*", "", line).strip()
             if cleaned:
                 summaries.append(cleaned)
-        for j, (orig_idx, _) in enumerate(need_llm):
-            if j < len(summaries) and summaries[j]:
-                items[orig_idx]["summary"] = summaries[j]
-        print(f"    -> LLM 增强了 {len(need_llm)} 条摘要", file=sys.stderr)
+        for i, item in enumerate(items):
+            if i < len(summaries) and summaries[i]:
+                items[i]["summary"] = summaries[i]
+        print(f"    -> LLM 增强了 {len(items)} 条摘要", file=sys.stderr)
     except Exception as e:
         print(f"  [WARN] LLM 增强失败: {e}", file=sys.stderr)
     return items
+
+
+def generate_editor_note(items: list) -> str:
+    """用 LLM 生成碎碎念总结，无 API Key 时降级为简单拼接。"""
+    api_key = os.environ.get("OPENAI_API_KEY", "")
+    fnb_items = [i for i in items if i.get("tag") in ['餐饮动态','零售动态','商业洞察','电商']]
+    ai_items  = [i for i in items if i.get("tag") not in ['餐饮动态','零售动态','商业洞察','电商']]
+
+    if not api_key:
+        # 降级：简单拼接
+        sentence = f"今天共精选 {len(items)} 条。"
+        if fnb_items:
+            sentence += f"餐饮零售板块：{fnb_items[0]['title'][:20]}等话题值得关注；"
+        if ai_items:
+            sentence += f"AI科技板块：{ai_items[0]['title'][:20]}等动态持续发酵。"
+        return sentence
+
+    try:
+        from openai import OpenAI
+        client = OpenAI(api_key=api_key)
+        titles = "\n".join(f"- [{item['tag']}] {item['title']}" for item in items)
+        prompt = (
+            f"以下是今日精选的 {len(items)} 条餐饮零售和AI科技资讯标题：\n{titles}\n\n"
+            "请以'小ja'的口吻，写一段今日资讯的总结性点评（80-120字）。\n"
+            "要求：\n"
+            "1. 提炼今日最值得关注的1-2个餐饮零售趋势和1-2个AI科技动态\n"
+            "2. 语气轻松自然，像朋友间的分享，不要太正式\n"
+            "3. 不要用'今天共精选X条'这种模板句式开头\n"
+            "4. 控制在80-120字"
+        )
+        resp = client.chat.completions.create(
+            model="gpt-4o-mini",
+            messages=[{"role": "user", "content": prompt}],
+            max_tokens=300,
+            temperature=0.7,
+        )
+        note = resp.choices[0].message.content.strip()
+        print(f"    -> LLM 生成碎碎念完成", file=sys.stderr)
+        return note
+    except Exception as e:
+        print(f"  [WARN] 碎碎念生成失败: {e}", file=sys.stderr)
+        sentence = f"今天共精选 {len(items)} 条。"
+        if fnb_items:
+            sentence += f"餐饮零售：{fnb_items[0]['title'][:20]}等话题值得关注；"
+        if ai_items:
+            sentence += f"AI科技：{ai_items[0]['title'][:20]}等动态持续发酵。"
+        return sentence
 
 
 # -- 去重合并 -------------------------------------------------------------------
@@ -433,18 +487,31 @@ def main():
     candidates = merge_and_dedupe(all_raw)
     print(f"\n  去重后候选：{len(candidates)} 条", file=sys.stderr)
 
-    # 3. 按板块分配：餐饮&零售 4 条 + AI&科技 6 条
+    # 3. 按板块分配：各 5 条，尽量均衡
     fnb_pool = [c for c in candidates if is_fnb(c["title"])]
     ai_pool  = [c for c in candidates if is_ai(c["title"]) and not is_fnb(c["title"])]
 
     fnb_items = fnb_pool[:FNB_TARGET]
     ai_items  = ai_pool[:AI_TARGET]
 
-    # 如果某板块不足，从另一板块补充
+    # 餐饮不足时：放宽关键词匹配，从候选中再捞
+    if len(fnb_items) < FNB_TARGET:
+        extra_pool = [
+            c for c in candidates
+            if c not in fnb_items and c not in ai_items
+            and any(kw in c["title"] for kw in ["消费","品牌","门店","市场","商业","零售","食品","饮品","外卖","电商","购物"])
+        ]
+        fnb_items += extra_pool[:FNB_TARGET - len(fnb_items)]
+
+    # 仍不足时，两个板块互补，但保证总数达标
     total = len(fnb_items) + len(ai_items)
     if total < TARGET_COUNT:
         remaining = [c for c in candidates if c not in fnb_items and c not in ai_items]
-        ai_items += remaining[:TARGET_COUNT - total]
+        # 优先补给数量少的板块
+        if len(fnb_items) < len(ai_items):
+            fnb_items += remaining[:TARGET_COUNT - total]
+        else:
+            ai_items += remaining[:TARGET_COUNT - total]
 
     print(f"  餐饮&零售：{len(fnb_items)} 条，AI&科技：{len(ai_items)} 条", file=sys.stderr)
 
@@ -464,11 +531,15 @@ def main():
             "tag":         infer_tag(item["title"]),
         })
 
-    # 6. LLM 增强（可选）
+    # 6. LLM 增强摘要（所有条目）
     print(f"  [摘要] 处理 {len(items)} 条...", file=sys.stderr)
     items = enhance_summaries_with_llm(items)
 
-    # 7. 加序号
+    # 7. 生成碎碎念
+    print(f"  [碎碎念] 生成总结...", file=sys.stderr)
+    editor_note = generate_editor_note(items)
+
+    # 8. 加序号
     for i, item in enumerate(items, 1):
         item["id"] = i
 
@@ -477,6 +548,7 @@ def main():
         "generated_at": now.isoformat(),
         "category":     "餐饮零售 & AI科技",
         "total":        len(items),
+        "editor_note":  editor_note,
         "items":        items,
     }
 
