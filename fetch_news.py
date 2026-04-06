@@ -4,12 +4,12 @@ JaJa Daily 资讯抓取脚本
 两大板块：
   - 餐饮 & 零售：餐饮动态、零售动态、商业洞察、电商
   - AI & 科技：大模型、AI产品、AI Agent、AIGC、AI算力、AI投融资
-数据源（RSS）：
-  - IT之家 RSS    -> 60 条/次，含正文摘要
-  - 少数派 RSS    -> 10 条/次，含简短摘要
-  - 机器之心 RSS  -> AI 专项
-  - 36氪 RSS      -> 餐饮零售 + AI 科技
-  - 钛媒体 RSS    -> 科技/商业/消费
+
+来源策略（每个来源最多贡献 MAX_PER_SOURCE 条，防止单一来源占满）：
+  餐饮零售专属来源：36氪、钛媒体、虎嗅、界面新闻、华尔街见闻
+  AI科技专属来源：机器之心、少数派、IT之家
+  通用来源（两个板块都可用）：36氪、钛媒体、虎嗅
+
 可选增强：
   - 有 OPENAI_API_KEY 时，用 LLM 重写摘要
 输出：data/YYYY-MM-DD.json
@@ -37,6 +37,9 @@ HEADERS = {
     "Accept-Language": "zh-CN,zh;q=0.9,en;q=0.8",
 }
 
+# 每个来源最多贡献的条数（防止单一来源占满）
+MAX_PER_SOURCE = 3
+
 # -- 两大板块关键词 -------------------------------------------------------------
 
 # 餐饮 & 零售板块关键词
@@ -45,11 +48,17 @@ FNB_KEYWORDS = [
     "零售", "商超", "便利店", "超市", "卖场", "门店",
     "茶饮", "咖啡", "奶茶", "烘焙", "快餐", "火锅",
     "麦当劳", "肯德基", "星巴克", "瑞幸", "蜜雪", "海底捞",
-    "消费", "品牌", "选址", "坪效", "翻台", "客单价",
+    "元气森林", "泡泡玛特", "名创优品", "名创", "优衣库", "无印良品",
+    "沃尔玛", "塔吉特", "山姆", "Costco", "好市多",
+    "消费品牌", "消费赛道", "消费市场", "消费趋势", "消费复苏",
+    "选址", "坪效", "翻台", "客单价",
     "新零售", "即时零售", "到家", "到店",
     "食品", "饮料", "酒水", "生鲜", "预制菜", "团餐",
     "商业地产", "购物中心", "商场", "街区", "社区商业",
     "消费升级", "消费降级", "下沉市场", "县城", "乡镇",
+    "电商", "电子商务", "直播带货", "直播电商", "淘宝", "京东", "拼多多",
+    "抖音电商", "快手电商", "小红书", "种草",
+    "快消", "快消品", "FMCG", "消费品",
 ]
 
 # AI & 科技板块关键词
@@ -70,11 +79,20 @@ EXCLUDE_KEYWORDS = [
     "基因芯片", "小麦", "镉", "农业", "卫星", "火箭", "航天",
     "游戏外设", "机械键盘", "矮轴",
     # 汽车
-    "SUV", "轿车", "续航", "纯电", "新能源汽车", "发布会", "预售",
+    "SUV", "轿车", "续航", "纯电", "新能源汽车",
     "别克", "比亚迪", "特斯拉", "小鹏", "理想", "蔚来", "问界", "极氪",
     "CLTC", "WLTC", "充电桩", "车型", "经销商",
     # 汇总帖
     "IT早报", "派早报",
+    # 投影/音响/智能家居硬件（避免误判为消费品牌）
+    "投影仪", "投影机", "激光电视", "智能音箱", "扫地机器人",
+    # 金融/证券
+    "国债", "收益率", "基点", "A股", "限售股", "解禁", "券商",
+    "指数", "期货", "期权", "外汇", "汇率",
+    # 医药
+    "司美格鲁肽", "处方", "药物", "临床", "制药",
+    # 能源
+    "碳酸锂", "可再生能源", "光伏", "风电", "储能",
 ]
 
 # 每板块目标条数
@@ -87,15 +105,15 @@ CST = timezone(timedelta(hours=8))
 # -- 来源元信息 -----------------------------------------------------------------
 
 SOURCE_META = {
-    "ithome.com":       {"name": "IT之家",   "icon": "🟢"},
-    "sspai.com":        {"name": "少数派",   "icon": "🔵"},
-    "jiqizhixin.com":   {"name": "机器之心", "icon": "🟣"},
-    "36kr.com":         {"name": "36氪",     "icon": "🔵"},
-    "tmtpost.com":      {"name": "钛媒体",   "icon": "🟠"},
-    "huxiu.com":        {"name": "虎嗅",     "icon": "🟠"},
+    "ithome.com":       {"name": "IT之家",    "icon": "🟢"},
+    "sspai.com":        {"name": "少数派",    "icon": "🔵"},
+    "jiqizhixin.com":   {"name": "机器之心",  "icon": "🟣"},
+    "36kr.com":         {"name": "36氪",      "icon": "🔵"},
+    "tmtpost.com":      {"name": "钛媒体",    "icon": "🟠"},
+    "huxiu.com":        {"name": "虎嗅",      "icon": "🟠"},
     "wallstreetcn.com": {"name": "华尔街见闻","icon": "🟡"},
-    "thepaper.cn":      {"name": "澎湃新闻", "icon": "🟣"},
-    "jiemian.com":      {"name": "界面新闻", "icon": "🟤"},
+    "thepaper.cn":      {"name": "澎湃新闻",  "icon": "🟣"},
+    "jiemian.com":      {"name": "界面新闻",  "icon": "🟤"},
 }
 
 def get_source_meta(url: str) -> dict:
@@ -163,11 +181,15 @@ def infer_tag(title: str) -> str:
           "麦当劳", "肯德基", "星巴克", "瑞幸", "蜜雪", "海底捞", "堂食", "外卖连锁",
           "食品", "饮料", "酒水", "生鲜", "预制菜", "团餐"], "餐饮动态"),
         (["零售", "商超", "便利店", "超市", "卖场", "新零售", "即时零售", "到家",
-          "购物中心", "商场", "街区", "社区商业", "商业地产"], "零售动态"),
-        (["消费", "品牌", "选址", "坪效", "翻台", "客单价", "门店", "加盟", "连锁", "开店",
-          "消费升级", "消费降级", "下沉市场", "县城", "乡镇",
+          "购物中心", "商场", "街区", "社区商业", "商业地产",
+          "沃尔玛", "塔吉特", "山姆", "Costco", "好市多", "优衣库", "无印良品"], "零售动态"),
+        (["消费品牌", "消费赛道", "消费市场", "消费趋势", "消费复苏", "消费升级", "消费降级",
+          "元气森林", "泡泡玛特", "名创优品", "名创", "快消品", "消费品",
+          "选址", "坪效", "翻台", "客单价", "门店", "加盟", "连锁", "开店",
+          "下沉市场", "县城", "乡镇",
           "营销", "广告", "投放", "推广", "私域", "增长", "GMV", "转化"], "商业洞察"),
-        (["电商", "购物", "带货", "直播", "淘宝", "京东", "拼多多", "外卖"], "电商"),
+        (["电商", "电子商务", "购物", "带货", "直播", "淘宝", "京东", "拼多多",
+          "抖音电商", "快手电商", "小红书", "种草"], "电商"),
     ]
     for keywords, tag in fnb_mapping:
         for kw in keywords:
@@ -209,9 +231,9 @@ def parse_rss(rss_text: str) -> list:
         m_title = re.search(r"<title[^>]*>(?:<!\[CDATA\[)?(.*?)(?:\]\]>)?</title>", raw, re.DOTALL)
         title = clean_html_text(m_title.group(1)) if m_title else ""
 
-        m_link = re.search(r"<link[^>]*>(.*?)</link>", raw, re.DOTALL)
+        m_link = re.search(r"<link[^>]*>(?:<!\[CDATA\[)?(.*?)(?:\]\]>)?</link>", raw, re.DOTALL)
         if not m_link:
-            m_link = re.search(r"<guid[^>]*>(.*?)</guid>", raw, re.DOTALL)
+            m_link = re.search(r"<guid[^>]*>(?:<!\[CDATA\[)?(.*?)(?:\]\]>)?</guid>", raw, re.DOTALL)
         link = (m_link.group(1).strip() if m_link else "").strip()
 
         m_desc = re.search(r"<description[^>]*>(?:<!\[CDATA\[)?(.*?)(?:\]\]>)?</description>", raw, re.DOTALL)
@@ -254,155 +276,44 @@ def extract_summary_from_desc(desc: str, title: str, max_len: int = 100) -> str:
     return desc
 
 
-# -- 各来源抓取 -----------------------------------------------------------------
+# -- 通用 RSS 抓取（带来源标记）-------------------------------------------------
 
-def fetch_ithome() -> list:
-    print("  [IT之家] 抓取 RSS...", file=sys.stderr)
-    rss = fetch_raw("https://www.ithome.com/rss/")
+def fetch_source(name: str, url: str, fnb_only: bool = False, ai_only: bool = False) -> list:
+    """
+    通用 RSS 抓取函数。
+    fnb_only=True  → 只抓餐饮零售
+    ai_only=True   → 只抓 AI 科技
+    两者都 False   → 两个板块都抓
+    返回的每条记录带 _source_name 字段，用于后续限流。
+    """
+    print(f"  [{name}] 抓取 RSS...", file=sys.stderr)
+    rss = fetch_raw(url, timeout=15)
     if not rss:
         return []
     items = parse_rss(rss)
     results = []
     for item in items:
         title = item["title"]
-        if is_excluded(title):
-            continue
-        if is_fnb(title) or is_ai(title):
-            summary = extract_summary_from_desc(item["description"], title)
-            results.append({"title": title, "url": item["link"], "summary": summary})
-    print(f"    -> {len(results)} 条匹配", file=sys.stderr)
-    return results
-
-
-def fetch_sspai() -> list:
-    print("  [少数派] 抓取 RSS...", file=sys.stderr)
-    rss = fetch_raw("https://sspai.com/feed")
-    if not rss:
-        return []
-    items = parse_rss(rss)
-    results = []
-    for item in items:
-        title = item["title"]
-        if is_excluded(title):
-            continue
-        if is_fnb(title) or is_ai(title):
-            summary = extract_summary_from_desc(item["description"], title)
-            results.append({"title": title, "url": item["link"], "summary": summary})
-    print(f"    -> {len(results)} 条匹配", file=sys.stderr)
-    return results
-
-
-def fetch_jiqizhixin() -> list:
-    print("  [机器之心] 抓取 RSS...", file=sys.stderr)
-    rss = fetch_raw("https://www.jiqizhixin.com/rss")
-    if not rss:
-        return []
-    items = parse_rss(rss)
-    results = []
-    for item in items:
-        title = item["title"]
+        # 机器之心 RSS 有时会有空标题或来源名作标题
         if not title or title in ("机器之心", "Synced"):
             continue
         if is_excluded(title):
             continue
-        if is_ai(title):
+        match = False
+        if fnb_only and is_fnb(title):
+            match = True
+        elif ai_only and is_ai(title):
+            match = True
+        elif not fnb_only and not ai_only and (is_fnb(title) or is_ai(title)):
+            match = True
+        if match:
             summary = extract_summary_from_desc(item["description"], title)
-            results.append({"title": title, "url": item["link"], "summary": summary})
-    print(f"    -> {len(results)} 条匹配", file=sys.stderr)
-    return results
-
-
-def fetch_36kr() -> list:
-    """36氪 RSS — 含餐饮零售和 AI 科技内容"""
-    print("  [36氪] 抓取 RSS...", file=sys.stderr)
-    rss = fetch_raw("https://36kr.com/feed", timeout=15)
-    if not rss:
-        return []
-    items = parse_rss(rss)
-    results = []
-    for item in items:
-        title = item["title"]
-        if is_excluded(title):
-            continue
-        if is_fnb(title) or is_ai(title):
-            summary = extract_summary_from_desc(item["description"], title)
-            results.append({"title": title, "url": item["link"], "summary": summary})
-    print(f"    -> {len(results)} 条匹配", file=sys.stderr)
-    return results
-
-
-def fetch_tmtpost() -> list:
-    """钛媒体 RSS — 科技/商业/消费内容"""
-    print("  [钛媒体] 抓取 RSS...", file=sys.stderr)
-    rss = fetch_raw("https://www.tmtpost.com/feed", timeout=15)
-    if not rss:
-        return []
-    items = parse_rss(rss)
-    results = []
-    for item in items:
-        title = item["title"]
-        if is_excluded(title):
-            continue
-        if is_fnb(title) or is_ai(title):
-            summary = extract_summary_from_desc(item["description"], title)
-            results.append({"title": title, "url": item["link"], "summary": summary})
-    print(f"    -> {len(results)} 条匹配", file=sys.stderr)
-    return results
-
-
-def fetch_huxiu() -> list:
-    """虎嗅 RSS — 商业/消费/科技内容"""
-    print("  [虎嗅] 抓取 RSS...", file=sys.stderr)
-    rss = fetch_raw("https://www.huxiu.com/rss/0.xml", timeout=15)
-    if not rss:
-        return []
-    items = parse_rss(rss)
-    results = []
-    for item in items:
-        title = item["title"]
-        if is_excluded(title):
-            continue
-        if is_fnb(title) or is_ai(title):
-            summary = extract_summary_from_desc(item["description"], title)
-            results.append({"title": title, "url": item["link"], "summary": summary})
-    print(f"    -> {len(results)} 条匹配", file=sys.stderr)
-    return results
-
-
-def fetch_jiemian() -> list:
-    """界面新闻 RSS — 商业/消费/餐饮零售内容"""
-    print("  [界面新闻] 抓取 RSS...", file=sys.stderr)
-    rss = fetch_raw("https://www.jiemian.com/lists/rss.html", timeout=15)
-    if not rss:
-        return []
-    items = parse_rss(rss)
-    results = []
-    for item in items:
-        title = item["title"]
-        if is_excluded(title):
-            continue
-        if is_fnb(title) or is_ai(title):
-            summary = extract_summary_from_desc(item["description"], title)
-            results.append({"title": title, "url": item["link"], "summary": summary})
-    print(f"    -> {len(results)} 条匹配", file=sys.stderr)
-    return results
-
-
-def fetch_wallstreetcn() -> list:
-    """华尔街见闻 RSS — 商业/消费/宏观内容"""
-    print("  [华尔街见闻] 抓取 RSS...", file=sys.stderr)
-    rss = fetch_raw("https://wallstreetcn.com/feed", timeout=15)
-    if not rss:
-        return []
-    items = parse_rss(rss)
-    results = []
-    for item in items:
-        title = item["title"]
-        if is_excluded(title):
-            continue
-        if is_fnb(title) or is_ai(title):
-            summary = extract_summary_from_desc(item["description"], title)
-            results.append({"title": title, "url": item["link"], "summary": summary})
+            results.append({
+                "title":        title,
+                "url":          item["link"],
+                "summary":      summary,
+                "_source_name": name,   # 用于来源限流
+            })
     print(f"    -> {len(results)} 条匹配", file=sys.stderr)
     return results
 
@@ -410,7 +321,7 @@ def fetch_wallstreetcn() -> list:
 # -- LLM 摘要增强（可选）--------------------------------------------------------
 
 def enhance_summaries_with_llm(items: list) -> list:
-    """为所有条目生成/补全摘要（40-80字，两行以内），并生成碎碎念总结。"""
+    """为所有条目生成/补全摘要（40-80字，两行以内）。"""
     api_key = os.environ.get("OPENAI_API_KEY", "")
     if not api_key:
         return items
@@ -418,7 +329,6 @@ def enhance_summaries_with_llm(items: list) -> list:
         from openai import OpenAI
         client = OpenAI(api_key=api_key)
 
-        # 所有条目都参与摘要生成（不只是缺摘要的）
         all_items_text = "\n".join(
             f"{i+1}. 标题：{item['title']}\n   原摘要：{item['summary'] if item['summary'] != item['title'] else '（无）'}"
             for i, item in enumerate(items)
@@ -464,7 +374,6 @@ def generate_editor_note(items: list) -> str:
     ai_items  = [i for i in items if i.get("tag") not in ['餐饮动态','零售动态','商业洞察','电商']]
 
     if not api_key:
-        # 降级：简单拼接
         sentence = f"今天共精选 {len(items)} 条。"
         if fnb_items:
             sentence += f"餐饮零售板块：{fnb_items[0]['title'][:20]}等话题值得关注；"
@@ -522,6 +431,23 @@ def merge_and_dedupe(sources: list) -> list:
     return merged
 
 
+def pick_with_source_limit(pool: list, target: int, max_per_source: int = MAX_PER_SOURCE) -> list:
+    """
+    从 pool 中按顺序选取 target 条，每个来源最多贡献 max_per_source 条。
+    """
+    source_count: dict = {}
+    selected = []
+    for item in pool:
+        src = item.get("_source_name", "unknown")
+        if source_count.get(src, 0) >= max_per_source:
+            continue
+        source_count[src] = source_count.get(src, 0) + 1
+        selected.append(item)
+        if len(selected) >= target:
+            break
+    return selected
+
+
 # -- 主流程 --------------------------------------------------------------------
 
 def main():
@@ -532,53 +458,84 @@ def main():
     print(f"  JaJa Daily 抓取  {date_str}", file=sys.stderr)
     print(f"{'='*50}", file=sys.stderr)
 
-    # 1. 多来源抓取
-    all_raw = []
-    all_raw += fetch_ithome()
-    all_raw += fetch_sspai()
-    all_raw += fetch_jiqizhixin()
-    all_raw += fetch_36kr()
-    all_raw += fetch_tmtpost()
-    all_raw += fetch_huxiu()
-    all_raw += fetch_jiemian()
-    all_raw += fetch_wallstreetcn()
+    # ----------------------------------------------------------------
+    # 1. 分池抓取
+    #    餐饮零售专属来源：36氪、钛媒体、虎嗅、界面新闻、华尔街见闻
+    #    AI科技专属来源：机器之心、少数派、IT之家
+    #    通用来源（两个板块都可用）：36氪、钛媒体、虎嗅（已在餐饮池中，AI 池也加入）
+    # ----------------------------------------------------------------
 
-    # 2. 去重
-    candidates = merge_and_dedupe(all_raw)
-    print(f"\n  去重后候选：{len(candidates)} 条", file=sys.stderr)
+    print("\n[餐饮零售] 专属来源抓取...", file=sys.stderr)
+    fnb_raw = []
+    fnb_raw += fetch_source("36氪",      "https://36kr.com/feed",                    fnb_only=True)
+    fnb_raw += fetch_source("钛媒体",    "https://www.tmtpost.com/feed",              fnb_only=True)
+    fnb_raw += fetch_source("虎嗅",      "https://www.huxiu.com/rss/0.xml",           fnb_only=True)
+    fnb_raw += fetch_source("界面新闻",  "https://www.jiemian.com/lists/rss.html",    fnb_only=True)
+    fnb_raw += fetch_source("华尔街见闻","https://wallstreetcn.com/feed",             fnb_only=True)
 
-    # 3. 按板块分配：各 5 条，尽量均衡
-    fnb_pool = [c for c in candidates if is_fnb(c["title"])]
-    ai_pool  = [c for c in candidates if is_ai(c["title"]) and not is_fnb(c["title"])]
+    print("\n[AI科技] 专属来源抓取...", file=sys.stderr)
+    ai_raw = []
+    ai_raw += fetch_source("机器之心",  "https://www.jiqizhixin.com/rss",             ai_only=True)
+    ai_raw += fetch_source("少数派",    "https://sspai.com/feed",                     ai_only=True)
+    ai_raw += fetch_source("IT之家",    "https://www.ithome.com/rss/",                ai_only=True)
+    # 通用来源也补充 AI 内容（36氪/钛媒体/虎嗅 AI 报道也很多）
+    ai_raw += fetch_source("36氪",      "https://36kr.com/feed",                      ai_only=True)
+    ai_raw += fetch_source("钛媒体",    "https://www.tmtpost.com/feed",               ai_only=True)
+    ai_raw += fetch_source("虎嗅",      "https://www.huxiu.com/rss/0.xml",            ai_only=True)
 
-    fnb_items = fnb_pool[:FNB_TARGET]
-    ai_items  = ai_pool[:AI_TARGET]
+    # 2. 各自去重
+    fnb_candidates = merge_and_dedupe(fnb_raw)
+    ai_candidates  = merge_and_dedupe(ai_raw)
 
-    # 餐饮不足时：放宽关键词匹配，从候选中再捞
+    print(f"\n  餐饮候选：{len(fnb_candidates)} 条，AI候选：{len(ai_candidates)} 条", file=sys.stderr)
+
+    # 3. 每个来源限流，各取目标条数
+    fnb_items = pick_with_source_limit(fnb_candidates, FNB_TARGET)
+    ai_items  = pick_with_source_limit(ai_candidates,  AI_TARGET)
+
+    # 4. 餐饮不足时：放宽关键词，从餐饮候选中再捞（不限来源）
     if len(fnb_items) < FNB_TARGET:
+        already_urls = {i["url"] for i in fnb_items}
         extra_pool = [
-            c for c in candidates
-            if c not in fnb_items and c not in ai_items
-            and any(kw in c["title"] for kw in ["消费","品牌","门店","市场","商业","零售","食品","饮品","外卖","电商","购物"])
+            c for c in fnb_candidates
+            if c["url"] not in already_urls
+            and any(kw in c["title"] for kw in [
+                "消费", "品牌", "门店", "市场", "商业", "零售",
+                "食品", "饮品", "外卖", "电商", "购物", "连锁",
+            ])
         ]
-        fnb_items += extra_pool[:FNB_TARGET - len(fnb_items)]
+        need = FNB_TARGET - len(fnb_items)
+        fnb_items += pick_with_source_limit(extra_pool, need)
+        print(f"  [补充] 餐饮放宽关键词后：{len(fnb_items)} 条", file=sys.stderr)
 
-    # 仍不足时，两个板块互补，但保证总数达标
+    # 5. 仍不足时，两个板块互补（保证总数达标）
     total = len(fnb_items) + len(ai_items)
     if total < TARGET_COUNT:
-        remaining = [c for c in candidates if c not in fnb_items and c not in ai_items]
-        # 优先补给数量少的板块
+        # 把 AI 候选中未被选中的拿来补餐饮（或反之）
+        all_used_urls = {i["url"] for i in fnb_items + ai_items}
+        remaining_ai  = [c for c in ai_candidates  if c["url"] not in all_used_urls]
+        remaining_fnb = [c for c in fnb_candidates if c["url"] not in all_used_urls]
         if len(fnb_items) < len(ai_items):
-            fnb_items += remaining[:TARGET_COUNT - total]
+            fnb_items += pick_with_source_limit(remaining_ai + remaining_fnb, TARGET_COUNT - total)
         else:
-            ai_items += remaining[:TARGET_COUNT - total]
+            ai_items  += pick_with_source_limit(remaining_fnb + remaining_ai, TARGET_COUNT - total)
 
-    print(f"  餐饮&零售：{len(fnb_items)} 条，AI&科技：{len(ai_items)} 条", file=sys.stderr)
+    print(f"\n  最终：餐饮&零售 {len(fnb_items)} 条，AI&科技 {len(ai_items)} 条", file=sys.stderr)
 
-    # 4. 合并：餐饮在前，AI 在后
+    # 来源分布统计
+    def source_dist(items):
+        dist: dict = {}
+        for i in items:
+            s = i.get("_source_name", "?")
+            dist[s] = dist.get(s, 0) + 1
+        return dist
+    print(f"  餐饮来源分布：{source_dist(fnb_items)}", file=sys.stderr)
+    print(f"  AI来源分布：{source_dist(ai_items)}",   file=sys.stderr)
+
+    # 6. 合并：餐饮在前，AI 在后
     selected = fnb_items + ai_items
 
-    # 5. 补充 source / tag 字段
+    # 7. 补充 source / tag 字段（去掉内部用的 _source_name）
     items = []
     for item in selected:
         source_meta = get_source_meta(item["url"])
@@ -591,15 +548,15 @@ def main():
             "tag":         infer_tag(item["title"]),
         })
 
-    # 6. LLM 增强摘要（所有条目）
-    print(f"  [摘要] 处理 {len(items)} 条...", file=sys.stderr)
+    # 8. LLM 增强摘要（所有条目）
+    print(f"\n  [摘要] 处理 {len(items)} 条...", file=sys.stderr)
     items = enhance_summaries_with_llm(items)
 
-    # 7. 生成碎碎念
+    # 9. 生成碎碎念
     print(f"  [碎碎念] 生成总结...", file=sys.stderr)
     editor_note = generate_editor_note(items)
 
-    # 8. 加序号
+    # 10. 加序号
     for i, item in enumerate(items, 1):
         item["id"] = i
 
@@ -612,7 +569,7 @@ def main():
         "items":        items,
     }
 
-    # 8. 保存
+    # 11. 保存
     script_dir = os.path.dirname(os.path.abspath(__file__))
     data_dir   = os.path.join(script_dir, "data")
     os.makedirs(data_dir, exist_ok=True)
