@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+    <key>Label</key>
+    <string>com.jacky.ainews.server</string>
+
+    <key>ProgramArguments</key>
+    <array>
+        <string>/usr/bin/python3</string>
+        <string>/Users/jacky/CatPaw Desk/daily-news/server.py</string>
+    </array>
+
+    <key>WorkingDirectory</key>
+    <string>/Users/jacky/CatPaw Desk/daily-news</string>
+
+    <!-- 登录后自动启动 -->
+    <key>RunAtLoad</key>
+    <true/>
+
+    <!-- 崩溃后自动重启 -->
+    <key>KeepAlive</key>
+    <true/>
+
+    <!-- 日志 -->
+    <key>StandardOutPath</key>
+    <string>/Users/jacky/CatPaw Desk/daily-news/logs/server.log</string>
+    <key>StandardErrorPath</key>
+    <string>/Users/jacky/CatPaw Desk/daily-news/logs/server.error.log</string>
+</dict>
+</plist>

@@ -1,0 +1,333 @@
+<!DOCTYPE html>
+<html lang="zh-CN">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0" />
+  <title>JaJa Daily</title>
+  <style>
+    :root {
+      --bg: #f5f0e8;
+      --bg2: #ede8de;
+      --border: #ddd5c4;
+      --border-light: #e8e0d0;
+      --accent: #c0392b;
+      --text: #2c2416;
+      --text-sub: #6b5c3e;
+      --text-muted: #9b8c72;
+      --tag-color: #8b6914;
+      --quote-bg: #fdf6e8;
+      --quote-border: #d4a843;
+    }
+    * { box-sizing: border-box; margin: 0; padding: 0; }
+    body {
+      background: var(--bg);
+      color: var(--text);
+      font-family: "Georgia", "STSong", "SimSun", "PingFang SC", serif;
+      max-width: 680px;
+      margin: 0 auto;
+      padding: 0 0 60px;
+    }
+
+    /* ── Header ── */
+    .masthead {
+      padding: 36px 24px 20px;
+      border-bottom: 2px solid var(--text);
+    }
+    .masthead-top {
+      display: flex;
+      align-items: baseline;
+      gap: 16px;
+      flex-wrap: wrap;
+    }
+    .masthead-title {
+      font-size: 36px;
+      font-style: italic;
+      font-weight: 700;
+      letter-spacing: -0.5px;
+      color: var(--text);
+      line-height: 1;
+    }
+    .masthead-date {
+      font-size: 14px;
+      color: var(--text-sub);
+      font-family: -apple-system, "PingFang SC", sans-serif;
+      font-style: normal;
+    }
+    .masthead-sub {
+      margin-top: 8px;
+      font-size: 11px;
+      letter-spacing: 3px;
+      color: var(--text-muted);
+      font-family: -apple-system, "PingFang SC", sans-serif;
+      text-transform: uppercase;
+    }
+
+    /* ── 编辑寄语 ── */
+    .editor-note {
+      margin: 20px 24px;
+      background: var(--quote-bg);
+      border: 1px solid var(--quote-border);
+      border-radius: 8px;
+      padding: 18px 20px 18px 24px;
+      position: relative;
+    }
+    .editor-note::before {
+      content: '\201C';
+      position: absolute;
+      top: -4px; left: 12px;
+      font-size: 52px;
+      color: var(--quote-border);
+      font-family: Georgia, serif;
+      line-height: 1;
+    }
+    .editor-note::after {
+      content: '\201D';
+      position: absolute;
+      bottom: -16px; right: 14px;
+      font-size: 52px;
+      color: var(--quote-border);
+      font-family: Georgia, serif;
+      line-height: 1;
+    }
+    .editor-name {
+      font-size: 14px;
+      font-weight: 700;
+      color: var(--text);
+      font-family: -apple-system, "PingFang SC", sans-serif;
+      margin-bottom: 10px;
+    }
+    .editor-note-text {
+      font-size: 14px;
+      line-height: 1.8;
+      color: var(--text-sub);
+      font-family: -apple-system, "PingFang SC", sans-serif;
+    }
+
+    /* ── 板块标题 ── */
+    .board-section { margin-top: 32px; }
+    .board-header {
+      padding: 0 24px 14px;
+      border-bottom: 1px solid var(--border);
+    }
+    .board-title { display: flex; align-items: center; }
+    .board-title-bar {
+      width: 4px; height: 32px;
+      background: var(--accent);
+      border-radius: 2px;
+      margin-right: 12px;
+      flex-shrink: 0;
+    }
+    .board-title-zh {
+      font-size: 22px;
+      font-weight: 700;
+      color: var(--text);
+      font-family: -apple-system, "PingFang SC", sans-serif;
+      letter-spacing: 0.5px;
+    }
+    .board-title-en {
+      margin-top: 3px;
+      font-size: 10px;
+      letter-spacing: 3px;
+      color: var(--text-muted);
+      font-family: -apple-system, sans-serif;
+      text-transform: uppercase;
+      padding-left: 16px;
+    }
+
+    /* ── 资讯条目 ── */
+    .news-item {
+      padding: 18px 24px 16px;
+      border-bottom: 1px solid var(--border-light);
+      text-decoration: none;
+      display: block;
+      transition: background 0.15s;
+    }
+    .news-item:hover { background: var(--bg2); }
+    .news-meta {
+      display: flex;
+      align-items: center;
+      gap: 6px;
+      margin-bottom: 6px;
+    }
+    .news-source {
+      font-size: 11px;
+      color: var(--text-muted);
+      font-family: -apple-system, "PingFang SC", sans-serif;
+    }
+    .news-meta-dot {
+      width: 2px; height: 2px;
+      border-radius: 50%;
+      background: var(--text-muted);
+      flex-shrink: 0;
+    }
+    .news-date {
+      font-size: 11px;
+      color: var(--text-muted);
+      font-family: -apple-system, "PingFang SC", sans-serif;
+    }
+    .news-tag {
+      font-size: 10px;
+      color: var(--tag-color);
+      background: rgba(139,105,20,0.1);
+      border-radius: 3px;
+      padding: 1px 6px;
+      font-family: -apple-system, "PingFang SC", sans-serif;
+      margin-left: auto;
+    }
+    .news-title {
+      font-size: 18px;
+      font-weight: 700;
+      color: var(--text);
+      line-height: 1.45;
+      margin-bottom: 7px;
+      font-family: -apple-system, "PingFang SC", sans-serif;
+    }
+    .news-summary {
+      font-size: 13px;
+      color: var(--text-sub);
+      line-height: 1.7;
+      margin-bottom: 10px;
+      font-family: -apple-system, "PingFang SC", sans-serif;
+    }
+    .news-read-more {
+      font-size: 12px;
+      color: var(--accent);
+      font-family: -apple-system, "PingFang SC", sans-serif;
+    }
+
+    /* ── Footer ── */
+    .footer {
+      text-align: center;
+      padding: 32px 20px 0;
+      font-size: 11px;
+      color: var(--text-muted);
+      font-family: -apple-system, "PingFang SC", sans-serif;
+      letter-spacing: 0.5px;
+    }
+
+    /* ── 加载状态 ── */
+    .state-box {
+      text-align: center;
+      padding: 60px 20px;
+      color: var(--text-muted);
+      font-family: -apple-system, "PingFang SC", sans-serif;
+    }
+    .state-box .msg { font-size: 15px; color: var(--text-sub); }
+  </style>
+</head>
+<body>
+
+  <div class="masthead">
+    <div class="masthead-top">
+      <div class="masthead-title">JaJa Daily</div>
+      <div class="masthead-date" id="mastDate"></div>
+    </div>
+    <div class="masthead-sub">餐饮 &amp; 零售 · AI &amp; 科技 · 每日精选 10 条</div>
+  </div>
+
+  <div class="editor-note" id="editorNote" style="display:none">
+    <div class="editor-name">小 ja 碎碎念</div>
+    <div class="editor-note-text" id="editorText"></div>
+  </div>
+
+  <div id="newsList">
+    <div class="state-box"><div class="msg">加载中...</div></div>
+  </div>
+
+  <div class="footer" id="footer" style="display:none">
+    数据来源：IT之家 · 少数派 · 机器之心 · 36氪 · 钛媒体 &nbsp;·&nbsp; 每日自动更新
+  </div>
+
+  <script>
+    const FNB_TAGS = ['餐饮动态','零售动态','商业洞察','电商'];
+    const AI_TAGS  = ['大模型','AI产品','AI Agent','AIGC','AI算力','AI投融资','政策监管','开源','机器人'];
+
+    function escHtml(str) {
+      return String(str||'').replace(/&/g,'&amp;').replace(/</g,'&lt;').replace(/>/g,'&gt;').replace(/"/g,'&quot;');
+    }
+    function formatDate(dateStr) {
+      if (!dateStr) return '';
+      const d = new Date(dateStr + 'T00:00:00+08:00');
+      const days = ['星期日','星期一','星期二','星期三','星期四','星期五','星期六'];
+      return `${d.getFullYear()}年${d.getMonth()+1}月${d.getDate()}日　${days[d.getDay()]}`;
+    }
+    function extractKeyword(title) {
+      return title.replace(/[，。！？「」【】《》]/g,'').slice(0,14);
+    }
+
+    function renderItem(item) {
+      const hasSummary = item.summary && item.summary !== item.title;
+      return `
+        <a class="news-item" href="${escHtml(item.url)}" target="_blank" rel="noopener">
+          <div class="news-meta">
+            <span class="news-source">${escHtml(item.source||'')}</span>
+            <span class="news-meta-dot"></span>
+            <span class="news-date">今日</span>
+            ${item.tag ? `<span class="news-tag">${escHtml(item.tag)}</span>` : ''}
+          </div>
+          <div class="news-title">${escHtml(item.title)}</div>
+          ${hasSummary ? `<div class="news-summary">${escHtml(item.summary)}</div>` : ''}
+          <div class="news-read-more">阅读原文 →</div>
+        </a>`;
+    }
+
+    function render(data) {
+      const items = data.items || [];
+      document.getElementById('mastDate').textContent = formatDate(data.date);
+
+      // 编辑寄语
+      const fnbItems = items.filter(i => FNB_TAGS.includes(i.tag));
+      const aiItems  = items.filter(i => AI_TAGS.includes(i.tag));
+      let sentence = `今天共精选 ${items.length} 条。`;
+      if (fnbItems.length > 0) sentence += `餐饮零售板块：${fnbItems.slice(0,2).map(i=>extractKeyword(i.title)).join('、')}等话题在发酵；`;
+      if (aiItems.length > 0)  sentence += `AI 科技板块：${aiItems.slice(0,2).map(i=>extractKeyword(i.title)).join('、')}等值得关注。`;
+      document.getElementById('editorText').textContent = sentence;
+      document.getElementById('editorNote').style.display = '';
+
+      // 两大板块
+      const otherItems = items.filter(i => !FNB_TAGS.includes(i.tag) && !AI_TAGS.includes(i.tag));
+      const aiAll = [...aiItems, ...otherItems];
+      let html = '';
+      if (fnbItems.length > 0) {
+        html += `<div class="board-section">
+          <div class="board-header">
+            <div class="board-title">
+              <div class="board-title-bar"></div>
+              <div>
+                <div class="board-title-zh">餐饮 &amp; 零售</div>
+                <div class="board-title-en">FOOD · RETAIL</div>
+              </div>
+            </div>
+          </div>
+          ${fnbItems.map(renderItem).join('')}
+        </div>`;
+      }
+      if (aiAll.length > 0) {
+        html += `<div class="board-section">
+          <div class="board-header">
+            <div class="board-title">
+              <div class="board-title-bar"></div>
+              <div>
+                <div class="board-title-zh">AI &amp; 科技</div>
+                <div class="board-title-en">AI · TECH</div>
+              </div>
+            </div>
+          </div>
+          ${aiAll.map(renderItem).join('')}
+        </div>`;
+      }
+      document.getElementById('newsList').innerHTML = html;
+      document.getElementById('footer').style.display = '';
+    }
+
+    // 读取同目录下的 data.json
+    fetch('./data.json')
+      .then(r => r.json())
+      .then(render)
+      .catch(() => {
+        document.getElementById('newsList').innerHTML =
+          '<div class="state-box"><div class="msg">暂无数据</div></div>';
+      });
+  </script>
+</body>
+</html>

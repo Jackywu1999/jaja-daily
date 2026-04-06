@@ -1,0 +1,143 @@
+{
+  "date": "2026-04-04",
+  "generated_at": "2026-04-04T20:50:30.007174+08:00",
+  "category": "AI & 互联网营销",
+  "total": 15,
+  "items": [
+    {
+      "title": "一人干翻2000人大厂，41岁程序员靠AI年入4亿美元，奥特曼：我想见他",
+      "url": "https://36kr.com/p/3751033979093760",
+      "source": "36氪",
+      "source_icon": "🔵",
+      "summary": "一人干翻2000人大厂，41岁程序员靠AI年入4亿美元，奥特曼：我想见他",
+      "tag": "AI投融资",
+      "id": 1
+    },
+    {
+      "title": "斯坦福揭秘：ChatGPT骗了你，你却用五星好评杀死了诚实的AI",
+      "url": "https://36kr.com/p/3751033882296834",
+      "source": "36氪",
+      "source_icon": "🔵",
+      "summary": "斯坦福揭秘：ChatGPT骗了你，你却用五星好评杀死了诚实的AI",
+      "tag": "大模型",
+      "id": 2
+    },
+    {
+      "title": "卡帕西解锁大模型新玩法，构建个人知识库，“大部分Token已经不跑代码了”",
+      "url": "https://36kr.com/p/3751033456263943",
+      "source": "36氪",
+      "source_icon": "🔵",
+      "summary": "卡帕西解锁大模型新玩法，构建个人知识库，“大部分Token已经不跑代码了”",
+      "tag": "大模型",
+      "id": 3
+    },
+    {
+      "title": "全网炸锅，Anthropic万字曝光Claude情绪代码，被人类逼疯哐哐撞墙",
+      "url": "https://36kr.com/p/3751021139002113",
+      "source": "36氪",
+      "source_icon": "🔵",
+      "summary": "全网炸锅，Anthropic万字曝光Claude情绪代码，被人类逼疯哐哐撞墙",
+      "tag": "大模型",
+      "id": 4
+    },
+    {
+      "title": "AI竞技场上演“死间计”：GPT-5被DS和Gemini玩坏了",
+      "url": "https://36kr.com/p/3751021137494537",
+      "source": "36氪",
+      "source_icon": "🔵",
+      "summary": "AI竞技场上演“死间计”：GPT-5被DS和Gemini玩坏了",
+      "tag": "大模型",
+      "id": 5
+    },
+    {
+      "title": "“AI照骗”流行，居然是视频作者的法宝？",
+      "url": "https://36kr.com/p/3751003580547846",
+      "source": "36氪",
+      "source_icon": "🔵",
+      "summary": "“AI照骗”流行，居然是视频作者的法宝？",
+      "tag": "AI产品",
+      "id": 6
+    },
+    {
+      "title": "DeepSeek瘫痪12小时，国产大模型的算力已经跟不上野心了？",
+      "url": "https://36kr.com/p/3750856080863749",
+      "source": "36氪",
+      "source_icon": "🔵",
+      "summary": "DeepSeek瘫痪12小时，国产大模型的算力已经跟不上野心了？",
+      "tag": "大模型",
+      "id": 7
+    },
+    {
+      "title": "神州数码2025年营收超1400亿，AI相关业务增长近五成｜最前线",
+      "url": "https://36kr.com/p/3751046517129735",
+      "source": "36氪",
+      "source_icon": "🔵",
+      "summary": "神州数码2025年营收超1400亿，AI相关业务增长近五成｜最前线",
+      "tag": "营销增长",
+      "id": 8
+    },
+    {
+      "title": "Agent时代，大厂们“拆墙”又“筑墙”",
+      "url": "https://36kr.com/p/3750799099949577",
+      "source": "36氪",
+      "source_icon": "🔵",
+      "summary": "Agent时代，大厂们“拆墙”又“筑墙”",
+      "tag": "AI Agent",
+      "id": 9
+    },
+    {
+      "title": "大厂AI叙事走向殊途：京东务实、腾讯变狠、快手最危险",
+      "url": "https://36kr.com/p/3750765941731840",
+      "source": "36氪",
+      "source_icon": "🔵",
+      "summary": "大厂AI叙事走向殊途：京东务实、腾讯变狠、快手最危险",
+      "tag": "AI产品",
+      "id": 10
+    },
+    {
+      "title": "华人辍学博士揪出Claude Code 51万行源码泄露，官方请求下架超8000个GitHub代码库并回应：这次是人为失误，无人被解雇",
+      "url": "https://36kr.com/p/3750770295898630",
+      "source": "36氪",
+      "source_icon": "🔵",
+      "summary": "华人辍学博士揪出Claude Code 51万行源码泄露，官方请求下架超8000个GitHub代码库并回应：这次是人为失误，无人被解雇",
+      "tag": "大模型",
+      "id": 11
+    },
+    {
+      "title": "实测百度抓虾吧：AI龙虾把场子炒热了，但内容差点“人味”",
+      "url": "https://36kr.com/p/3750725267386882",
+      "source": "36氪",
+      "source_icon": "🔵",
+      "summary": "实测百度抓虾吧：AI龙虾把场子炒热了，但内容差点“人味”",
+      "tag": "AI产品",
+      "id": 12
+    },
+    {
+      "title": "微软 Copilot，像个乱贴小广告的街溜子",
+      "url": "https://36kr.com/p/3750697076015878",
+      "source": "36氪",
+      "source_icon": "🔵",
+      "summary": "微软 Copilot，像个乱贴小广告的街溜子",
+      "tag": "AI营销",
+      "id": 13
+    },
+    {
+      "title": "Physical AI 元年：一场关于“世界怎么运转”的万亿美元豪赌",
+      "url": "https://36kr.com/p/3750643236782855",
+      "source": "36氪",
+      "source_icon": "🔵",
+      "summary": "Physical AI 元年：一场关于“世界怎么运转”的万亿美元豪赌",
+      "tag": "AI投融资",
+      "id": 14
+    },
+    {
+      "title": "AI算力革命，终结云计算20年降价史",
+      "url": "https://36kr.com/p/3750641606246912",
+      "source": "36氪",
+      "source_icon": "🔵",
+      "summary": "AI算力革命，终结云计算20年降价史",
+      "tag": "AI产品",
+      "id": 15
+    }
+  ]
+}

@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+    <key>Label</key>
+    <string>com.jacky.ainews.static</string>
+
+    <key>ProgramArguments</key>
+    <array>
+        <string>/usr/bin/python3</string>
+        <string>/Users/jacky/CatPaw Desk/gen_static.py</string>
+    </array>
+
+    <key>WorkingDirectory</key>
+    <string>/Users/jacky/ainews</string>
+
+    <!-- 每天早上 8:30 抓取完成后自动生成静态 HTML -->
+    <key>StartCalendarInterval</key>
+    <dict>
+        <key>Hour</key>
+        <integer>8</integer>
+        <key>Minute</key>
+        <integer>30</integer>
+    </dict>
+
+    <!-- 日志 -->
+    <key>StandardOutPath</key>
+    <string>/Users/jacky/ainews/logs/static.log</string>
+    <key>StandardErrorPath</key>
+    <string>/Users/jacky/ainews/logs/static.error.log</string>
+</dict>
+</plist>

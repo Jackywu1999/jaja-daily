@@ -1,0 +1,271 @@
+Traceback (most recent call last):
+  File "/Users/jacky/CatPaw Desk/daily-news/server.py", line 175, in <module>
+    main()
+  File "/Users/jacky/CatPaw Desk/daily-news/server.py", line 149, in main
+    server = HTTPServer(("0.0.0.0", PORT), NewsHandler)
+  File "/Library/Developer/CommandLineTools/Library/Frameworks/Python3.framework/Versions/3.9/lib/python3.9/socketserver.py", line 452, in __init__
+    self.server_bind()
+  File "/Library/Developer/CommandLineTools/Library/Frameworks/Python3.framework/Versions/3.9/lib/python3.9/http/server.py", line 138, in server_bind
+    socketserver.TCPServer.server_bind(self)
+  File "/Library/Developer/CommandLineTools/Library/Frameworks/Python3.framework/Versions/3.9/lib/python3.9/socketserver.py", line 466, in server_bind
+    self.socket.bind(self.server_address)
+OSError: [Errno 48] Address already in use
+
+╔══════════════════════════════════════════╗
+║       每日资讯 API Server 已启动          ║
+╠══════════════════════════════════════════╣
+║  http://localhost:8765/api/news          ║
+║  http://localhost:8765/api/news?date=... ║
+║  http://localhost:8765/api/refresh       ║
+║  http://localhost:8765/health            ║
+╚══════════════════════════════════════════╝
+
+[09:11:12] "GET /health HTTP/1.1" 200 -
+[09:11:19] "GET /api/news HTTP/1.1" 200 -
+[09:11:46] "GET /api/news?date=2026-04-04 HTTP/1.1" 200 -
+[09:11:52] "GET /api/news HTTP/1.1" 200 -
+[09:14:06] "GET /api/news HTTP/1.1" 200 -
+[INFO] 触发抓取 2026-04-05...
+[09:16:50] "GET /api/refresh HTTP/1.1" 200 -
+
+==================================================
+  每日资讯抓取  2026-04-05
+==================================================
+  [IT之家] 抓取 RSS...
+    → 11 条匹配
+  [少数派] 抓取 RSS...
+    → 1 条匹配
+  [机器之心] 抓取 RSS...
+    → 0 条匹配
+
+  去重后候选：12 条
+  [摘要] 处理 12 条...
+
+✅ 完成！共 12 条，已保存到 /Users/jacky/CatPaw Desk/daily-news/data/2026-04-05.json
+[09:16:53] "GET /api/news HTTP/1.1" 200 -
+[09:17:01] "GET /api/news HTTP/1.1" 200 -
+[09:17:04] "GET /api/news?date=2026-04-04 HTTP/1.1" 200 -
+[09:17:07] "GET /api/news HTTP/1.1" 200 -
+[INFO] 触发抓取 2026-04-05...
+[09:35:26] "GET /api/refresh HTTP/1.1" 200 -
+
+==================================================
+  每日资讯抓取  2026-04-05
+==================================================
+  [IT之家] 抓取 RSS...
+    → 11 条匹配
+  [少数派] 抓取 RSS...
+    → 1 条匹配
+  [机器之心] 抓取 RSS...
+    → 0 条匹配
+
+  去重后候选：12 条
+  [摘要] 处理 12 条...
+
+✅ 完成！共 12 条，已保存到 /Users/jacky/CatPaw Desk/daily-news/data/2026-04-05.json
+[09:35:27] "GET /api/news?date=2026-04-04 HTTP/1.1" 200 -
+[09:35:29] "GET /api/news?t=1775352929263 HTTP/1.1" 200 -
+[09:35:30] "GET /api/news HTTP/1.1" 200 -
+[09:48:41] "GET /api/news HTTP/1.1" 200 -
+[09:49:01] "GET /api/news?date=2026-04-04 HTTP/1.1" 200 -
+[09:49:08] "GET /api/news HTTP/1.1" 200 -
+[INFO] 触发抓取 2026-04-05...
+[09:51:15] "GET /api/refresh HTTP/1.1" 200 -
+
+==================================================
+  JaJa Daily 抓取  2026-04-05
+==================================================
+  [IT之家] 抓取 RSS...
+    -> 11 条匹配
+  [少数派] 抓取 RSS...
+    -> 1 条匹配
+  [机器之心] 抓取 RSS...
+    -> 0 条匹配
+  [36氪] 抓取 RSS...
+    -> 0 条匹配
+  [钛媒体] 抓取 RSS...
+    -> 9 条匹配
+
+  去重后候选：21 条
+  餐饮&零售：3 条，AI&科技：7 条
+  [摘要] 处理 10 条...
+
+✅ 完成！共 10 条（餐饮3+AI7），已保存到 /Users/jacky/CatPaw Desk/daily-news/data/2026-04-05.json
+[09:51:18] "GET /api/news?t=1775353878875 HTTP/1.1" 200 -
+[INFO] 触发抓取 2026-04-05...
+[09:52:31] "GET /api/refresh HTTP/1.1" 200 -
+
+==================================================
+  JaJa Daily 抓取  2026-04-05
+==================================================
+  [IT之家] 抓取 RSS...
+    -> 11 条匹配
+  [少数派] 抓取 RSS...
+    -> 1 条匹配
+  [机器之心] 抓取 RSS...
+    -> 0 条匹配
+  [36氪] 抓取 RSS...
+    -> 0 条匹配
+  [钛媒体] 抓取 RSS...
+    -> 8 条匹配
+
+  去重后候选：20 条
+  餐饮&零售：3 条，AI&科技：7 条
+  [摘要] 处理 10 条...
+
+✅ 完成！共 10 条（餐饮3+AI7），已保存到 /Users/jacky/CatPaw Desk/daily-news/data/2026-04-05.json
+[09:52:34] "GET /api/news?t=1775353954109 HTTP/1.1" 200 -
+[INFO] 触发抓取 2026-04-05...
+[10:17:10] "GET /api/refresh HTTP/1.1" 200 -
+
+==================================================
+  JaJa Daily 抓取  2026-04-05
+==================================================
+  [IT之家] 抓取 RSS...
+    -> 12 条匹配
+  [少数派] 抓取 RSS...
+    -> 1 条匹配
+  [机器之心] 抓取 RSS...
+    -> 0 条匹配
+  [36氪] 抓取 RSS...
+    -> 0 条匹配
+  [钛媒体] 抓取 RSS...
+    -> 7 条匹配
+
+  去重后候选：20 条
+  餐饮&零售：3 条，AI&科技：7 条
+  [摘要] 处理 10 条...
+
+✅ 完成！共 10 条（餐饮3+AI7），已保存到 /Users/jacky/CatPaw Desk/daily-news/data/2026-04-05.json
+[10:17:13] "GET /api/news?t=1775355433686 HTTP/1.1" 200 -
+[10:21:33] "GET /api/news HTTP/1.1" 200 -
+[11:04:25] "GET /api/news HTTP/1.1" 200 -
+[11:05:43] "GET / HTTP/1.1" 404 -
+
+╔══════════════════════════════════════════╗
+║       每日资讯 API Server 已启动          ║
+╠══════════════════════════════════════════╣
+║  http://localhost:8765/api/news          ║
+║  http://localhost:8765/api/news?date=... ║
+║  http://localhost:8765/api/refresh       ║
+║  http://localhost:8765/health            ║
+╚══════════════════════════════════════════╝
+
+[11:06:36] "GET / HTTP/1.1" 200 -
+[11:06:43] "GET / HTTP/1.1" 200 -
+[11:06:43] "GET /api/news HTTP/1.1" 200 -
+[INFO] 触发抓取 2026-04-05...
+[11:06:49] "GET /api/refresh HTTP/1.1" 200 -
+
+==================================================
+  JaJa Daily 抓取  2026-04-05
+==================================================
+  [IT之家] 抓取 RSS...
+    -> 11 条匹配
+  [少数派] 抓取 RSS...
+    -> 1 条匹配
+  [机器之心] 抓取 RSS...
+    -> 0 条匹配
+  [36氪] 抓取 RSS...
+    -> 0 条匹配
+  [钛媒体] 抓取 RSS...
+    -> 6 条匹配
+
+  去重后候选：18 条
+  餐饮&零售：3 条，AI&科技：7 条
+  [摘要] 处理 10 条...
+
+✅ 完成！共 10 条（餐饮3+AI7），已保存到 /Users/jacky/CatPaw Desk/daily-news/data/2026-04-05.json
+[11:06:52] "GET /api/news?t=1775358412642 HTTP/1.1" 200 -
+[11:08:17] "GET / HTTP/1.1" 200 -
+[11:08:17] "GET /api/news HTTP/1.1" 200 -
+[11:09:19] "GET / HTTP/1.1" 200 -
+[11:09:19] "GET /api/news HTTP/1.1" 200 -
+[11:19:24] "GET / HTTP/1.1" 200 -
+[11:19:24] "GET /api/news HTTP/1.1" 200 -
+[12:11:30] "GET / HTTP/1.1" 200 -
+[12:11:31] "GET /api/news HTTP/1.1" 200 -
+[12:11:31] "GET /favicon.ico HTTP/1.1" 404 -
+[12:11:35] "GET / HTTP/1.1" 200 -
+[12:11:35] "GET /api/news HTTP/1.1" 200 -
+[12:20:00] "GET / HTTP/1.1" 200 -
+[12:20:00] "GET /api/news HTTP/1.1" 200 -
+[12:26:06] "GET / HTTP/1.1" 200 -
+[12:26:06] "GET /api/news HTTP/1.1" 200 -
+[INFO] 触发抓取 2026-04-05...
+[12:26:08] "GET /api/refresh HTTP/1.1" 200 -
+
+==================================================
+  JaJa Daily 抓取  2026-04-05
+==================================================
+  [IT之家] 抓取 RSS...
+    -> 10 条匹配
+  [少数派] 抓取 RSS...
+    -> 1 条匹配
+  [机器之心] 抓取 RSS...
+    -> 0 条匹配
+  [36氪] 抓取 RSS...
+    -> 0 条匹配
+  [钛媒体] 抓取 RSS...
+    -> 6 条匹配
+
+  去重后候选：17 条
+  餐饮&零售：2 条，AI&科技：8 条
+  [摘要] 处理 10 条...
+
+✅ 完成！共 10 条（餐饮2+AI8），已保存到 /Users/jacky/CatPaw Desk/daily-news/data/2026-04-05.json
+[12:26:11] "GET /api/news?t=1775363171924 HTTP/1.1" 200 -
+[12:41:32] "GET / HTTP/1.1" 200 -
+[12:41:32] "GET /api/news HTTP/1.1" 200 -
+[12:44:03] "GET / HTTP/1.1" 200 -
+[12:44:03] "GET /api/news HTTP/1.1" 200 -
+[13:13:49] "GET /health HTTP/1.1" 200 -
+[23:20:57] "GET /health HTTP/1.1" 200 -
+[23:21:09] "GET /api/news HTTP/1.1" 200 -
+[11:00:50] "GET / HTTP/1.1" 200 -
+[INFO] 触发抓取 2026-04-06...
+[11:00:50] "GET /api/news HTTP/1.1" 202 -
+
+==================================================
+  JaJa Daily 抓取  2026-04-06
+==================================================
+  [IT之家] 抓取 RSS...
+    -> 3 条匹配
+  [少数派] 抓取 RSS...
+    -> 1 条匹配
+  [机器之心] 抓取 RSS...
+    -> 0 条匹配
+  [36氪] 抓取 RSS...
+    -> 0 条匹配
+  [钛媒体] 抓取 RSS...
+    -> 5 条匹配
+
+  去重后候选：9 条
+  餐饮&零售：0 条，AI&科技：9 条
+  [摘要] 处理 9 条...
+
+✅ 完成！共 9 条（餐饮0+AI9），已保存到 /Users/jacky/CatPaw Desk/daily-news/data/2026-04-06.json
+[11:01:20] "GET /api/news HTTP/1.1" 200 -
+[INFO] 触发抓取 2026-04-06...
+[11:01:57] "GET /api/refresh HTTP/1.1" 200 -
+
+==================================================
+  JaJa Daily 抓取  2026-04-06
+==================================================
+  [IT之家] 抓取 RSS...
+    -> 3 条匹配
+  [少数派] 抓取 RSS...
+    -> 1 条匹配
+  [机器之心] 抓取 RSS...
+    -> 0 条匹配
+  [36氪] 抓取 RSS...
+    -> 0 条匹配
+  [钛媒体] 抓取 RSS...
+    -> 5 条匹配
+
+  去重后候选：9 条
+  餐饮&零售：0 条，AI&科技：9 条
+  [摘要] 处理 9 条...
+
+✅ 完成！共 9 条（餐饮0+AI9），已保存到 /Users/jacky/CatPaw Desk/daily-news/data/2026-04-06.json
+[11:02:00] "GET /api/news?t=1775444520899 HTTP/1.1" 200 -

@@ -1,0 +1,89 @@
+{
+  "date": "2026-04-06",
+  "generated_at": "2026-04-06T11:01:57.976270+08:00",
+  "category": "餐饮零售 & AI科技",
+  "total": 9,
+  "items": [
+    {
+      "title": "商务部等 6 部门：发展“人工智能 + 电商”，引导电商企业加强人工智能大模型等技术研发应用",
+      "url": "https://www.ithome.com/0/936/202.htm",
+      "source": "IT之家",
+      "source_icon": "🟢",
+      "summary": "商务部等 6 部门发布关于更好服务实体经济推进电子商务高质量发展的指导意见。 其中提到，支持头部电商企业加大研发投入，加强重点领域核心技术攻关，构建“产研协同、学用转化”创新生态。",
+      "tag": "电商",
+      "id": 1
+    },
+    {
+      "title": "Mac 跑 AI 模型更方便了，Tiny Corp 称苹果已为英伟达、AMD 外置显卡开绿灯",
+      "url": "https://www.ithome.com/0/936/197.htm",
+      "source": "IT之家",
+      "source_icon": "🟢",
+      "summary": "当地时间4 月 5日，据外媒Tom's Hardware报道，苹果已经批准英伟达 eGPU（外置显卡）驱动，使其能够在Apple silicon平台上运行。",
+      "tag": "大模型",
+      "id": 2
+    },
+    {
+      "title": "OpenAI 上市节奏应该更快还是更慢？CEO 奥尔特曼与 CFO 弗莱尔被曝对此存在分歧",
+      "url": "https://www.ithome.com/0/936/182.htm",
+      "source": "IT之家",
+      "source_icon": "🟢",
+      "summary": "北京时间今天（4月 6日）凌晨，据The Information披露的消息称，OpenAICEO 奥尔特曼与 CFO 萨拉 ·弗莱尔在IPO推进节奏上出现分歧。",
+      "tag": "AI投融资",
+      "id": 3
+    },
+    {
+      "title": "买前必看：千问 AI 眼镜 G1 自费长测",
+      "url": "https://sspai.com/post/108103",
+      "source": "少数派",
+      "source_icon": "🔵",
+      "summary": "千问G1确实有其独特的优势，但在软硬件细节体验上也还有很多需要打磨的地方。",
+      "tag": "AI产品",
+      "id": 4
+    },
+    {
+      "title": "OpenAI IPO前夜：CFO说不，COO被调走",
+      "url": "https://www.tmtpost.com/7942711.html",
+      "source": "钛媒体",
+      "source_icon": "🟠",
+      "summary": "财务路线的内部撕裂与高管团队的集中缺位交织在一起。",
+      "tag": "AI投融资",
+      "id": 5
+    },
+    {
+      "title": "AI短剧，苦等一个《狂飙》",
+      "url": "https://www.tmtpost.com/7942686.html",
+      "source": "钛媒体",
+      "source_icon": "🟠",
+      "summary": "产能爆炸，爆款消失。",
+      "tag": "AI产品",
+      "id": 6
+    },
+    {
+      "title": "大模型生死局：从六小龙到双雄上市，AI创业的泡沫、突围与终局",
+      "url": "https://www.tmtpost.com/7942393.html",
+      "source": "钛媒体",
+      "source_icon": "🟠",
+      "summary": "大模型生死局：从六小龙到双雄上市，AI创业的泡沫、突围与终局",
+      "tag": "大模型",
+      "id": 7
+    },
+    {
+      "title": "智能体上线就翻车？AWS 这款 “质检神器”，帮你把 Agent 稳稳送上生产线",
+      "url": "https://www.tmtpost.com/7940504.html",
+      "source": "钛媒体",
+      "source_icon": "🟠",
+      "summary": "你的AI Agent演示时惊艳四座，上线后疯狂翻车？问题不在于Agent不行，而在于你没有\"体检报告\"。",
+      "tag": "AI Agent",
+      "id": 8
+    },
+    {
+      "title": "锤爆苹果壁垒：AI成最强攻城锤",
+      "url": "https://www.tmtpost.com/7942072.html",
+      "source": "钛媒体",
+      "source_icon": "🟠",
+      "summary": "网络安全正在从“人与人的对抗”转向“智能体与智能体的对抗”。",
+      "tag": "AI产品",
+      "id": 9
+    }
+  ]
+}

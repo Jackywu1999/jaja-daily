@@ -1,0 +1,530 @@
+<!DOCTYPE html>
+<html lang="zh-CN">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0" />
+  <title>JaJa Daily</title>
+  <style>
+    :root {
+      --bg: #f5f0e8;
+      --bg2: #ede8de;
+      --card: #faf7f2;
+      --border: #ddd5c4;
+      --border-light: #e8e0d0;
+      --accent: #c0392b;
+      --accent2: #8b6914;
+      --text: #2c2416;
+      --text-sub: #6b5c3e;
+      --text-muted: #9b8c72;
+      --tag-color: #8b6914;
+      --quote-bg: #fdf6e8;
+      --quote-border: #d4a843;
+    }
+
+    * { box-sizing: border-box; margin: 0; padding: 0; }
+
+    body {
+      background: var(--bg);
+      color: var(--text);
+      font-family: "Georgia", "STSong", "SimSun", "PingFang SC", serif;
+      max-width: 680px;
+      margin: 0 auto;
+      padding: 0 0 60px;
+    }
+
+    /* ── 顶部 Header ── */
+    .masthead {
+      padding: 36px 24px 20px;
+      border-bottom: 2px solid var(--text);
+    }
+
+    .masthead-top {
+      display: flex;
+      align-items: baseline;
+      gap: 16px;
+      flex-wrap: wrap;
+    }
+
+    .masthead-title {
+      font-size: 36px;
+      font-style: italic;
+      font-weight: 700;
+      letter-spacing: -0.5px;
+      color: var(--text);
+      line-height: 1;
+    }
+
+    .masthead-date {
+      font-size: 14px;
+      color: var(--text-sub);
+      font-family: -apple-system, "PingFang SC", sans-serif;
+      font-style: normal;
+    }
+
+    .masthead-sub {
+      margin-top: 8px;
+      font-size: 11px;
+      letter-spacing: 3px;
+      color: var(--text-muted);
+      font-family: -apple-system, "PingFang SC", sans-serif;
+      font-style: normal;
+      text-transform: uppercase;
+    }
+
+    /* ── 编辑寄语 ── */
+    .editor-note {
+      margin: 20px 24px;
+      background: var(--quote-bg);
+      border: 1px solid var(--quote-border);
+      border-radius: 8px;
+      padding: 18px 20px 18px 24px;
+      position: relative;
+    }
+
+    .editor-note::before {
+      content: '\201C';
+      position: absolute;
+      top: -4px;
+      left: 12px;
+      font-size: 52px;
+      color: var(--quote-border);
+      font-family: Georgia, serif;
+      line-height: 1;
+    }
+
+    .editor-note::after {
+      content: '\201D';
+      position: absolute;
+      bottom: -16px;
+      right: 14px;
+      font-size: 52px;
+      color: var(--quote-border);
+      font-family: Georgia, serif;
+      line-height: 1;
+    }
+
+    .editor-note-header {
+      display: flex;
+      align-items: center;
+      gap: 8px;
+      margin-bottom: 10px;
+    }
+
+    .editor-name {
+      font-size: 14px;
+      font-weight: 700;
+      color: var(--text);
+      font-family: -apple-system, "PingFang SC", sans-serif;
+    }
+
+    .editor-note-text {
+      font-size: 14px;
+      line-height: 1.8;
+      color: var(--text-sub);
+      font-family: -apple-system, "PingFang SC", sans-serif;
+      font-style: normal;
+    }
+
+    /* ── 板块标题 ── */
+    .board-section {
+      margin-top: 32px;
+    }
+
+    .board-header {
+      padding: 0 24px 14px;
+      border-bottom: 1px solid var(--border);
+    }
+
+    .board-title {
+      display: flex;
+      align-items: center;
+      gap: 0;
+    }
+
+    .board-title-bar {
+      width: 4px;
+      height: 32px;
+      background: var(--accent);
+      border-radius: 2px;
+      margin-right: 12px;
+      flex-shrink: 0;
+    }
+
+    .board-title-zh {
+      font-size: 22px;
+      font-weight: 700;
+      color: var(--text);
+      font-family: -apple-system, "PingFang SC", sans-serif;
+      letter-spacing: 0.5px;
+    }
+
+    .board-title-en {
+      margin-top: 3px;
+      font-size: 10px;
+      letter-spacing: 3px;
+      color: var(--text-muted);
+      font-family: -apple-system, sans-serif;
+      text-transform: uppercase;
+      padding-left: 16px;
+    }
+
+    /* ── 资讯条目 ── */
+    .news-item {
+      padding: 18px 24px 16px;
+      border-bottom: 1px solid var(--border-light);
+      text-decoration: none;
+      display: block;
+      transition: background 0.15s;
+    }
+
+    .news-item:hover {
+      background: var(--bg2);
+    }
+
+    .news-meta {
+      display: flex;
+      align-items: center;
+      gap: 6px;
+      margin-bottom: 6px;
+    }
+
+    .news-source {
+      font-size: 11px;
+      color: var(--text-muted);
+      font-family: -apple-system, "PingFang SC", sans-serif;
+    }
+
+    .news-meta-dot {
+      width: 2px;
+      height: 2px;
+      border-radius: 50%;
+      background: var(--text-muted);
+      flex-shrink: 0;
+    }
+
+    .news-date {
+      font-size: 11px;
+      color: var(--text-muted);
+      font-family: -apple-system, "PingFang SC", sans-serif;
+    }
+
+    .news-tag {
+      font-size: 10px;
+      color: var(--tag-color);
+      background: rgba(139, 105, 20, 0.1);
+      border-radius: 3px;
+      padding: 1px 6px;
+      font-family: -apple-system, "PingFang SC", sans-serif;
+      margin-left: auto;
+    }
+
+    .news-title {
+      font-size: 18px;
+      font-weight: 700;
+      color: var(--text);
+      line-height: 1.45;
+      margin-bottom: 7px;
+      font-family: -apple-system, "PingFang SC", sans-serif;
+    }
+
+    .news-summary {
+      font-size: 13px;
+      color: var(--text-sub);
+      line-height: 1.7;
+      margin-bottom: 10px;
+      font-family: -apple-system, "PingFang SC", sans-serif;
+    }
+
+    .news-read-more {
+      font-size: 12px;
+      color: var(--accent);
+      font-family: -apple-system, "PingFang SC", sans-serif;
+      display: inline-flex;
+      align-items: center;
+      gap: 3px;
+    }
+
+    /* ── 刷新按钮 ── */
+    .refresh-btn {
+      background: var(--accent);
+      border: none;
+      border-radius: 4px;
+      padding: 5px 14px;
+      font-size: 12px;
+      color: #fff;
+      cursor: pointer;
+      font-family: -apple-system, "PingFang SC", sans-serif;
+      transition: opacity 0.15s;
+      margin-left: auto;
+    }
+    .refresh-btn:hover { opacity: 0.85; }
+    .refresh-btn:disabled { opacity: 0.5; cursor: not-allowed; }
+
+    /* ── 状态页 ── */
+    .state-box {
+      text-align: center;
+      padding: 60px 20px;
+      color: var(--text-muted);
+      font-family: -apple-system, "PingFang SC", sans-serif;
+    }
+    .state-box .icon { font-size: 40px; margin-bottom: 12px; }
+    .state-box .msg { font-size: 15px; color: var(--text-sub); margin-bottom: 6px; }
+    .state-box .sub { font-size: 13px; }
+
+    .spinner {
+      width: 28px; height: 28px;
+      border: 2px solid var(--border);
+      border-top-color: var(--accent);
+      border-radius: 50%;
+      animation: spin 0.8s linear infinite;
+      margin: 0 auto 12px;
+    }
+    @keyframes spin { to { transform: rotate(360deg); } }
+
+    /* ── Footer ── */
+    .footer {
+      text-align: center;
+      padding: 32px 20px 0;
+      font-size: 11px;
+      color: var(--text-muted);
+      font-family: -apple-system, "PingFang SC", sans-serif;
+      letter-spacing: 0.5px;
+    }
+  </style>
+</head>
+<body>
+
+  <!-- 报头 -->
+  <div class="masthead">
+    <div class="masthead-top">
+      <div class="masthead-title">JaJa Daily</div>
+      <div class="masthead-date" id="mastDate">加载中...</div>
+      <button class="refresh-btn" id="refreshBtn" onclick="refreshToday()" style="display:none">刷新</button>
+    </div>
+    <div class="masthead-sub">餐饮 & 零售 · AI & 科技 · 每日精选 10 条</div>
+  </div>
+
+  <!-- 编辑寄语 -->
+  <div class="editor-note" id="editorNote" style="display:none">
+    <div class="editor-note-header">
+      <div class="editor-name">小 ja 碎碎念</div>
+    </div>
+    <div class="editor-note-text" id="editorText"></div>
+  </div>
+
+  <!-- 资讯列表 -->
+  <div id="newsList">
+    <div class="state-box">
+      <div class="spinner"></div>
+      <div class="msg">正在加载今日简报...</div>
+    </div>
+  </div>
+
+  <div class="footer" id="footer" style="display:none">
+    数据来源：IT之家 · 少数派 · 机器之心 · 36氪 · 钛媒体 &nbsp;·&nbsp; 每日自动更新
+  </div>
+
+  <script>
+(function() {
+  window.__INLINE_DATA__ = {"date": "2026-04-05", "generated_at": "2026-04-05T12:26:09.030122+08:00", "category": "餐饮零售 & AI科技", "total": 10, "items": [{"title": "百亿外卖大战，悄悄喂饱顺丰", "url": "https://www.tmtpost.com/7941908.html", "source": "钛媒体", "source_icon": "🟠", "summary": "顺丰年营收首破3000亿。", "tag": "电商", "id": 1}, {"title": "全网最不想火饭店，最终还是被“火”烤糊了", "url": "https://www.tmtpost.com/7941869.html", "source": "钛媒体", "source_icon": "🟠", "summary": "在流量至上的时代，“想红”当然不易，但\"不想红\"居然也成为一种不可能的奢侈。", "tag": "餐饮动态", "id": 2}, {"title": "AI 尚未“取代”工程师，美国科技岗位空缺今年迎来快速反弹", "url": "https://www.ithome.com/0/936/100.htm", "source": "IT之家", "source_icon": "🟢", "summary": "当地时间4 月 4日，据《商业内幕》报道，美国最新就业报告表现强劲，而超出预期的不只是整体就业情况，科技岗位需求同样出现明显回暖。", "tag": "AI产品", "id": 3}, {"title": "多部短剧 AI 角色“撞脸”易烊千玺，工作室发声明称已委请律师开展维权工作", "url": "https://www.ithome.com/0/936/084.htm", "source": "IT之家", "source_icon": "🟢", "summary": "针对多部短剧AI角色“撞脸”易烊千玺，今日@易烊千玺JacksonYee工作室发布声明称，工作室近日发现部分网络平台传播擅自使用易烊千玺肖像等生成的AI剧集，易烊千玺未曾参演相关剧集，也未授权第三方将…", "tag": "AI产品", "id": 4}, {"title": "AI 让英国学生“不会思考”，近 6000 名英格兰中学教师表示担忧", "url": "https://www.ithome.com/0/936/076.htm", "source": "IT之家", "source_icon": "🟢", "summary": "据英国《卫报》当地时间4 月 2日报道，英国全国教育联盟对英格兰中学教师开展的一项调查显示，AI 在学习过程中日益普及，学生的批判性思维能力正在随之下降。", "tag": "AI产品", "id": 5}, {"title": "英伟达“神经纹理压缩”AI 技术可让显存占用直降 85%，且游戏画质无损", "url": "https://www.ithome.com/0/936/072.htm", "source": "IT之家", "source_icon": "🟢", "summary": "随着游戏愈发复杂且追求照片级写实效果，游戏行业愈发依赖图像超分技术，以应对不断激增的硬件需求。这带来的一大问题便是显存占用，其在过去几年间大幅攀升。", "tag": "AI算力", "id": 6}, {"title": "Django Web 框架共同创始人威利森：AI 将为编程带来“黑灯工厂”时代", "url": "https://www.ithome.com/0/936/067.htm", "source": "IT之家", "source_icon": "🟢", "summary": "西蒙· 威利森是 Django Web框架的联合创始人，该框架更是被Instagram等数千个网站用于搭建初始系统。对其来说，目前的AI可以完成大部分原本需自己完成的代码编写工作，而他又提出了一个更大…", "tag": "AI产品", "id": 7}, {"title": "Anthropic：Claude Code 订阅者使用 OpenClaw 需额外付费", "url": "https://www.ithome.com/0/936/065.htm", "source": "IT之家", "source_icon": "🟢", "summary": "ClaudeCode 订阅用户借助 OpenClaw及其他第三方工具使用Anthropic的代码助手服务，即将面临费用上涨。", "tag": "大模型", "id": 8}, {"title": "千里科技 2025 年营收 99.99 亿元同比增长 42%，AI 转型与汽车业务双轮驱动", "url": "https://www.ithome.com/0/936/055.htm", "source": "IT之家", "source_icon": "🟢", "summary": "千里科技于4 月 3 日发布 2025年年度报告。报告显示，2025年公司实现营业收入 99.99亿元，同比增长 42.13%，主要系汽车业务、摩托车业务销量增长，带动收入增加；实现归属于上市公司股东…", "tag": "商业洞察", "id": 9}, {"title": "AI 仿文险入中学生课外读物，茅盾文学奖得主刘亮程打假", "url": "https://www.ithome.com/0/936/049.htm", "source": "IT之家", "source_icon": "🟢", "summary": "茅盾文学奖得主、新疆作协主席刘亮程4 月 2日发文称：“收到文著协转来某出版社选我的文章，竟然是AI仿写文，署名刘亮程。此前看到许多署名刘亮程的金句、短文等都不是我的， 这次是要编入中学生课外读物，幸…", "tag": "AI产品", "id": 10}]};
+})();
+</script>
+<script>
+    const API_BASE = window.location.origin;
+    let allItems = [];
+    let currentOffset = 0;
+
+    // 两大板块 tag 归属
+    const FNB_TAGS = ['餐饮动态','零售动态','商业洞察','电商'];
+    const AI_TAGS  = ['大模型','AI产品','AI Agent','AIGC','AI算力','AI投融资','政策监管','开源','机器人'];
+
+    // ── 日期工具 ──────────────────────────────────────────────────────────────
+    function getDateStr(offset) {
+      const d = new Date();
+      const cst = new Date(d.getTime() + 8 * 3600 * 1000);
+      cst.setUTCDate(cst.getUTCDate() + offset);
+      return cst.toISOString().slice(0, 10);
+    }
+
+    function refreshToday() {
+      currentOffset = 0;
+      loadNews(true);
+    }
+
+    // ── 加载数据 ──────────────────────────────────────────────────────────────
+    async function loadNews(forceRefresh = false) {
+      const btn = document.getElementById('refreshBtn');
+      btn.disabled = true;
+      btn.textContent = '加载中...';
+      showLoading();
+
+      try {
+        const data = window.__INLINE_DATA__;
+        if (!data || !data.items || data.items.length === 0) {
+          showEmpty('');
+          return;
+        }
+        allItems = data.items;
+        document.getElementById('mastDate').textContent = formatDate(data.date);
+        buildEditorNote(allItems);
+        renderList(allItems);
+        document.getElementById('footer').style.display = '';
+      } catch (e) {
+        showError(e.message);
+      } finally {
+        btn.disabled = false;
+        btn.textContent = '刷新';
+      }
+    }
+
+    // ── 编辑寄语 ──────────────────────────────────────────────────────────────
+    function buildEditorNote(items) {
+      const note = document.getElementById('editorNote');
+      const text = document.getElementById('editorText');
+      const aiItems  = items.filter(i => AI_TAGS.includes(i.tag));
+      const fnbItems = items.filter(i => FNB_TAGS.includes(i.tag));
+      let sentence = `今天共精选 ${items.length} 条。`;
+      if (fnbItems.length > 0) sentence += `餐饮零售板块：${fnbItems.slice(0,2).map(i=>extractKeyword(i.title)).join('、')}等话题在发酵；`;
+      if (aiItems.length > 0)  sentence += `AI 科技板块：${aiItems.slice(0,2).map(i=>extractKeyword(i.title)).join('、')}等值得关注。`;
+      text.textContent = sentence;
+      note.style.display = '';
+    }
+
+    function extractKeyword(title) {
+      return title.replace(/[，。！？「」【】《》]/g, '').slice(0, 14);
+    }
+
+    // ── 渲染列表（两大板块） ──────────────────────────────────────────────────
+    function renderList(items) {
+      const list = document.getElementById('newsList');
+
+      if (items.length === 0) {
+        list.innerHTML = `<div class="state-box">
+          <div class="icon">🔍</div>
+          <div class="msg">今日暂无资讯</div>
+        </div>`;
+        return;
+      }
+
+      const fnbItems = items.filter(i => FNB_TAGS.includes(i.tag));
+      const aiItems  = items.filter(i => AI_TAGS.includes(i.tag));
+      // 未归类的兜底放 AI 板块
+      const otherItems = items.filter(i => !FNB_TAGS.includes(i.tag) && !AI_TAGS.includes(i.tag));
+
+      let html = '';
+
+      if (fnbItems.length > 0) {
+        html += `
+          <div class="board-section">
+            <div class="board-header">
+              <div class="board-title">
+                <div class="board-title-bar"></div>
+                <div>
+                  <div class="board-title-zh">餐饮 &amp; 零售</div>
+                  <div class="board-title-en">FOOD · RETAIL</div>
+                </div>
+              </div>
+            </div>
+            ${fnbItems.map(item => renderItem(item)).join('')}
+          </div>`;
+      }
+
+      const aiAll = [...aiItems, ...otherItems];
+      if (aiAll.length > 0) {
+        html += `
+          <div class="board-section">
+            <div class="board-header">
+              <div class="board-title">
+                <div class="board-title-bar"></div>
+                <div>
+                  <div class="board-title-zh">AI &amp; 科技</div>
+                  <div class="board-title-en">AI · TECH</div>
+                </div>
+              </div>
+            </div>
+            ${aiAll.map(item => renderItem(item)).join('')}
+          </div>`;
+      }
+
+      list.innerHTML = html;
+    }
+
+    function renderItem(item) {
+      const hasSummary = item.summary && item.summary !== item.title;
+      const tag = item.tag || '';
+      return `
+        <a class="news-item" href="${escHtml(item.url)}" target="_blank" rel="noopener">
+          <div class="news-meta">
+            <span class="news-source">${escHtml(item.source || '')}</span>
+            <span class="news-meta-dot"></span>
+            <span class="news-date">${formatItemDate(item)}</span>
+            ${tag ? `<span class="news-tag">${escHtml(tag)}</span>` : ''}
+          </div>
+          <div class="news-title">${escHtml(item.title)}</div>
+          ${hasSummary ? `<div class="news-summary">${escHtml(item.summary)}</div>` : ''}
+          <div class="news-read-more">阅读原文 →</div>
+        </a>`;
+    }
+
+    function formatItemDate(item) {
+      // 如果有 pub_date 可以解析，否则显示今日
+      return '今日';
+    }
+
+    // ── 状态页 ────────────────────────────────────────────────────────────────
+    function showLoading() {
+      document.getElementById('newsList').innerHTML = `
+        <div class="state-box">
+          <div class="spinner"></div>
+          <div class="msg">正在加载今日简报...</div>
+        </div>`;
+    }
+
+    function showFetching() {
+      document.getElementById('newsList').innerHTML = `
+        <div class="state-box">
+          <div class="icon">⏳</div>
+          <div class="msg">资讯正在抓取中</div>
+          <div class="sub">约 30 秒后自动刷新，请稍候...</div>
+        </div>`;
+    }
+
+    function showEmpty(hint = '') {
+      document.getElementById('newsList').innerHTML = `
+        <div class="state-box">
+          <div class="icon">📭</div>
+          <div class="msg">${hint || '今日暂无资讯'}</div>
+          <div class="sub">${hint ? '' : '点击「刷新」按钮重新抓取'}</div>
+        </div>`;
+    }
+
+    function showError(msg) {
+      document.getElementById('newsList').innerHTML = `
+        <div class="state-box">
+          <div class="icon">⚠️</div>
+          <div class="msg">无法连接到资讯服务</div>
+          <div class="sub">请确认 server.py 已启动（端口 8765）</div>
+        </div>`;
+    }
+
+    // ── 工具函数 ──────────────────────────────────────────────────────────────
+    function escHtml(str) {
+      return String(str || '')
+        .replace(/&/g, '&amp;')
+        .replace(/</g, '&lt;')
+        .replace(/>/g, '&gt;')
+        .replace(/"/g, '&quot;');
+    }
+
+    function formatDate(dateStr) {
+      if (!dateStr) return '';
+      const d = new Date(dateStr + 'T00:00:00+08:00');
+      const days = ['星期日','星期一','星期二','星期三','星期四','星期五','星期六'];
+      return `${d.getFullYear()}年${d.getMonth()+1}月${d.getDate()}日　${days[d.getDay()]}`;
+    }
+
+    // ── 初始化 ────────────────────────────────────────────────────────────────
+    loadNews();
+  </script>
+</body>
+</html>
