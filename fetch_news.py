@@ -350,6 +350,63 @@ def fetch_tmtpost() -> list:
     return results
 
 
+def fetch_huxiu() -> list:
+    """虎嗅 RSS — 商业/消费/科技内容"""
+    print("  [虎嗅] 抓取 RSS...", file=sys.stderr)
+    rss = fetch_raw("https://www.huxiu.com/rss/0.xml", timeout=15)
+    if not rss:
+        return []
+    items = parse_rss(rss)
+    results = []
+    for item in items:
+        title = item["title"]
+        if is_excluded(title):
+            continue
+        if is_fnb(title) or is_ai(title):
+            summary = extract_summary_from_desc(item["description"], title)
+            results.append({"title": title, "url": item["link"], "summary": summary})
+    print(f"    -> {len(results)} 条匹配", file=sys.stderr)
+    return results
+
+
+def fetch_jiemian() -> list:
+    """界面新闻 RSS — 商业/消费/餐饮零售内容"""
+    print("  [界面新闻] 抓取 RSS...", file=sys.stderr)
+    rss = fetch_raw("https://www.jiemian.com/lists/rss.html", timeout=15)
+    if not rss:
+        return []
+    items = parse_rss(rss)
+    results = []
+    for item in items:
+        title = item["title"]
+        if is_excluded(title):
+            continue
+        if is_fnb(title) or is_ai(title):
+            summary = extract_summary_from_desc(item["description"], title)
+            results.append({"title": title, "url": item["link"], "summary": summary})
+    print(f"    -> {len(results)} 条匹配", file=sys.stderr)
+    return results
+
+
+def fetch_wallstreetcn() -> list:
+    """华尔街见闻 RSS — 商业/消费/宏观内容"""
+    print("  [华尔街见闻] 抓取 RSS...", file=sys.stderr)
+    rss = fetch_raw("https://wallstreetcn.com/feed", timeout=15)
+    if not rss:
+        return []
+    items = parse_rss(rss)
+    results = []
+    for item in items:
+        title = item["title"]
+        if is_excluded(title):
+            continue
+        if is_fnb(title) or is_ai(title):
+            summary = extract_summary_from_desc(item["description"], title)
+            results.append({"title": title, "url": item["link"], "summary": summary})
+    print(f"    -> {len(results)} 条匹配", file=sys.stderr)
+    return results
+
+
 # -- LLM 摘要增强（可选）--------------------------------------------------------
 
 def enhance_summaries_with_llm(items: list) -> list:
@@ -482,6 +539,9 @@ def main():
     all_raw += fetch_jiqizhixin()
     all_raw += fetch_36kr()
     all_raw += fetch_tmtpost()
+    all_raw += fetch_huxiu()
+    all_raw += fetch_jiemian()
+    all_raw += fetch_wallstreetcn()
 
     # 2. 去重
     candidates = merge_and_dedupe(all_raw)
