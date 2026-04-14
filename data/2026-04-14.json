@@ -1,0 +1,99 @@
+{
+  "date": "2026-04-14",
+  "generated_at": "2026-04-14T14:12:39.558191+08:00",
+  "category": "餐饮零售 & AI科技",
+  "total": 10,
+  "editor_note": "今天共精选 10 条。餐饮零售板块：餐饮出海有新招儿吗？从鼎泰丰与贡茶拿下美等话题值得关注；AI科技板块：美国男子因 AI 企图谋杀 OpenAI等动态持续发酵。",
+  "items": [
+    {
+      "title": "餐饮出海有新招儿吗？从鼎泰丰与贡茶拿下美国初代销冠聊起",
+      "url": "https://www.tmtpost.com/7952116.html",
+      "source": "钛媒体",
+      "source_icon": "🟠",
+      "summary": "四字箴言：避免自嗨。",
+      "tag": "餐饮动态",
+      "id": 1
+    },
+    {
+      "title": "美国男子因 AI 企图谋杀 OpenAI 奥尔特曼，面临最高 30 年监禁",
+      "url": "https://www.ithome.com/0/938/894.htm",
+      "source": "IT之家",
+      "source_icon": "🟢",
+      "summary": "科技媒体The Verge 昨日（4 月 13日）发布博文，报道称因涉嫌企图杀害OpenAI 首席执行官山姆 ·奥尔特曼（Sam Altman），嫌疑人 DanielMoreno-Gama 遭联邦起诉…",
+      "tag": "AI产品",
+      "id": 2
+    },
+    {
+      "title": "单日 300 美元 Claude 预算：消息称苹果商业团队推进 AI 使用率，并挂钩招聘审批",
+      "url": "https://www.ithome.com/0/938/889.htm",
+      "source": "IT之家",
+      "source_icon": "🟢",
+      "summary": "科技媒体Wccftech 昨日（4 月 13日）发布博文，报道称苹果内部正在加速推进AI应用，商业 团队获每日 300 美元的Claude 预算，配额使用较低的团队甚至面临招聘申请被拒的风险。",
+      "tag": "大模型",
+      "id": 3
+    },
+    {
+      "title": "阿里巴巴首款具身机器人：消息称高德将发布机器狗产品",
+      "url": "https://www.ithome.com/0/938/868.htm",
+      "source": "IT之家",
+      "source_icon": "🟢",
+      "summary": "阿里巴巴旗下高德的具身业务部即将发布首款产品——一款四足机器人。据悉，这是阿里巴巴集团推出的首款具身机器人产品。 知情人士透露，人形机器人、机器狗等产品形态均在高德具身业务部的探索方向之中。",
+      "tag": "机器人",
+      "id": 4
+    },
+    {
+      "title": "荣耀做了个“养虾本”，预制5大主虾，要重新定义AI PC｜最前线",
+      "url": "https://36kr.com/p/3765331768967686?f=rss",
+      "source": "36氪",
+      "source_icon": "🔵",
+      "summary": "4月13日，荣耀正式发布自研终端侧“龙虾”AI智能体YOYO Claw，并宣布其将首发搭载于被称作“养虾本”的荣耀MagicBook系列轻薄本中。",
+      "tag": "AI产品",
+      "id": 5
+    },
+    {
+      "title": "浅谈人工智能时代的用户体验：Agent Experience 导论",
+      "url": "https://sspai.com/post/107600",
+      "source": "少数派",
+      "source_icon": "🔵",
+      "summary": "AX 专门探讨如何设计产品形态，使AI Agent能够可靠地「理解」、自主操作并高效集成，而非仅服务于人类用户。",
+      "tag": "AI Agent",
+      "id": 6
+    },
+    {
+      "title": "OpenAI 反击 Anthropic：聚焦企业 AI 落地，最强 Spud 模型对标 Claude Mythos",
+      "url": "https://www.ithome.com/0/938/908.htm",
+      "source": "IT之家",
+      "source_icon": "🟢",
+      "summary": "科技媒体The Decoder 昨日（4 月13 日）发布博文，报道称在一份泄露的内部备忘录中，OpenAI&nbsp;首席营收官丹尼斯· 德莱瑟（DeniseDresser）规划2026 年第 2季…",
+      "tag": "大模型",
+      "id": 7
+    },
+    {
+      "title": "旧机估值满 300 补贴 700 元：iPhone Air 换新国补 4769 元 12 期免息",
+      "url": "https://www.ithome.com/0/938/904.htm",
+      "source": "IT之家",
+      "source_icon": "🟢",
+      "summary": "iPhoneAir 于去年 10 月 22日开售，上市起售价为7999元。今日京东自营叠加国补后仅需 5469元。下单时选择“以旧换新”，大多数账号只要旧机估值满300元，即可额外享受700元补贴。",
+      "tag": "AI投融资",
+      "id": 8
+    },
+    {
+      "title": "韩 AI 芯片制造商 DEEPX：基于三星 2nm 的 DX-M2 目标 2027 年量产",
+      "url": "https://www.ithome.com/0/938/903.htm",
+      "source": "IT之家",
+      "source_icon": "🟢",
+      "summary": "参考韩媒ETNEWS稍早前报道，该国AI 芯片制造商 DEEPX在今日的新闻发布会上表示，基于三星晶圆代工2nm 工艺制程的 DX-M2 芯片目标2027 年实现量产。",
+      "tag": "AI算力",
+      "id": 9
+    },
+    {
+      "title": "半年融资近2亿，他要用AI发球机器人解决全球1亿人的训练难题｜硬氪专访",
+      "url": "https://36kr.com/p/3764953900990977?f=rss",
+      "source": "36氪",
+      "source_icon": "🔵",
+      "summary": "作者｜黄楠编辑｜袁斯来如果你想找庞伯特创始人张海波，大概率得去公司附近的各种球场。 张海波早把自己训练成了各种球类的高手。 2025年10月，公司网球场刚建成不久，他就拎着自家的发球机器人，从零开始学…",
+      "tag": "大模型",
+      "id": 10
+    }
+  ]
+}
