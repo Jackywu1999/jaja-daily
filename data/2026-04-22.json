@@ -1,0 +1,99 @@
+{
+  "date": "2026-04-22",
+  "generated_at": "2026-04-22T14:13:32.790679+08:00",
+  "category": "餐饮零售 & AI科技",
+  "total": 10,
+  "editor_note": "今天共精选 10 条。餐饮零售板块：氪星晚报｜星巴克中国回应开放加盟传闻：不等话题值得关注；AI科技板块：Anthropic 最强 AI 立功，揪等动态持续发酵。",
+  "items": [
+    {
+      "title": "氪星晚报｜星巴克中国回应开放加盟传闻：不实信息；苹果公司宣布特纳斯将接替库克担任CEO",
+      "url": "https://36kr.com/p/3776458805904129?f=rss",
+      "source": "36氪",
+      "source_icon": "🔵",
+      "summary": "大公司：猛士汽车携手华为乾崑发布智能越野黑科技36氪获悉，4月20日，猛士汽车举办春季焕新发布会。发布会上，猛士汽车携手华为乾崑联合发布智能越野黑科技，同时完成全方位焕新。",
+      "tag": "餐饮动态",
+      "id": 1
+    },
+    {
+      "title": "便利店运营商Yesway在美国首次公开募股中募得2.8亿美元",
+      "url": "https://36kr.com/newsflashes/3777457858958088?f=rss",
+      "source": "36氪",
+      "source_icon": "🔵",
+      "summary": "便利店运营商Yesway在美国首次公开募股中募得2.8亿美元。（新浪财经）",
+      "tag": "零售动态",
+      "id": 2
+    },
+    {
+      "title": "县城餐饮，正在成为创业陷阱",
+      "url": "https://www.tmtpost.com/7962180.html",
+      "source": "钛媒体",
+      "source_icon": "🟠",
+      "summary": "2026年的县城餐饮市场，还在反复上演这样的故事，无数餐饮小白满怀希望入场，最后带着无奈离场。",
+      "tag": "餐饮动态",
+      "id": 3
+    },
+    {
+      "title": "风味IP爆发，快消圈拿到长期增长新船票？",
+      "url": "https://www.tmtpost.com/7962090.html",
+      "source": "钛媒体",
+      "source_icon": "🟠",
+      "summary": "喝到龙井茶饮料就想到农夫山泉。",
+      "tag": "商业洞察",
+      "id": 4
+    },
+    {
+      "title": "Anthropic 最强 AI 立功，揪出火狐 Firefox 150 浏览器 271 个漏洞",
+      "url": "https://www.ithome.com/0/942/039.htm",
+      "source": "IT之家",
+      "source_icon": "🟢",
+      "summary": "连线（Wired）昨日（4月 21日）发布博文，报道称本周发布的火狐Firefox 浏览器 150稳定版中，Mozilla 借助 Anthropic的Mythos Preview AI模型，发现并修复…",
+      "tag": "AI产品",
+      "id": 5
+    },
+    {
+      "title": "AI 输出中的 ** 是怎么来的：谈中文 Markdown 强调标记的渲染问题",
+      "url": "https://sspai.com/post/108768",
+      "source": "少数派",
+      "source_icon": "🔵",
+      "summary": "在与AI对话的过程中，你一定见过这样不伦不类的输出：换言之，那些本该加粗的部分并没有加粗，周围却多了一堆星号。有一定技术背景的读者都知道，这些星号是Markdown中的强调标记。",
+      "tag": "AI产品",
+      "id": 6
+    },
+    {
+      "title": "OpenAI 最前沿的 AI 智能体编程模型 GPT-5.5 偷跑",
+      "url": "https://www.ithome.com/0/942/064.htm",
+      "source": "IT之家",
+      "source_icon": "🟢",
+      "summary": "OpenAI今天（4 月 22 日）发布ChatGPTImages 2.0生图工具外，其偷跑的GPT-5.5模型迅速成为网友热议焦点。",
+      "tag": "大模型",
+      "id": 7
+    },
+    {
+      "title": "消息称 OpenAI 拟 15 亿美元投资一合资企业，发力企业级 AI 市场",
+      "url": "https://www.ithome.com/0/942/060.htm",
+      "source": "IT之家",
+      "source_icon": "🟢",
+      "summary": "据英国《金融时报》援引知情人士消息报道，人工智能公司OpenAI拟向与多家私募股权公司成立的新合资企业注资至多15亿美元",
+      "tag": "AI投融资",
+      "id": 8
+    },
+    {
+      "title": "有未经授权用户访问 Claude Mythos AI 模型，Anthropic 回应称正在调查",
+      "url": "https://www.ithome.com/0/942/042.htm",
+      "source": "IT之家",
+      "source_icon": "🟢",
+      "summary": "彭博社昨日（4月 21日）发布博文，报道称少数未经授权的用户访问了Anthropic最新研发的 Claude MythosAI模型，Anthropic 官方已确认正在调查此事。",
+      "tag": "大模型",
+      "id": 9
+    },
+    {
+      "title": "PettiChat获百万美元种子投资，造出宠物穿戴AI翻译器",
+      "url": "https://36kr.com/p/3769659305427459?f=rss",
+      "source": "36氪",
+      "source_icon": "🔵",
+      "summary": "36氪获悉，宠物AI科技初创公司PettiChat于近期完成100万美元的种子轮融资。由浙大校友基金藕舫天使与华旦天使联合投资，本轮融资将主要用于动物行为世界模型的研发、高质量数据集的构建以及首款硬件…",
+      "tag": "AI投融资",
+      "id": 10
+    }
+  ]
+}
