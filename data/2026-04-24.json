@@ -1,0 +1,99 @@
+{
+  "date": "2026-04-24",
+  "generated_at": "2026-04-24T14:23:47.056387+08:00",
+  "category": "餐饮零售 & AI科技",
+  "total": 10,
+  "editor_note": "今天共精选 10 条。餐饮零售板块：用“活人感”做科技社区，小红书能成吗？等话题值得关注；AI科技板块：开源网络工具 cURL 开发者示警“高质等动态持续发酵。",
+  "items": [
+    {
+      "title": "用“活人感”做科技社区，小红书能成吗？",
+      "url": "https://36kr.com/p/3778772970444033?f=rss",
+      "source": "36氪",
+      "source_icon": "🔵",
+      "summary": "文| 钟艺璇 编辑 | 乔芊没人能脱离AI这个浪潮，社区APP也不例外。 只是对比豆包、千问——它们背后往往站着有能力制造C端入口的大公司，社区似乎天然有短板，从过去的路径看，它似乎只能做到在内容上与…",
+      "tag": "电商",
+      "id": 1
+    },
+    {
+      "title": "开源网络工具 cURL 开发者示警“高质量混乱”：AI 提速漏洞挖掘，开源维护者修不过来",
+      "url": "https://www.ithome.com/0/942/951.htm",
+      "source": "IT之家",
+      "source_icon": "🟢",
+      "summary": "开源网络工具cURL 开发者 DanielStenberg于 4 月 22日发布博文，指出 AI生成的漏洞报告已从“垃圾信息”演变为“高质量混乱”。",
+      "tag": "开源",
+      "id": 2
+    },
+    {
+      "title": "博裕、经纬、顺为等投资前新石器COO超亿元，押注AI超便携电子纸｜硬氪独家",
+      "url": "https://36kr.com/p/3778175428777218?f=rss",
+      "source": "36氪",
+      "source_icon": "🔵",
+      "summary": "作者｜黄楠编辑｜袁斯来当智能手机陷入性能过剩、AI功能同质化内卷，用户注意力被无限拆解与争夺时，一个被长期忽视的角落正悄然打开新赛道——手机背面的闲置空间。",
+      "tag": "AI投融资",
+      "id": 3
+    },
+    {
+      "title": "打造生物智能基础设施，AI4S企业「奥明星程」获超亿元A轮融资｜36氪首发",
+      "url": "https://36kr.com/p/3778831119897600?f=rss",
+      "source": "36氪",
+      "source_icon": "🔵",
+      "summary": "36氪获悉，AIforScience公司「奥明星程」近日完成超亿元A轮战略融资。本轮投资方包括深创投、复星医药（复健资本）、太平股权、广东中医药大健康基金、杭实集团等多家头部投资机构、产业链龙头企业及…",
+      "tag": "AI投融资",
+      "id": 4
+    },
+    {
+      "title": "破局“智驾双雄”，千里科技如何以AI之力重塑行业格局",
+      "url": "https://36kr.com/p/3779369343144965?f=rss",
+      "source": "36氪",
+      "source_icon": "🔵",
+      "summary": "智驾圈杀出了一匹“黑马”，智能驾驶的市场格局正面临重新洗牌的变量。 在4月22日举办的千里科技AI战略暨产品发布会上，千里科技公布了一组数据：千里智驾装车量已突破46万辆，覆盖极氪、领克17款车型，并…",
+      "tag": "AI产品",
+      "id": 5
+    },
+    {
+      "title": "寒武纪 Day 0 适配 DeepSeek-V4，发布当日即稳定运行",
+      "url": "https://www.ithome.com/0/943/018.htm",
+      "source": "IT之家",
+      "source_icon": "🟢",
+      "summary": "寒武纪今日宣布，已基于vLLM 推理框架完成对 深度求索公司最新开源模型285BDeepSeek-V4-flash和 1.6TDeepSeek-V4-pro的 Day 0适配，模型发布当日即可实现稳定…",
+      "tag": "大模型",
+      "id": 6
+    },
+    {
+      "title": "JetBrains 修复 IntelliJ IDEA 五年顽疾，远程开发 Emmet 缩写展开终可用",
+      "url": "https://www.ithome.com/0/942/959.htm",
+      "source": "IT之家",
+      "source_icon": "🟢",
+      "summary": "JetBrains发布 IntelliJ IDEA2026.1.1 版本，重点修复了WSL Python SDK配置卡死，以及远程开发中Emmet缩写展开失效等关键问题。",
+      "tag": "AI产品",
+      "id": 7
+    },
+    {
+      "title": "迈入百万上下文普惠时代：DeepSeek-V4 模型预览版正式上线并同步开源",
+      "url": "https://www.ithome.com/0/942/955.htm",
+      "source": "IT之家",
+      "source_icon": "🟢",
+      "summary": "今天上午，DeepSeek-V4 模型预览版正式上线并同步开源。DeepSeek-V4拥有百万字超长上下文，在Agent能力、世界知识和推理性能上均实现国内与开源领域的领先。",
+      "tag": "大模型",
+      "id": 8
+    },
+    {
+      "title": "DeepSeek V4终于发布，但它留下的5道主观题还没有答案",
+      "url": "https://36kr.com/p/3780375304312072?f=rss",
+      "source": "36氪",
+      "source_icon": "🔵",
+      "summary": "文｜周鑫雨资料整理｜钟楚笛 编辑｜苏建勋 杨轩靴子终于落地。被调侃“NextWeek”近3个月的DeepSeek V4，终于显露真身。",
+      "tag": "大模型",
+      "id": 9
+    },
+    {
+      "title": "融了2000万美金，这家2000万美金ARR的AI公司，推出“视频版Photoshop”「Buzzy」",
+      "url": "https://36kr.com/p/3780352721851397?f=rss",
+      "source": "36氪",
+      "source_icon": "🔵",
+      "summary": "文｜周鑫雨编辑｜杨轩 一句话介绍Buzzy（https://www.buzzy.now/）是AI内容创作公司“感知阶跃”旗下的视频编辑Agent平台，主要面向C端内容创作者和中小型商家。",
+      "tag": "AI产品",
+      "id": 10
+    }
+  ]
+}
