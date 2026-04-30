@@ -1,0 +1,99 @@
+{
+  "date": "2026-04-30",
+  "generated_at": "2026-04-30T15:40:11.830813+08:00",
+  "category": "餐饮零售 & AI科技",
+  "total": 10,
+  "editor_note": "今天共精选 10 条。餐饮零售板块：俞浩大战小红书，谁有理？等话题值得关注；AI科技板块：红果短剧处置超万部低质 AI 剧，涉内容等动态持续发酵。",
+  "items": [
+    {
+      "title": "俞浩大战小红书，谁有理？",
+      "url": "https://www.tmtpost.com/7973401.html",
+      "source": "钛媒体",
+      "source_icon": "🟠",
+      "summary": "炮轰算法、评价、momo们。",
+      "tag": "电商",
+      "id": 1
+    },
+    {
+      "title": "县城游的好日子，来了？",
+      "url": "https://www.tmtpost.com/7973272.html",
+      "source": "钛媒体",
+      "source_icon": "🟠",
+      "summary": "县城游的好日子，来了？",
+      "tag": "商业洞察",
+      "id": 2
+    },
+    {
+      "title": "2026年Q1餐饮行业季度观察",
+      "url": "https://www.tmtpost.com/7973269.html",
+      "source": "钛媒体",
+      "source_icon": "🟠",
+      "summary": "2026年第一季度餐饮行业观察报告正式发布！",
+      "tag": "餐饮动态",
+      "id": 3
+    },
+    {
+      "title": "红果短剧处置超万部低质 AI 剧，涉内容低俗猎奇、画面粗糙等",
+      "url": "https://www.ithome.com/0/945/439.htm",
+      "source": "IT之家",
+      "source_icon": "🟢",
+      "summary": "近期，红果短剧持续对平台上的AI剧内容展开大规模治理，已处置超万部低质AI剧。此次治理聚焦剧情导向、价值观表达和制作品质，重点处置了 内容低俗猎奇、画面粗糙、剧情逻辑混乱、渲染极端情绪的低质 AI剧。",
+      "tag": "AI产品",
+      "id": 4
+    },
+    {
+      "title": "英特尔携手 AMD 发布 ACE 架构提升 AI 性能，x86 矩阵计算密度提升 16 倍",
+      "url": "https://www.ithome.com/0/945/427.htm",
+      "source": "IT之家",
+      "source_icon": "🟢",
+      "summary": "科技媒体Wccftech 昨日（4 月 29日）发布博文，报道称英特尔和 AMD联合发布人工智能计算扩展（ACE）白皮书，将其定位为x86架构的标准矩阵加速方案。",
+      "tag": "AI产品",
+      "id": 5
+    },
+    {
+      "title": "移动端 Agent 的井喷或许近在眼前：以 ColorOS 抛砖引玉",
+      "url": "https://sspai.com/post/109062",
+      "source": "少数派",
+      "source_icon": "🔵",
+      "summary": "我觉得手机AI再次爆发式发展的时间节点已经不远了，应用与安卓的底层权限开放像是 MCP，而基于自动操作的积木像是 Skills，配合不断增强的端侧模型，或许能让GUI Agent更进一步。",
+      "tag": "AI Agent",
+      "id": 6
+    },
+    {
+      "title": "众测｜邀你一同探索随身 AI 硬件入口 YoooClaw C·ONE",
+      "url": "https://sspai.com/post/109207",
+      "source": "少数派",
+      "source_icon": "🔵",
+      "summary": "现在AI工具正在从「能回答问题」逐渐走向「能替你完成事情」。我们不再只满足于打开一个App、输入一段提示词、等待一次回复，而是希望AI能理解我们的上下文，知道我们正在处理什么信息，并在合适的时候主动帮…",
+      "tag": "AI产品",
+      "id": 7
+    },
+    {
+      "title": "SEMI：AI 数据中心相关的硅晶圆需求已延伸至电源管理组件",
+      "url": "https://www.ithome.com/0/945/469.htm",
+      "source": "IT之家",
+      "source_icon": "🟢",
+      "summary": "SEMI（国际半导体产业协会）旗下硅制造商组织(SMG) 主席矢田银次表示：“AI数据中心相关的硅晶圆需求持续维持强劲，范畴包括先进逻辑与内存应用，并且已延伸至电源管理组件。",
+      "tag": "AI产品",
+      "id": 8
+    },
+    {
+      "title": "索尼新专利：AI 根据玩家情绪实时调整游戏难度",
+      "url": "https://www.ithome.com/0/945/450.htm",
+      "source": "IT之家",
+      "source_icon": "🟢",
+      "summary": "游戏媒体respawnfirst 昨日（4 月29 日）发布博文，报道称索尼获批名为《用户自定义关卡生成》的专利，让生成式 AI根据玩家情绪与表现，动态调整游戏难度。",
+      "tag": "AI产品",
+      "id": 9
+    },
+    {
+      "title": "“氛围编程”命名人卡帕西提醒：AI 写的代码仍然臃肿，还需要靠人类把关",
+      "url": "https://www.ithome.com/0/945/444.htm",
+      "source": "IT之家",
+      "source_icon": "🟢",
+      "summary": "当地时间4 月 29日的一场红杉资本对谈中，特斯拉前AI负责人、OpenAI创始成员安德烈 ·卡帕西谈到，AI 写代码的能力已经很强，可生成的代码仍然 可能相当混乱，人类依然需要把关 。",
+      "tag": "AI产品",
+      "id": 10
+    }
+  ]
+}
