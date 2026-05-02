@@ -20,26 +20,35 @@
   <meta name="twitter:image" content="https://jackywu1999.github.io/jaja-daily/avatar.png" />
   <style>
     :root {
-      /* ── Notion 风格配色 ── */
-      --bg:           #F4F0E9;       /* 主背景：暖米色 */
-      --bg-hover:     #ede8df;       /* hover 背景 */
-      --bg-card:      #faf7f2;       /* 卡片/引用背景 */
-      --border:       #ddd8ce;       /* 主分割线 */
-      --border-light: #e8e3d8;       /* 次分割线 */
-
-      /* ── 文字层级（Notion 三层灰） ── */
-      --text:         #37352f;       /* 主文字：Notion 标准深棕黑 */
-      --text-sub:     #786B5C;       /* 次要文字：暖棕 */
-      --text-muted:   #9b9a97;       /* 辅助信息：浅灰 */
-
-      /* ── 强调色 ── */
-      --accent:       #e03e3e;       /* 红色：阅读原文、竖线 */
-      --accent-gold:  #c17d3c;       /* 暖金：标签、引号装饰 */
+      /* ── Notion 风格配色（亮色） ── */
+      --bg:           #F4F0E9;
+      --bg-hover:     #ede8df;
+      --bg-card:      #faf7f2;
+      --border:       #ddd8ce;
+      --border-light: #e8e3d8;
+      --text:         #37352f;
+      --text-sub:     #786B5C;
+      --text-muted:   #9b9a97;
+      --accent:       #e03e3e;
+      --accent-gold:  #c17d3c;
       --tag-bg:       rgba(193, 125, 60, 0.08);
-
-      /* ── 字体栈 ── */
       --font-serif:   "Georgia", "Songti SC", "STSong", "SimSun", serif;
       --font-sans:    -apple-system, "PingFang SC", "Helvetica Neue", sans-serif;
+    }
+
+    /* ── 暗色模式变量 ── */
+    [data-theme="dark"] {
+      --bg:           #1a1917;
+      --bg-hover:     #242220;
+      --bg-card:      #211f1d;
+      --border:       #3a3733;
+      --border-light: #2e2c29;
+      --text:         #e8e3d8;
+      --text-sub:     #a89f92;
+      --text-muted:   #6b6760;
+      --accent:       #e05555;
+      --accent-gold:  #d4924a;
+      --tag-bg:       rgba(212, 146, 74, 0.12);
     }
 
     * { box-sizing: border-box; margin: 0; padding: 0; }
@@ -89,12 +98,12 @@
       order: 1;              /* 排在标题后面 */
     }
 
-    /* 屏幕够宽时恢复同行两端对齐 */
+    /* 屏幕够宽时恢复同行排列 */
     @media (min-width: 400px) {
       .masthead-date {
         flex-basis: auto;
         order: 0;
-        margin-left: auto;
+        margin-left: 24px;
       }
     }
 
@@ -298,6 +307,35 @@
       font-family: var(--font-sans);
       letter-spacing: 0.3px;
     }
+
+    /* ── 暗色切换按钮 ── */
+    .theme-toggle {
+      background: var(--bg-card);
+      border: 1px solid var(--border);
+      cursor: pointer;
+      font-size: 16px;
+      line-height: 1;
+      padding: 5px 10px;
+      border-radius: 20px;
+      color: var(--text-sub);
+      transition: background 0.15s, border-color 0.15s, color 0.15s;
+      flex-shrink: 0;
+      margin-left: auto;
+      display: flex;
+      align-items: center;
+      gap: 5px;
+    }
+    .theme-toggle::after {
+      content: attr(data-label);
+      font-size: 12px;
+      font-family: var(--font-sans);
+      letter-spacing: 0.2px;
+    }
+    .theme-toggle:hover {
+      background: var(--bg-hover);
+      border-color: var(--text-muted);
+      color: var(--text);
+    }
   </style>
 </head>
 <body>
@@ -307,6 +345,7 @@
     <div class="masthead-top">
       <div class="masthead-title">JaJa Daily</div>
       <span class="masthead-date" id="mastDate"></span>
+      <button class="theme-toggle" id="themeToggle" title="切换暗色/亮色" data-label="亮色">☀️</button>
     </div>
   </div>
 
@@ -364,7 +403,8 @@
         }
         renderData(await res.json(), false);
       } catch (e) {
-        showError(e.message);
+        // 本地 file:// 协议下 fetch 会失败，降级使用内嵌 mock 数据预览
+        renderData(MOCK_DATA, false);
       }
     }
 
@@ -496,7 +536,50 @@
       return `${d.getFullYear()}年${d.getMonth()+1}月${d.getDate()}日　${days[d.getDay()]}`;
     }
 
+    // ── Mock 数据（本地 file:// 预览用，fetch 失败时自动降级） ──
+    const MOCK_DATA = {
+      "date": "2026-05-02",
+      "editor_note": "今天共精选 10 条。餐饮零售板块：FBIF2026首日回顾、界面财联社入股小红书等话题值得关注；AI科技板块：移动端 Agent 井喷、奥斯卡明确 AI 不得获奖等动态持续发酵。",
+      "items": [
+        { "id": 1, "title": "巅峰集结，FBIF2026首日回顾！全球食品高层共探破局之路", "url": "https://36kr.com/p/3789175930232065", "source": "36氪", "summary": "FBIF2026食品饮料创新论坛于2026年4月27-29日在杭州国际博览中心举办，全球食品行业高层齐聚，共同探讨行业破局之路与未来趋势。", "tag": "餐饮动态" },
+        { "id": 2, "title": "界面财联社入股小红书关联公司，持股 1%", "url": "https://36kr.com/newsflashes/3790381809868034", "source": "36氪", "summary": "小红书关联公司行吟信息科技注册资本从1980万元增至2000万元，新增上海界面财联社科技股份有限公司为股东，持股1%。", "tag": "电商" },
+        { "id": 3, "title": "上汽乘用车4月零售超7.8万辆，同比增长15.5%", "url": "https://36kr.com/newsflashes/3790226054601987", "source": "36氪", "summary": "2026年1-4月荣威及MG零售超30.2万辆，同比增长5.8%；4月零售超7.8万辆，同比增长超15.5%，新能源车型表现亮眼。", "tag": "零售动态" },
+        { "id": 4, "title": "氪星晚报｜小红书发内部信：加大AI投入，柯南出任总裁", "url": "https://36kr.com/p/3789059666173189", "source": "36氪", "summary": "小红书发布内部信宣布组织架构调整，柯南出任总裁，同时宣布将大幅加大AI基础设施投入，推动内容与商业化的智能化升级。", "tag": "商业洞察" },
+        { "id": 5, "title": "移动端 Agent 的井喷或许近在眼前：以 ColorOS 抛砖引玉", "url": "https://sspai.com/post/109062", "source": "少数派", "summary": "手机AI再次爆发式发展的时间节点已经不远了，应用与安卓底层权限开放像是MCP，基于自动操作的积木像是Skills，配合不断增强的端侧模型，或许能让GUI Agent更进一步。", "tag": "AI Agent" },
+        { "id": 6, "title": "奥斯卡明确规定：AI 演员和剧本没资格获奖", "url": "https://www.ithome.com/0/945/960.htm", "source": "IT之家", "summary": "由AI生成的表演和剧本将不再符合奥斯卡奖的资格。美国电影艺术与科学学院的最新规则将于2027年3月举行的下一届颁奖典礼开始生效。", "tag": "AI产品" },
+        { "id": 7, "title": "众测｜邀你一同探索随身 AI 硬件入口 YoooClaw C·ONE", "url": "https://sspai.com/post/109207", "source": "少数派", "summary": "AI工具正在从「能回答问题」逐渐走向「能替你完成事情」，YoooClaw C·ONE 是一款主打随身AI的硬件产品，旨在让AI理解用户上下文并主动提供帮助。", "tag": "AI产品" },
+        { "id": 8, "title": "10年了，为什么无人机还是送不了外卖？", "url": "https://www.tmtpost.com/7974680.html", "source": "钛媒体", "summary": "无人机配送经历了10年发展，依然面临监管、安全、成本和基础设施等多重挑战，距离大规模商业落地仍有相当距离。", "tag": "机器人" },
+        { "id": 9, "title": "AirTag 被指存在跟踪隐患，苹果面临数十项相关诉讼", "url": "https://www.ithome.com/0/945/959.htm", "source": "IT之家", "summary": "苹果正面临30多起诉讼，原告均声称自己曾被AirTag跟踪。苹果被指控在明知AirTag可能被危险人士滥用的情况下，未采取足够的安全防护措施。", "tag": "AI产品" },
+        { "id": 10, "title": "谷歌将为 Gemini 投放广告，目前处于准备阶段", "url": "https://www.ithome.com/0/945/953.htm", "source": "IT之家", "summary": "谷歌母公司Alphabet首席商务官在财报电话会议中表示，Gemini未来可能会出现广告，目前正处于准备阶段，具体形式和时间表尚未公布。", "tag": "商业洞察" }
+      ]
+    };
+
     loadNews();
+
+    // ── 暗色模式切换 ──
+    const btn = document.getElementById('themeToggle');
+    const saved = localStorage.getItem('jaja-theme');
+    if (saved === 'dark') {
+      document.documentElement.setAttribute('data-theme', 'dark');
+      btn.textContent = '🌙';
+      btn.dataset.label = '暗色';
+    }
+    btn.addEventListener('click', () => {
+      const isDark = document.documentElement.getAttribute('data-theme') === 'dark';
+      if (isDark) {
+        // 当前暗色 → 切换到亮色
+        document.documentElement.removeAttribute('data-theme');
+        btn.textContent = '☀️';
+        btn.dataset.label = '亮色';
+        localStorage.setItem('jaja-theme', 'light');
+      } else {
+        // 当前亮色 → 切换到暗色
+        document.documentElement.setAttribute('data-theme', 'dark');
+        btn.textContent = '🌙';
+        btn.dataset.label = '暗色';
+        localStorage.setItem('jaja-theme', 'dark');
+      }
+    });
   </script>
 </body>
 </html>
