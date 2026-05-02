@@ -1,0 +1,99 @@
+{
+  "date": "2026-05-02",
+  "generated_at": "2026-05-02T14:23:15.015977+08:00",
+  "category": "餐饮零售 & AI科技",
+  "total": 10,
+  "editor_note": "今天共精选 10 条。餐饮零售板块：巅峰集结，FBIF2026首日回顾！全球等话题值得关注；AI科技板块：AI 短剧《霍去病》导演澄清：3000 等动态持续发酵。",
+  "items": [
+    {
+      "title": "巅峰集结，FBIF2026首日回顾！全球食品高层共探破局之路",
+      "url": "https://36kr.com/p/3789175930232065?f=rss",
+      "source": "36氪",
+      "source_icon": "🔵",
+      "summary": "作者：FBIF媒体部 FBIF2026食品饮料创新论坛及FBIF食品创新展（f展）于 2026年4月27-29日在杭州国际博览中心 举办。",
+      "tag": "餐饮动态",
+      "id": 1
+    },
+    {
+      "title": "小红书害怕的，从来都不是俞浩",
+      "url": "https://www.tmtpost.com/7975131.html",
+      "source": "钛媒体",
+      "source_icon": "🟠",
+      "summary": "一个在骂社区，一个在调结构。",
+      "tag": "电商",
+      "id": 2
+    },
+    {
+      "title": "AI 短剧《霍去病》导演澄清：3000 元仅是算力成本，80 集、5 亿播放实属夸大",
+      "url": "https://www.ithome.com/0/945/987.htm",
+      "source": "IT之家",
+      "source_icon": "🟢",
+      "summary": "随着AI生成视频的崛起，今年 2 月，一则AI 短剧《霍去病》以“3000元成本、48 小时、3 个人、80 集、5 亿播放”的词条，引爆舆论场。",
+      "tag": "AI算力",
+      "id": 3
+    },
+    {
+      "title": "OpenAI CEO 萨姆 · 奥尔特曼：我们不会创造取代人类的实体",
+      "url": "https://www.ithome.com/0/945/986.htm",
+      "source": "IT之家",
+      "source_icon": "🟢",
+      "summary": "OpenAI创始人兼 CEO 萨姆 ·奥尔特曼昨天在 X 平台表示：“我们希望打造增强和提升人类能力的工具，而不是创造取代人类的实体”。",
+      "tag": "AI产品",
+      "id": 4
+    },
+    {
+      "title": "家长违规让娃独自乘坐自动驾驶出租车，Waymo 出手整治",
+      "url": "https://www.ithome.com/0/945/984.htm",
+      "source": "IT之家",
+      "source_icon": "🟢",
+      "summary": "根据加州法律规定，自动驾驶汽车不得载运无人陪伴的未成年人。然而许多时间紧张的父母还是会使用自己的Waymo账号，让自动驾驶出租车送孩子去学校、参加课外活动。甚至有些家长表示，没有司机反而让孩子更加安全。",
+      "tag": "机器人",
+      "id": 5
+    },
+    {
+      "title": "移动端 Agent 的井喷或许近在眼前：以 ColorOS 抛砖引玉",
+      "url": "https://sspai.com/post/109062",
+      "source": "少数派",
+      "source_icon": "🔵",
+      "summary": "我觉得手机AI再次爆发式发展的时间节点已经不远了，应用与安卓的底层权限开放像是 MCP，而基于自动操作的积木像是 Skills，配合不断增强的端侧模型，或许能让GUI Agent更进一步。",
+      "tag": "AI Agent",
+      "id": 6
+    },
+    {
+      "title": "众测｜邀你一同探索随身 AI 硬件入口 YoooClaw C·ONE",
+      "url": "https://sspai.com/post/109207",
+      "source": "少数派",
+      "source_icon": "🔵",
+      "summary": "现在AI工具正在从「能回答问题」逐渐走向「能替你完成事情」。我们不再只满足于打开一个App、输入一段提示词、等待一次回复，而是希望AI能理解我们的上下文，知道我们正在处理什么信息，并在合适的时候主动帮…",
+      "tag": "AI产品",
+      "id": 7
+    },
+    {
+      "title": "AMD 第一方迷你主机锐龙 AI Halo 实物现身，消息称 6 月推出",
+      "url": "https://www.ithome.com/0/946/000.htm",
+      "source": "IT之家",
+      "source_icon": "🟢",
+      "summary": "AMD在 CES 2026上宣布了第一方迷你主机锐龙AIHalo，该设备基于AMD 锐龙 AI Max+ 395处理器，最高可支持128GB的统一内存。",
+      "tag": "AI产品",
+      "id": 8
+    },
+    {
+      "title": "苹果官方 App 误打包了 Claude.md，原来也在用 Vibe Coding",
+      "url": "https://www.ithome.com/0/945/996.htm",
+      "source": "IT之家",
+      "source_icon": "🟢",
+      "summary": "苹果大失误！把自用的Claude.md 打包到了官方 App里。这下直接被坐实了： 苹果内部在使用ClaudeCode 构建生产级应用。 这么大的公司，也在VibeCoding？",
+      "tag": "大模型",
+      "id": 9
+    },
+    {
+      "title": "养一只“赛博桌宠”：OpenAI Codex 推出宠物模式",
+      "url": "https://www.ithome.com/0/945/989.htm",
+      "source": "IT之家",
+      "source_icon": "🟢",
+      "summary": "OpenAI今天宣布编程工具 Codex现已推出宠物模式，可以在电脑桌面上养一只“赛博桌宠”。 据官方文档所述，Codex 宠物是可选组件。",
+      "tag": "AI产品",
+      "id": 10
+    }
+  ]
+}
