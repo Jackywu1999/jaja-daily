@@ -1,0 +1,99 @@
+{
+  "date": "2026-05-04",
+  "generated_at": "2026-05-04T16:08:25.014068+08:00",
+  "category": "餐饮零售 & AI科技",
+  "total": 10,
+  "editor_note": "今天共精选 10 条。餐饮零售板块：“置顶”始祖鸟，小红书想成为升级版唯品会等话题值得关注；AI科技板块：Linux 7.1 RC2 发布，AI 等动态持续发酵。",
+  "items": [
+    {
+      "title": "“置顶”始祖鸟，小红书想成为升级版唯品会？",
+      "url": "https://www.tmtpost.com/7975655.html",
+      "source": "钛媒体",
+      "source_icon": "🟠",
+      "summary": "小红书电商等于几个唯品会",
+      "tag": "电商",
+      "id": 1
+    },
+    {
+      "title": "Linux 7.1 RC2 发布，AI 已渗透到内核开发",
+      "url": "https://www.ithome.com/0/946/238.htm",
+      "source": "IT之家",
+      "source_icon": "🟢",
+      "summary": "LinusTorvalds 刚刚发布了 Linux7.1 的第二个候选版本（RC2），表示整体开发进展一切正常。这意味着，Linux7.1很有可能在第七个候选版本（RC7）之后准时正式发布。",
+      "tag": "AI产品",
+      "id": 2
+    },
+    {
+      "title": "AMD 锐龙 AI Max+ PRO 495 处理器现身：8065S 核显，192GB 内存",
+      "url": "https://www.ithome.com/0/946/232.htm",
+      "source": "IT之家",
+      "source_icon": "🟢",
+      "summary": "PassMark基准测试数据库在 4 月 15日的时候记录到了首条AMD 锐龙 AI Max+ PRO495 处理器的成绩，这一型号预计将成为锐龙AI Max 400 \"GorgonHalo\" 家族的…",
+      "tag": "AI产品",
+      "id": 3
+    },
+    {
+      "title": "苹果机器人项目高级工程师离职，跳槽谷歌 DeepMind",
+      "url": "https://www.ithome.com/0/946/231.htm",
+      "source": "IT之家",
+      "source_icon": "🟢",
+      "summary": "苹果已有大量员工跳槽至竞争对手公司，如今这几乎成了每周都会上演的常态。据悉，又一名高级工程师现已离职跳槽至谷歌，不再继续参与苹果下一个未来感十足的项目：机器人业务。",
+      "tag": "机器人",
+      "id": 4
+    },
+    {
+      "title": "卓驭于贝贝：向物理AI转型，是生存法则的必然选择 | 最前线",
+      "url": "https://36kr.com/p/3789475357400068?f=rss",
+      "source": "36氪",
+      "source_icon": "🔵",
+      "summary": "文｜肖漫编辑｜李勤当下的智能汽车领域，物理AI已成为高频词汇，绝大多数智能驾驶算法厂商都在往“物理AI”转型。卓驭在北京车展上也发布了面向移动物理AI 的原生多模态基础模型。",
+      "tag": "AI产品",
+      "id": 5
+    },
+    {
+      "title": "移动端 Agent 的井喷或许近在眼前：以 ColorOS 抛砖引玉",
+      "url": "https://sspai.com/post/109062",
+      "source": "少数派",
+      "source_icon": "🔵",
+      "summary": "我觉得手机AI再次爆发式发展的时间节点已经不远了，应用与安卓的底层权限开放像是 MCP，而基于自动操作的积木像是 Skills，配合不断增强的端侧模型，或许能让GUI Agent更进一步。",
+      "tag": "AI Agent",
+      "id": 6
+    },
+    {
+      "title": "众测｜邀你一同探索随身 AI 硬件入口 YoooClaw C·ONE",
+      "url": "https://sspai.com/post/109207",
+      "source": "少数派",
+      "source_icon": "🔵",
+      "summary": "现在AI工具正在从「能回答问题」逐渐走向「能替你完成事情」。我们不再只满足于打开一个App、输入一段提示词、等待一次回复，而是希望AI能理解我们的上下文，知道我们正在处理什么信息，并在合适的时候主动帮…",
+      "tag": "AI产品",
+      "id": 7
+    },
+    {
+      "title": "巴菲特继任者阿贝尔：伯克希尔不会“盲目跟风”追逐 AI",
+      "url": "https://www.ithome.com/0/946/264.htm",
+      "source": "IT之家",
+      "source_icon": "🟢",
+      "summary": "沃伦 · 巴菲特向来不追逐最新科技风口，更倾向于只在自己的“能力圈”内投资。今年年初接替巴菲特出任伯克希尔 ·哈撒韦CEO 的格雷格 ·阿贝尔，也在奥马哈股东大会上表明了类似态度：伯克希尔不会因为外界…",
+      "tag": "AI产品",
+      "id": 8
+    },
+    {
+      "title": "三星新一代 AI 家电获得新技能：冰箱能帮你整理食材购物清单",
+      "url": "https://www.ithome.com/0/946/258.htm",
+      "source": "IT之家",
+      "source_icon": "🟢",
+      "summary": "三星正将冰箱变成 AI“私人采购员”。三星新一代AI 家电将获得一批新功能：识别用户声音、自动更新购物清单，以及记录冰箱里的食材 。",
+      "tag": "电商",
+      "id": 9
+    },
+    {
+      "title": "英伟达黄仁勋痛批 Anthropic 阿莫迪，呼吁 AI 行业领袖慎言慎行、以事实为据",
+      "url": "https://www.ithome.com/0/946/240.htm",
+      "source": "IT之家",
+      "source_icon": "🟢",
+      "summary": "英伟达CEO 黄仁勋上周四在《Memos tothe President》播客节目表示，行业领袖应该在谈论AI重要性时应“慎言慎行”。",
+      "tag": "AI算力",
+      "id": 10
+    }
+  ]
+}
