@@ -1,0 +1,99 @@
+{
+  "date": "2026-05-05",
+  "generated_at": "2026-05-05T14:37:10.336541+08:00",
+  "category": "餐饮零售 & AI科技",
+  "total": 10,
+  "editor_note": "今天共精选 10 条。AI科技板块：IPO 前夕，消息称 OpenAI 曾考等动态持续发酵。",
+  "items": [
+    {
+      "title": "IPO 前夕，消息称 OpenAI 曾考虑分拆机器人和消费硬件部门、避免拖累核心业务",
+      "url": "https://www.ithome.com/0/946/364.htm",
+      "source": "IT之家",
+      "source_icon": "🟢",
+      "summary": "OpenAI首席执行官萨姆 · 奥尔特曼去年晚些时候曾讨论将公司机器人部门和消费硬件部门分拆出去 ，这一举措旨在为它们提供更多发展空间，而不会拖累核心业务。",
+      "tag": "AI投融资",
+      "id": 1
+    },
+    {
+      "title": "中国移动官宣将推 AI-eSIM 产品",
+      "url": "https://www.ithome.com/0/946/362.htm",
+      "source": "IT之家",
+      "source_icon": "🟢",
+      "summary": "2026移动云大会将于 5 月 7 日-9日在江苏苏州金鸡湖国际会议中心举办，中国移动今日官宣，届时将带来AI-eSIM 产品。",
+      "tag": "AI产品",
+      "id": 2
+    },
+    {
+      "title": "成立仅 1 年，物理 AI 初创企业 ARI 被 Meta 收购",
+      "url": "https://www.ithome.com/0/946/359.htm",
+      "source": "IT之家",
+      "source_icon": "🟢",
+      "summary": "Meta当地时间本月 1 日完成了对物理 AI模型初创企业Assured RobotIntelligence(ARI)的收购，这笔交易的财务条款未被披露。",
+      "tag": "AI投融资",
+      "id": 3
+    },
+    {
+      "title": "在硅谷，中美具身公司聊了聊了4个问题的解法",
+      "url": "https://36kr.com/p/3792155815304450?f=rss",
+      "source": "36氪",
+      "source_icon": "🔵",
+      "summary": "文｜周鑫雨编辑｜杨轩规模化落地，今年的具身公司都在谈这个。 数字竞速，不约而同出现在具身公司的产线、招股书、出货量上——2026年4月以来，智元机器人宣布第1万台机器人量产下线，5000到10000，…",
+      "tag": "机器人",
+      "id": 4
+    },
+    {
+      "title": "又一算力独角兽，冲击IPO",
+      "url": "https://36kr.com/p/3791796527602951?f=rss",
+      "source": "36氪",
+      "source_icon": "🔵",
+      "summary": "作者丨韦香惠来源丨东四十条资本A股即将迎来一只“算力独角兽”，估值已站上500亿元门槛。 主角是来自河南的超聚变数字技术股份有限公司。从今年1月提交上市辅导备案，到IPO辅导工作完成，仅用四个多月时间。",
+      "tag": "AI投融资",
+      "id": 5
+    },
+    {
+      "title": "移动端 Agent 的井喷或许近在眼前：以 ColorOS 抛砖引玉",
+      "url": "https://sspai.com/post/109062",
+      "source": "少数派",
+      "source_icon": "🔵",
+      "summary": "我觉得手机AI再次爆发式发展的时间节点已经不远了，应用与安卓的底层权限开放像是 MCP，而基于自动操作的积木像是 Skills，配合不断增强的端侧模型，或许能让GUI Agent更进一步。",
+      "tag": "AI Agent",
+      "id": 6
+    },
+    {
+      "title": "郭明錤：OpenAI 首款 AI Agent 手机目标最快于 2027 年上半年量产，预计采用天玑 9600 定制版本",
+      "url": "https://www.ithome.com/0/946/378.htm",
+      "source": "IT之家",
+      "source_icon": "🟢",
+      "summary": "天风国际分析师郭明錤今日对上周发布的产业调查进行更新，称OpenAI 可能正加速首款 AIAgent 手机开发，目标最快于 2027 年上半年量产，考虑原因可能包括有利于年底IPO叙事、AIAgent…",
+      "tag": "AI Agent",
+      "id": 7
+    },
+    {
+      "title": "美国考虑对新型 AI 模型实施更严格监管，有望成立专门的监督小组",
+      "url": "https://www.ithome.com/0/946/374.htm",
+      "source": "IT之家",
+      "source_icon": "🟢",
+      "summary": "美国白宫可能将成立一个新的工作组来监督AI 的发展。该媒体的消息人士称，在AI模型公开发布之前进行联邦审查，可能成为该委员会的一项权力。",
+      "tag": "大模型",
+      "id": 8
+    },
+    {
+      "title": "英伟达黄仁勋称人工智能创造就业机会，反驳“AI 末日论”",
+      "url": "https://www.ithome.com/0/946/373.htm",
+      "source": "IT之家",
+      "source_icon": "🟢",
+      "summary": "当地时间5 月 4日晚，英伟达首席执行官黄仁勋表示，人工智能是工业规模的就业机会生成器，而非所谓的“人工智能末日论者”经常指责的大规模失业的预兆。",
+      "tag": "AI算力",
+      "id": 9
+    },
+    {
+      "title": "卓驭于贝贝：向物理AI转型，是生存法则的必然选择 | 最前线",
+      "url": "https://36kr.com/p/3789475357400068?f=rss",
+      "source": "36氪",
+      "source_icon": "🔵",
+      "summary": "文｜肖漫编辑｜李勤当下的智能汽车领域，物理AI已成为高频词汇，绝大多数智能驾驶算法厂商都在往“物理AI”转型。卓驭在北京车展上也发布了面向移动物理AI 的原生多模态基础模型。",
+      "tag": "AI产品",
+      "id": 10
+    }
+  ]
+}
