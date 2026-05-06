@@ -1,0 +1,99 @@
+{
+  "date": "2026-05-07",
+  "generated_at": "2026-05-07T07:44:56.279955+08:00",
+  "category": "餐饮零售 & AI科技",
+  "total": 10,
+  "editor_note": "今天共精选 10 条。餐饮零售板块：巴西零售商GPA与债权人达成协议，削减过等话题值得关注；AI科技板块：SpaceX 向 Anthropic 开等动态持续发酵。",
+  "items": [
+    {
+      "title": "巴西零售商GPA与债权人达成协议，削减过半债务",
+      "url": "https://36kr.com/newsflashes/3798413671750662?f=rss",
+      "source": "36氪",
+      "source_icon": "🔵",
+      "summary": "巴西零售巨头GPA宣布，已就其司法外重组的债务方案与代表57.49%债权的债权人达成协议。该方案已获董事会一致通过，正等待圣保罗第三破产法院的批准，以使协议对全体相关债权人具有约束力。（新浪财经）",
+      "tag": "零售动态",
+      "id": 1
+    },
+    {
+      "title": "SpaceX 向 Anthropic 开放大型 AI 超级计算机 Colossus 1 使用权，包含超 22 万颗英伟达 GPU",
+      "url": "https://www.ithome.com/0/947/024.htm",
+      "source": "IT之家",
+      "source_icon": "🟢",
+      "summary": "当地时间5 月 6日，SpaceX与 Anthropic同时宣布，双方已签署协议，Anthropic可使用 SpaceX Colossus1 数据中心的所有算力容量，这是全球规模最大且部署速度最快的A…",
+      "tag": "AI算力",
+      "id": 2
+    },
+    {
+      "title": "爱彼迎 CEO 切斯基：只负责“管人”的管理者将很快会被 AI 时代淘汰",
+      "url": "https://www.ithome.com/0/947/020.htm",
+      "source": "IT之家",
+      "source_icon": "🟢",
+      "summary": "爱彼迎Airbnb CEO 布莱恩 ·切斯基认为，只负责“管人”的管理者很快会被时代淘汰。“我不认为人员管理者未来会有任何价值。那些有大量周期性一对一会议的人将无法生存。那种领导风格行不通。",
+      "tag": "AI产品",
+      "id": 3
+    },
+    {
+      "title": "心理施压攻破安全防线，Anthropic Claude 竟主动输出违禁内容",
+      "url": "https://www.ithome.com/0/947/019.htm",
+      "source": "IT之家",
+      "source_icon": "🟢",
+      "summary": "Anthropic 多年来一直将自身打造为主打安全的人工智能公司，但The Verge获得的最新安全研究显示，Claude 刻意塑造的友善人设本身或许就是一个安全漏洞。",
+      "tag": "大模型",
+      "id": 4
+    },
+    {
+      "title": "8点1氪丨豆包新增付费订阅；抖音集团副总裁回应红果短剧付费；苹果因Siri人工智能功能推迟发布，以2.5亿美元和解诉讼",
+      "url": "https://36kr.com/p/3797041945304327?f=rss",
+      "source": "36氪",
+      "source_icon": "🔵",
+      "summary": "今日热点导览分析师称iPhone 18Pro定价策略激进，起步价8999元 胖东来郑州店注册成立，预计今年10月开业 保时捷卖掉布加迪，预计2026年销量下滑至3万辆 马斯克就推特持股披露诉讼与美证监…",
+      "tag": "AI投融资",
+      "id": 5
+    },
+    {
+      "title": "我写了一个 skill，用 AI 给 AI「除味儿」",
+      "url": "https://sspai.com/post/109288",
+      "source": "少数派",
+      "source_icon": "🔵",
+      "summary": "强硬规则约束下的公式化表达，即便去除了现在的AI味，会不会产生新的AI味呢？",
+      "tag": "AI产品",
+      "id": 6
+    },
+    {
+      "title": "马斯克：xAI 作为独立公司被解散，更名为 SpaceXAI",
+      "url": "https://www.ithome.com/0/947/033.htm",
+      "source": "IT之家",
+      "source_icon": "🟢",
+      "summary": "马斯克在 X 平台表示，xAI 将作为一家独立公司被解散，因此它将仅为 SpaceXAI，即 SpaceX 的 AI 产品。",
+      "tag": "AI产品",
+      "id": 7
+    },
+    {
+      "title": "谷歌停运 Project Mariner，跨网页自动化技术整合至 AI Mode",
+      "url": "https://www.ithome.com/0/947/028.htm",
+      "source": "IT之家",
+      "source_icon": "🟢",
+      "summary": "谷歌于5 月 4日挂出横幅公告，宣布停运实验性网页自动化项目Project Mariner。该项目技术并未废弃，已整合至Gemini Agent 和 AIMode 等核心产品中。",
+      "tag": "AI产品",
+      "id": 8
+    },
+    {
+      "title": "ANKER 安克 Air+ 磁吸充电宝预售：10000mAh、无线 15W、有线 30W，399 元",
+      "url": "https://www.ithome.com/0/947/027.htm",
+      "source": "IT之家",
+      "source_icon": "🟢",
+      "summary": "安克Air+磁吸充电宝昨晚开始预售，10000mAh版本 售价 399 元。 这款磁吸充电宝有星夜黑、雪域白、海盐蓝、元气橙四种颜色可选，厚约1.47cm，重约210g，可为iPhone 17 手机提…",
+      "tag": "AI产品",
+      "id": 9
+    },
+    {
+      "title": "一家AI原生健康硬件公司完成近亿元融资，韶音、甘洁出手，高秉强投过｜硬氪首发",
+      "url": "https://36kr.com/p/3682907323150215?f=rss",
+      "source": "36氪",
+      "source_icon": "🔵",
+      "summary": "作者｜黄楠编辑｜袁斯来硬氪获悉，AI原生健康硬件公司「杉木SHANMU」近日完成近亿元A轮融资，本轮由石溪资本（兆易创新旗下战投基金）领投，韶音科技、博将资本、涌铧投资、上海天使会等多家机构联合参投，…",
+      "tag": "AI投融资",
+      "id": 10
+    }
+  ]
+}
