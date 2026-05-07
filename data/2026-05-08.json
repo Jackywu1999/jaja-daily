@@ -1,0 +1,99 @@
+{
+  "date": "2026-05-08",
+  "generated_at": "2026-05-08T07:50:23.951289+08:00",
+  "category": "餐饮零售 & AI科技",
+  "total": 10,
+  "editor_note": "今天共精选 10 条。餐饮零售板块：三星家电门店称月底或下月中旬退市：“被国等话题值得关注；AI科技板块：OpenAI 为 ChatGPT 推出“等动态持续发酵。",
+  "items": [
+    {
+      "title": "三星家电门店称月底或下月中旬退市：“被国产压得太厉害” 中国产线仍面向海外",
+      "url": "https://36kr.com/newsflashes/3799404936010757?f=rss",
+      "source": "36氪",
+      "source_icon": "🔵",
+      "summary": "三星家电在中国市场的调整正在进入门店一线。记者探访发现，有门店工作人员称，相关家电产品“被国产压得太厉害”，预计月底或下月中旬不再销售。",
+      "tag": "商业洞察",
+      "id": 1
+    },
+    {
+      "title": "【钛晨报】官方发布医药代表管理办法：禁止9种行为，严防商业贿赂；星空卫视今起停播，母公司三年市值蒸发近500亿；出资20亿，京东正式拿下AMC牌照",
+      "url": "https://www.tmtpost.com/7979654.html",
+      "source": "钛媒体",
+      "source_icon": "🟠",
+      "summary": "A股总市值突破120万亿；中国央行连续第18个月增持黄金；段永平再出手，“把神华都换了泡泡玛特”；中美正考虑启动有关人工智能的官方讨论？",
+      "tag": "电商",
+      "id": 2
+    },
+    {
+      "title": "OpenAI 为 ChatGPT 推出“可信联系人”，应对 AI 对话中的自残风险",
+      "url": "https://www.ithome.com/0/947/454.htm",
+      "source": "IT之家",
+      "source_icon": "🟢",
+      "summary": "据科技媒体TechCrunch昨天报道，OpenAI现已为 ChatGPT推出“可信联系人”新功能，当用户对话中出现自残相关内容时，可鼓励成年用户主动联系他人，并向联系人自动发送提醒，让他们多一分沟通。",
+      "tag": "大模型",
+      "id": 3
+    },
+    {
+      "title": "2023 年被罢免后，OpenAI CEO 奥尔特曼“短信轰炸”穆拉蒂寻求复职",
+      "url": "https://www.ithome.com/0/947/451.htm",
+      "source": "IT之家",
+      "source_icon": "🟢",
+      "summary": "马斯克诉奥尔特曼案中新披露的证据，展示了米拉· 穆拉蒂和萨姆 · 奥尔特曼在OpenAI 权力震荡期间的疯狂短信。2023 年末，奥尔特曼被短暂解除OpenAI CEO职务，穆拉蒂一度接任。",
+      "tag": "AI产品",
+      "id": 4
+    },
+    {
+      "title": "谷歌发布极简无屏、无按键健身手环 Fitbit Air，专注无感健康监测",
+      "url": "https://www.ithome.com/0/947/441.htm",
+      "source": "IT之家",
+      "source_icon": "🟢",
+      "summary": "谷歌Fitbit Air现已正式发布，证实了数月来有关这款全新无屏健身手环的传闻。在新品发布的同时，谷歌还推出了全新谷歌健康App（GoogleHealth）与谷歌健康教练服务（GoogleHealt…",
+      "tag": "AI产品",
+      "id": 5
+    },
+    {
+      "title": "我写了一个 skill，用 AI 给 AI「除味儿」",
+      "url": "https://sspai.com/post/109288",
+      "source": "少数派",
+      "source_icon": "🔵",
+      "summary": "强硬规则约束下的公式化表达，即便去除了现在的AI味，会不会产生新的AI味呢？",
+      "tag": "AI产品",
+      "id": 6
+    },
+    {
+      "title": "OpenAI 自研芯片项目遇阻：博通要求微软采购首批四成产能才愿出资",
+      "url": "https://www.ithome.com/0/947/466.htm",
+      "source": "IT之家",
+      "source_icon": "🟢",
+      "summary": "去年秋天，OpenAI与芯片巨头博通高调宣布联合研发 AI芯片，彼时双方都将其视作一桩板上钉钉的交易。然而数月过去，这笔被寄予厚望的合作却陷入了僵局。",
+      "tag": "AI算力",
+      "id": 7
+    },
+    {
+      "title": "尺寸类似 AirTag：古尔曼称苹果正开发 AI 可穿戴设备，能和 iOS 27 版 Siri 语音交互",
+      "url": "https://www.ithome.com/0/947/460.htm",
+      "source": "IT之家",
+      "source_icon": "🟢",
+      "summary": "彭博社记者马克· 古尔曼（MarkGurman）昨日（5月 7日）爆料称，苹果正在开发两款智能穿戴设备：一款智能眼镜，一款带摄像头的吊坠配件。",
+      "tag": "AI产品",
+      "id": 8
+    },
+    {
+      "title": "苹果首款 AI 可穿戴设备：内置摄像头的 AirPods 已进入 DVT 阶段，预计最快 9 月搭载新 Siri 亮相",
+      "url": "https://www.ithome.com/0/947/455.htm",
+      "source": "IT之家",
+      "source_icon": "🟢",
+      "summary": "彭博社马克 · 古尔曼今日报道称，传闻已久的内置摄像头的AirPods已进入开发后期阶段，有望成为苹果首款AI可穿戴设备，标志着其在AI硬件领域迈出重要一步。",
+      "tag": "AI产品",
+      "id": 9
+    },
+    {
+      "title": "在模型厂碾压之前，AI视频Agent产品是否只能挣波快钱？",
+      "url": "https://36kr.com/p/3786528811572481?f=rss",
+      "source": "36氪",
+      "source_icon": "🔵",
+      "summary": "文｜王毓婵周鑫雨 编辑｜杨轩“看流水（即营收），AI视频类这些项目的表现确实很不错，可以说是AI最赚钱的细分赛道之一。”投资行业人士对36氪说。",
+      "tag": "大模型",
+      "id": 10
+    }
+  ]
+}
