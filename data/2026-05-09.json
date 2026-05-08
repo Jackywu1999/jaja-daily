@@ -1,0 +1,99 @@
+{
+  "date": "2026-05-09",
+  "generated_at": "2026-05-09T07:53:35.365302+08:00",
+  "category": "餐饮零售 & AI科技",
+  "total": 10,
+  "editor_note": "今天共精选 10 条。餐饮零售板块：小红书四年AI 路：FOMO、犹豫，到突等话题值得关注；AI科技板块：安全公司曝光黑客架设山寨 Claude 等动态持续发酵。",
+  "items": [
+    {
+      "title": "小红书四年AI 路：FOMO、犹豫，到突然加速",
+      "url": "https://36kr.com/p/3799028783439111?f=rss",
+      "source": "36氪",
+      "source_icon": "🔵",
+      "summary": "作者| 肖思佳 编辑 | 乔芊 杨轩所有互联网大中厂都渴望在AI时代博得位置，在这场比赛中，小红书曾是克制的那个。 在一个搜索属性与社区属性并存，以真实经验分享为核心的产品中，活人感与AI、温情和算法…",
+      "tag": "电商",
+      "id": 1
+    },
+    {
+      "title": "8点1氪丨段永平再加仓泡泡玛特；多平台已下架“全李酒店”；世界杯决赛门票1张200万美元，FIFA回应",
+      "url": "https://36kr.com/p/3799881836633093?f=rss",
+      "source": "36氪",
+      "source_icon": "🔵",
+      "summary": "今日热点导览 30年前捐赠书画部分去向不明？天津美院回应张雪怒斥门店给用户备注磨叽并补偿车主1万茅台集团总经理王莉已回归港交所计划未来数月推出黄金期货马斯克：xAI作为独立公司将解散并入SpaceXT…",
+      "tag": "商业洞察",
+      "id": 2
+    },
+    {
+      "title": "告别跨境直邮，拉美电商进入本土化资格赛｜出海参考",
+      "url": "https://www.tmtpost.com/7980755.html",
+      "source": "钛媒体",
+      "source_icon": "🟠",
+      "summary": "拉美电商开启本土基础设施级竞争，2-3年内走完过去东南亚5年跨境升级之路？",
+      "tag": "电商",
+      "id": 3
+    },
+    {
+      "title": "安全公司曝光黑客架设山寨 Claude AI 网站，散播 Beagle 新型恶意木马",
+      "url": "https://www.ithome.com/0/947/981.htm",
+      "source": "IT之家",
+      "source_icon": "🟢",
+      "summary": "安全公司Sophos发文，透露有黑客架设山寨Claude网站，并利用搜索引擎竞价排名机制及广告系统传播虚假网站，吸引不知情的用户访问。",
+      "tag": "大模型",
+      "id": 4
+    },
+    {
+      "title": "紫光展锐发布端边 AI 芯片平台 N9 系列：4nm 工艺，Arm v9.2 CPU",
+      "url": "https://www.ithome.com/0/947/978.htm",
+      "source": "IT之家",
+      "source_icon": "🟢",
+      "summary": "紫光展锐(UNISOC) 在昨日举行的 2026新紫光集团创新峰会上发布了端边 AI 芯片平台 N9 系列。其采用4nm 工艺和 Arm v9.2 CPU架构，以“归一 + 灵活”为设计理念，可在不同…",
+      "tag": "AI算力",
+      "id": 5
+    },
+    {
+      "title": "我写了一个 skill，用 AI 给 AI「除味儿」",
+      "url": "https://sspai.com/post/109288",
+      "source": "少数派",
+      "source_icon": "🔵",
+      "summary": "强硬规则约束下的公式化表达，即便去除了现在的AI味，会不会产生新的AI味呢？",
+      "tag": "AI产品",
+      "id": 6
+    },
+    {
+      "title": "马斯克造访英特尔俄勒冈州工厂，考察 18A 工艺为 SpaceXAI 芯片寻求先进代工产能",
+      "url": "https://www.ithome.com/0/948/002.htm",
+      "source": "IT之家",
+      "source_icon": "🟢",
+      "summary": "根据网友晒出的照片，埃隆 · 马斯克近日率领团队访问了英特尔位于俄勒冈州的先进晶圆厂。 该消息刚刚也得到了马斯克本人确认，而且马斯克同时还晒出了与英特尔CEO陈立武的合照。",
+      "tag": "AI算力",
+      "id": 7
+    },
+    {
+      "title": "苹果 CarPlay 接入马斯克的 Grok 模型，在车内和 AI 自然聊天",
+      "url": "https://www.ithome.com/0/947/994.htm",
+      "source": "IT之家",
+      "source_icon": "🟢",
+      "summary": "科技媒体9to5Mac 昨日（5 月 8日）发布博文，报道称继ChatGPT 和 Perplexity之后，苹果 CarPlay还接入了马斯克旗下的Grok AI模型。",
+      "tag": "大模型",
+      "id": 8
+    },
+    {
+      "title": "文件称微软一度担心 OpenAI 会投奔亚马逊，还会“污蔑”Azure",
+      "url": "https://www.ithome.com/0/947/987.htm",
+      "source": "IT之家",
+      "source_icon": "🟢",
+      "summary": "马斯克诉奥尔特曼案披露的法庭文件显示，早在OpenAI 还在试验 AI游戏机器人时，微软CEO 萨蒂亚 · 纳德拉和OpenAICEO 萨姆 · 奥尔特曼就已经开始酝酿AI 合作。",
+      "tag": "AI产品",
+      "id": 9
+    },
+    {
+      "title": "小红书四年AI 路：FOMO、犹豫，到突然加速",
+      "url": "https://36kr.com/p/3799028783439111?f=rss",
+      "source": "36氪",
+      "source_icon": "🔵",
+      "summary": "作者| 肖思佳 编辑 | 乔芊 杨轩所有互联网大中厂都渴望在AI时代博得位置，在这场比赛中，小红书曾是克制的那个。 在一个搜索属性与社区属性并存，以真实经验分享为核心的产品中，活人感与AI、温情和算法…",
+      "tag": "电商",
+      "id": 10
+    }
+  ]
+}
