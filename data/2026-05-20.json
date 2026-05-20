@@ -1,0 +1,99 @@
+{
+  "date": "2026-05-20",
+  "generated_at": "2026-05-20T07:59:16.327817+08:00",
+  "category": "餐饮零售 & AI科技",
+  "total": 10,
+  "editor_note": "今天共精选 10 条。餐饮零售板块：氪星晚报 ｜SpaceX即将成为马斯克旗等话题值得关注；AI科技板块：谷歌升级 AI Studio：文本直出原等动态持续发酵。",
+  "items": [
+    {
+      "title": "氪星晚报 ｜SpaceX即将成为马斯克旗下第二家上市公司；京东、洋河集团等在宿迁成立新动能股权投资基金，出资额10亿",
+      "url": "https://36kr.com/p/3816109626138119?f=rss",
+      "source": "36氪",
+      "source_icon": "🔵",
+      "summary": "大公司： 圆通速递：4月快递产品收入60.71亿元，同比增长5.49% 36氪获悉，圆通速递公告，4月快递产品收入60.71亿元，同比增长5.49%；业务完成量27.26亿票，同比增长1.22%；快递…",
+      "tag": "电商",
+      "id": 1
+    },
+    {
+      "title": "前瞻2026丨即饮咖啡，走到“十字路口”？",
+      "url": "https://www.tmtpost.com/7993626.html",
+      "source": "钛媒体",
+      "source_icon": "🟠",
+      "summary": "这次要“火”起来了？",
+      "tag": "餐饮动态",
+      "id": 2
+    },
+    {
+      "title": "谷歌升级 AI Studio：文本直出原生安卓应用，打通测试全流程",
+      "url": "https://www.ithome.com/0/952/541.htm",
+      "source": "IT之家",
+      "source_icon": "🟢",
+      "summary": "在今日的2026 谷歌 I/O开发者大会上，谷歌为Google AI Studio加入原生安卓应用生成功能， 用户可直接在浏览器里用文本提示创建应用。",
+      "tag": "AI产品",
+      "id": 3
+    },
+    {
+      "title": "谷歌推出 Google Pics 应用：AI 生图加局部精细编辑",
+      "url": "https://www.ithome.com/0/952/540.htm",
+      "source": "IT之家",
+      "source_icon": "🟢",
+      "summary": "在今日的2026 谷歌 I/O开发者大会上，谷歌面向Workspace用户，推出AI 图像生成与设计工具 GooglePics， 主要用途包括制作活动邀请函、海报等视觉内容。",
+      "tag": "AI产品",
+      "id": 4
+    },
+    {
+      "title": "谷歌推出 Ask Play：连续对话 AI 筛选应用与游戏",
+      "url": "https://www.ithome.com/0/952/539.htm",
+      "source": "IT之家",
+      "source_icon": "🟢",
+      "summary": "在今日的2026 谷歌 I/O开发者大会上，谷歌针对Play 应用商店推出 AskPlay， 希望把原本依赖列表翻找、评论筛选和反复试错的找应用流程，变成更自然的连续问答方式。",
+      "tag": "AI产品",
+      "id": 5
+    },
+    {
+      "title": "YoooClaw C·ONE 体验：为 AI Agent 而生的硬件，怎样构筑了数字化的「我」？",
+      "url": "https://sspai.com/post/109889",
+      "source": "少数派",
+      "source_icon": "🔵",
+      "summary": "AI虽然现在具备了干活的能力，但对于很多人来说，它依旧只是个Chatbot。因为，大多数AI依然停留在屏幕里（当然，具身智能另说）：你需要打开手机或电脑，进入某个App，手动复制消息、描述背景、然后不…",
+      "tag": "AI Agent",
+      "id": 6
+    },
+    {
+      "title": "分手费 100 亿美元：消息称 SpaceX 将在 IPO 后收购 AI 编程公司 Cursor",
+      "url": "https://www.ithome.com/0/952/554.htm",
+      "source": "IT之家",
+      "source_icon": "🟢",
+      "summary": "北京时间5 月 20日，据彭博社报道，知情人士称，SpaceX预计将在其启动首次公开招股(IPO)，开始公开交易30天后，推进对AI 编程创业公司 Cursor的收购。",
+      "tag": "AI投融资",
+      "id": 7
+    },
+    {
+      "title": "OpenAI 联合创始人卡帕西官宣加盟 Anthropic，重返大模型研发前线",
+      "url": "https://www.ithome.com/0/952/553.htm",
+      "source": "IT之家",
+      "source_icon": "🟢",
+      "summary": "5月 20日，人工智能领域顶级研究员安德烈 · 卡帕西（AndrejKarpathy）正式宣布加入 Anthropic。作为 OpenAI 创始成员及前特斯拉AI 总监，卡帕西此举被视为Anthrop…",
+      "tag": "商业洞察",
+      "id": 8
+    },
+    {
+      "title": "OpenAI 为应对算力紧缺推出“保证容量”服务：客户可锁定 1 至 3 年长期算力，年消费越高折扣越大",
+      "url": "https://www.ithome.com/0/952/550.htm",
+      "source": "IT之家",
+      "source_icon": "🟢",
+      "summary": "OpenAI 刚刚宣布推出一项名为“保证容量”（Guaranteed Capacity）的新服务，旨在让客户能够长期锁定该公司用于人工智能工作负载的计算基础设施访问权限。",
+      "tag": "AI算力",
+      "id": 9
+    },
+    {
+      "title": "鲸跃动力获星海图数千万元种子轮投资，用「数据+模型+末端执行」打造开箱即用的Robo Labor丨涌现新项目",
+      "url": "https://36kr.com/p/3814860909600261?f=rss",
+      "source": "36氪",
+      "source_icon": "🔵",
+      "summary": "文｜王欣逸编辑｜邱晓芬 一句话介绍鲸跃动力成立于2026年，以「数据+模型+末端执行」闭环，提供面向场景、可快速部署的Robo Labor（机器人劳动力），让物理劳动力像AWS算力一样，可订阅、可弹性…",
+      "tag": "大模型",
+      "id": 10
+    }
+  ]
+}
