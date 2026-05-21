@@ -1,0 +1,99 @@
+{
+  "date": "2026-05-21",
+  "generated_at": "2026-05-21T08:03:46.230516+08:00",
+  "category": "餐饮零售 & AI科技",
+  "total": 10,
+  "editor_note": "今天共精选 10 条。餐饮零售板块：Airbnb官宣跨品类拓展，新增生鲜配送等话题值得关注；AI科技板块：AMD 称锐龙 AI Halo 定价 3等动态持续发酵。",
+  "items": [
+    {
+      "title": "Airbnb官宣跨品类拓展，新增生鲜配送、租车及AI工具等",
+      "url": "https://36kr.com/newsflashes/3818248041940099?f=rss",
+      "source": "36氪",
+      "source_icon": "🔵",
+      "summary": "Airbnb爱彼迎在2026夏季产品发布会上宣布多项跨品类拓展。出行方面，新增生鲜配送、专车接送机、行李寄存和租车服务。住宿方面，新增数千家精品酒店与独立酒店，首批覆盖纽约、巴黎等20个热门城市，并提…",
+      "tag": "餐饮动态",
+      "id": 1
+    },
+    {
+      "title": "618打了这么多年，今年京东终于换了张底牌",
+      "url": "https://www.tmtpost.com/7995553.html",
+      "source": "钛媒体",
+      "source_icon": "🟠",
+      "summary": "以AI为内核的618背后，藏着京东的AI全链条野心。",
+      "tag": "电商",
+      "id": 2
+    },
+    {
+      "title": "瓶装咖啡暗战汹涌：东鹏、瑞幸环伺，星巴克守擂",
+      "url": "https://www.tmtpost.com/7995637.html",
+      "source": "钛媒体",
+      "source_icon": "🟠",
+      "summary": "各大咖啡品牌正在逐步跳出门店场景，将战场延伸至商超和便利店货架。",
+      "tag": "餐饮动态",
+      "id": 3
+    },
+    {
+      "title": "AMD 称锐龙 AI Halo 定价 3999 美元，确认锐龙 AI Max 400 处理器",
+      "url": "https://www.ithome.com/0/953/070.htm",
+      "source": "IT之家",
+      "source_icon": "🟢",
+      "summary": "根据AMD 向英国媒体 TheRegister 传达的信息，AMD第一方 AI 开发迷你主机锐龙 AIHalo的 定价为 3999美元",
+      "tag": "AI产品",
+      "id": 4
+    },
+    {
+      "title": "蔡崇信、吴泳铭致股东信：努力将 AI+ 云打造成阿里巴巴又一个增长动力",
+      "url": "https://www.ithome.com/0/953/048.htm",
+      "source": "IT之家",
+      "source_icon": "🟢",
+      "summary": "今日，阿里巴巴集团主席蔡崇信和首席执行官吴泳铭联合发布致股东信。 信中称，阿里AI业务已跨越初期投入阶段，正式迈入商业化回报周期。",
+      "tag": "商业洞察",
+      "id": 5
+    },
+    {
+      "title": "当 AI 成为角色：漫谈我的 SillyTavern 使用经验",
+      "url": "https://sspai.com/post/109869",
+      "source": "少数派",
+      "source_icon": "🔵",
+      "summary": "ST 以及它背后的这套工作流起初只是我的无心的收获，但网上关于这方面的讨论并不多，实在可惜，故有此文。",
+      "tag": "AI产品",
+      "id": 6
+    },
+    {
+      "title": "YoooClaw C·ONE 体验：为 AI Agent 而生的硬件，怎样构筑了数字化的「我」？",
+      "url": "https://sspai.com/post/109889",
+      "source": "少数派",
+      "source_icon": "🔵",
+      "summary": "AI虽然现在具备了干活的能力，但对于很多人来说，它依旧只是个Chatbot。因为，大多数AI依然停留在屏幕里（当然，具身智能另说）：你需要打开手机或电脑，进入某个App，手动复制消息、描述背景、然后不…",
+      "tag": "AI Agent",
+      "id": 7
+    },
+    {
+      "title": "腾讯张军官宣操作系统层级 AI 助手“马维斯”正式上工，Windows、Mac、安卓端同步上线",
+      "url": "https://www.ithome.com/0/953/096.htm",
+      "source": "IT之家",
+      "source_icon": "🟢",
+      "summary": "腾讯公司公关总监张军今日宣布，腾讯出品的操作系统层级AI助手“马维斯”正式上工，能把整台电脑变成可对话的对象，开箱即用，Windows端、Mac 端、安卓端版本同步上线 。",
+      "tag": "AI产品",
+      "id": 8
+    },
+    {
+      "title": "冲刺 9 月上市，OpenAI 最快本周五提交 IPO 招股书草案",
+      "url": "https://www.ithome.com/0/953/090.htm",
+      "source": "IT之家",
+      "source_icon": "🟢",
+      "summary": "CNBC今天（5 月 21日）发布博文，报道称 OpenAI公司最快本周五递交首次公开募股（IPO）招股书草案，朝资本市场关键一步迈进。",
+      "tag": "AI投融资",
+      "id": 9
+    },
+    {
+      "title": "Stability AI 推出音频模型 Stability Audio 3.0，可生成最长 6 分钟专业级歌曲",
+      "url": "https://www.ithome.com/0/953/086.htm",
+      "source": "IT之家",
+      "source_icon": "🟢",
+      "summary": "据外媒TechCrunch今晚报道，AI初创公司 Stability AI推出全新音频生成模型家族Stability Audio3.0，其顶级版本据称可生成长达六分钟以上的专业级音乐。",
+      "tag": "大模型",
+      "id": 10
+    }
+  ]
+}
