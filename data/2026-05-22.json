@@ -1,0 +1,99 @@
+{
+  "date": "2026-05-22",
+  "generated_at": "2026-05-22T07:58:33.730014+08:00",
+  "category": "餐饮零售 & AI科技",
+  "total": 10,
+  "editor_note": "今天共精选 10 条。餐饮零售板块：36氪x PureblueAI清蓝战略合等话题值得关注；AI科技板块：摩根大通未来将扩招 AI 专家、缩招传统等动态持续发酵。",
+  "items": [
+    {
+      "title": "36氪x PureblueAI清蓝战略合作启动仪式暨《2026消费品牌AI推荐力名册》发布 | 2026 AI Partner·北京亦庄AI+产业大会",
+      "url": "https://36kr.com/p/3818877539091333?f=rss",
+      "source": "36氪",
+      "source_icon": "🔵",
+      "summary": "5月19日，2026北京亦庄AI+产业大会上，36氪与PureblueAI清蓝正式达成战略合作，并联合发布《2026消费品牌AI推荐力名册》。",
+      "tag": "商业洞察",
+      "id": 1
+    },
+    {
+      "title": "摩根大通未来将扩招 AI 专家、缩招传统银行家，迎战人工智能时代",
+      "url": "https://www.ithome.com/0/953/664.htm",
+      "source": "IT之家",
+      "source_icon": "🟢",
+      "summary": "摩根大通CEO 杰米 ·戴蒙明确指出，公司未来有望增加 AI 专家的招聘比例，同时缩减传统银行家的岗位规模，以应对AI技术的加速应用。“长远来看，AI 技术肯定会削减摩根大通的整体用工需求。",
+      "tag": "AI产品",
+      "id": 2
+    },
+    {
+      "title": "剪映国际版与谷歌合作，CapCut 编辑功能将集成到 Gemini 应用",
+      "url": "https://www.ithome.com/0/953/662.htm",
+      "source": "IT之家",
+      "source_icon": "🟢",
+      "summary": "剪映国际版CapCut 今日在 X平台宣布，正在与谷歌Gemini展开合作。 IT之家获悉，用户很快将能够直接在Gemini应用中，使用 CapCut的创意与编辑功能来编辑图像和视频 。",
+      "tag": "大模型",
+      "id": 3
+    },
+    {
+      "title": "自动驾驶车辆因洪水被困，Waymo 暂停亚特兰大地区 Robotaxi 服务",
+      "url": "https://www.ithome.com/0/953/661.htm",
+      "source": "IT之家",
+      "source_icon": "🟢",
+      "summary": "据外媒TechCrunch今晚报道，Waymo宣布暂停亚特兰大和圣安东尼奥的Robotaxi 运营服务，原因是无人驾驶出租车目前仍难以稳定应对暴雨和道路积水问题。",
+      "tag": "机器人",
+      "id": 4
+    },
+    {
+      "title": "从概念到产线一：AI在工业制造领域的深水区探索| 2026AI Partner·北京亦庄AI+产业大会",
+      "url": "https://36kr.com/p/3818903062004870?f=rss",
+      "source": "36氪",
+      "source_icon": "🔵",
+      "summary": "AI在工业制造领域，不是“锦上添花”的辅助工具，而是“重新设计工厂”的核心引擎。从AOI报废板的秒级识别，到刀具参数的动态优化，再到打通设计、生产、供应链的全链路智能——这场对话告诉我们，每1%的效率…",
+      "tag": "AI产品",
+      "id": 5
+    },
+    {
+      "title": "当 AI 成为角色：漫谈我的 SillyTavern 使用经验",
+      "url": "https://sspai.com/post/109869",
+      "source": "少数派",
+      "source_icon": "🔵",
+      "summary": "ST 以及它背后的这套工作流起初只是我的无心的收获，但网上关于这方面的讨论并不多，实在可惜，故有此文。",
+      "tag": "AI产品",
+      "id": 6
+    },
+    {
+      "title": "WordPress 7.0 发布：AI 建站新起点，超 420 项增强与修复",
+      "url": "https://www.ithome.com/0/953/683.htm",
+      "source": "IT之家",
+      "source_icon": "🟢",
+      "summary": "WordPress于 5 月 20 日发布 7.0正式版，代号 Armstrong，原生集成 AI外，还优化后台体验、响应式编辑、移动端导航和设计工具等。",
+      "tag": "AI产品",
+      "id": 7
+    },
+    {
+      "title": "允许订阅用户创作 AI 翻唱、Remix 音乐，Spotify 与环球音乐达成合作",
+      "url": "https://www.ithome.com/0/953/677.htm",
+      "source": "IT之家",
+      "source_icon": "🟢",
+      "summary": "Spotify 与环球音乐集团达成授权协议，未来将允许订阅用户利用AI创作翻唱歌曲和混音作品。 据报道，该功能预计将通过付费服务形式推出，订阅 Spotify Premium的用户可对参与授权计划的艺…",
+      "tag": "AI产品",
+      "id": 8
+    },
+    {
+      "title": "Mac 版 Codex 更新 Appshots 功能，窗口可直接“喂”给 AI",
+      "url": "https://www.ithome.com/0/953/675.htm",
+      "source": "IT之家",
+      "source_icon": "🟢",
+      "summary": "OpenAI公司今天（5 月 22 日）更新桌面版Codex 应用程序，Mac 版新增 Appshots功能，/goal 命令也从实验功能转正。",
+      "tag": "AI产品",
+      "id": 9
+    },
+    {
+      "title": "新石器NewClaw：AI一体化解决方案，零门槛当无人车指挥官| 2026AI Partner·北京亦庄AI+产业大会",
+      "url": "https://36kr.com/p/3818927367046018?f=rss",
+      "source": "36氪",
+      "source_icon": "🔵",
+      "summary": "管理一千台无人车需要多少人？答案是：一个人，一部手机，一句话。当自动驾驶逐渐“平权”，真正的瓶颈从技术转向了规模化运营。 新石器用七年时间走完从合规落地、规模量产到万台运营的三级跳，如今推出AIAge…",
+      "tag": "机器人",
+      "id": 10
+    }
+  ]
+}
