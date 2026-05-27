@@ -1,0 +1,99 @@
+{
+  "date": "2026-05-28",
+  "generated_at": "2026-05-28T07:57:25.970848+08:00",
+  "category": "餐饮零售 & AI科技",
+  "total": 10,
+  "editor_note": "今天共精选 10 条。餐饮零售板块：8点1氪丨商品标签陷性暗示争议，盒马致歉等话题值得关注；AI科技板块：SpaceX 坦言 AI 芯片供给不足，等动态持续发酵。",
+  "items": [
+    {
+      "title": "8点1氪丨商品标签陷性暗示争议，盒马致歉并下架整改；段永平谈王宁：商业理解能力比乔布斯还强；海底捞全国门店谢绝顾客携带宠物进店用餐",
+      "url": "https://36kr.com/p/3826779946930822?f=rss",
+      "source": "36氪",
+      "source_icon": "🔵",
+      "summary": "今日热点导览 三体公司原CEO许垚被执行死刑，投毒致使其老板林奇中毒身亡 算力租赁，遭传闻突袭，上市公司回应胖东来成立文化娱乐公司双汇子公司猪肉被曝抗生素超标37倍，公司回应超标原因 知情人士：字节跳…",
+      "tag": "餐饮动态",
+      "id": 1
+    },
+    {
+      "title": "SpaceX 坦言 AI 芯片供给不足，TeraFab 项目可能无法取得成功",
+      "url": "https://www.ithome.com/0/956/228.htm",
+      "source": "IT之家",
+      "source_icon": "🟢",
+      "summary": "备受市场期待的首次公开募股（IPO）前夕，埃隆・马斯克旗下的SpaceX 在 S-1上市申请文件中坦言，若要全面推进轨道人工智能相关布局并实现规模化落地，公司目前无法获取足够的人工智能硬件设备。",
+      "tag": "AI算力",
+      "id": 2
+    },
+    {
+      "title": "腾讯发布 AIGC 创作平台“代号 Craft”，可利用自然语言生成游戏世界素材",
+      "url": "https://www.ithome.com/0/956/225.htm",
+      "source": "IT之家",
+      "source_icon": "🟢",
+      "summary": "在今天的SPARK 2026腾讯游戏发布会中，腾讯宣布了旗下全新AI 游戏创作平台“代号Craft”，并宣布平台开启首测报名。",
+      "tag": "AIGC",
+      "id": 3
+    },
+    {
+      "title": "谷歌 CEO 皮查伊当场承认：AI 搜索结果存在“主观性过强”问题",
+      "url": "https://www.ithome.com/0/956/206.htm",
+      "source": "IT之家",
+      "source_icon": "🟢",
+      "summary": "谷歌正借助人工智能全面升级搜索服务，其首席执行官坦言这项功能仍有改进空间。 当地时间周二，桑达尔・皮查伊做客《Decoderwith NilayPatel》播客节目时，现场查看了谷歌搜索“最佳 Chr…",
+      "tag": "AI产品",
+      "id": 4
+    },
+    {
+      "title": "前两天，我们在亦庄听到了AI最真实的声音｜2026 AI Partner大会金句实录",
+      "url": "https://36kr.com/p/3826932509364869?f=rss",
+      "source": "36氪",
+      "source_icon": "🔵",
+      "summary": "当大模型API调用成本一年内骤降超过80%，百万Token仅需几分钱时，产业竞争便不再纠结于技术指标的高低，而是回归到最朴素的价值衡量——能否在实际场景中降本增效。",
+      "tag": "AI产品",
+      "id": 5
+    },
+    {
+      "title": "为什么没人会喜欢你用 LLM 写出来的东西？",
+      "url": "https://sspai.com/post/110102",
+      "source": "少数派",
+      "source_icon": "🔵",
+      "summary": "LLM 的后训练、对齐、蒸馏，不仅让模型输出变得更可控，但没人喜欢这样的东西。",
+      "tag": "大模型",
+      "id": 6
+    },
+    {
+      "title": "OpenAI 确认 ChatGPT 与 API 昨日出现高延迟，现已修复",
+      "url": "https://www.ithome.com/0/956/245.htm",
+      "source": "IT之家",
+      "source_icon": "🟢",
+      "summary": "OpenAI公司昨日（5 月 27 日）在 X平台发布推文，确认 ChatGPT 及其 API服务出现高延迟问题，IT之家发稿前已显示修复解决。",
+      "tag": "大模型",
+      "id": 7
+    },
+    {
+      "title": "Meta 股价大涨：将推出 AI 聊天机器人订阅服务，月费最低 2.99 美元，微信跟进么？",
+      "url": "https://www.ithome.com/0/956/241.htm",
+      "source": "IT之家",
+      "source_icon": "🟢",
+      "summary": "科技媒体TechCrunch 昨日（5 月 27日）发布博文，指出Meta 公司调整 AI产品策略， 将其从流量入口推向付费产品，通过订阅方式寻求广告外的新变现渠道。",
+      "tag": "机器人",
+      "id": 8
+    },
+    {
+      "title": "腾讯代理“3A 撤离冒险射击游戏”《弧光猎人 ARC Raiders》国服开启预约",
+      "url": "https://www.ithome.com/0/956/229.htm",
+      "source": "IT之家",
+      "source_icon": "🟢",
+      "summary": "在今天的SPARK 2026腾讯游戏发布会中，腾讯宣布其代理的《弧光猎人（ARC Raiders）》正式开启预约。本作于 2025 年 10月在海外上线，全球销量超1500万份，曾获TGA2025最佳…",
+      "tag": "AI产品",
+      "id": 9
+    },
+    {
+      "title": "腾讯游戏的One More Thing，是AI",
+      "url": "https://36kr.com/p/3827658881323649?f=rss",
+      "source": "36氪",
+      "source_icon": "🔵",
+      "summary": "文丨贝果树编辑丨刘士武5月27日，2026年腾讯游戏发布会于晚上八点举办。在发布会上，腾讯从制作、发行、投资三个板块带来了42款游戏的新动态，其中包含15款新品，新品的数量相较于2025年发布会的24…",
+      "tag": "AI产品",
+      "id": 10
+    }
+  ]
+}
