@@ -1,0 +1,99 @@
+{
+  "date": "2026-05-30",
+  "generated_at": "2026-05-30T08:05:42.127005+08:00",
+  "category": "餐饮零售 & AI科技",
+  "total": 10,
+  "editor_note": "今天共精选 10 条。餐饮零售板块：谁是世界上第二爱泡泡玛特的人？等话题值得关注；AI科技板块：华擎宣布 Taichi 十周年特别版 X等动态持续发酵。",
+  "items": [
+    {
+      "title": "谁是世界上第二爱泡泡玛特的人？",
+      "url": "https://36kr.com/p/3829746420835715?f=rss",
+      "source": "36氪",
+      "source_icon": "🔵",
+      "summary": "作者| 谢芸子 编辑 | 张帆一纸权益披露文件，让市场看到段永平对泡泡玛特的热爱绝不止是“口嗨”。 5月27日晚间，段永平与其全资控股的H&H International，同步增持了泡泡玛特的股份，一…",
+      "tag": "商业洞察",
+      "id": 1
+    },
+    {
+      "title": "热门中概股美股盘前多数下跌，名创优品涨超3%",
+      "url": "https://36kr.com/newsflashes/3830375933912713?f=rss",
+      "source": "36氪",
+      "source_icon": "🔵",
+      "summary": "36氪获悉，热门中概股美股盘前多数下跌，截至发稿，理想汽车跌超3%，阿里巴巴、微博、蔚来跌超1%；名创优品涨超3%，新东方涨超1%。",
+      "tag": "商业洞察",
+      "id": 2
+    },
+    {
+      "title": "浙江小县城“老头乐”，又要IPO了",
+      "url": "https://www.tmtpost.com/8007294.html",
+      "source": "钛媒体",
+      "source_icon": "🟠",
+      "summary": "谁说“富不过三代”？",
+      "tag": "商业洞察",
+      "id": 3
+    },
+    {
+      "title": "2026世界杯，为什么小红书买了，抖音没买？",
+      "url": "https://www.tmtpost.com/8006817.html",
+      "source": "钛媒体",
+      "source_icon": "🟠",
+      "summary": "2026世界杯，为什么小红书买了，抖音没买？",
+      "tag": "电商",
+      "id": 4
+    },
+    {
+      "title": "华擎宣布 Taichi 十周年特别版 X870E / Z890 主板与视觉暂留效应水冷",
+      "url": "https://www.ithome.com/0/957/343.htm",
+      "source": "IT之家",
+      "source_icon": "🟢",
+      "summary": "华擎科技(ASRock) 今日正式宣布将在COMPUTEX2026台北国际电脑展上展出一系列电竞硬件与AI相关应用解决方案。",
+      "tag": "AI产品",
+      "id": 5
+    },
+    {
+      "title": "Await：五分钟，把点子变成 iPhone 小组件",
+      "url": "https://sspai.com/post/110106",
+      "source": "少数派",
+      "source_icon": "🔵",
+      "summary": "我希望Await最后留下的，是一种更轻的创作入口：不必很大，但足够好看和好玩，也足够贴近自己每天使用手机的方式。",
+      "tag": "AI产品",
+      "id": 6
+    },
+    {
+      "title": "AI Agent 干中学，「造轮子」让我学会了什么？",
+      "url": "https://sspai.com/post/110370",
+      "source": "少数派",
+      "source_icon": "🔵",
+      "summary": "AI知识「干中学」——用两天时间梳理完 AI发展脉络，理解Agent能力边界。",
+      "tag": "AI Agent",
+      "id": 7
+    },
+    {
+      "title": "宏碁推出锐龙 AI Max+ 395 迷你工作站与 1.26L LGA 迷你主机",
+      "url": "https://www.ithome.com/0/957/405.htm",
+      "source": "IT之家",
+      "source_icon": "🟢",
+      "summary": "宏碁(Acer)昨日宣布了一系列迷你主机、台式机、一体机产品，下面就由IT之家带领小伙伴们速览一下：Veriton RA110 作为宏碁继VeritonRA10 0 后的又一款 AMD 锐龙AIMax…",
+      "tag": "AI产品",
+      "id": 8
+    },
+    {
+      "title": "受益于 AI 热潮及超预期的预计营收，戴尔股价一度上涨近四成",
+      "url": "https://www.ithome.com/0/957/378.htm",
+      "source": "IT之家",
+      "source_icon": "🟢",
+      "summary": "受AI服务器需求强劲推动，戴尔科技集团给出的全年营收展望大幅高于市场预期。当地时间周五，戴尔股价盘前交易上涨 38%。 戴尔第一财季数据显示，截至2027 年 1月的财年，营收预计约为1670亿美元",
+      "tag": "AI产品",
+      "id": 9
+    },
+    {
+      "title": "亚洲首店，宇树科技具身智能体验馆 5 月 31 日在上海开业",
+      "url": "https://www.ithome.com/0/957/358.htm",
+      "source": "IT之家",
+      "source_icon": "🟢",
+      "summary": "Unitree 宇树官方公众号今晚宣布：宇树具身智能体验馆亚洲首店将于5 月 31 日在上海开业。该店具体位置在上海市静安区南京西路1618号久光百货 2层，门店面积超100平方米，街对面即是苹果大中…",
+      "tag": "AI Agent",
+      "id": 10
+    }
+  ]
+}
