@@ -1,0 +1,99 @@
+{
+  "date": "2026-06-02",
+  "generated_at": "2026-06-02T08:09:33.104865+08:00",
+  "category": "餐饮零售 & AI科技",
+  "total": 10,
+  "editor_note": "今天共精选 10 条。餐饮零售板块：豆包6月下旬正式付费，并加速打通抖音电商等话题值得关注；AI科技板块：抢跑 OpenAI，Anthropic 等动态持续发酵。",
+  "items": [
+    {
+      "title": "豆包6月下旬正式付费，并加速打通抖音电商丨独家",
+      "url": "https://36kr.com/p/3834544830721671?f=rss",
+      "source": "36氪",
+      "source_icon": "🔵",
+      "summary": "5月初旬，豆包将推出付费订阅服务的消息，引发市场广泛讨论。其在苹果App Store中更新的付费订阅方案显示，豆包将推出四档收费标准：基础版、标准版、加强版、专业版。",
+      "tag": "电商",
+      "id": 1
+    },
+    {
+      "title": "「AromeManpo馥郁满铺」完成近亿元B轮融资，今年线下门店将突破10家",
+      "url": "https://36kr.com/p/3832924137138057?f=rss",
+      "source": "36氪",
+      "source_icon": "🔵",
+      "summary": "作者| 钟艺璇36氪获悉，芳香馥愈 情绪护肤品牌「AromeManpo馥郁满铺」已于近期完成近亿元B轮融资，投资方为颖通控股，穆棉资本作为独家财务顾问。",
+      "tag": "商业洞察",
+      "id": 2
+    },
+    {
+      "title": "通用磨坊将出售其在中国大陆的哈根达斯门店",
+      "url": "https://36kr.com/newsflashes/3835235026810246?f=rss",
+      "source": "36氪",
+      "source_icon": "🔵",
+      "summary": "通用磨坊公司周一表示，已同意将其在中国大陆的哈根达斯冰淇淋店业务出售给一个由中国茶饮连锁运营商Ningji等组成的投资集团。（新浪财经）",
+      "tag": "商业洞察",
+      "id": 3
+    },
+    {
+      "title": "泡泡玛特，“冰火两重天”",
+      "url": "https://www.tmtpost.com/8010210.html",
+      "source": "钛媒体",
+      "source_icon": "🟠",
+      "summary": "泡泡玛特“刹车”降速。",
+      "tag": "商业洞察",
+      "id": 4
+    },
+    {
+      "title": "抢跑 OpenAI，Anthropic 官宣已秘密递交 IPO 申请",
+      "url": "https://www.ithome.com/0/958/458.htm",
+      "source": "IT之家",
+      "source_icon": "🟢",
+      "summary": "开发Claude人工智能产品的人工智能实验室Anthropic于当地时间周一在官方博客发文称，公司已秘密递交首次公开募股（IPO）申请。这家估值接近 1万亿美元",
+      "tag": "AI投融资",
+      "id": 5
+    },
+    {
+      "title": "AI 如何影响你的审美？",
+      "url": "https://sspai.com/post/110172",
+      "source": "少数派",
+      "source_icon": "🔵",
+      "summary": "去感受、去思考、去创作吧，这是只有身为人类的你能做到的事情。",
+      "tag": "AI产品",
+      "id": 6
+    },
+    {
+      "title": "Await：五分钟，把点子变成 iPhone 小组件",
+      "url": "https://sspai.com/post/110106",
+      "source": "少数派",
+      "source_icon": "🔵",
+      "summary": "我希望Await最后留下的，是一种更轻的创作入口：不必很大，但足够好看和好玩，也足够贴近自己每天使用手机的方式。",
+      "tag": "AI产品",
+      "id": 7
+    },
+    {
+      "title": "SpaceX IPO 文件新增风险提示：AI 数据中心面临水资源短缺风险",
+      "url": "https://www.ithome.com/0/958/465.htm",
+      "source": "IT之家",
+      "source_icon": "🟢",
+      "summary": "SpaceX在 IPO申报文件中新增条款，向意向投资者警示：公司面临一项潜在稀缺资源的供给风险——水资源。这家如今已将埃隆 ·马斯克的人工智能公司xAI纳入麾下的企业，于当地时间周一在一份修订后的申报…",
+      "tag": "AI投融资",
+      "id": 8
+    },
+    {
+      "title": "OpenAI 调整手机端 ChatGPT，提示词可提前选 AI 响应档位",
+      "url": "https://www.ithome.com/0/958/464.htm",
+      "source": "IT之家",
+      "source_icon": "🟢",
+      "summary": "科技媒体9to5Mac 昨日（6 月 1日）发布博文，报道称OpenAI 升级其 ChatGPT应用，聚焦更新提示词发送、长对话浏览和默认模型体验上。",
+      "tag": "大模型",
+      "id": 9
+    },
+    {
+      "title": "黑客诱骗 Meta AI 客服，盗取多名 Instagram 用户账号",
+      "url": "https://www.ithome.com/0/958/462.htm",
+      "source": "IT之家",
+      "source_icon": "🟢",
+      "summary": "照片分享平台Instagram已修复一个安全漏洞，此前该漏洞导致多名用户账号遭到盗号。此次入侵手段的核心套路是诱骗Meta自研的人工智能客服聊天机器人放行权限，进而非法登入受害者账号。",
+      "tag": "AI产品",
+      "id": 10
+    }
+  ]
+}
