@@ -1,0 +1,99 @@
+{
+  "date": "2026-06-03",
+  "generated_at": "2026-06-03T08:24:58.335360+08:00",
+  "category": "餐饮零售 & AI科技",
+  "total": 10,
+  "editor_note": "今天共精选 10 条。餐饮零售板块：豆包6月下旬正式付费，并加速打通抖音电商等话题值得关注；AI科技板块：特朗普签署行政令：AI 模型在上线前可提等动态持续发酵。",
+  "items": [
+    {
+      "title": "豆包6月下旬正式付费，并加速打通抖音电商丨36氪独家",
+      "url": "https://36kr.com/p/3835814391100550?f=rss",
+      "source": "36氪",
+      "source_icon": "🔵",
+      "summary": "文｜肖思佳编辑｜乔芊 杨轩5月初旬，豆包将推出付费订阅服务的消息，引发市场广泛讨论。其在苹果App Store中更新的付费订阅方案显示，豆包将推出四档收费标准：基础版、标准版、加强版、专业版。",
+      "tag": "电商",
+      "id": 1
+    },
+    {
+      "title": "前美团外卖技术负责人创业，做具身智能时代的“餐饮世界模型”",
+      "url": "https://36kr.com/p/3834292242130825?f=rss",
+      "source": "36氪",
+      "source_icon": "🔵",
+      "summary": "具身智能的落地，正在从实验室走向最真实、最繁忙的物理世界。 而元节智能（AtomBite.AI）选择了一个看起来并不性感、但足够真实的场景：餐饮后厨。",
+      "tag": "餐饮动态",
+      "id": 2
+    },
+    {
+      "title": "特朗普签署行政令：AI 模型在上线前可提交给政府进行安全评估",
+      "url": "https://www.ithome.com/0/959/033.htm",
+      "source": "IT之家",
+      "source_icon": "🟢",
+      "summary": "美国总统唐纳德・特朗普于当地时间周二签署了一项行政令，推出人工智能企业自愿合作机制：AI 公司在前沿大模型正式发布前，可向美国联邦政府提交模型，以此“推动安全创新、强化关键基础设施网络安全防护”。",
+      "tag": "大模型",
+      "id": 3
+    },
+    {
+      "title": "构建应用从未如此简单：OpenAI 推出 Sites，AI 转换用户工作、想法为交互式网站",
+      "url": "https://www.ithome.com/0/959/032.htm",
+      "source": "IT之家",
+      "source_icon": "🟢",
+      "summary": "OpenAI今天（6 月 3日）发布博文，宣布为Codex 推出 Sites功能，目前以预览版形式，面向Business 和Enterprise 订阅用户开放， 可以创建和共享交互式托管网站和应用程序。",
+      "tag": "AI产品",
+      "id": 4
+    },
+    {
+      "title": "4 个月耗尽全年 AI 预算，Uber 规定单人单 AI 工具每月消费上限为 1500 美元",
+      "url": "https://www.ithome.com/0/959/030.htm",
+      "source": "IT之家",
+      "source_icon": "🟢",
+      "summary": "人工智能使用成本日渐走高，部分企业开始缩减相关用量以控制开支，Uber 就在其中。为削减高昂的人工智能开销，该公司近期出台了内部使用限额制度。",
+      "tag": "AI产品",
+      "id": 5
+    },
+    {
+      "title": "从插件到 AI 辅助：Obsidian 如何成为我的主力工具",
+      "url": "https://sspai.com/post/109850",
+      "source": "少数派",
+      "source_icon": "🔵",
+      "summary": "我觉得二十一世纪的知识管理工作者，不使用Obsidian真的是错过一个亿，真正怎么样还得上手体验了才知道。当我自己慢慢花时间沉浸式使用的时候，明显感觉现在的Obsidian真的好用了一倍不止。",
+      "tag": "AI产品",
+      "id": 6
+    },
+    {
+      "title": "AI 如何影响你的审美？",
+      "url": "https://sspai.com/post/110172",
+      "source": "少数派",
+      "source_icon": "🔵",
+      "summary": "去感受、去思考、去创作吧，这是只有身为人类的你能做到的事情。",
+      "tag": "AI产品",
+      "id": 7
+    },
+    {
+      "title": "微软纳德拉对话高通阿蒙：通过 Solara，打造 AI 智能体优先平台",
+      "url": "https://www.ithome.com/0/959/054.htm",
+      "source": "IT之家",
+      "source_icon": "🟢",
+      "summary": "高通官网昨日（6月 2日）发布博文，分享了一段视频，其中微软首席执行官萨蒂亚· 纳德拉（SatyaNadella）表示： 平台正朝着智能体方向演变。",
+      "tag": "AI Agent",
+      "id": 8
+    },
+    {
+      "title": "谷歌扩大 Quick Share 与 AirDrop 互传适配范围，覆盖更多安卓机型",
+      "url": "https://www.ithome.com/0/959/044.htm",
+      "source": "IT之家",
+      "source_icon": "🟢",
+      "summary": "谷歌今日宣布，可让安卓与苹果手机用户通过隔空投送（AirDrop）互传文件的“快速共享（Quick Share）”功能，现已适配更多设备。",
+      "tag": "AI产品",
+      "id": 9
+    },
+    {
+      "title": "郭明錤：黄仁勋高喊“重新发明 PC”口号凝聚市场共识，英伟达 RTX Spark 勾勒端侧 AI 智能体蓝图",
+      "url": "https://www.ithome.com/0/959/037.htm",
+      "source": "IT之家",
+      "source_icon": "🟢",
+      "summary": "天风国际证券分析师郭明錤今天（6月 3 日）在 X平台发布推文，再次评论英伟达的RTXSpark，认为该处理器在未来 2年内仍是小众产品，苹果在WWDC 上对于设备端 AI智能体的回应将是除Siri之…",
+      "tag": "AI Agent",
+      "id": 10
+    }
+  ]
+}
