@@ -1,0 +1,99 @@
+{
+  "date": "2026-06-05",
+  "generated_at": "2026-06-05T08:02:14.808916+08:00",
+  "category": "餐饮零售 & AI科技",
+  "total": 10,
+  "editor_note": "今天共精选 10 条。餐饮零售板块：氪星晚报 ｜曲美家居：境外子公司拟发行不等话题值得关注；AI科技板块：LM Studio 上线 LM Link等动态持续发酵。",
+  "items": [
+    {
+      "title": "氪星晚报 ｜曲美家居：境外子公司拟发行不超9亿挪威克朗境外债券；段永平在泡泡玛特持股比例升至6.04%；现货白银向下跌破74美元/盎司",
+      "url": "https://36kr.com/p/3837330582008963?f=rss",
+      "source": "36氪",
+      "source_icon": "🔵",
+      "summary": "大公司： 瑞典AI初创公司Lovable与GoogleCloud扩大多年期合作据报道，瑞典AI初创公司Lovable扩大了与Google Cloud的多年期合作，以整合Gemini模型和AI优化基础设…",
+      "tag": "商业洞察",
+      "id": 1
+    },
+    {
+      "title": "商超大变局：\"卡卡西派\"站上行业舞台",
+      "url": "https://www.tmtpost.com/8014657.html",
+      "source": "钛媒体",
+      "source_icon": "🟠",
+      "summary": "商超大变局：\"卡卡西派\"站上行业舞台",
+      "tag": "零售动态",
+      "id": 2
+    },
+    {
+      "title": "LM Studio 上线 LM Link，让 iPhone 17 等直连 Mac 本地 AI 模型",
+      "url": "https://www.ithome.com/0/960/189.htm",
+      "source": "IT之家",
+      "source_icon": "🟢",
+      "summary": "LMStudio 今天（6 月 5 日）更新Mac版 Locally应用，新增LM Link功能，用户可直接在 iPhone 上调用Mac本地运行的 AI大语言模型。",
+      "tag": "大模型",
+      "id": 3
+    },
+    {
+      "title": "OpenAI 升级 ChatGPT 记忆系统：算力降至 1/5，瞄准过时与错误两大痛点",
+      "url": "https://www.ithome.com/0/960/187.htm",
+      "source": "IT之家",
+      "source_icon": "🟢",
+      "summary": "OpenAI公司昨日（6 月 4 日）宣布升级ChatGPT 记忆功能，新系统基于Dreaming V3机制， 重点改善记忆过时、准确性和大规模服务能力 。",
+      "tag": "大模型",
+      "id": 4
+    },
+    {
+      "title": "惠普-法拉利车队联手打造 AI PC：6 月 12 日上市，5599 美元限量 4999 台",
+      "url": "https://www.ithome.com/0/960/178.htm",
+      "source": "IT之家",
+      "source_icon": "🟢",
+      "summary": "在今天的摩纳哥大奖赛前，惠普限量版法拉利车队AI PC正式发布。根据介绍，惠普限量版法拉利车队源自近两年的深度合作。法拉利大胆的设计理念，与惠普在工业设计和精密工程上的经验被整合到同一台设备中。",
+      "tag": "AI投融资",
+      "id": 5
+    },
+    {
+      "title": "中国信通院：三大运营商“词元产品”服务上架中国算力平台",
+      "url": "https://www.ithome.com/0/960/199.htm",
+      "source": "IT之家",
+      "source_icon": "🟢",
+      "summary": "6月 3日，中国信通院宣布中国电信、中国移动、中国联通的“词元产品”服务已正式登陆中国算力平台。 据介绍， 词元（Token）是大模型处理信息的最小信息单元 ，具有智能时代可计量、可定价、可交易的特征。",
+      "tag": "AI算力",
+      "id": 6
+    },
+    {
+      "title": "戴尔 Pro 3 Series 16 笔记本发布：至高 64GB 内存、锐龙 AI 7 Pro 450 处理器",
+      "url": "https://www.ithome.com/0/960/196.htm",
+      "source": "IT之家",
+      "source_icon": "🟢",
+      "summary": "戴尔Pro 3 Series16（P316265）笔记本现已在海外市场发布，新机全系标配 AMD 锐龙 AI Pro400系列处理器、16 英寸屏幕，面向商务用户打造。",
+      "tag": "AI产品",
+      "id": 7
+    },
+    {
+      "title": "苹果批准首个 iMessage AI 智能体，Poke 可回邮件也能设提醒",
+      "url": "https://www.ithome.com/0/960/194.htm",
+      "source": "IT之家",
+      "source_icon": "🟢",
+      "summary": "科技媒体Appleinsider 昨日（6 月4 日）发布博文，报道称苹果批准 Poke 成为首个接入AppleMessages forBusiness（苹果商务消息）平台的第三方AI智能体。",
+      "tag": "AI Agent",
+      "id": 8
+    },
+    {
+      "title": "氪星晚报 ｜OpenAI首席财务官谈公司AI设备：今年年底前将正式发布；腾讯客服回应与华为、小米等合作；香港推出首个生产力级超级智能体",
+      "url": "https://36kr.com/p/3838652242823687?f=rss",
+      "source": "36氪",
+      "source_icon": "🔵",
+      "summary": "大公司： OpenAI首席财务官谈公司AI设备：今年年底前将正式发布OpenAI首席财务官SarahFriar日前在受访时透露，已经亲自体验过OpenAI的AI设备。",
+      "tag": "AI Agent",
+      "id": 9
+    },
+    {
+      "title": "36氪独家｜2026 年字节 AI 的四个关键命题",
+      "url": "https://36kr.com/p/3838454229027072?f=rss",
+      "source": "36氪",
+      "source_icon": "🔵",
+      "summary": "文｜周鑫雨编辑｜张雨忻 杨轩《智能涌现》从多个信源处独家获悉，2026 年，字节AI 有四个重要的命题：加大对世界模型训练的投入，年底前，模型性能达到现阶段世界模型全球SOTA（最佳）GoogleGe…",
+      "tag": "AI产品",
+      "id": 10
+    }
+  ]
+}
