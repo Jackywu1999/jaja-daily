@@ -1,0 +1,99 @@
+{
+  "date": "2026-06-07",
+  "generated_at": "2026-06-07T08:00:07.210157+08:00",
+  "category": "餐饮零售 & AI科技",
+  "total": 10,
+  "editor_note": "今天共精选 10 条。餐饮零售板块：赔偿32万，奈雪的茶流量焦虑撞上泡泡玛特等话题值得关注；AI科技板块：体育主播暂时不用担心失业了：研究称 AI等动态持续发酵。",
+  "items": [
+    {
+      "title": "赔偿32万，奈雪的茶流量焦虑撞上泡泡玛特IP壁垒",
+      "url": "https://www.tmtpost.com/8017400.html",
+      "source": "钛媒体",
+      "source_icon": "🟠",
+      "summary": "对于自有IP版权的维护，是泡泡玛特庞大业务版图中，尤为关键的一环。",
+      "tag": "商业洞察",
+      "id": 1
+    },
+    {
+      "title": "体育主播暂时不用担心失业了：研究称 AI 模型分析球赛“几乎靠猜”",
+      "url": "https://www.ithome.com/0/960/983.htm",
+      "source": "IT之家",
+      "source_icon": "🟢",
+      "summary": "据外媒Futurism 今天（6日）晚间报道，北卡罗来纳大学教堂山分校和美国东北大学研究人员的一项新研究发现，主流AI 模型在分析职业体育比赛时 表现很差。",
+      "tag": "大模型",
+      "id": 2
+    },
+    {
+      "title": "微软想让用户对自家智能体 Scout 上瘾？CEO 纳德拉否认",
+      "url": "https://www.ithome.com/0/960/975.htm",
+      "source": "IT之家",
+      "source_icon": "🟢",
+      "summary": "微软在Build 2026 上与高通联合发布Project Solara。ProjectSolara主打“智能体优先计算”，系统内部运行AgentShell，并能动态加载、调整多个基于云端的AI智能体。",
+      "tag": "AI Agent",
+      "id": 3
+    },
+    {
+      "title": "联合国大学报告：精简 AI 指令中“谢谢”等礼貌用语，可让 ChatGPT 能耗降低 25%",
+      "url": "https://www.ithome.com/0/960/974.htm",
+      "source": "IT之家",
+      "source_icon": "🟢",
+      "summary": "联合国大学水、环境与健康研究所（UNU-INWEH）近日发布的一份报告显示， 精简提示中的礼貌用语，可让ChatGPT 能耗降低 25%。",
+      "tag": "大模型",
+      "id": 4
+    },
+    {
+      "title": "硬氪独家 | 唐文斌「原力灵机」并购物流机器人公司，并获智谱、商汤、阶跃等投资",
+      "url": "https://36kr.com/p/3838835333253385?f=rss",
+      "source": "36氪",
+      "source_icon": "🔵",
+      "summary": "作者| 邱晓芬 编辑 | 袁斯来硬氪独家获悉，具身智能企业「原力灵机」近期完成新一轮融资，资方主要为数家大模型公司，包括 智谱、阶跃星辰、商汤科技。 此外， 华勤、上汽恒旭等产业投资方持续加注。",
+      "tag": "电商",
+      "id": 5
+    },
+    {
+      "title": "微软警告称 ClaudeCode 存在漏洞，可能导致 GitHub 账号凭证泄露",
+      "url": "https://www.ithome.com/0/960/994.htm",
+      "source": "IT之家",
+      "source_icon": "🟢",
+      "summary": "微软研究人员发现，Anthropic旗下 Claude Code 的GitHub 自动化流程存在一处漏洞，该漏洞可能导致持续集成/ 持续部署（CI /CD）工作流中的机密信息泄露，攻击者或可通过提示词…",
+      "tag": "大模型",
+      "id": 6
+    },
+    {
+      "title": "iFixit 拆解华强北山寨 Apple Watch Ultra 3、AirPods Max 2、AirPods Pro 3：内部做工粗劣，核心功能缺失",
+      "url": "https://www.ithome.com/0/960/992.htm",
+      "source": "IT之家",
+      "source_icon": "🟢",
+      "summary": "维修拆解网站iFixit近日探访了中国深圳华强北商圈，在这里购入了高仿版Apple Watch Ultra 3智能手表、AirPodsMax 2 以及 AirPods Pro3，随后带回工作室进行拆解…",
+      "tag": "AI产品",
+      "id": 7
+    },
+    {
+      "title": "消息称百度 MEG 组织架构调整：数字人创新业务部升级独立部门，合并商业部与电商事业部",
+      "url": "https://www.ithome.com/0/960/985.htm",
+      "source": "IT之家",
+      "source_icon": "🟢",
+      "summary": "据新浪科技消息，百度 MEG",
+      "tag": "电商",
+      "id": 8
+    },
+    {
+      "title": "9点1氪｜豆包推出付费后月活减少610万；Anthropic呼吁全球放缓AI开发，警告AI“自我改进”风险；罗永浩卸任锤子软件公司执行董事",
+      "url": "https://36kr.com/p/3840996342073604?f=rss",
+      "source": "36氪",
+      "source_icon": "🔵",
+      "summary": "今日热点导览 SpaceX据悉将其IPO的日本融资目标提高至25亿美元 二手房挂牌量回落新房库存下降，楼市供需关系向好B站宣布启动AI创造公开赛TOP3大新闻 数据显示，豆包推出付费后月活减少610万…",
+      "tag": "AI产品",
+      "id": 9
+    },
+    {
+      "title": "微信AI对手机厂商打开一道窄门｜焦点分析",
+      "url": "https://36kr.com/p/3839575253993985?f=rss",
+      "source": "36氪",
+      "source_icon": "🔵",
+      "summary": "文｜王毓婵梁键强 编辑｜张雨忻昨日，腾讯客服回应称，微信正在与华为、小米、荣耀、OPPO、vivo等手机厂商合作推出A2A助手能力，目前已有多家厂商完成接入。",
+      "tag": "AI产品",
+      "id": 10
+    }
+  ]
+}
