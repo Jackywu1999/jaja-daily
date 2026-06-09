@@ -1,0 +1,99 @@
+{
+  "date": "2026-06-09",
+  "generated_at": "2026-06-09T08:01:20.728110+08:00",
+  "category": "餐饮零售 & AI科技",
+  "total": 10,
+  "editor_note": "今天共精选 10 条。AI科技板块：奥尔特曼宣布 OpenAI 进入第三发展等动态持续发酵。",
+  "items": [
+    {
+      "title": "奥尔特曼宣布 OpenAI 进入第三发展阶段：让 AI 普及、易用且安全",
+      "url": "https://www.ithome.com/0/961/721.htm",
+      "source": "IT之家",
+      "source_icon": "🟢",
+      "summary": "自OpenAI 推出聊天机器人ChatGPT、将人工智能带入大众视野至今已有三年半。该公司首席执行官兼联合创始人山姆 · 奥尔特曼表示，企业如今已迈入第三发展阶段：让人工智能普及化、易用化且安全可靠。",
+      "tag": "政策监管",
+      "id": 1
+    },
+    {
+      "title": "苹果回应“套壳 Gemini”猜测：iOS 27 版 Siri AI AFM 自研打造",
+      "url": "https://www.ithome.com/0/961/718.htm",
+      "source": "IT之家",
+      "source_icon": "🟢",
+      "summary": "科技媒体Appleinsider 今天（6 月9 日）发布博文，报道称在2026年全球开发者大会（WWDC）主题演讲结束后，几位苹果高管接受媒体采访，强调 Apple FoundationModels…",
+      "tag": "大模型",
+      "id": 2
+    },
+    {
+      "title": "OpenAI 已提交 S-1 草案，释放潜在 IPO 上市信号",
+      "url": "https://www.ithome.com/0/961/714.htm",
+      "source": "IT之家",
+      "source_icon": "🟢",
+      "summary": "OpenAI公司今天（6 月 9日）发布博文，宣布已经向美国证券交易委员会递交保密版S-1 注册草案，为未来上市预留通道。",
+      "tag": "AI投融资",
+      "id": 3
+    },
+    {
+      "title": "产品观察 | 小米创始员工范典创业AI硬件，做了台“无摩擦”的睡眠床头灯",
+      "url": "https://36kr.com/p/3844006775360002?f=rss",
+      "source": "36氪",
+      "source_icon": "🔵",
+      "summary": "作者| 邱晓芬 编辑 | 袁斯来「格物科技」的创始人范典，是当下智能硬件赛道的一个“异类”。 作为喝过小米粥的小米创始员工，范典曾任曾小米物联网平台部总经理、AIoT战略委员会主席。",
+      "tag": "AI产品",
+      "id": 4
+    },
+    {
+      "title": "「华超神控」获亿元天使系列融资，加速打造新一代AI超声脑机接口平台 | 36氪首发",
+      "url": "https://36kr.com/p/3841459663030532?f=rss",
+      "source": "36氪",
+      "source_icon": "🔵",
+      "summary": "文｜胡香赟编辑｜海若镜36氪获悉，近日，新一代AI超声脑机公司华超神控（BCI-Sonics）已完成亿元人民币级天使轮系列融资。",
+      "tag": "AI投融资",
+      "id": 5
+    },
+    {
+      "title": "大语言模型正在变成大编程模型",
+      "url": "https://sspai.com/post/110746",
+      "source": "少数派",
+      "source_icon": "🔵",
+      "summary": "大语言模型的语言能力，好像并没有随着基础模型的迭代而提升？",
+      "tag": "大模型",
+      "id": 6
+    },
+    {
+      "title": "从“画饼”到实机展示，苹果 WWDC26 改变 AI 功能演示方式",
+      "url": "https://www.ithome.com/0/961/727.htm",
+      "source": "IT之家",
+      "source_icon": "🟢",
+      "summary": "2026 年苹果全球开发者大会（WWDC）主题演讲并未推出令人眼前一亮的全新产品，而是主要介绍了一系列优化：修复去年推出的液态玻璃设计问题、全面改版体验糟糕的搜索功能、升级Playground功能等等。",
+      "tag": "AI产品",
+      "id": 7
+    },
+    {
+      "title": "赛力斯“赛豆科技”全新品牌 AIVA 官宣：车标样式曝光，全系标配豆包大模型智能座舱",
+      "url": "https://www.ithome.com/0/961/726.htm",
+      "source": "IT之家",
+      "source_icon": "🟢",
+      "summary": "赛豆科技品牌发布会定档6 月 9 日 19:00-20:00举行。根据官方直播页面，这一新汽车品牌定名AIVA。 根据此前爆料信息，赛力斯正在推进一个全新汽车品牌的筹备工作，其法律主体正是刚刚完成工商…",
+      "tag": "大模型",
+      "id": 8
+    },
+    {
+      "title": "苹果 WWDC26 主题演讲一文汇总：iOS 27 等新系统发布、Siri AI 登场，库克迎来生涯“最后一舞”",
+      "url": "https://www.ithome.com/0/961/722.htm",
+      "source": "IT之家",
+      "source_icon": "🟢",
+      "summary": "Good morning！又是一年 WWDC，但这应当是咱们最后一次看到蒂姆 · 库克在发布会中发来早安问候了。就在今天（北京时间 6 月 9 日）凌晨1 点，苹果WWDC26全球开发者大会主题演讲如…",
+      "tag": "AI产品",
+      "id": 9
+    },
+    {
+      "title": "改变全球速度的AI，付款却卡在上一个时代",
+      "url": "https://36kr.com/p/3844199957236227?f=rss",
+      "source": "36氪",
+      "source_icon": "🔵",
+      "summary": "2026年，全球平均每小时就有一家新的AI公司诞生。 AI行业的竞争已经白热化到如此程度：大模型的参数在卷，推理速度在卷，应用落地的速度在卷，就连融资PPT的故事密度也在卷。",
+      "tag": "AI产品",
+      "id": 10
+    }
+  ]
+}
