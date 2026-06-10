@@ -1,0 +1,99 @@
+{
+  "date": "2026-06-10",
+  "generated_at": "2026-06-10T08:08:05.655620+08:00",
+  "category": "餐饮零售 & AI科技",
+  "total": 10,
+  "editor_note": "今天共精选 10 条。AI科技板块：优必选全球首款全尺寸超仿生人形机器人小订等动态持续发酵。",
+  "items": [
+    {
+      "title": "优必选全球首款全尺寸超仿生人形机器人小订突破 3000 台，仅限成年人购买使用",
+      "url": "https://www.ithome.com/0/962/144.htm",
+      "source": "IT之家",
+      "source_icon": "🟢",
+      "summary": "优必选消费级人形机器人品牌优世界已于本月初（6月 2日）宣布，全球首款全尺寸超仿生人形机器人开启预售。 IT之家注意到，优必选官方今日宣布，优世界全尺寸超仿生人形机器人京东预售开启 8 天，小订数量累…",
+      "tag": "机器人",
+      "id": 1
+    },
+    {
+      "title": "谷歌发布实时语音互译模型 Gemini 3.5 Live Translate：可识别 70 余种语言，谷歌翻译 App 就能用",
+      "url": "https://www.ithome.com/0/962/143.htm",
+      "source": "IT之家",
+      "source_icon": "🟢",
+      "summary": "北京时间 9 日（今天）晚间，谷歌正式发布最新的实时语音互译音频模型 Gemini3.5LiveTranslate，迈出实时翻译的下一步。",
+      "tag": "大模型",
+      "id": 2
+    },
+    {
+      "title": "微软 AI CEO 苏莱曼改口，收回“AI 将于 18 个月内取代大部分白领工作”言论",
+      "url": "https://www.ithome.com/0/962/142.htm",
+      "source": "IT之家",
+      "source_icon": "🟢",
+      "summary": "据科技媒体The Verge今天报道，微软AI 部门 CEO 穆斯塔法 ·苏莱曼正在淡化此前的“AI 将取代白领工作”言论。",
+      "tag": "AI产品",
+      "id": 3
+    },
+    {
+      "title": "登顶GitHub Hacker News，这个开源项目让AI编程成本降低 98%｜涌现新项目",
+      "url": "https://36kr.com/p/3845645258541319?f=rss",
+      "source": "36氪",
+      "source_icon": "🔵",
+      "summary": "文｜李嘉星编辑｜周鑫雨 一句话介绍context-mode是一款专为 AI 编程打造的上下文优化MCP（Anthropic 发布的模型上下文协议）插件。",
+      "tag": "开源",
+      "id": 4
+    },
+    {
+      "title": "硬氪观察 | WWDC 2026：苹果终于在AI上迈出一小步，国内iPhone还是用不上",
+      "url": "https://36kr.com/p/3845356968839680?f=rss",
+      "source": "36氪",
+      "source_icon": "🔵",
+      "summary": "作者| 邱晓芬 编辑 | 袁斯来6月9日，位于加州库比蒂诺的苹果总部被Swift标志性的暖色系渐变背景填满，熟悉的倒计时欢呼声依旧，但WWDC2026选了一条更克制的路线——这次，苹果没有如往常一般发…",
+      "tag": "AI产品",
+      "id": 5
+    },
+    {
+      "title": "大语言模型正在变成大编程模型",
+      "url": "https://sspai.com/post/110746",
+      "source": "少数派",
+      "source_icon": "🔵",
+      "summary": "大语言模型的语言能力，好像并没有随着基础模型的迭代而提升？",
+      "tag": "大模型",
+      "id": 6
+    },
+    {
+      "title": "苹果为三款 AirPods 推出测试版固件 9A5292e，支持全新 Siri 与自定义均衡器",
+      "url": "https://www.ithome.com/0/962/159.htm",
+      "source": "IT之家",
+      "source_icon": "🟢",
+      "summary": "苹果今日推出了适用于第四代 AirPods、第二代AirPods Pro 以及第三代AirPodsPro的新版测试版固件。该固件目前仅面向开发者开放，版本号为 9A5292e。",
+      "tag": "AI产品",
+      "id": 7
+    },
+    {
+      "title": "消息称三星电子计划在韩国光州新建先进半导体封装工厂，强化 AI 芯片产业链布局",
+      "url": "https://www.ithome.com/0/962/153.htm",
+      "source": "IT之家",
+      "source_icon": "🟢",
+      "summary": "随着AI相关芯片需求持续爆发，三星电子正进一步强化自身产业链布局，计划在韩国光州建设一座先进半导体封装工厂。 报道称，该投资计划有望于6 月 29日总统会谈期间公布。",
+      "tag": "AI算力",
+      "id": 8
+    },
+    {
+      "title": "最强 Claude 模型：Anthropic 推出 Fable 5/Mythos 5，书写 AI 神话",
+      "url": "https://www.ithome.com/0/962/152.htm",
+      "source": "IT之家",
+      "source_icon": "🟢",
+      "summary": "Anthropic昨日（6 月 9日）发布博文，宣布推出 Claude Fable 5与Claude Mythos 5 两款AI 模型。",
+      "tag": "大模型",
+      "id": 9
+    },
+    {
+      "title": "8点1氪丨致3人永久失明，膳魔师紧急召回百万件产品；发布会后苹果市值蒸发超1.587万亿；Anthropic发布最强模型：Claude Fable 5正式上线",
+      "url": "https://36kr.com/p/3846601462073600?f=rss",
+      "source": "36氪",
+      "source_icon": "🔵",
+      "summary": "今日热点导览 清仓美高梅国际持股，何超琼套现逾1.4亿美元任天堂在法国遭2.7亿元重罚王传福回应股价被低估：还没能反映比亚迪潜力5月汽车销量公布：前十已无燃油车TOP3大新闻 已致3人永久失明，膳魔师…",
+      "tag": "大模型",
+      "id": 10
+    }
+  ]
+}
