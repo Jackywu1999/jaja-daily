@@ -1,0 +1,99 @@
+{
+  "date": "2026-06-11",
+  "generated_at": "2026-06-11T08:11:42.109003+08:00",
+  "category": "餐饮零售 & AI科技",
+  "total": 10,
+  "editor_note": "今天共精选 10 条。餐饮零售板块：最前线｜AI跨境电商工具混战，Store等话题值得关注；AI科技板块：消息称因数据留存新规，微软限制员工使用 等动态持续发酵。",
+  "items": [
+    {
+      "title": "最前线｜AI跨境电商工具混战，StoreClaw想用“一个大脑”接管卖家的店",
+      "url": "https://36kr.com/p/3846793046133257?f=rss",
+      "source": "36氪",
+      "source_icon": "🔵",
+      "summary": "文｜张子怡编辑｜袁斯来在竞争常年格外激烈的跨境电商行业，精细化运营已成为决定商家利润的关键，多渠道布局则是规避风险的普遍运营选择。",
+      "tag": "电商",
+      "id": 1
+    },
+    {
+      "title": "消息称因数据留存新规，微软限制员工使用 Claude Fable 5 AI 模型",
+      "url": "https://www.ithome.com/0/962/702.htm",
+      "source": "IT之家",
+      "source_icon": "🟢",
+      "summary": "Anthropic昨日推出了旗下首款 Mythos级人工智能模型ClaudeFable，这款模型已然在微软内部引发担忧。据The Verge报道，消息人士透露，由于Anthropic出台了新的数据留存…",
+      "tag": "大模型",
+      "id": 2
+    },
+    {
+      "title": "谷歌推出 DiffusionGemma 文本扩散模型：本地 AI 推理速度提升 4 倍",
+      "url": "https://www.ithome.com/0/962/696.htm",
+      "source": "IT之家",
+      "source_icon": "🟢",
+      "summary": "谷歌今天（6月 11日）发布公告，宣布推出 DiffusionGemma，是基于文本扩散机制的开放AI模型，相比较自回归模型在本地推理速度上提升了4 倍。",
+      "tag": "大模型",
+      "id": 3
+    },
+    {
+      "title": "小米 MiMo Code V0.1.0 探索性 AI 编程助手发布并开源：基于 OpenCode 二次开发，采用 MIT 协议",
+      "url": "https://www.ithome.com/0/962/693.htm",
+      "source": "IT之家",
+      "source_icon": "🟢",
+      "summary": "小米MiMo 官方今日凌晨正式发布并开源MiMoCode V0.1.0 ——一款运行在终端里的探索性AI编程助手。 据介绍，MiMo Code 基于开源项目OpenCode 二次开发，发布并开源，采用…",
+      "tag": "开源",
+      "id": 4
+    },
+    {
+      "title": "清华系团队做分布式预测世界模型、获数亿元A轮融资，落地终端设备达十万量级｜硬氪首发",
+      "url": "https://36kr.com/p/3844720012151040?f=rss",
+      "source": "36氪",
+      "source_icon": "🔵",
+      "summary": "作者｜黄楠编辑｜袁斯来硬氪获悉，具身智能世界模型公司「千诀科技」日前完成数亿元A轮融资，本轮由京铭资本领投，山东新动能、山东财金资本、元禾厚望、芯能创投、南创投、英诺天使基金、尚势资本、仁爱集团、玄素…",
+      "tag": "大模型",
+      "id": 5
+    },
+    {
+      "title": "统筹调配车辆芯片算力，中国汽车基础软件技术首次进入全球行业标准",
+      "url": "https://www.ithome.com/0/962/707.htm",
+      "source": "IT之家",
+      "source_icon": "🟢",
+      "summary": "国际汽车开放系统架构组织昨天（10 日）在上海宣布，中国自主研发的智能驾驶操作系统，正式成为全球智能驾驶系统公共代码库的核心基线，这也是中国汽车基础软件技术首次进入全球行业标准。",
+      "tag": "AI算力",
+      "id": 6
+    },
+    {
+      "title": "因安全顾虑，Anthropic 最强 AI 模型 Claude Fable 5 拒绝回答基础生物问题",
+      "url": "https://www.ithome.com/0/962/705.htm",
+      "source": "IT之家",
+      "source_icon": "🟢",
+      "summary": "Anthropic昨日推出了 ClaudeFable5，称其为该公司目前面向大众开放的最强人工智能模型，并着重夸赞了其在生物学等领域的能力。",
+      "tag": "大模型",
+      "id": 7
+    },
+    {
+      "title": "GPT-5.6 最强 AI 模型已在路上，消息称奥尔特曼预估 OpenAI 明年上市",
+      "url": "https://www.ithome.com/0/962/704.htm",
+      "source": "IT之家",
+      "source_icon": "🟢",
+      "summary": "科技媒体The Information 今天（6月11日）发布博文，披露了一份萨姆· 奥尔特曼（SamAltman）本周发布的致员工内部邮件，他预估 OpenAI公司将在“明年内”上市，但具体时间表仍…",
+      "tag": "大模型",
+      "id": 8
+    },
+    {
+      "title": "最前线｜AI跨境电商工具混战，StoreClaw想用“一个大脑”接管卖家的店",
+      "url": "https://36kr.com/p/3846793046133257?f=rss",
+      "source": "36氪",
+      "source_icon": "🔵",
+      "summary": "文｜张子怡编辑｜袁斯来在竞争常年格外激烈的跨境电商行业，精细化运营已成为决定商家利润的关键，多渠道布局则是规避风险的普遍运营选择。",
+      "tag": "电商",
+      "id": 9
+    },
+    {
+      "title": "36氪首发 | 清华团队做出全球首个实时理解生理与情绪的基座模型，进一步布局硬件",
+      "url": "https://36kr.com/p/3846789531404549?f=rss",
+      "source": "36氪",
+      "source_icon": "🔵",
+      "summary": "作者| 乔钰杰 编辑 | 袁斯来硬氪获悉，北京微面科技有限公司（以下简称“微面科技”）近日完成数百万美元融资，由顺为资本投资。",
+      "tag": "大模型",
+      "id": 10
+    }
+  ]
+}
