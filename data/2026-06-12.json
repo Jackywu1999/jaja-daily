@@ -1,0 +1,99 @@
+{
+  "date": "2026-06-12",
+  "generated_at": "2026-06-12T08:16:21.302278+08:00",
+  "category": "餐饮零售 & AI科技",
+  "total": 10,
+  "editor_note": "今天共精选 10 条。餐饮零售板块：沃尔玛与Wing无人机配送扩展至七个新都等话题值得关注；AI科技板块：苹果高管克雷格明确表态：全新 Siri 等动态持续发酵。",
+  "items": [
+    {
+      "title": "沃尔玛与Wing无人机配送扩展至七个新都会区",
+      "url": "https://36kr.com/newsflashes/3849398085473542?f=rss",
+      "source": "36氪",
+      "source_icon": "🔵",
+      "summary": "沃尔玛与Alphabet旗下无人机配送公司Wing本周宣布，将其无人机配送服务扩展至全美七个新都会区，作为双方到2027年建成270多家门店配送网络计划的一部分。",
+      "tag": "零售动态",
+      "id": 1
+    },
+    {
+      "title": "【钛晨报】国常会最新部署：营造有利于原始创新的科研生态；7家涉火车票销售第三方平台、5家电商平台被约谈；六氟化钨概念火爆，多家上市公司回应相关问题",
+      "url": "https://www.tmtpost.com/8024919.html",
+      "source": "钛媒体",
+      "source_icon": "🟠",
+      "summary": "钉钉换帅，李书福卸任极氪董事长，贵州茅台选举陈华为董事长；京东方Ａ：公司被美国国防部列入“中国军事企业清单”并无正当理由；宁德时代首次投资核聚变企业；OpenAI据悉正考虑大幅降价，SK海力士多家设备…",
+      "tag": "电商",
+      "id": 2
+    },
+    {
+      "title": "假烟、过期食品接连曝光，“便利店之王”为何频“踩雷”？",
+      "url": "https://www.tmtpost.com/8023029.html",
+      "source": "钛媒体",
+      "source_icon": "🟠",
+      "summary": "“假烟风波”尚未远去，“便利店之王”美宜佳又栽在了过期食品上。",
+      "tag": "餐饮动态",
+      "id": 3
+    },
+    {
+      "title": "苹果高管克雷格明确表态：全新 Siri 不会成为你的 AI 女友 / 男友",
+      "url": "https://www.ithome.com/0/963/232.htm",
+      "source": "IT之家",
+      "source_icon": "🟢",
+      "summary": "苹果软件工程高级副总裁克雷格· 费德里吉（CraigFederighi）与营销副总裁格雷格· 乔斯维克（GregJoswiak）昨日出席《Mostly Human》播客，就iOS 27 系统全新Sir…",
+      "tag": "AI产品",
+      "id": 4
+    },
+    {
+      "title": "亚马逊创始人贝索斯：AI 不会造成大规模失业，反而会让经济出现“劳动力短缺”",
+      "url": "https://www.ithome.com/0/963/215.htm",
+      "source": "IT之家",
+      "source_icon": "🟢",
+      "summary": "亚马逊创始人、蓝色起源联合创始人杰夫 · 贝索斯认为，AI 不会让人类大规模失业，反而会让经济出现“劳动力短缺”。 当前的贝索斯，正在联合创办新AI 公司Prometheus，目标是提高工程师生产力。",
+      "tag": "AI产品",
+      "id": 5
+    },
+    {
+      "title": "打造你认为的最佳壁纸：苹果 iOS 27 升级图乐园，AI 定制适配 iPhone 17 等机型壁纸",
+      "url": "https://www.ithome.com/0/963/246.htm",
+      "source": "IT之家",
+      "source_icon": "🟢",
+      "summary": "科技媒体9to5Mac 昨日（6 月 11日）发布博文，报道称，在iOS 27系统中，苹果公司新增自定义壁纸功能，用户可调用图乐园（ImagePlayground）AI生成适配 iPhone 17等屏…",
+      "tag": "AI产品",
+      "id": 6
+    },
+    {
+      "title": "OpenAI 收购初创公司 Ona，强化编程助手 Codex",
+      "url": "https://www.ithome.com/0/963/239.htm",
+      "source": "IT之家",
+      "source_icon": "🟢",
+      "summary": "OpenAI昨天宣布收购初创公司Ona，为编程助手Codex提供安全、预配置云环境。Ona的技术将帮助 Codex执行持续时间更长的任务，并帮助用户将AI智能体部署到生产环境。",
+      "tag": "AI投融资",
+      "id": 7
+    },
+    {
+      "title": "世界杯期间苹果营销发力：AirPods Pro 3 具备全球最佳入耳式主动降噪",
+      "url": "https://www.ithome.com/0/963/235.htm",
+      "source": "IT之家",
+      "source_icon": "🟢",
+      "summary": "科技媒体9to5Mac 今天（6 月 12日）发布博文，报道称在世界杯（2026年 6 月 11 日至 7 月 19日）期间，苹果推出新AirPods Pro 3宣传视频中，携手皇家马德里球星维尼修斯…",
+      "tag": "商业洞察",
+      "id": 8
+    },
+    {
+      "title": "氪星晚报｜百万Token只要几块钱，算力价格还在往下降；OpenAI正考虑大幅下调产品价格；今起儿童旅客可购买铁路旅游计次票，票价为成人旅客的5折",
+      "url": "https://36kr.com/p/3848516305605892?f=rss",
+      "source": "36氪",
+      "source_icon": "🔵",
+      "summary": "大公司： 克里斯蒂安·斯坦出任雷诺集团西班牙首席执行官 7月1日起，克里斯蒂安·斯坦（Christian Stein）将接替何塞·马雷亚·里卡森（JosepMaría Recasens）,出任雷诺集团…",
+      "tag": "AI算力",
+      "id": 9
+    },
+    {
+      "title": "AI重塑底层逻辑，数据库重新站上风口",
+      "url": "https://36kr.com/newsflashes/3849438848390144?f=rss",
+      "source": "36氪",
+      "source_icon": "🔵",
+      "summary": "“古老”的数据库行业，信创吹响的冲锋号角还未平息，又因为AI再次硝烟四起。“行业正以Agent（智能体）作为新用户，重构数据库的产品能力体系。",
+      "tag": "AI产品",
+      "id": 10
+    }
+  ]
+}
