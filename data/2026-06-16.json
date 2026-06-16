@@ -1,0 +1,99 @@
+{
+  "date": "2026-06-16",
+  "generated_at": "2026-06-16T08:26:48.730837+08:00",
+  "category": "餐饮零售 & AI科技",
+  "total": 10,
+  "editor_note": "今天共精选 10 条。餐饮零售板块：8点1氪｜山姆总部因食品安全问题被约谈；等话题值得关注；AI科技板块：Adobe 升级 Photoshop、P等动态持续发酵。",
+  "items": [
+    {
+      "title": "8点1氪｜山姆总部因食品安全问题被约谈；智谱股价暴涨，创上市以来单日成交新高；美伊确认达成协议，国际油价显著下跌",
+      "url": "https://36kr.com/p/3855082873476102?f=rss",
+      "source": "36氪",
+      "source_icon": "🔵",
+      "summary": "今日热点导览国内品牌金饰价格普涨小红书公布世界杯开赛数据阿里巴巴达摩院退出旗下科技公司罗马仕接连变更法定代表人遇见小面创始人向“渝见小面”致歉TOP3大新闻 针对多发食品安全问题，市场监管总局约谈山姆…",
+      "tag": "餐饮动态",
+      "id": 1
+    },
+    {
+      "title": "小绿书 VS 小红书：一场生死战，不是选择题",
+      "url": "https://www.tmtpost.com/8028640.html",
+      "source": "钛媒体",
+      "source_icon": "🟠",
+      "summary": "小红书负责种草，微信负责收割。",
+      "tag": "电商",
+      "id": 2
+    },
+    {
+      "title": "Adobe 升级 Photoshop、Premiere 等，为用户创作整合更多 AI 能力",
+      "url": "https://www.ithome.com/0/964/624.htm",
+      "source": "IT之家",
+      "source_icon": "🟢",
+      "summary": "Adobe昨日（6 月 15日）发布公告，宣布升级 Creative Cloud套件，涵盖 Lightroom、Premiere、AfterEffects 与Photoshop，为用户创作流程整合更多…",
+      "tag": "AI产品",
+      "id": 3
+    },
+    {
+      "title": "AMD 收购 MEXT，为 AI 负载吃内存寻找降本新路径",
+      "url": "https://www.ithome.com/0/964/621.htm",
+      "source": "IT之家",
+      "source_icon": "🟢",
+      "summary": "AMD公司昨日（6 月 15日）发布公告，宣布收购内存优化技术公司MEXT，目标是缓解数据中心日益突出的内存瓶颈。 IT之家援引博文介绍，在 AI、数据分析、虚拟化和高性能计算负载持续膨胀后，现代数据…",
+      "tag": "AI投融资",
+      "id": 4
+    },
+    {
+      "title": "项目负责人揭秘为何苹果 AI 版 Siri 姗姗来迟：推倒重来，彻底重构",
+      "url": "https://www.ithome.com/0/964/620.htm",
+      "source": "IT之家",
+      "source_icon": "🟢",
+      "summary": "iOS27 全新人工智能版 Siri 相比旧版Siri 实现了跨越式升级，但其上线耗时远超预期。迈克· 罗克韦尔道出了新 Siri迟迟未能推出的背后原因。",
+      "tag": "AI产品",
+      "id": 5
+    },
+    {
+      "title": "从 BANG!CASE 到 AI Display：我为什么想给 AI 在桌面留一个位置",
+      "url": "https://sspai.com/post/110984",
+      "source": "少数派",
+      "source_icon": "🔵",
+      "summary": "过去几年，我一直在深圳做硬件产品，也在少数派参与过几次消费电子产品的共创。如果你关注过少数派之前的一些硬件项目，可能见过BANG!CASE。",
+      "tag": "AI产品",
+      "id": 6
+    },
+    {
+      "title": "具透 | 除了 AI，iOS 27 首个开发者测试版中你不能错过的新功能",
+      "url": "https://sspai.com/post/110973",
+      "source": "少数派",
+      "source_icon": "🔵",
+      "summary": "少数派在体验了新版系统之后，帮你整理了iOS 27中值得关注的新功能和新特性，希望帮你能了解新版系统的方方面面。",
+      "tag": "AI产品",
+      "id": 7
+    },
+    {
+      "title": "马斯克再败诉：美法官驳回 xAI 指控 OpenAI 窃取商业机密的诉讼",
+      "url": "https://www.ithome.com/0/964/631.htm",
+      "source": "IT之家",
+      "source_icon": "🟢",
+      "summary": "美国一名联邦法官于当地时间周一驳回了埃隆· 马斯克旗下人工智能企业 xAI提起的诉讼。该诉讼指控竞争对手萨姆· 奥尔特曼创办的 OpenAI窃取聊天机器人的商业机密。",
+      "tag": "AI产品",
+      "id": 8
+    },
+    {
+      "title": "消息称高通洽谈收购 Tenstorrent，旨在提升人工智能芯片研发实力",
+      "url": "https://www.ithome.com/0/964/630.htm",
+      "source": "IT之家",
+      "source_icon": "🟢",
+      "summary": "据外媒The Information报道，高通正洽谈收购人工智能芯片设计初创企业 Tenstorrent，双方商讨的收购对价区间至少在 80 亿至100 亿美元",
+      "tag": "AI投融资",
+      "id": 9
+    },
+    {
+      "title": "Anthropic 高管与美政府展开谈判，寻求解除 AI 模型 Fable 5 出口禁令",
+      "url": "https://www.ithome.com/0/964/628.htm",
+      "source": "IT之家",
+      "source_icon": "🟢",
+      "summary": "多名政府官员、一名知晓谈判内情人士及一名接近该公司的消息人士向POLITICO网站透露，Anthropic 公司员工于当地时间周一与特朗普政府高级官员举行了面对面会谈。",
+      "tag": "大模型",
+      "id": 10
+    }
+  ]
+}
