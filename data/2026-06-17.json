@@ -1,0 +1,99 @@
+{
+  "date": "2026-06-17",
+  "generated_at": "2026-06-17T08:12:53.795452+08:00",
+  "category": "餐饮零售 & AI科技",
+  "total": 10,
+  "editor_note": "今天共精选 10 条。餐饮零售板块：8点1氪｜山姆总部因食品安全问题被约谈；等话题值得关注；AI科技板块：英伟达刷新 MLPerf 的 DeepS等动态持续发酵。",
+  "items": [
+    {
+      "title": "8点1氪｜山姆总部因食品安全问题被约谈；智谱股价暴涨，创上市以来单日成交新高；美伊确认达成协议，国际油价显著下跌",
+      "url": "https://36kr.com/p/3855082873476102?f=rss",
+      "source": "36氪",
+      "source_icon": "🔵",
+      "summary": "今日热点导览国内品牌金饰价格普涨小红书公布世界杯开赛数据阿里巴巴达摩院退出旗下科技公司罗马仕接连变更法定代表人遇见小面创始人向“渝见小面”致歉TOP3大新闻 针对多发食品安全问题，市场监管总局约谈山姆…",
+      "tag": "餐饮动态",
+      "id": 1
+    },
+    {
+      "title": "英伟达刷新 MLPerf 的 DeepSeek-V3 671B 训练记录：提速 60%，最快 2.02 分钟完成",
+      "url": "https://www.ithome.com/0/965/124.htm",
+      "source": "IT之家",
+      "source_icon": "🟢",
+      "summary": "英伟达昨日（6月 16日）发布博文，宣布在MLPerf Training 6.0全部 7 项基准测试中，其 Blackwell平台拿下最快训练成绩，并成为唯一覆盖全部测试项目的平台。",
+      "tag": "大模型",
+      "id": 2
+    },
+    {
+      "title": "调查：六成美国消费者反感品牌营销中出现 AI",
+      "url": "https://www.ithome.com/0/965/147.htm",
+      "source": "IT之家",
+      "source_icon": "🟢",
+      "summary": "Automattic旗下企业级 WordPress发布平台服务商WordPress VIP发布的一份最新报告指出：品牌内容被人工智能引用，远比赢得消费者信任来得容易。",
+      "tag": "商业洞察",
+      "id": 3
+    },
+    {
+      "title": "谷歌推送 Android 17 正式版，深度集成 AI 功能",
+      "url": "https://www.ithome.com/0/965/145.htm",
+      "source": "IT之家",
+      "source_icon": "🟢",
+      "summary": "谷歌于当地时间周二正式推送了Android 17正式版，同时发布了智能手表操作系统Wear OS7。本次新版系统将率先搭载于谷歌自家Pixel系列设备，同步上线Pixel专属功能更新包，新增多项AI相…",
+      "tag": "AI产品",
+      "id": 4
+    },
+    {
+      "title": "硬氪专访 | 智源研究院院长王仲远：VLA不会死，但世界模型是未来",
+      "url": "https://36kr.com/p/3853016586359817?f=rss",
+      "source": "36氪",
+      "source_icon": "🔵",
+      "summary": "作者| 邱晓芬 编辑 | 袁斯来过去几个月，“世界模型”（World Model）从学术黑话迅速膨胀成AI和机器人行业里的关键词。 行业的目光转向背后是切实的焦虑。",
+      "tag": "大模型",
+      "id": 5
+    },
+    {
+      "title": "从 BANG!CASE 到 AI Display：我为什么想给 AI 在桌面留一个位置",
+      "url": "https://sspai.com/post/110984",
+      "source": "少数派",
+      "source_icon": "🔵",
+      "summary": "过去几年，我一直在深圳做硬件产品，也在少数派参与过几次消费电子产品的共创。如果你关注过少数派之前的一些硬件项目，可能见过BANG!CASE。",
+      "tag": "AI产品",
+      "id": 6
+    },
+    {
+      "title": "1.6 万创作者洞察：Adobe 报告称 87% 受访者认为 AI 加快业务和粉丝增长",
+      "url": "https://www.ithome.com/0/965/160.htm",
+      "source": "IT之家",
+      "source_icon": "🟢",
+      "summary": "Adobe昨日（6 月 16 日）发布《2026创作者工具包报告》，75% 受访者已将创意 AI视为工作中的整合工具或核心工具，87% 认为它加快了业务或粉丝增长，58% 称其增强了与大团队竞争的能力。",
+      "tag": "商业洞察",
+      "id": 7
+    },
+    {
+      "title": "铁威马推出 F4-425 Pro 铝合金 NAS：可选酷睿 i3-N305/N350、首搭 TOS 7 操作系统强调 AI 功能，3799 元起",
+      "url": "https://www.ithome.com/0/965/158.htm",
+      "source": "IT之家",
+      "source_icon": "🟢",
+      "summary": "铁威马现已推出一款F4-425 Pro 铝合金NAS，官方称该机首搭AI 原生 NAS TOS 7操作系统，酷睿 i3-N305 + 8GB RAM版本定价为 3799元，酷睿i3-N350 + 16…",
+      "tag": "AI产品",
+      "id": 8
+    },
+    {
+      "title": "华硕上架新款破晓 7S 锐龙版笔记本：AI 5 330 + 16G + 1T 售 6999 元",
+      "url": "https://www.ithome.com/0/965/157.htm",
+      "source": "IT之家",
+      "source_icon": "🟢",
+      "summary": "华硕现已在京东上架新款破晓7S锐龙版笔记本，该机采用锐龙AI 5 330+ 16GB RAM +1TBSSD规格，定价为 6999 元。",
+      "tag": "AI产品",
+      "id": 9
+    },
+    {
+      "title": "融了数亿美金的「大晓机器人」，其创始人揭开了具身行业的割裂一面",
+      "url": "https://36kr.com/p/3855262364488969?f=rss",
+      "source": "36氪",
+      "source_icon": "🔵",
+      "summary": "文｜周鑫雨编辑｜张雨忻梳理近半年的成果，大晓机器人董事长、商汤科技联合创始人王晓刚，滔滔不绝聊了10多分钟。 成立于2025年7月，大晓机器人（ACE ROBOTICS）是具身领域姗姗来迟的入局者。",
+      "tag": "机器人",
+      "id": 10
+    }
+  ]
+}
