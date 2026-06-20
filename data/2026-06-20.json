@@ -1,0 +1,99 @@
+{
+  "date": "2026-06-20",
+  "generated_at": "2026-06-20T08:05:04.271050+08:00",
+  "category": "餐饮零售 & AI科技",
+  "total": 10,
+  "editor_note": "今天共精选 10 条。餐饮零售板块：小红书递表，世界杯是临门一脚吗？等话题值得关注；AI科技板块：印度首富安巴尼：印度必须成为 AI 的创等动态持续发酵。",
+  "items": [
+    {
+      "title": "小红书递表，世界杯是临门一脚吗？",
+      "url": "https://www.tmtpost.com/8033641.html",
+      "source": "钛媒体",
+      "source_icon": "🟠",
+      "summary": "抖音没买，小红书不亏。",
+      "tag": "电商",
+      "id": 1
+    },
+    {
+      "title": "印度首富安巴尼：印度必须成为 AI 的创造者和全球领导者",
+      "url": "https://www.ithome.com/0/966/442.htm",
+      "source": "IT之家",
+      "source_icon": "🟢",
+      "summary": "印度首富、信实工业集团董事长穆克什 · 安巴尼希望，把公司打造为当地AI产业的代表，并把AI 服务带入电话、移动应用和智能家居 。",
+      "tag": "AI产品",
+      "id": 2
+    },
+    {
+      "title": "应对 AI 耗电激增，美国要求 6 家电网运营商加速给数据中心供电",
+      "url": "https://www.ithome.com/0/966/435.htm",
+      "source": "IT之家",
+      "source_icon": "🟢",
+      "summary": "当地时间周四，美国联邦能源监管委员会下令，要求6 家区域电网运营商加快大型用电设施接入美国老化且效率低下的输电系统 。委员会表示，AI 数据中心耗电量巨大，用电需求又在迅速增长，美国必须加快并网流程。",
+      "tag": "AI产品",
+      "id": 3
+    },
+    {
+      "title": "人形机器人成功登顶海拔 6200 米火山：基于宇树 G1 改装，目标挑战珠峰",
+      "url": "https://www.ithome.com/0/966/427.htm",
+      "source": "IT之家",
+      "source_icon": "🟢",
+      "summary": "据外媒Futurism 当地时间 14日报道，一台由宇树G1改装、名为Pemba的人形机器人，成功抵达厄瓜多尔钦博拉索火山海拔 6200米的顶峰 。",
+      "tag": "机器人",
+      "id": 4
+    },
+    {
+      "title": "红杉、阿里押注过的具身大脑公司再融资，上交等投资数亿元｜硬氪首发",
+      "url": "https://36kr.com/p/3856708724315400?f=rss",
+      "source": "36氪",
+      "source_icon": "🔵",
+      "summary": "作者｜黄楠编辑｜袁斯来硬氪获悉，具身智能企业穹彻智能（Noematrix）近日完成新一轮数亿元融资，本轮融资由无锡数据集团领投，投资方包括上海交通大学AI未来基金（创业基金）、上海创之智科技有限公司（…",
+      "tag": "AI投融资",
+      "id": 5
+    },
+    {
+      "title": "超越 Claude Fable 5：智谱 GLM 5.2 登顶 Design Arena 网页设计 AI 榜单",
+      "url": "https://www.ithome.com/0/966/458.htm",
+      "source": "IT之家",
+      "source_icon": "🟢",
+      "summary": "@Designarena今天（6 月 20 日）在 X平台发布推文，宣布在 Design Arena 单轮HTML 网页设计（非智能体）评测中，智谱的GLM-5.2 模型超过 ClaudeFable …",
+      "tag": "大模型",
+      "id": 6
+    },
+    {
+      "title": "visionOS 27 今秋推送：M5 Vision Pro 头显独占 Siri 语音定制和苹果最强本地 AI 模型",
+      "url": "https://www.ithome.com/0/966/454.htm",
+      "source": "IT之家",
+      "source_icon": "🟢",
+      "summary": "科技媒体9to5Mac 昨日（6 月 19日）发布博文，报道称在visionOS 27系统中，苹果为 M5 Vision Pro头显独占推出Siri 语音定制（VoiceCustomization）和…",
+      "tag": "大模型",
+      "id": 7
+    },
+    {
+      "title": "强推 AI 引用户反感，谷歌 AI 建议用户不想看 AI 就用 DuckDuckGo",
+      "url": "https://www.ithome.com/0/966/444.htm",
+      "source": "IT之家",
+      "source_icon": "🟢",
+      "summary": "谷歌目前正全力推进AI生态的建设，并在搜索引擎中强行加入AI智能体。DuckDuckGo 官方今日在 X上晒出了一张截图，显示谷歌AI 概览正引导那些讨厌 AI的用户前往DuckDuckGo 的“No…",
+      "tag": "AI产品",
+      "id": 8
+    },
+    {
+      "title": "硬氪首发|moody前高管搭档大疆骨干入局陪伴机器人，锦秋领投，融资数千万",
+      "url": "https://36kr.com/p/3859926114161665?f=rss",
+      "source": "36氪",
+      "source_icon": "🔵",
+      "summary": "硬氪获悉，AI-Native科技潮玩品牌ZuzuZoos查无此园（杭州多蓝艾梦智能科技旗下）近日完成数千万元Pre-A轮融资，锦秋领投、上海复容跟投。",
+      "tag": "AI投融资",
+      "id": 9
+    },
+    {
+      "title": "科氪 | 两轮电动车没有天花板，爱玛黑翼要用AI与硬核科技赢得年轻男性的心",
+      "url": "https://36kr.com/p/3858803016881154?f=rss",
+      "source": "36氪",
+      "source_icon": "🔵",
+      "summary": "国内两轮电动车市场正悄然迎来一场深层次的“基因突变”。长期以来，大众对两轮电动车的认知被牢牢框定在“代步工具”与“大众精品”的传统叙事里。",
+      "tag": "AI产品",
+      "id": 10
+    }
+  ]
+}
