@@ -1,0 +1,99 @@
+{
+  "date": "2026-06-22",
+  "generated_at": "2026-06-22T08:06:30.930490+08:00",
+  "category": "餐饮零售 & AI科技",
+  "total": 10,
+  "editor_note": "今天共精选 10 条。餐饮零售板块：截至6月20日，2026年消费品以旧换新等话题值得关注；AI科技板块：科氪 | 两轮电动车没有天花板，爱玛黑翼等动态持续发酵。",
+  "items": [
+    {
+      "title": "截至6月20日，2026年消费品以旧换新惠及1.36亿人次",
+      "url": "https://36kr.com/newsflashes/3863089480537345?f=rss",
+      "source": "36氪",
+      "source_icon": "🔵",
+      "summary": "从商务部了解到，今年端午假期，全国消费市场运行平稳，生活必需品货足价稳。商务部商务大数据显示，今年端午假期前两天，商务部重点监测的78个步行街及商圈客流量、营业额分别同比增长4.0%、3.5%。",
+      "tag": "商业洞察",
+      "id": 1
+    },
+    {
+      "title": "当果粒橙遭遇“中年危机”：年轻人凭啥为低糖饮料买单？",
+      "url": "https://www.tmtpost.com/8035063.html",
+      "source": "钛媒体",
+      "source_icon": "🟠",
+      "summary": "当果粒橙遭遇“中年危机”：年轻人凭啥为低糖饮料买单？",
+      "tag": "餐饮动态",
+      "id": 2
+    },
+    {
+      "title": "京东刘强东称将来根本不需要快递员：希望送 70 万蓝领兄弟去培训，以应对 AI 和技术发展带来的冲击",
+      "url": "https://www.ithome.com/0/966/657.htm",
+      "source": "IT之家",
+      "source_icon": "🟢",
+      "summary": "今日举办的2026 年 APEC工商领导人中国论坛上，京东集团创始人、董事局主席刘强东透露，近期，京东内部提出了“涅槃计划”，希望把京东已有的 70万快递员等蓝领工人，送到学校做技术培训，以应对AI …",
+      "tag": "电商",
+      "id": 3
+    },
+    {
+      "title": "科氪 | 两轮电动车没有天花板，爱玛黑翼要用AI与硬核科技赢得年轻男性的心",
+      "url": "https://36kr.com/p/3858803016881154?f=rss",
+      "source": "36氪",
+      "source_icon": "🔵",
+      "summary": "国内两轮电动车市场正悄然迎来一场深层次的“基因突变”。长期以来，大众对两轮电动车的认知被牢牢框定在“代步工具”与“大众精品”的传统叙事里。",
+      "tag": "AI产品",
+      "id": 4
+    },
+    {
+      "title": "中信建投：国产模型加速迭代，算力景气度持续",
+      "url": "https://36kr.com/newsflashes/3863099932464386?f=rss",
+      "source": "36氪",
+      "source_icon": "🔵",
+      "summary": "36氪获悉，中信建投研报称，国内模型持续迭代，GLM-5.2、KimiK2.7Code强化1M上下文、长程Agent、Agentic Coding和真实工程交付能力，推动国产模型从通用问答转向开发者工…",
+      "tag": "大模型",
+      "id": 5
+    },
+    {
+      "title": "AI 工作流实践：100% Vibe Coding 完成 Game Jam 游戏开发",
+      "url": "https://sspai.com/post/110972",
+      "source": "少数派",
+      "source_icon": "🔵",
+      "summary": "Agent 和人一样离不开闭环。",
+      "tag": "AI产品",
+      "id": 6
+    },
+    {
+      "title": "机型定位“降档”：消息称苹果 iPhone Air 2 手机仅采用 A20 标准版芯片",
+      "url": "https://www.ithome.com/0/966/738.htm",
+      "source": "IT之家",
+      "source_icon": "🟢",
+      "summary": "消息源yeux1122透露，苹果iPhone Air 2 将采用标准版A20 芯片，而非iPhone 18 Pro 系列 /iPhoneFold 的 A20 Pro芯片，这与初代iPhone Air呈…",
+      "tag": "AI算力",
+      "id": 7
+    },
+    {
+      "title": "刘强东称京东所有 AI 技术都会向海外各个国家所有伙伴开放：不希望任何企业或国家形成技术壁垒，这本质上是“剥削”",
+      "url": "https://www.ithome.com/0/966/690.htm",
+      "source": "IT之家",
+      "source_icon": "🟢",
+      "summary": "据新浪科技消息，在今日举办的2026 年 APEC工商领导人中国论坛上，京东集团创始人、董事局主席刘强东宣布，从今天开始，京东所有的 AI技术都会向海外各个国家所有的伙伴进行开放 ，包括亚太地区。",
+      "tag": "电商",
+      "id": 8
+    },
+    {
+      "title": "AMD CEO 苏姿丰签名同款极摩客 EVO-X3 4T 机皇版曝光，126TOPS 算力第三代桌面 AI 超算中心",
+      "url": "https://www.ithome.com/0/966/662.htm",
+      "source": "IT之家",
+      "source_icon": "🟢",
+      "summary": "近日，极摩客（GMKtec）预热了旗下全新旗舰产品—— EVO-X3 4T AMD AI395 机皇版，新品定位「第三代桌面AI超算中心」。",
+      "tag": "AI算力",
+      "id": 9
+    },
+    {
+      "title": "硬氪首发|moody前高管搭档大疆骨干入局陪伴机器人，锦秋领投，融资数千万",
+      "url": "https://36kr.com/p/3859926114161665?f=rss",
+      "source": "36氪",
+      "source_icon": "🔵",
+      "summary": "硬氪获悉，AI-Native科技潮玩品牌ZuzuZoos查无此园（杭州多蓝艾梦智能科技旗下）近日完成数千万元Pre-A轮融资，锦秋领投、上海复容跟投。",
+      "tag": "AI投融资",
+      "id": 10
+    }
+  ]
+}
