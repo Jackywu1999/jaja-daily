@@ -1,0 +1,99 @@
+{
+  "date": "2026-06-24",
+  "generated_at": "2026-06-24T07:52:13.547729+08:00",
+  "category": "餐饮零售 & AI科技",
+  "total": 10,
+  "editor_note": "今天共精选 10 条。餐饮零售板块：只租办公室的拼多多，在雄安买了一栋楼等话题值得关注；AI科技板块：苹果 tvOS 27 测试版现 Siri等动态持续发酵。",
+  "items": [
+    {
+      "title": "只租办公室的拼多多，在雄安买了一栋楼",
+      "url": "https://36kr.com/p/3865625576297476?f=rss",
+      "source": "36氪",
+      "source_icon": "🔵",
+      "summary": "扎堆雄安的互联网大厂又多了一个。 6月21日，拼多多集团与中国电建完成正式签约，通过整体购置方式持有雄安·电建智汇城数字新消费电商产业园的办公楼。 这是拼多多第一次“买楼”。",
+      "tag": "电商",
+      "id": 1
+    },
+    {
+      "title": "朴朴交易传闻下，即时零售的几个新动态",
+      "url": "https://www.tmtpost.com/8038000.html",
+      "source": "钛媒体",
+      "source_icon": "🟠",
+      "summary": "这是一个顺应了未来消费碎片化、即时化、融合化的大市场。",
+      "tag": "零售动态",
+      "id": 2
+    },
+    {
+      "title": "苹果 tvOS 27 测试版现 Siri AI 代码，Apple TV 与 HomePod 酝酿扩展 AI 功能",
+      "url": "https://www.ithome.com/0/967/707.htm",
+      "source": "IT之家",
+      "source_icon": "🟢",
+      "summary": "科技媒体AppleInsider 昨日（6 月23 日）发布博文，报道称基于tvOS 27 Beta首个开发者测试版本挖掘的代码，苹果公司正酝酿为 Apple TV 和HomePod引入 AI功能。",
+      "tag": "AI产品",
+      "id": 3
+    },
+    {
+      "title": "美国监管机构向 Meta 施压，要求其同意接受 AI 安全审查",
+      "url": "https://www.ithome.com/0/967/706.htm",
+      "source": "IT之家",
+      "source_icon": "🟢",
+      "summary": "据纽约时报消息，知情人士透露，美国政府正向Meta施压，要求其主动提交人工智能模型以供审查，以便政府能够评估这些模型的功能与潜在漏洞。",
+      "tag": "政策监管",
+      "id": 4
+    },
+    {
+      "title": "扎克伯格谈 Meta AI 智能眼镜：必须在时尚与功能之间取得平衡",
+      "url": "https://www.ithome.com/0/967/705.htm",
+      "source": "IT之家",
+      "source_icon": "🟢",
+      "summary": "马克· 扎克伯格希望 Meta最新款人工智能眼镜不只是一件电子设备。对这位Meta首席执行官而言，难点不在于往镜框里堆砌更多人工智能功能，而是做出人们真正愿意日常佩戴的眼镜。",
+      "tag": "AI产品",
+      "id": 5
+    },
+    {
+      "title": "AI 工作流实践：100% Vibe Coding 完成 Game Jam 游戏开发",
+      "url": "https://sspai.com/post/110972",
+      "source": "少数派",
+      "source_icon": "🔵",
+      "summary": "Agent 和人一样离不开闭环。",
+      "tag": "AI产品",
+      "id": 6
+    },
+    {
+      "title": "苹果 macOS 27 Beta 2 已封堵“跳过 Siri AI 候补名单”终端命令",
+      "url": "https://www.ithome.com/0/967/715.htm",
+      "source": "IT之家",
+      "source_icon": "🟢",
+      "summary": "科技媒体Cult of Mac 昨日（6 月23 日）发布博文，报道称在macOS 27 Beta 2更新中，苹果封堵了一条Mac终端命令，用户使用该命令可以绕过候补名单启用新版Siri AI。",
+      "tag": "AI产品",
+      "id": 7
+    },
+    {
+      "title": "苹果为四款 AirPods 推送测试版固件 9A5304b，搭载 iOS 27 功能",
+      "url": "https://www.ithome.com/0/967/710.htm",
+      "source": "IT之家",
+      "source_icon": "🟢",
+      "summary": "苹果今日为AirPods Pro2、AirPodsPro3、AirPods4 以及 AirPods Max 2推送了新的测试版固件。该固件目前仅面向开发者开放，内部版本号为 9A5304b。",
+      "tag": "AI产品",
+      "id": 8
+    },
+    {
+      "title": "维基百科联合创始人：AI 幻觉仍然严重，不会让 AI 直接参与内容编辑",
+      "url": "https://www.ithome.com/0/967/709.htm",
+      "source": "IT之家",
+      "source_icon": "🟢",
+      "summary": "据法新社消息，维基百科(Wikipedia) 联合创始人吉米·威尔士（JimmyWales）当地时间周一表示，维基百科对AI的信任度尚不足以让其直接在平台上参与词条编辑。",
+      "tag": "AI产品",
+      "id": 9
+    },
+    {
+      "title": "圆桌论坛：比共识更早一步 AI 创投的真实棋局 | 2026WAVES",
+      "url": "https://36kr.com/p/3865630193030145?f=rss",
+      "source": "36氪",
+      "source_icon": "🔵",
+      "summary": "AI不是一阵风，它正在变成地平线。而地平线的意思是——你看不到它的尽头，但它一直在那里。 当下AI热潮涌动，行业共识尚未形成，但真正的机遇往往诞生在共识之前。",
+      "tag": "AI产品",
+      "id": 10
+    }
+  ]
+}
