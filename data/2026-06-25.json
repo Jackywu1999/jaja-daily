@@ -1,0 +1,99 @@
+{
+  "date": "2026-06-25",
+  "generated_at": "2026-06-25T08:05:15.222811+08:00",
+  "category": "餐饮零售 & AI科技",
+  "total": 10,
+  "editor_note": "今天共精选 10 条。餐饮零售板块：茶饮集体卖冰淇淋：一场关于“时间”的暗战等话题值得关注；AI科技板块：消息称谷歌 Gemini 3.5 Pro等动态持续发酵。",
+  "items": [
+    {
+      "title": "茶饮集体卖冰淇淋：一场关于“时间”的暗战",
+      "url": "https://www.tmtpost.com/8039136.html",
+      "source": "钛媒体",
+      "source_icon": "🟠",
+      "summary": "冰淇淋只是这场存量战争的第一个战场。",
+      "tag": "餐饮动态",
+      "id": 1
+    },
+    {
+      "title": "消息称谷歌 Gemini 3.5 Pro 发布时间推迟至 7 月，旨在优化模型性能",
+      "url": "https://www.ithome.com/0/968/222.htm",
+      "source": "IT之家",
+      "source_icon": "🟢",
+      "summary": "据Business Insider获悉，谷歌下一代前沿人工智能模型的发布时间已推迟至 7 月。 知情人士透露，该公司此前称计划在6 月推出全新的 Gemini 3.5Pro 模型，如今目标调整为 7 …",
+      "tag": "大模型",
+      "id": 2
+    },
+    {
+      "title": "亚马逊推出升级版 Zoox 自动驾驶出租车：星空顶 + 面对面座椅，乘坐体验更平静",
+      "url": "https://www.ithome.com/0/968/216.htm",
+      "source": "IT之家",
+      "source_icon": "🟢",
+      "summary": "当地时间24日（今天），亚马逊旗下自动驾驶公司Zoox 升级了旗下的 Robotaxi车型。新车不仅调整了外观，还根据乘客反馈改善内饰舒适性和多项实用功能，为争取今年晚些时候启动商业运营做准备。",
+      "tag": "机器人",
+      "id": 3
+    },
+    {
+      "title": "京东自营首破五千：iPhone Air 换新国补 4999 元 12 期免息",
+      "url": "https://www.ithome.com/0/968/208.htm",
+      "source": "IT之家",
+      "source_icon": "🟢",
+      "summary": "iPhoneAir 于去年 10 月 22日开售，上市起售价为7999元。今日京东自营叠加国补后仅需 5299元，大部分非一线城市再减300元，实付4999 元 + 12期免息。",
+      "tag": "电商",
+      "id": 4
+    },
+    {
+      "title": "主题圆桌：生命的新算法，AI重构医疗产业全链路｜36氪WAVES2026新浪潮",
+      "url": "https://36kr.com/p/3866854221698313?f=rss",
+      "source": "36氪",
+      "source_icon": "🔵",
+      "summary": "“2026年，创投圈的浪潮再次翻涌：AI从技术概念走进产业深水区，硬科技创业从“小众赛道” 变成“主流共识”，年轻的创业者们正在用代码和双手，重新定义中国创新的未来坐标。",
+      "tag": "AI产品",
+      "id": 5
+    },
+    {
+      "title": "DV/HDV 磁带拯救计划：用 AI 驱动十八年前的老设备",
+      "url": "https://sspai.com/post/111223",
+      "source": "少数派",
+      "source_icon": "🔵",
+      "summary": "2026年是 AI agent的第一年，2026年也是 FireWire的最后一年。",
+      "tag": "AI产品",
+      "id": 6
+    },
+    {
+      "title": "英伟达黄仁勋：AI 工厂时代来临，智能体重塑计算格局",
+      "url": "https://www.ithome.com/0/968/233.htm",
+      "source": "IT之家",
+      "source_icon": "🟢",
+      "summary": "昨日（6月 24日）举办的年度股东大会上，英伟达首席执行官黄仁勋描绘了一幅雄心勃勃的AI基础设施扩张蓝图。黄仁勋表示 AI产业已迈入新的阶段，智能体AI（AgentAI，指能自主执行任务、作出决策的A…",
+      "tag": "AI Agent",
+      "id": 7
+    },
+    {
+      "title": "谷歌再失 AI 人才，两名 Gemini 核心骨干转投 Anthropic",
+      "url": "https://www.ithome.com/0/968/224.htm",
+      "source": "IT之家",
+      "source_icon": "🟢",
+      "summary": "据彭博社消息，顶尖人工智能研究员乔纳斯· 阿德勒（JonasAdler）与亚历山大· 普里策尔（AlexanderPritzel）即将离开谷歌，加入Anthropic公司。",
+      "tag": "大模型",
+      "id": 8
+    },
+    {
+      "title": "数据推翻 AI 取代论：工程师岗位成科技行业抗风险最强工种",
+      "url": "https://www.ithome.com/0/968/223.htm",
+      "source": "IT之家",
+      "source_icon": "🟢",
+      "summary": "人工智能是否已经开始取代人类工作，这是一个引发激烈争论的话题。职业转型咨询机构查Challenger,Gray &amp; Christmas公司的数据显示，5 月科技行业裁员规模创下多年来单月最高纪…",
+      "tag": "AI产品",
+      "id": 9
+    },
+    {
+      "title": "圆桌对话：诶? AI! AI这个月、AI这一年、AI这五年｜36氪WAVES2026新浪潮",
+      "url": "https://36kr.com/p/3866900608701449?f=rss",
+      "source": "36氪",
+      "source_icon": "🔵",
+      "summary": "“2026年，创投圈的浪潮再次翻涌：AI从技术概念走进产业深水区，硬科技创业从“小众赛道” 变成“主流共识”，年轻的创业者们正在用代码和双手，重新定义中国创新的未来坐标。",
+      "tag": "AI产品",
+      "id": 10
+    }
+  ]
+}
