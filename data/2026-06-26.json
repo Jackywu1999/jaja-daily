@@ -1,0 +1,99 @@
+{
+  "date": "2026-06-26",
+  "generated_at": "2026-06-26T08:05:39.176532+08:00",
+  "category": "餐饮零售 & AI科技",
+  "total": 10,
+  "editor_note": "今天共精选 10 条。餐饮零售板块：一口气选三名董事长，安井食品告别刘鸣鸣时等话题值得关注；AI科技板块：华为与湖北移动完成全国运营商首个 AI 等动态持续发酵。",
+  "items": [
+    {
+      "title": "一口气选三名董事长，安井食品告别刘鸣鸣时代",
+      "url": "https://www.tmtpost.com/8041416.html",
+      "source": "钛媒体",
+      "source_icon": "🟠",
+      "summary": "灵魂人物刘鸣鸣是否也到了“幕后辅佐”的时刻。",
+      "tag": "餐饮动态",
+      "id": 1
+    },
+    {
+      "title": "专利之外，影石与大疆角逐零售终端",
+      "url": "https://www.tmtpost.com/8041449.html",
+      "source": "钛媒体",
+      "source_icon": "🟠",
+      "summary": "专利之外，影石与大疆角逐零售终端",
+      "tag": "零售动态",
+      "id": 2
+    },
+    {
+      "title": "华为与湖北移动完成全国运营商首个 AI 推理加速方案现网测试，长序列 Token 吞吐率提升 372%",
+      "url": "https://www.ithome.com/0/968/730.htm",
+      "source": "IT之家",
+      "source_icon": "🟢",
+      "summary": "6月 24日，在2026 MWC上海展期间，华为与中国移动通信集团湖北有限公司",
+      "tag": "大模型",
+      "id": 3
+    },
+    {
+      "title": "古尔曼：苹果罕见调整 Mac 芯片规划，跳过 M6 Pro / Max、押注 AI 导向的 M7 系列",
+      "url": "https://www.ithome.com/0/968/729.htm",
+      "source": "IT之家",
+      "source_icon": "🟢",
+      "summary": "彭博社的马克· 古尔曼（MarkGurman）在最新Power On通讯简报中爆料，苹果公司计划调整M6 和 M7 系列芯片规划，跳过M6 Pro 和 M6Max，转而把研发重心放在更注重AI 计算的…",
+      "tag": "AI算力",
+      "id": 4
+    },
+    {
+      "title": "核心研究员接连离职后，消息称谷歌重组 AI 编程小组试图追赶 Anthropic",
+      "url": "https://www.ithome.com/0/968/722.htm",
+      "source": "IT之家",
+      "source_icon": "🟢",
+      "summary": "据The information今日消息，知情人士透露，谷歌正对其不久前成立、主攻 AI编程工具的专项攻坚小组进行重组 ，试图缩小与Anthropic之间的技术差距。",
+      "tag": "AI产品",
+      "id": 5
+    },
+    {
+      "title": "DV/HDV 磁带拯救计划：用 AI 驱动十八年前的老设备",
+      "url": "https://sspai.com/post/111223",
+      "source": "少数派",
+      "source_icon": "🔵",
+      "summary": "2026年是 AI agent的第一年，2026年也是 FireWire的最后一年。",
+      "tag": "AI产品",
+      "id": 6
+    },
+    {
+      "title": "Epic CEO 蒂姆 · 斯威尼反对 Steam 强制披露 AI 要求，称其阻碍开发者提高效率",
+      "url": "https://www.ithome.com/0/968/737.htm",
+      "source": "IT之家",
+      "source_icon": "🟢",
+      "summary": "据游戏媒体Insider Gaming昨天报道，从2024年开始，Valve 要求开发者在 Steam发布新游戏时 ，必须披露是否使用生成式 AI 工具。",
+      "tag": "AI产品",
+      "id": 7
+    },
+    {
+      "title": "坚持万亿美元估值底线？曝 OpenAI 考虑将 IPO 推迟至明年",
+      "url": "https://www.ithome.com/0/968/734.htm",
+      "source": "IT之家",
+      "source_icon": "🟢",
+      "summary": "据《纽约时报》昨日援引三位内部人士消息，OpenAI正考虑将IPO（首次公开募股）推迟至明年进行。 此前曾有传闻称，OpenAI已向美国监管机构秘密递交 IPO申请，目标估值最高可达 1 万亿美元",
+      "tag": "AI投融资",
+      "id": 8
+    },
+    {
+      "title": "工信部指导发布《AI 眼镜可信视界自律公约》：不得超范围收集获取用户个人信息，本地化优先处理",
+      "url": "https://www.ithome.com/0/968/733.htm",
+      "source": "IT之家",
+      "source_icon": "🟢",
+      "summary": "中国信通院6 月 25日宣布，在工业和信息化部信息通信管理局的指导下，中国信息通信研究院泰尔终端实验室 联合深圳市 AI眼镜产业联盟研究起草了《AI 眼镜可信视界自律公约》（以下简称《公约》），得到产…",
+      "tag": "AI产品",
+      "id": 9
+    },
+    {
+      "title": "布局下一代人机交互与具身数据入口，「念象科技」完成近千万元天使轮融资｜36氪首发",
+      "url": "https://36kr.com/p/3867943030395913?f=rss",
+      "source": "36氪",
+      "source_icon": "🔵",
+      "summary": "文｜胡香赟编辑｜海若镜36氪获悉，专注非侵入式神经接口技术研发与产业化的「念象科技」已完成近千万元天使轮融资。本轮融资由永珺星芒领投，浦东创投、一村资本跟投，募集资金主要用于产品研发、团队扩建、本土s…",
+      "tag": "AI投融资",
+      "id": 10
+    }
+  ]
+}
