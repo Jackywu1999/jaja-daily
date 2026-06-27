@@ -1,0 +1,99 @@
+{
+  "date": "2026-06-27",
+  "generated_at": "2026-06-27T08:01:27.360446+08:00",
+  "category": "餐饮零售 & AI科技",
+  "total": 10,
+  "editor_note": "今天共精选 10 条。餐饮零售板块：曝苹果 Vision Pro 项目高管保等话题值得关注；AI科技板块：OpenAI 最强 AI 模型：GPT-等动态持续发酵。",
+  "items": [
+    {
+      "title": "OpenAI 最强 AI 模型：GPT-5.6 系列登场，编程跑分超 Claude Mythos 5",
+      "url": "https://www.ithome.com/0/969/272.htm",
+      "source": "IT之家",
+      "source_icon": "🟢",
+      "summary": "OpenAI公司今天（6 月 27 日）正式发布GPT-5.6 系列模型，不过暂未全面开放，应美国政府要求， 现阶段仅向少数“可信合作伙伴”提供预览权限。",
+      "tag": "大模型",
+      "id": 1
+    },
+    {
+      "title": "美国加州公布社会劳动力追踪系统 CAIT ，旨在监测“AI 对就业市场冲击”数据",
+      "url": "https://www.ithome.com/0/969/259.htm",
+      "source": "IT之家",
+      "source_icon": "🟢",
+      "summary": "美国加州州长加文 ·纽森宣布推出一款“CaliforniaAI-Unemployment Tracker（CAIT）”系统，该系统旨在检测“AI 是否影响美国劳动力市场”。 据介绍，该系统每月更新一次。",
+      "tag": "AI产品",
+      "id": 2
+    },
+    {
+      "title": "用户不买账，微软宣布放弃 Edge 浏览器的 AI 历史搜索功能",
+      "url": "https://www.ithome.com/0/969/251.htm",
+      "source": "IT之家",
+      "source_icon": "🟢",
+      "summary": "一年前，微软曾满怀信心地为Edge 浏览器加入了一项基于 AI的历史记录搜索功能，试图让用户告别关键词精确匹配的束缚。然而这项功能尚未全面铺开，就已被微软叫停。",
+      "tag": "AI产品",
+      "id": 3
+    },
+    {
+      "title": "对话张亚勤：AI不是泡沫，但AI公司有泡沫",
+      "url": "https://36kr.com/p/3866837793952769?f=rss",
+      "source": "36氪",
+      "source_icon": "🔵",
+      "summary": "文| 海若镜 访谈 | 海若镜 巴芮6月盛夏，在清华无锡研究院智能产业创新中心，我们见到了张亚勤院士。他匆匆赶来，一进门，就建议让室内温度降得更低些。",
+      "tag": "AI产品",
+      "id": 4
+    },
+    {
+      "title": "戴宗宏和他的「工业世界模型」：一人两周，干完百人级定制化“累活”",
+      "url": "https://36kr.com/p/3869445453305090?f=rss",
+      "source": "36氪",
+      "source_icon": "🔵",
+      "summary": "文｜王欣逸编辑｜周鑫雨半年前，我们第一次和基点起源创始人兼CEO戴宗宏交流时，这家逆流入局 B 端定制化的AI公司，刚刚推进了 7、8 个项目。",
+      "tag": "大模型",
+      "id": 5
+    },
+    {
+      "title": "消息称 Anthropic 与美国政府达成共识，向 100 多家机构提供 Mythos 模型访问权限",
+      "url": "https://www.ithome.com/0/969/279.htm",
+      "source": "IT之家",
+      "source_icon": "🟢",
+      "summary": "两周前，美国政府对Anthropic实施出口管制令，导致该公司对所有客户下架了Fable 5 和 Mythos 5模型。如今，Anthropic 已经与美国政府达成共识，并取得部分进展。",
+      "tag": "大模型",
+      "id": 6
+    },
+    {
+      "title": "市场监管总局：加快智能体、具身智能等前沿技术领域标准制定速度",
+      "url": "https://www.ithome.com/0/969/276.htm",
+      "source": "IT之家",
+      "source_icon": "🟢",
+      "summary": "市场监管总局正会同相关部门，加快智能体等前沿技术领域标准制定速度，动态完善适配产业发展的人工智能国家标准矩阵。 报道称，目前正在抓紧制定的国家标准，除智能体外，还有 具身智能、世界模型、本体模型 等前…",
+      "tag": "AI Agent",
+      "id": 7
+    },
+    {
+      "title": "曝苹果 Vision Pro 项目高管保罗 · 米德即将离职，加盟 OpenAI 硬件部门",
+      "url": "https://www.ithome.com/0/969/273.htm",
+      "source": "IT之家",
+      "source_icon": "🟢",
+      "summary": "负责Vision Pro及智能眼镜项目的苹果高管保罗· 米德（PaulMeade）即将离开公司，加盟 OpenAI。保罗 · 米德从 2010年起加入苹果，最早在iPhone 和 iPad团队任职。",
+      "tag": "商业洞察",
+      "id": 8
+    },
+    {
+      "title": "氪星晚报 ｜智元旗下灵巧手估值10亿美元，成立仅5个月首季实现盈利；DeepSeek计划将所有部门规模扩大至少一倍",
+      "url": "https://36kr.com/p/3869884559332356?f=rss",
+      "source": "36氪",
+      "source_icon": "🔵",
+      "summary": "大公司： 五粮液：曾从钦无法正常履职离任，选举邓敏为公司董事长 36氪获悉，五粮液公告，因曾从钦无法正常履职，公司于2026年6月26日召开2025年度股东会，审议通过《关于免去董事及补选第七届董事会…",
+      "tag": "大模型",
+      "id": 9
+    },
+    {
+      "title": "《走进AIE》，谁是下一个主角",
+      "url": "https://36kr.com/p/3869838577620231?f=rss",
+      "source": "36氪",
+      "source_icon": "🔵",
+      "summary": "一展两地，链接全球AIE 电子展成为龙头企业的必选舞台全球智能制造产业加速演进，粤港澳大湾区正成为打造世界级科技展会的核心阵地。",
+      "tag": "AI产品",
+      "id": 10
+    }
+  ]
+}
