@@ -1,0 +1,99 @@
+{
+  "date": "2026-06-30",
+  "generated_at": "2026-06-30T07:59:09.660301+08:00",
+  "category": "餐饮零售 & AI科技",
+  "total": 10,
+  "editor_note": "今天共精选 10 条。餐饮零售板块：烧光5000亿后，京东方开始给股民赚钱等话题值得关注；AI科技板块：安全公司曝光黑客滥用 OpenAI 组织等动态持续发酵。",
+  "items": [
+    {
+      "title": "烧光5000亿后，京东方开始给股民赚钱",
+      "url": "https://36kr.com/p/3874045136720899?f=rss",
+      "source": "36氪",
+      "source_icon": "🔵",
+      "summary": "作者| 范亮 编辑 | 张帆很长一段时间里，京东方都是A股“散户大本营”的榜首。2026年一季度，这个位置被紫金矿业和东方财富取代，但京东方仍拥有超过100万名股东。 人气足够高，股价却长期止步不前。",
+      "tag": "电商",
+      "id": 1
+    },
+    {
+      "title": "【钛晨报】国常会最新部署：要加力推进人工智能创新突破；美团、淘宝闪购、京东外卖达成共识；三星、SK海力士和美光在美遭集体诉讼",
+      "url": "https://www.tmtpost.com/8046236.html",
+      "source": "钛媒体",
+      "source_icon": "🟠",
+      "summary": "消息称长鑫存储与腾讯签署价值近30亿美元内存供应合同；豆包回应“内测社交功能”传闻；多位DeepSeek API用户确认已收到调价邮件；谷歌算力告急，限制Meta对其人工智能大模型Gemini的使用；…",
+      "tag": "电商",
+      "id": 2
+    },
+    {
+      "title": "安全公司曝光黑客滥用 OpenAI 组织邀请功能，对公司员工进行精准钓鱼攻击",
+      "url": "https://www.ithome.com/0/970/231.htm",
+      "source": "IT之家",
+      "source_icon": "🟢",
+      "summary": "安全公司Push Security发文，透露有黑客假借Push Security名义，滥用OpenAI组织邀请功能对自家员工进行钓鱼攻击，试图诱导员工进入由黑客控制的AI工作环境。",
+      "tag": "政策监管",
+      "id": 3
+    },
+    {
+      "title": "美国加州与 Anthropic 达成合作：政府机构可半价使用 Claude",
+      "url": "https://www.ithome.com/0/970/222.htm",
+      "source": "IT之家",
+      "source_icon": "🟢",
+      "summary": "美国加利福尼亚州州长加文・纽森（Gavin Newsom）今日宣布，已与人工智能企业Anthropic建立合作伙伴关系，以优惠采购价在加州各级政府全面推广Claude系列产品。",
+      "tag": "大模型",
+      "id": 4
+    },
+    {
+      "title": "欧盟批准简化 AI 监管规则，明令禁止 AI 用于生成色情内容",
+      "url": "https://www.ithome.com/0/970/202.htm",
+      "source": "IT之家",
+      "source_icon": "🟢",
+      "summary": "欧盟理事会今日正式批准了一项新法案，旨在精简与优化有关人工智能的部分法规。 IT之家获悉，这项新法案是欧盟简化议程中“第七次综合立法方案”的一部分，包含两项法规提案，旨在简化欧盟的数字立法框架，并推行…",
+      "tag": "政策监管",
+      "id": 5
+    },
+    {
+      "title": "手机也能 AI 养龙虾：安卓和 iOS 版 OpenClaw 应用正式上线",
+      "url": "https://www.ithome.com/0/970/254.htm",
+      "source": "IT之家",
+      "source_icon": "🟢",
+      "summary": "OpenClaw官方账号今天（6 月 30 日）在 X平台发布公告，宣布在苹果 App Store 和谷歌PlayStore 上架原生移动版OpenClaw 应用，让用户通过手机随时“养龙虾”。",
+      "tag": "AI产品",
+      "id": 6
+    },
+    {
+      "title": "即日起，全美谷歌 Gemini 免费用户都可使用个性化 AI 生图功能",
+      "url": "https://www.ithome.com/0/970/251.htm",
+      "source": "IT之家",
+      "source_icon": "🟢",
+      "summary": "北京时间今天（30 日）凌晨，谷歌宣布，Gemini应用 Nano Banana驱动的个性化图像生成功能将扩大至更多用户。所有符合条件的美国用户都可以免费使用，不再只是 Plus、Pro和 Ultra…",
+      "tag": "大模型",
+      "id": 7
+    },
+    {
+      "title": "防止蒸馏第三方模型，Meta 限制 AI 工程师使用 Claude 与 Codex",
+      "url": "https://www.ithome.com/0/970/233.htm",
+      "source": "IT之家",
+      "source_icon": "🟢",
+      "summary": "据The Information报道，内部文件显示，Meta 已采取行动，限制其AI 工程部门的工程师使用Anthropic的 Claude Code 与OpenAI 的 Codex，不过该决定与成本…",
+      "tag": "大模型",
+      "id": 8
+    },
+    {
+      "title": "氪星晚报｜百度OCR模型Unlimited OCR在HuggingFace、GitHub四榜登顶；国务院印发《教育发展“十五五”规划》；美国养老金即将被动调仓，300亿美元卖盘“已在路上”",
+      "url": "https://36kr.com/p/3873626425332743?f=rss",
+      "source": "36氪",
+      "source_icon": "🔵",
+      "summary": "大公司： 蜜雪冰城吉尔吉斯斯坦三店同开，已进入海外16个国家 36氪获悉，近日，蜜雪冰城三家门店在吉尔吉斯斯坦首都比什凯克营业，正式进入吉尔吉斯斯坦市场。吉尔吉斯斯坦是蜜雪冰城在中亚的第二站。",
+      "tag": "大模型",
+      "id": 9
+    },
+    {
+      "title": "自研全域柔性电子皮肤，Moxy摸喜发布首款AI陪伴机器人｜最前线",
+      "url": "https://36kr.com/p/3874015941645570?f=rss",
+      "source": "36氪",
+      "source_icon": "🔵",
+      "summary": "作者｜黄楠编辑｜袁斯来近日，奥感微（广州）科技公司旗下的情感陪伴品牌Moxy摸喜在深圳发布首款AI陪伴机器人产品。该产品以“无对话、无摄像头、纯触觉交互”为核心特色，将离电型柔性传感技术首次完整应用于…",
+      "tag": "机器人",
+      "id": 10
+    }
+  ]
+}
