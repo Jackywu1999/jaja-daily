@@ -1,0 +1,99 @@
+{
+  "date": "2026-07-01",
+  "generated_at": "2026-07-01T08:02:32.445118+08:00",
+  "category": "餐饮零售 & AI科技",
+  "total": 10,
+  "editor_note": "今天共精选 10 条。餐饮零售板块：烧光5000亿后，京东方开始给股民赚钱等话题值得关注；AI科技板块：Meta CEO 扎克伯格不认为 AI 等动态持续发酵。",
+  "items": [
+    {
+      "title": "烧光5000亿后，京东方开始给股民赚钱",
+      "url": "https://36kr.com/p/3874045136720899?f=rss",
+      "source": "36氪",
+      "source_icon": "🔵",
+      "summary": "作者| 范亮 编辑 | 张帆很长一段时间里，京东方都是A股“散户大本营”的榜首。2026年一季度，这个位置被紫金矿业和东方财富取代，但京东方仍拥有超过100万名股东。 人气足够高，股价却长期止步不前。",
+      "tag": "电商",
+      "id": 1
+    },
+    {
+      "title": "传小红书启动秘密项目，目标再造一款小红书级别的新产品，公司暂无回应",
+      "url": "https://36kr.com/newsflashes/3876319599014144?f=rss",
+      "source": "36氪",
+      "source_icon": "🔵",
+      "summary": "6月30日晚间消息，有消息称，小红书在近期内部启动达尔文（darwin）的创业孵化项目，面向公司内部员工开放报名通道。根据爆料内容，员工成功入选后将以脱产形式参与项目孵化，全程由公司L3级别核心高管亲…",
+      "tag": "电商",
+      "id": 2
+    },
+    {
+      "title": "真健康VS睿触机器人：国产穿刺机器人双雄，打响县城之战",
+      "url": "https://www.tmtpost.com/8046864.html",
+      "source": "钛媒体",
+      "source_icon": "🟠",
+      "summary": "得县城者得手术量，得手术量者得耗材复购率，最终方得“天下”。",
+      "tag": "商业洞察",
+      "id": 3
+    },
+    {
+      "title": "Meta CEO 扎克伯格不认为 AI 必然会带来大规模失业，建议企业发展“个人超级智能”",
+      "url": "https://www.ithome.com/0/970/802.htm",
+      "source": "IT之家",
+      "source_icon": "🟢",
+      "summary": "MetaCEO 马克 · 扎克伯格不认为 AI必然会造成大规模失业：“大家好像都认为这种结果不可避免，可我并不。” 扎克伯格认为，如果企业把更多精力放在“个人超级智能”上，而不是试图将所有知识工作自动…",
+      "tag": "AI产品",
+      "id": 4
+    },
+    {
+      "title": "前 20 大药企已有 18 家使用，英伟达 AI 工具集 BioNeMo 接入 Claude Science",
+      "url": "https://www.ithome.com/0/970/789.htm",
+      "source": "IT之家",
+      "source_icon": "🟢",
+      "summary": "英伟达昨日（6月 30日）发布公告，宣布旗下NVIDIA BioNeMo AgentToolkit已经接入 Anthropic 发布的ClaudeScience研究工作台， 面向生命科学研究流程提供加…",
+      "tag": "大模型",
+      "id": 5
+    },
+    {
+      "title": "100 天从创意到落地：我们做了一台可以随口问 AI 的对讲机",
+      "url": "https://sspai.com/post/111706",
+      "source": "少数派",
+      "source_icon": "🔵",
+      "summary": "前言创业不易，硬件创业更难，尤其是AI硬件创业更是难上加难。难也意味着门槛。在滚滚而来的AI大势之下，门内的景色金光闪闪，首先要做的是迈过这个门槛。准确地说，我的硬件项目正式研发到投产经历了108天。",
+      "tag": "AI产品",
+      "id": 6
+    },
+    {
+      "title": "谷歌推出 AI 生图模型 Nano Banana 2 Lite：4 秒出图，比标准版更快更便宜",
+      "url": "https://www.ithome.com/0/970/812.htm",
+      "source": "IT之家",
+      "source_icon": "🟢",
+      "summary": "当地时间周二，谷歌发布了新款自研AI 图像与视频生成模型 NanoBanana 2 Lite，宣称 相比上一代速度更快、使用成本更低 。",
+      "tag": "大模型",
+      "id": 7
+    },
+    {
+      "title": "苹果 CEO 库克与欧盟科技主管就 Siri AI 展开“建设性”会谈",
+      "url": "https://www.ithome.com/0/970/810.htm",
+      "source": "IT之家",
+      "source_icon": "🟢",
+      "summary": "当地时间周二，苹果CEO 蒂姆 ·库克与欧盟科技事务负责人亨娜 · 维尔库宁举行了“建设性”会谈，试图缓和围绕新版Siri AI持续升级的争端。",
+      "tag": "AI产品",
+      "id": 8
+    },
+    {
+      "title": "系列最强智能体 AI 模型：Claude Sonnet 5 登场，部分性能逼近 Opus 4.8",
+      "url": "https://www.ithome.com/0/970/809.htm",
+      "source": "IT之家",
+      "source_icon": "🟢",
+      "summary": "Anthropic今天（7 月 1日）发布公告，宣布推出Claude Sonnet5，声称是其Sonnet 系列中智能体 AI表现最强的模型， 能够制定计划、使用浏览器和终端等工具，并自主运行。",
+      "tag": "大模型",
+      "id": 9
+    },
+    {
+      "title": "8点1氪丨“史上最严电池安全令”正式施行；苹果大量机密文件遭泄露；OpenAI首款硬件曝光",
+      "url": "https://36kr.com/p/3876318522077442?f=rss",
+      "source": "36氪",
+      "source_icon": "🔵",
+      "summary": "今日热点导览客服回应蔚来APP发生大面积闪退字节跳动：2026年一季度80名员工因触碰红线被辞退 兆易创新提示风险：未来可能存在股价快速回落风险 董明珠：出口没做好，接下来加快改进 现货黄金价格再度跌…",
+      "tag": "政策监管",
+      "id": 10
+    }
+  ]
+}
