@@ -1,0 +1,99 @@
+{
+  "date": "2026-07-03",
+  "generated_at": "2026-07-03T08:01:22.374692+08:00",
+  "category": "餐饮零售 & AI科技",
+  "total": 10,
+  "editor_note": "今天共精选 10 条。餐饮零售板块：百利食品：研发投入不足1%毛利率反超同行等话题值得关注；AI科技板块：荣耀 MagicOS 七月更新首曝，聚焦等动态持续发酵。",
+  "items": [
+    {
+      "title": "百利食品：研发投入不足1%毛利率反超同行，产能闲置仍募资翻倍扩产｜IPO观察",
+      "url": "https://www.tmtpost.com/8049992.html",
+      "source": "钛媒体",
+      "source_icon": "🟠",
+      "summary": "百利食品能成功过会吗？",
+      "tag": "餐饮动态",
+      "id": 1
+    },
+    {
+      "title": "荣耀 MagicOS 七月更新首曝，聚焦动效、灵动胶囊、锁屏、AI 和智慧互联升级",
+      "url": "https://www.ithome.com/0/971/945.htm",
+      "source": "IT之家",
+      "source_icon": "🟢",
+      "summary": "博主@旺仔百事通 刚刚分享了荣耀MagicOS10系统的七月更新资讯。博主称，本月的新版本将聚焦动效、灵动胶囊、锁屏、AI 功能和智慧互联的更新。",
+      "tag": "AI产品",
+      "id": 2
+    },
+    {
+      "title": "企业 AI 成本失控，消息称花旗、Adobe 等纷纷限制员工使用大模型",
+      "url": "https://www.ithome.com/0/971/937.htm",
+      "source": "IT之家",
+      "source_icon": "🟢",
+      "summary": "据404 Media 从六家企业（包括Atlassian、Adobe、亚马逊）获取了泄露的Slack聊天记录、内部后台截图、邮件及其他资料，内容显示：科技、文娱、银行等众多行业的企业都在限制员工使用人…",
+      "tag": "大模型",
+      "id": 3
+    },
+    {
+      "title": "消息称 Anthropic 启动自研 AI 芯片早期开发，拟采用三星 2 纳米工艺",
+      "url": "https://www.ithome.com/0/971/921.htm",
+      "source": "IT之家",
+      "source_icon": "🟢",
+      "summary": "据The Information报道，Anthropic 正与三星洽谈定制人工智能芯片事宜，Anthropic 已启动自研人工智能芯片的早期开发工作。",
+      "tag": "AI算力",
+      "id": 4
+    },
+    {
+      "title": "36氪 AI 工具测评，正在找第一批「抢跑者」",
+      "url": "https://36kr.com/p/3878412963508486?f=rss",
+      "source": "36氪",
+      "source_icon": "🔵",
+      "summary": "我们是一群每天深度使用AI 工具的人最近我们碰到一个普遍现象💡：很多人在用 AI工具时，容易陷入自己的信息茧房。不同的人拿到同一个 AI工具，产出能差出好几个量级。 不是不愿意用，可能是你缺一种灵感。",
+      "tag": "AI产品",
+      "id": 5
+    },
+    {
+      "title": "微软 Aion 系统曝光：基于 Edge 网页，没有开始菜单，主打 AI 交互",
+      "url": "https://www.ithome.com/0/971/975.htm",
+      "source": "IT之家",
+      "source_icon": "🟢",
+      "summary": "科技媒体Windows Latest 昨日（7月 2 日）发布博文，分享了一段视频，展示了微软在 2024年（可能更早）开发的Copilot系统，内部代号为ProjectAion。",
+      "tag": "AI产品",
+      "id": 6
+    },
+    {
+      "title": "软件工程传奇人物肯特 · 贝克：程序员若想在 AI 时代生存，还得学习人际交往能力",
+      "url": "https://www.ithome.com/0/971/974.htm",
+      "source": "IT之家",
+      "source_icon": "🟢",
+      "summary": "软件工程师向来是科技公司争抢的核心人才，但在AI热潮中，他们又为什么突然成了最容易受到冲击的一群人？知名软件工程师肯特 · 贝克给出了一个毫不客气的答案：“因为我们有时候确实挺混蛋的。",
+      "tag": "AI产品",
+      "id": 7
+    },
+    {
+      "title": "Meta CEO 马克 · 扎克伯格：AI 智能体技术发展得比我想象要慢",
+      "url": "https://www.ithome.com/0/971/965.htm",
+      "source": "IT之家",
+      "source_icon": "🟢",
+      "summary": "Meta首席执行官马克 ·扎克伯格在上周四的一场内部全员会中表示，公司仍在努力实现“超级智能”（Superintelligence），但目前还需要投入更多时间和精力。",
+      "tag": "AI Agent",
+      "id": 8
+    },
+    {
+      "title": "氪星晚报｜证监会同意宇树科技科创板IPO注册；Meta“带崩”科技股？业内人士：算力过剩系误读",
+      "url": "https://36kr.com/p/3878550357946625?f=rss",
+      "source": "36氪",
+      "source_icon": "🔵",
+      "summary": "大公司： 奥飞娱乐：上半年净利润同比预增305.30%—413.38% 36氪获悉，奥飞娱乐发布2026年半年度业绩预告，预计2026年上半年归属于上市公司股东的净利润为1.5亿元—1.9亿元，比上年…",
+      "tag": "AI投融资",
+      "id": 9
+    },
+    {
+      "title": "谁能想到，系统流「爽文」最先被AI Agent实现了",
+      "url": "https://36kr.com/p/3878522627518471?f=rss",
+      "source": "36氪",
+      "source_icon": "🔵",
+      "summary": "撰文｜深海 网文里的“系统流”，被拍成了职场短剧 千禧年初的网文圈，有三大经典题材在爽文届立于不败之地：无限流、快穿流、系统流。 这三大爽文战神体横空出世时，对IP界几乎是降维打击。",
+      "tag": "AI Agent",
+      "id": 10
+    }
+  ]
+}
