@@ -1,0 +1,99 @@
+{
+  "date": "2026-07-04",
+  "generated_at": "2026-07-04T08:00:22.148815+08:00",
+  "category": "餐饮零售 & AI科技",
+  "total": 10,
+  "editor_note": "今天共精选 10 条。餐饮零售板块：氪星晚报｜西贝餐饮集团退出小女当家；FF等话题值得关注；AI科技板块：消息称字节豆包视频生成模型 Seedan等动态持续发酵。",
+  "items": [
+    {
+      "title": "氪星晚报｜西贝餐饮集团退出小女当家；FF洛杉矶总部人去楼空？公司回应：不实",
+      "url": "https://36kr.com/p/3879796756754694?f=rss",
+      "source": "36氪",
+      "source_icon": "🔵",
+      "summary": "大公司： 德银：Meta云业务或打开千亿美元级AI投入变现通道，2027年收入最高增300亿美元 针对Meta拟向外部客户出售AI算力及模型访问权限的消息，德意志银行认为，这并不意味着Meta削弱前沿…",
+      "tag": "餐饮动态",
+      "id": 1
+    },
+    {
+      "title": "消息称字节豆包视频生成模型 Seedance 2.5 预计 7 月 6 日上线体验中心，一周后开放 API",
+      "url": "https://www.ithome.com/0/972/458.htm",
+      "source": "IT之家",
+      "source_icon": "🟢",
+      "summary": "据AI普瑞斯消息，字节豆包视频生成模型Seedance 2.5 预计 7 月6 日上线体验中心，将在一周后开放API。 据IT之家此前报道，字节豆包视频生成模型 Seedance2.5发布于 6 月 …",
+      "tag": "大模型",
+      "id": 2
+    },
+    {
+      "title": "豆包智能体功能将于 7 月 15 日下线，官方建议提前完成备份",
+      "url": "https://www.ithome.com/0/972/448.htm",
+      "source": "IT之家",
+      "source_icon": "🟢",
+      "summary": "豆包今晚发布《豆包智能体功能下线通知》，称由于产品功能调整，智能体功能将于 2026 年 7 月15日下线。 《通知》显示，该功能下线后，用户仍可在一段时间内查看并自行保存智能体信息及历史对话数据。",
+      "tag": "AI Agent",
+      "id": 3
+    },
+    {
+      "title": "桥水基金最新研究：前沿 AI 模型金融判断准确率未达 80% 可信门槛，GPT 和 Claude 仅有 50~70%",
+      "url": "https://www.ithome.com/0/972/445.htm",
+      "source": "IT之家",
+      "source_icon": "🟢",
+      "summary": "桥水基金旗下AIA Labs 联合 OpenAI 前CTOMira Murati 创立的ThinkingMachines Lab 对包括GPT、Claude和 Gemini在内的前沿大语言模型在基础金…",
+      "tag": "大模型",
+      "id": 4
+    },
+    {
+      "title": "谁能想到，系统流「爽文」最先被AI Agent实现了",
+      "url": "https://36kr.com/p/3878522627518471?f=rss",
+      "source": "36氪",
+      "source_icon": "🔵",
+      "summary": "撰文｜深海 网文里的“系统流”，被拍成了职场短剧 千禧年初的网文圈，有三大经典题材在爽文届立于不败之地：无限流、快穿流、系统流。 这三大爽文战神体横空出世时，对IP界几乎是降维打击。",
+      "tag": "AI Agent",
+      "id": 5
+    },
+    {
+      "title": "网友反馈 Claude Fable 5 重上架版“降智”，严苛 AI 护栏致频繁回退 Opus 4.8",
+      "url": "https://www.ithome.com/0/972/477.htm",
+      "source": "IT之家",
+      "source_icon": "🟢",
+      "summary": "科技媒体bleepingcomputer昨日（7月 3日）发布博文，报道称Anthropic 本月重新上架ClaudeFable 5最强模型， 除了额度限制外，多名用户反馈存在“降智”情况，且更频繁回…",
+      "tag": "大模型",
+      "id": 6
+    },
+    {
+      "title": "苹果 iPhone Air 2 再曝：面容 ID 组件缩小为 48MP 双摄腾出空间，A20 Pro 芯片",
+      "url": "https://www.ithome.com/0/972/476.htm",
+      "source": "IT之家",
+      "source_icon": "🟢",
+      "summary": "爆料人乔恩· 普罗瑟（JonProsser）今天在最新一期fpt.视频中为我们带来了 iPhoneAir 2 最新情报，显示该机将新增第二颗后置摄像头，搭载A20 Pro芯片。",
+      "tag": "AI算力",
+      "id": 7
+    },
+    {
+      "title": "苹果 iPhone 18/18e 有望升级 9GB 内存，仍缺席 2 项 Siri AI 功能",
+      "url": "https://www.ithome.com/0/972/468.htm",
+      "source": "IT之家",
+      "source_icon": "🟢",
+      "summary": "科技媒体MacRumors 今天（7 月 4日）发布博文，指出2027 年登场的 iPhone 18和iPhone 18e 可能升级到 9GB内存 ，依然缺席两项 Siri AI功能。",
+      "tag": "AI产品",
+      "id": 8
+    },
+    {
+      "title": "8点1氪丨“具身智能第一股” 宇树科技上市申请通过；SK海力士单日市值蒸发10000亿元；配置失误引发0元抢购潮，霸王茶姬致歉",
+      "url": "https://36kr.com/p/3879158039834629?f=rss",
+      "source": "36氪",
+      "source_icon": "🔵",
+      "summary": "今日热点导览 苹果拟于今明两年推出至少五款新iPhone AI版支付宝开放公测，上线72项办事技能 特朗普回应“利用职位牟利”：股市在涨，大家都在赚钱 LV起诉茉莉奶白，茉莉奶白被判赔1030万元6月…",
+      "tag": "AI投融资",
+      "id": 9
+    },
+    {
+      "title": "氪星晚报｜证监会同意宇树科技科创板IPO注册；Meta“带崩”科技股？业内人士：算力过剩系误读",
+      "url": "https://36kr.com/p/3878550357946625?f=rss",
+      "source": "36氪",
+      "source_icon": "🔵",
+      "summary": "大公司： 奥飞娱乐：上半年净利润同比预增305.30%—413.38% 36氪获悉，奥飞娱乐发布2026年半年度业绩预告，预计2026年上半年归属于上市公司股东的净利润为1.5亿元—1.9亿元，比上年…",
+      "tag": "AI投融资",
+      "id": 10
+    }
+  ]
+}
