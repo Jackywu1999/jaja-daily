@@ -1,0 +1,99 @@
+{
+  "date": "2026-07-08",
+  "generated_at": "2026-07-08T07:54:21.099936+08:00",
+  "category": "餐饮零售 & AI科技",
+  "total": 10,
+  "editor_note": "今天共精选 10 条。AI科技板块：消息称 Deepseek 正在自研 AI等动态持续发酵。",
+  "items": [
+    {
+      "title": "消息称 Deepseek 正在自研 AI 芯片：面向推理场景，减少依赖英伟达、华为",
+      "url": "https://www.ithome.com/0/973/810.htm",
+      "source": "IT之家",
+      "source_icon": "🟢",
+      "summary": "据路透社今日援引三位知情人士消息，中国人工智能初创公司DeepSeek（深度求索）正在研发自有AI 芯片。如果消息属实，此举有望降低其对英伟达、华为的依赖。",
+      "tag": "大模型",
+      "id": 1
+    },
+    {
+      "title": "Solos 发布无摄像头智能眼镜 AirGo A6，主打隐私保护",
+      "url": "https://www.ithome.com/0/973/785.htm",
+      "source": "IT之家",
+      "source_icon": "🟢",
+      "summary": "据科技媒体Android Central今天报道，美国品牌Solos 今天宣布推出 AirGoA6 等智能眼镜新品，并推出一系列配件产品。",
+      "tag": "AI产品",
+      "id": 2
+    },
+    {
+      "title": "消息称亚马逊拟发债募资至少 250 亿美元，为 AI 基建“输血”",
+      "url": "https://www.ithome.com/0/973/783.htm",
+      "source": "IT之家",
+      "source_icon": "🟢",
+      "summary": "亚马逊计划通过发行美元债券募资至少250亿美元",
+      "tag": "AI投融资",
+      "id": 3
+    },
+    {
+      "title": "\"龙虾\"为什么这么火？OpenClaw登顶GitHub后，AI Agent时代真的来了？",
+      "url": "https://36kr.com/p/3885061350617350?f=rss",
+      "source": "36氪",
+      "source_icon": "🔵",
+      "summary": "GitHubStar-history 最近Openclaw以25.2万星标，超越Meta的React登顶GitHub开源项目历史第一！",
+      "tag": "AI Agent",
+      "id": 4
+    },
+    {
+      "title": "用AI“复刻”人类细胞、预判药效，「华源智因」获千万级人民币种子轮融资｜36氪首发",
+      "url": "https://36kr.com/p/3883943959621634?f=rss",
+      "source": "36氪",
+      "source_icon": "🔵",
+      "summary": "文｜胡香赟编辑｜海若镜36氪获悉，AI虚拟细胞（AIVC）企业华源智因近期已完成千万级人民币种子轮融资。本轮融资由水木创投领投，募集资金将主要用于多模态测序底层技术迭代，进一步拓展与头部三甲医院的合作…",
+      "tag": "AI投融资",
+      "id": 5
+    },
+    {
+      "title": "iPhone Air 当主力机用了三个多月后，我为什么还是换不掉它",
+      "url": "https://sspai.com/post/111113",
+      "source": "少数派",
+      "source_icon": "🔵",
+      "summary": "但恰恰是这些取舍让我重新开始思考：什么才是真正重要的体验。",
+      "tag": "AI产品",
+      "id": 6
+    },
+    {
+      "title": "超 90% 使用非代码开发，Claude Cowork 扩展至网页与手机端",
+      "url": "https://www.ithome.com/0/973/828.htm",
+      "source": "IT之家",
+      "source_icon": "🟢",
+      "summary": "Anthropic昨日（7 月 7日）发布公告，宣布Claude Cowork开始扩展到网页端和移动端， 用户可在不同设备之间延续会话与文件操作。",
+      "tag": "大模型",
+      "id": 7
+    },
+    {
+      "title": "Meta 超级智能实验室首个自研 AI 图像生成模型 Muse Image 发布，免费登陆 Instagram 与 WhatsApp",
+      "url": "https://www.ithome.com/0/973/820.htm",
+      "source": "IT之家",
+      "source_icon": "🟢",
+      "summary": "Meta于当地时间 7 月 7日宣布推出其全新的AI 图像生成模型 MuseImage。该模型来自 Meta 旗下专注人工智能的Meta 超级智能实验室，也是该实验室推出的首个图像生成模型。",
+      "tag": "大模型",
+      "id": 8
+    },
+    {
+      "title": "减少对外依赖：微软自研 AI 模型 MAI 开始接手 Office 应用，逐步替代 OpenAI 和 Anthropic",
+      "url": "https://www.ithome.com/0/973/815.htm",
+      "source": "IT之家",
+      "source_icon": "🟢",
+      "summary": "微软已开始在Excel 和 Outlook等软件产品中使用内部自研的MAI 模型来替代 OpenAI 和Anthropic 的模型，以降低AI成本。",
+      "tag": "大模型",
+      "id": 9
+    },
+    {
+      "title": "揭秘字节 Seedance：全球 AI 的第二个好生意 | 深氪",
+      "url": "https://36kr.com/p/3885177884078083?f=rss",
+      "source": "36氪",
+      "source_icon": "🔵",
+      "summary": "采访| 邓咏仪 肖思佳 李小霞 文 |张雨忻邓咏仪 编辑 | 张雨忻 杨轩 2025年底，在一次模型团队的聚餐上，Seedance模型的负责人曾妍向 leader提到，她还是想试试训一个更大尺寸的模型…",
+      "tag": "AI产品",
+      "id": 10
+    }
+  ]
+}
