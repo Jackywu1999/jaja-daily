@@ -1,0 +1,99 @@
+{
+  "date": "2026-07-12",
+  "generated_at": "2026-07-12T07:50:19.221144+08:00",
+  "category": "餐饮零售 & AI科技",
+  "total": 10,
+  "editor_note": "今天共精选 10 条。餐饮零售板块：蜜雪模式出海失灵了吗？等话题值得关注；AI科技板块：月之暗面 K2.7 Code 高速版模型等动态持续发酵。",
+  "items": [
+    {
+      "title": "蜜雪模式出海失灵了吗？",
+      "url": "https://www.tmtpost.com/8061220.html",
+      "source": "钛媒体",
+      "source_icon": "🟠",
+      "summary": "2026 年，或许是蜜雪上市后最关键的一年。",
+      "tag": "餐饮动态",
+      "id": 1
+    },
+    {
+      "title": "蜜雪冰城出海，第一次踩下刹车",
+      "url": "https://www.tmtpost.com/8060479.html",
+      "source": "钛媒体",
+      "source_icon": "🟠",
+      "summary": "加盟+低价模式，为何在海外遭遇瓶颈?",
+      "tag": "餐饮动态",
+      "id": 2
+    },
+    {
+      "title": "一个小红书前员工的“复仇”",
+      "url": "https://www.tmtpost.com/8060947.html",
+      "source": "钛媒体",
+      "source_icon": "🟠",
+      "summary": "有人认为他是为公平和正义而战的勇士，有人把这看成一场个人对抗资本的行为艺术，也有人骂他阻挠了小红书上市，断了人家的财路。",
+      "tag": "电商",
+      "id": 3
+    },
+    {
+      "title": "月之暗面 K2.7 Code 高速版模型正式登陆 Kimi Code，成为常驻可选模式",
+      "url": "https://www.ithome.com/0/975/619.htm",
+      "source": "IT之家",
+      "source_icon": "🟢",
+      "summary": "月之暗面官方昨晚宣布，K2.7 Code 高速版结束Beta，成为常驻可选模式 。订阅 Allegretto及以上会员计划的用户，在Kimi Code CLI或其他工具中使用Coding Plan进行…",
+      "tag": "大模型",
+      "id": 4
+    },
+    {
+      "title": "京东首个 RoboBase 项目落地广州，打造机器人全生命周期产业基础设施",
+      "url": "https://www.ithome.com/0/975/578.htm",
+      "source": "IT之家",
+      "source_icon": "🟢",
+      "summary": "广东省人民政府今日与京东集团签署全面战略合作协议。京东首个RoboBase项目同日在广州黄埔开工。 京东表示，RoboBase项目是京东产发依托京东集团业务生态打造的机器人全生命周期产业基础设施 ，以…",
+      "tag": "电商",
+      "id": 5
+    },
+    {
+      "title": "彭博社揭秘苹果起诉 OpenAI 内幕：前员工一句“哈哈”成窃密关键",
+      "url": "https://www.ithome.com/0/975/634.htm",
+      "source": "IT之家",
+      "source_icon": "🟢",
+      "summary": "当iPhone 工程师 Chang Liu离开苹果，加入OpenAI硬件部门时，他带走的不只是多年以来累计的工作经验。 根据苹果昨天提起的诉讼，ChangLiu离职时带走了三样东西：一台始终未归还的M…",
+      "tag": "AI产品",
+      "id": 6
+    },
+    {
+      "title": "OpenAI 招聘家庭产品经理，将拓展家庭用户市场",
+      "url": "https://www.ithome.com/0/975/633.htm",
+      "source": "IT之家",
+      "source_icon": "🟢",
+      "summary": "距离ChatGPT发布、生成式AI进入大众视野已过去三年多，OpenAI 正将关注重点从个人用户进一步扩展至家庭用户。 根据最新招聘信息，OpenAI 正在旧金山招聘一名专职产品经理，为其旗下产品打造…",
+      "tag": "AI产品",
+      "id": 7
+    },
+    {
+      "title": "居家考高分线下考崩盘，美高校曝大规模 AI 作弊疑云",
+      "url": "https://www.ithome.com/0/975/630.htm",
+      "source": "IT之家",
+      "source_icon": "🟢",
+      "summary": "美国布朗大学教授罗伯托· 塞拉诺（RobertoSerrano）发现，自己班级学生在可带回家完成的期中考试中成绩好得出奇。当他怀疑存在大规模利用AI作弊的情况，并将期末考试改为线下闭卷进行后，学生成绩…",
+      "tag": "AI产品",
+      "id": 8
+    },
+    {
+      "title": "9点1氪丨“国产存储第一股”长鑫科技公布承销团阵容；SK海力士登陆美股，上市首日大涨近13%；OpenAI推出ChatGPT智能体",
+      "url": "https://36kr.com/p/3890553690192384?f=rss",
+      "source": "36氪",
+      "source_icon": "🔵",
+      "summary": "今日热点导览 “全球首款智能体手机”已备货8万至10万台？知情人士：假的 百亿私募数量达142家，再次刷新历史纪录三星李在镕拟于7月底赴美会晤英伟达黄仁勋德国大众拟大裁员，最高或裁减12万个岗位 Op…",
+      "tag": "大模型",
+      "id": 9
+    },
+    {
+      "title": "36氪首发 | 三个月融三轮，上交大00后博士让具身智能仿生扑翼机器人理解并驾驭流体",
+      "url": "https://36kr.com/p/3889516712065799?f=rss",
+      "source": "36氪",
+      "source_icon": "🔵",
+      "summary": "图源/企业本文约 2400字，建议阅读6 分钟 作者丨欧雪 编辑丨袁斯来硬氪获悉，具身智能仿生扑翼飞行机器人公司「鹰瞰智翼」已于近期完成数千万元A轮融资。",
+      "tag": "机器人",
+      "id": 10
+    }
+  ]
+}
