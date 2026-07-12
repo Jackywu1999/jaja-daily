@@ -1,0 +1,99 @@
+{
+  "date": "2026-07-13",
+  "generated_at": "2026-07-13T07:48:24.707927+08:00",
+  "category": "餐饮零售 & AI科技",
+  "total": 10,
+  "editor_note": "今天共精选 10 条。餐饮零售板块：拆分电商业务、整治剧本带货，快手给复购喂等话题值得关注；AI科技板块：OpenAI Codex、ChatGPT等动态持续发酵。",
+  "items": [
+    {
+      "title": "拆分电商业务、整治剧本带货，快手给复购喂“救心丸”",
+      "url": "https://www.tmtpost.com/8061563.html",
+      "source": "钛媒体",
+      "source_icon": "🟠",
+      "summary": "让快手电商再一次伟大！",
+      "tag": "电商",
+      "id": 1
+    },
+    {
+      "title": "OpenAI Codex、ChatGPT Work 暂时取消 Plus / Pro / Business 订阅 5 小时使用限制",
+      "url": "https://www.ithome.com/0/975/839.htm",
+      "source": "IT之家",
+      "source_icon": "🟢",
+      "summary": "OpenAICodex 工程负责人蒂博 ·索蒂奥",
+      "tag": "大模型",
+      "id": 2
+    },
+    {
+      "title": "古尔曼：苹果将跳过 M6 Pro / Max 芯片，全力押注 AI 导向的 M7 系列",
+      "url": "https://www.ithome.com/0/975/835.htm",
+      "source": "IT之家",
+      "source_icon": "🟢",
+      "summary": "据彭博社记者马克・古尔曼（Mark Gurman）透露，苹果将推出标准版M6芯片，但不会推出定位更高端的M6 Pro 和 M6 Max芯片。",
+      "tag": "AI算力",
+      "id": 3
+    },
+    {
+      "title": "Meta 发布多模态推理模型 Muse Spark 1.1，强化 AI 智能体任务能力",
+      "url": "https://www.ithome.com/0/975/832.htm",
+      "source": "IT之家",
+      "source_icon": "🟢",
+      "summary": "Meta于 7 月 9 日正式发布适用于 AI智能体的多模态推理模型Muse Spark 1.1版本，重点提升了模型在智能体任务中的规划、协同与执行能力，并增强了工具调用、代码开发、应用操作能力。",
+      "tag": "大模型",
+      "id": 4
+    },
+    {
+      "title": "9点1氪丨“国产存储第一股”长鑫科技公布承销团阵容；SK海力士登陆美股，上市首日大涨近13%；OpenAI推出ChatGPT智能体",
+      "url": "https://36kr.com/p/3890553690192384?f=rss",
+      "source": "36氪",
+      "source_icon": "🔵",
+      "summary": "今日热点导览 “全球首款智能体手机”已备货8万至10万台？知情人士：假的 百亿私募数量达142家，再次刷新历史纪录三星李在镕拟于7月底赴美会晤英伟达黄仁勋德国大众拟大裁员，最高或裁减12万个岗位 Op…",
+      "tag": "大模型",
+      "id": 5
+    },
+    {
+      "title": "调查显示近七成美国民众支持设立 AI 主权财富基金，用于全民共享 AI 红利",
+      "url": "https://www.ithome.com/0/975/847.htm",
+      "source": "IT之家",
+      "source_icon": "🟢",
+      "summary": "根据一项最新调查，随着科技企业裁员不断增加、企业整体利润却持续增长，越来越多美国民众希望通过设立AI主权财富基金，让大型企业承担更多责任，并将AI带来的财富回馈社会。",
+      "tag": "AI产品",
+      "id": 6
+    },
+    {
+      "title": "分析：社交媒体超四分之一长文为 AI 生成，LinkedIn 成重灾区",
+      "url": "https://www.ithome.com/0/975/842.htm",
+      "source": "IT之家",
+      "source_icon": "🟢",
+      "summary": "根据Pangram的一项分析，目前社交媒体上超过250个单词的长篇内容中，每四篇就有一篇是由AI生成。 其中，LinkedIn的 AI内容占比最高，41%的长文被判定为 AI撰写。",
+      "tag": "AI产品",
+      "id": 7
+    },
+    {
+      "title": "家长花 3 万打造“少年马斯克”，有研学营标榜让孩子“6 天创办 AI 公司”",
+      "url": "https://www.ithome.com/0/975/841.htm",
+      "source": "IT之家",
+      "source_icon": "🟢",
+      "summary": "“少年马斯克”是今年被不少家长和从业者关注的科创教育品牌，每期课程费用接近 3 万元。一群还没进入青春期的孩子被推上创业路演台，是近些年AI等技术迅猛发展后出现的新现象。",
+      "tag": "AI产品",
+      "id": 8
+    },
+    {
+      "title": "全网骂Claude变笨，Anthropic下场揭秘：坑你的不是模型",
+      "url": "https://36kr.com/p/3892222176574211?f=rss",
+      "source": "36氪",
+      "source_icon": "🔵",
+      "summary": "换更大的模型就等于更聪明？【导读】换更大的模型就等于更聪明？这可能是Claude Code用户最深的误会。很多人为此一路换到最贵的Fable，近日，Anthropic，亲手澄清了这个误区。",
+      "tag": "大模型",
+      "id": 9
+    },
+    {
+      "title": "近百名玩家涌入具身数据 : 一年融资44.7亿，谁能真靠“卖数据”赚钱？",
+      "url": "https://36kr.com/p/3892027841362694?f=rss",
+      "source": "36氪",
+      "source_icon": "🔵",
+      "summary": "林方舟发自 凹非寺在湖南郴州，一家中国移动营业厅挂牌“具身数据采集5S店”，普通顾客领一套夹爪、手套和头戴相机，经过简单培训，就能边做家务，边采集机器人训练数据。",
+      "tag": "AI投融资",
+      "id": 10
+    }
+  ]
+}
