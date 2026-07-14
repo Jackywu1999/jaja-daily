@@ -1,0 +1,99 @@
+{
+  "date": "2026-07-15",
+  "generated_at": "2026-07-15T07:49:09.674921+08:00",
+  "category": "餐饮零售 & AI科技",
+  "total": 10,
+  "editor_note": "今天共精选 10 条。AI科技板块：Uber据悉深入洽谈收购德国外卖公司De等动态持续发酵。",
+  "items": [
+    {
+      "title": "Uber据悉深入洽谈收购德国外卖公司Delivery Hero",
+      "url": "https://36kr.com/newsflashes/3895678709827465?f=rss",
+      "source": "36氪",
+      "source_icon": "🔵",
+      "summary": "据报道，Uber正深入洽谈收购德国外卖公司Delivery Hero，计划最快本周达成协议。报道称，任何交易都可能引发全球反垄断监管机构的审查，因Delivery Hero的业务涉及60多个市场，且该…",
+      "tag": "AI投融资",
+      "id": 1
+    },
+    {
+      "title": "消息称 DeepSeek 筹备 IPO，最快今年内提交上市申请",
+      "url": "https://www.ithome.com/0/976/761.htm",
+      "source": "IT之家",
+      "source_icon": "🟢",
+      "summary": "据彭博社昨日援引知情人士消息，中国人工智能公司DeepSeek（深度求索）已开始筹备IPO（首次公开募股），最快可能在今年内提交上市申请。",
+      "tag": "大模型",
+      "id": 2
+    },
+    {
+      "title": "谷歌 DeepMind CEO 哈萨比斯呼吁美国牵头建立全球 AI 监管机构",
+      "url": "https://www.ithome.com/0/976/756.htm",
+      "source": "IT之家",
+      "source_icon": "🟢",
+      "summary": "据科技媒体The Verge今天报道，谷歌DeepMind 创始人兼 CEO德米斯· 哈萨比斯（DemisHassabis）认为，美国政府应成立全球AI监督机构，让人们能够在前沿 AI模型发生险情时踩…",
+      "tag": "政策监管",
+      "id": 3
+    },
+    {
+      "title": "华为智选车产品总监彭磊科普国家 L3 准入要求，称享界 G9 设计之初就瞄准 L3 级自动驾驶开发",
+      "url": "https://www.ithome.com/0/976/745.htm",
+      "source": "IT之家",
+      "source_icon": "🟢",
+      "summary": "鸿蒙智行享界汽车今日宣布，享界G9 正式获批北京市 L3级自动驾驶道路测试牌照，成为首款获批北京市时速 120 公里L3级自动驾驶道路测试牌照的车型。",
+      "tag": "机器人",
+      "id": 4
+    },
+    {
+      "title": "🎁36氪放福利啦！体验10秒，即可免费抽AirPods 4、Redmi手环、超人帆布包！",
+      "url": "https://36kr.com/p/3894914381970438?f=rss",
+      "source": "36氪",
+      "source_icon": "🔵",
+      "summary": "无门槛参与，所有微信用户都可以免费抽奖！ 只需打开微信，扫描下方二维码进入抽奖链接，浏览10秒36氪企业全情报，任意订阅一家企业，即可获得抽奖资格。",
+      "tag": "AI产品",
+      "id": 5
+    },
+    {
+      "title": "你这图「保真」吗？AI 生图时代的信息防伪",
+      "url": "https://sspai.com/post/112185",
+      "source": "少数派",
+      "source_icon": "🔵",
+      "summary": "人类记录信息的方式一直在变化，但我们对「真实性」的需求从未改变。",
+      "tag": "AI产品",
+      "id": 6
+    },
+    {
+      "title": "华为 MatePad 11.5 S 灵动款、MatePad Air 12 英寸鸿蒙焕新版上市，2999 元起",
+      "url": "https://www.ithome.com/0/976/780.htm",
+      "source": "IT之家",
+      "source_icon": "🟢",
+      "summary": "华为商城新上架了两款 MatePad“鸿蒙焕新版”，系统从HarmonyOS 4.2 升级到了HarmonyOS 6.0，IT之家汇总价格如下：HUAWEI MatePad 11.5S灵动款鸿蒙焕新版…",
+      "tag": "AI投融资",
+      "id": 7
+    },
+    {
+      "title": "手机 AI 的 DeepSeek 时刻：Bonsai 27B 模型登场，苹果 iPhone 17 Pro 可运行",
+      "url": "https://www.ithome.com/0/976/772.htm",
+      "source": "IT之家",
+      "source_icon": "🟢",
+      "summary": "@PrismML官方账号今天（7 月 15日）发布博文，宣布推出Bonsai 27B模型，基于Qwen 3.6 27B模型微调，在保留 90%智能水平的情况下，可以在12GB 内存的 iPhone上原…",
+      "tag": "大模型",
+      "id": 8
+    },
+    {
+      "title": "OpenAI 首度回应苹果诉讼：相信公平竞争，未发现任何证据",
+      "url": "https://www.ithome.com/0/976/767.htm",
+      "source": "IT之家",
+      "source_icon": "🟢",
+      "summary": "今日，OpenAI 就苹果公司提起的商业秘密侵权诉讼作出正式回应，称公司“严肃对待这些指控，但目前未发现任何证据可证明该申诉具备合理依据”。",
+      "tag": "AI产品",
+      "id": 9
+    },
+    {
+      "title": "氪星晚报 ｜智谱：完成配售新H股募资约314亿港元；荣耀与阿里将开展AI智能体终端合作；小米机器人首次实现汽车工厂柔性工件的长时作业",
+      "url": "https://36kr.com/p/3895322613185543?f=rss",
+      "source": "36氪",
+      "source_icon": "🔵",
+      "summary": "大公司： 中国神华：预计上半年净利润同比增长6.9%-21.1% 36氪获悉，中国神华公告，预计2026年上半年归属于上市公司股东的净利润为263亿元至298亿元，同比增长6.9%-21.1%。",
+      "tag": "AI Agent",
+      "id": 10
+    }
+  ]
+}
