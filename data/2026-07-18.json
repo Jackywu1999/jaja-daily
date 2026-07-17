@@ -1,0 +1,99 @@
+{
+  "date": "2026-07-18",
+  "generated_at": "2026-07-18T07:47:26.499157+08:00",
+  "category": "餐饮零售 & AI科技",
+  "total": 10,
+  "editor_note": "今天共精选 10 条。餐饮零售板块：安踏品牌CEO徐阳离任；得物App首个A等话题值得关注；AI科技板块：消息称马斯克旗下 SpaceX 正与美国等动态持续发酵。",
+  "items": [
+    {
+      "title": "安踏品牌CEO徐阳离任；得物App首个AI鉴别机器人亮相WAIC；泡泡玛特王宁带队参访苹果总部；HOKA官宣品牌代言人侯明昊｜消研所周报",
+      "url": "https://www.tmtpost.com/8069490.html",
+      "source": "钛媒体",
+      "source_icon": "🟠",
+      "summary": "蜜雪冰城日本门店营业额创新高；lululemon发布「与汉密尔顿共度休赛日」系列内容。",
+      "tag": "商业洞察",
+      "id": 1
+    },
+    {
+      "title": "消息称马斯克旗下 SpaceX 正与美国五角大楼洽谈 AI 算力供应，拟通过低价抢市场",
+      "url": "https://www.ithome.com/0/978/333.htm",
+      "source": "IT之家",
+      "source_icon": "🟢",
+      "summary": "据《华尔街日报》昨日援引知情人士消息，埃隆· 马斯克旗下 SpaceX正与美国五角大楼洽谈，计划向其提供价值数十亿美元的数据中心算力，以运行 AI 大模型。",
+      "tag": "AI算力",
+      "id": 2
+    },
+    {
+      "title": "谷歌 DeepMind CEO 哈萨比斯：AI 不会令科学、技术、工程、数学专业失去价值",
+      "url": "https://www.ithome.com/0/978/332.htm",
+      "source": "IT之家",
+      "source_icon": "🟢",
+      "summary": "谷歌DeepMind 联合创始人兼 CEO德米斯 · 哈萨比斯表示，AI 虽然正在重塑科技行业的职业路径，但 STEM",
+      "tag": "AI产品",
+      "id": 3
+    },
+    {
+      "title": "消息称字节新一代豆包手机备货数十万台，AI 不再直接操作头部应用",
+      "url": "https://www.ithome.com/0/978/312.htm",
+      "source": "IT之家",
+      "source_icon": "🟢",
+      "summary": "据晚点LatePost消息，新一代豆包手机调整了与阿里、腾讯等各家超级应用的合作方式， 将不会在用户授权后读取屏幕，模拟点击、像人一样操作应用（所谓 GUI技术）。",
+      "tag": "AI产品",
+      "id": 4
+    },
+    {
+      "title": "2026最受投资人关注人工智能/具身智能企业50揭晓",
+      "url": "https://36kr.com/p/3899597215745664?f=rss",
+      "source": "36氪",
+      "source_icon": "🔵",
+      "summary": "人工智能正在进入一个新的产业周期。 过去一年，大模型能力持续演进，生成式AI、多模态交互、智能体等技术方向快速推进；而具身智能也从早期的技术探索阶段，逐渐步入产业验证的深水区，机器人开始成为人工智能与…",
+      "tag": "AI投融资",
+      "id": 5
+    },
+    {
+      "title": "华为昇腾 950 超节点荣获 2026 世界人工智能大会最高荣誉 SAIL 奖",
+      "url": "https://www.ithome.com/0/978/338.htm",
+      "source": "IT之家",
+      "source_icon": "🟢",
+      "summary": "@华为中国昨日（7 月 18日）发布博文，宣布昇腾 950 超节点（Atlas950SuperPoD）荣获 2026世界人工智能大会（WAIC）最高荣誉SAIL奖。",
+      "tag": "AI算力",
+      "id": 6
+    },
+    {
+      "title": "美国旧金山检方要求苹果 App Store、谷歌 Play 商店下架 13 款“AI 脱衣”App",
+      "url": "https://www.ithome.com/0/978/337.htm",
+      "source": "IT之家",
+      "source_icon": "🟢",
+      "summary": "苹果和谷歌公司再次因AppStore、GooglePlay 应用商店存在所谓“AI脱衣”App 受到批评。美国旧金山市检察官办公室近期对两家应用商店发起调查，结果发现 App Store 有 8款违规…",
+      "tag": "AI产品",
+      "id": 7
+    },
+    {
+      "title": "英伟达发布 Nemotron 3 Embed 系列 AI 模型，8B 版斩获 RTEB 榜首",
+      "url": "https://www.ithome.com/0/978/334.htm",
+      "source": "IT之家",
+      "source_icon": "🟢",
+      "summary": "英伟达昨日（7月 17日）发布博文，宣布开源推出 Nemotron 3Embed 系列模型，主要面向AI智能体和检索增强生成（RAG）场景。",
+      "tag": "大模型",
+      "id": 8
+    },
+    {
+      "title": "氪星晚报｜阿里1688将推出AI时代B2B交易互联互通开放标准；英特尔与Google Cloud宣布深化战略合作；铁路部门试点提前60天预约购票服务",
+      "url": "https://36kr.com/p/3896564485572489?f=rss",
+      "source": "36氪",
+      "source_icon": "🔵",
+      "summary": "大公司： 成大生物：流感病毒裂解疫苗（高剂量）进入I期临床试验 36氪获悉，成大生物公告，公司全资子公司成大生物(本溪)研发的流感病毒裂解疫苗（高剂量）已获国家药监局临床试验批准，并完成I期临床试验筹…",
+      "tag": "AI产品",
+      "id": 9
+    },
+    {
+      "title": "对话森博科技董事长于林义：AI应用拼的不只是技术，更是实证有效的业务闭环",
+      "url": "https://36kr.com/p/3899556701128578?f=rss",
+      "source": "36氪",
+      "source_icon": "🔵",
+      "summary": "7月17日，2026世界人工智能大会在上海开场。作为36氪连续第三年深入WAIC现场的重要内容窗口，「氪话未来」直播间也在大会首日同步开启现场对话。",
+      "tag": "AI产品",
+      "id": 10
+    }
+  ]
+}
