@@ -1,0 +1,99 @@
+{
+  "date": "2026-07-19",
+  "generated_at": "2026-07-19T07:48:48.648029+08:00",
+  "category": "餐饮零售 & AI科技",
+  "total": 10,
+  "editor_note": "今天共精选 10 条。AI科技板块：惠普 EliteBook 8 G2a 1等动态持续发酵。",
+  "items": [
+    {
+      "title": "惠普 EliteBook 8 G2a 16 笔记本海外发布：锐龙 AI 400 平台、至高 64GB 内存",
+      "url": "https://www.ithome.com/0/978/604.htm",
+      "source": "IT之家",
+      "source_icon": "🟢",
+      "summary": "惠普现已在海外市场推出EliteBook 8 G2a 16笔记本，这款产品采用AMD 锐龙 AI 400平台，配置77Wh八芯电池，最高可选配 64GB 内存和 PCIeGen5 固态硬盘。",
+      "tag": "AI产品",
+      "id": 1
+    },
+    {
+      "title": "小米获首批《人工智能终端智能化分级》系列国家标准 L3 评级证书",
+      "url": "https://www.ithome.com/0/978/603.htm",
+      "source": "IT之家",
+      "source_icon": "🟢",
+      "summary": "小米手机官方昨晚宣布，小米荣获首批《人工智能终端智能化分级》系列国家标准L3评级证书。小米表示，L3级为目前有明确划分标准的最高智能化水平 。",
+      "tag": "AI产品",
+      "id": 2
+    },
+    {
+      "title": "AMD Zen 6 APU 跑分再曝光：单核跑分超越锐龙 AI 9 365 近 35%",
+      "url": "https://www.ithome.com/0/978/598.htm",
+      "source": "IT之家",
+      "source_icon": "🟢",
+      "summary": "AMD下一代 Zen 6架构移动处理器（代号“MedusaPoint”）一款 10 核 20线程的ES 工程样品再次出现在Geekbench 数据库中，跑分成绩再创新高。",
+      "tag": "AI产品",
+      "id": 3
+    },
+    {
+      "title": "对话森博科技董事长于林义：AI应用拼的不只是技术，更是实证有效的业务闭环",
+      "url": "https://36kr.com/p/3899556701128578?f=rss",
+      "source": "36氪",
+      "source_icon": "🔵",
+      "summary": "7月17日，2026世界人工智能大会在上海开场。作为36氪连续第三年深入WAIC现场的重要内容窗口，「氪话未来」直播间也在大会首日同步开启现场对话。",
+      "tag": "AI产品",
+      "id": 4
+    },
+    {
+      "title": "2026最受投资人关注人工智能/具身智能企业50揭晓",
+      "url": "https://36kr.com/p/3899597215745664?f=rss",
+      "source": "36氪",
+      "source_icon": "🔵",
+      "summary": "人工智能正在进入一个新的产业周期。 过去一年，大模型能力持续演进，生成式AI、多模态交互、智能体等技术方向快速推进；而具身智能也从早期的技术探索阶段，逐渐步入产业验证的深水区，机器人开始成为人工智能与…",
+      "tag": "AI投融资",
+      "id": 5
+    },
+    {
+      "title": "分析师：苹果 AI 策略“保守”反而是优势，可降低资本压力并驱动硬件升级",
+      "url": "https://www.ithome.com/0/978/613.htm",
+      "source": "IT之家",
+      "source_icon": "🟢",
+      "summary": "据科技媒体Wccftech昨天报道，BRIWealth Management分析师Toni Meadows认为，市场对苹果AI战略的看法已经发生改变，他们采取相对保守的策略不仅降低资本支出压力，还能够…",
+      "tag": "AI产品",
+      "id": 6
+    },
+    {
+      "title": "飞机遇到颠簸时安全带指示灯总是“亮得太晚”？AI 正改变这一切",
+      "url": "https://www.ithome.com/0/978/611.htm",
+      "source": "IT之家",
+      "source_icon": "🟢",
+      "summary": "当飞机突然遭遇气流颠簸时，你可能会被猛地从座椅上弹起，不禁疑惑：为什么安全带指示灯还没亮？或者为什么机长总是在飞机已经发生剧烈颠簸后，才打开安全带提示？",
+      "tag": "政策监管",
+      "id": 7
+    },
+    {
+      "title": "作家埃格斯受邀给 OpenAI 员工演讲，批评 ChatGPT 正夺走一代人的表达能力",
+      "url": "https://www.ithome.com/0/978/607.htm",
+      "source": "IT之家",
+      "source_icon": "🟢",
+      "summary": "去年，OpenAI首席执行官萨姆 · 奥尔特曼（SamAltman）曾邀请美国作家戴夫· 埃格斯（Dave Eggers）为约200名 OpenAI员工发表演讲。",
+      "tag": "大模型",
+      "id": 8
+    },
+    {
+      "title": "印奇在 WAIC 2026 开幕式主论坛发表主题演讲：当智能体走进物理世界",
+      "url": "https://36kr.com/p/3900439867147909?f=rss",
+      "source": "36氪",
+      "source_icon": "🔵",
+      "summary": "2026世界人工智能大会（WAIC 2026）于7月 17日正式开幕。作为全球人工智能领域的顶级盛会，本届大会以“智能伙伴 共创未来”为主题。",
+      "tag": "AI Agent",
+      "id": 9
+    },
+    {
+      "title": "氪星晚报｜阿里1688将推出AI时代B2B交易互联互通开放标准；英特尔与Google Cloud宣布深化战略合作；铁路部门试点提前60天预约购票服务",
+      "url": "https://36kr.com/p/3896564485572489?f=rss",
+      "source": "36氪",
+      "source_icon": "🔵",
+      "summary": "大公司： 成大生物：流感病毒裂解疫苗（高剂量）进入I期临床试验 36氪获悉，成大生物公告，公司全资子公司成大生物(本溪)研发的流感病毒裂解疫苗（高剂量）已获国家药监局临床试验批准，并完成I期临床试验筹…",
+      "tag": "AI产品",
+      "id": 10
+    }
+  ]
+}
