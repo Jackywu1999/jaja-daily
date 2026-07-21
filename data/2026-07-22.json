@@ -1,0 +1,99 @@
+{
+  "date": "2026-07-22",
+  "generated_at": "2026-07-22T07:52:17.623144+08:00",
+  "category": "餐饮零售 & AI科技",
+  "total": 10,
+  "editor_note": "今天共精选 10 条。餐饮零售板块：小产品逆袭，大产品���位，为什么大家都等话题值得关注；AI科技板块：OpenAI 最强 AI 模型：GPT-等动态持续发酵。",
+  "items": [
+    {
+      "title": "小产品逆袭，大产品���位，为什么大家都在小红书做游戏宣发 | 游戏风向标",
+      "url": "https://36kr.com/p/3905036594628224?f=rss",
+      "source": "36氪",
+      "source_icon": "🔵",
+      "summary": "文丨树果贝编辑丨果脯假设你是一名游戏发行方，手头经费有限，必须从 小黑盒、B站、小红书 三大社交平台选其一来着重宣传自家新游，你会选谁？",
+      "tag": "电商",
+      "id": 1
+    },
+    {
+      "title": "OpenAI 最强 AI 模型：GPT-6 测试文档曝光，达到通用人工智能水平",
+      "url": "https://www.ithome.com/0/979/823.htm",
+      "source": "IT之家",
+      "source_icon": "🟢",
+      "summary": "消息源@daniel_mac8 昨日（7 月21 日）发布博文，分享了一份未经证实的测试文档内容，预估关联 OpenAI 的 GPT-6模型（内部代号 Spud）。",
+      "tag": "大模型",
+      "id": 2
+    },
+    {
+      "title": "纬创资通美国首家半导体工厂：投资 7 亿美元，生产英伟达最强 AI 计算产品",
+      "url": "https://www.ithome.com/0/979/812.htm",
+      "source": "IT之家",
+      "source_icon": "🟢",
+      "summary": "英伟达（NVIDIA）今天（7月 22日）发布博文，报道称纬创资通（Wistron）在美国得克萨斯州沃斯堡开设其首家美国制造工厂，将生产英伟达GB300、VeraRubin 等 AI超级芯片，总投资达…",
+      "tag": "AI投融资",
+      "id": 3
+    },
+    {
+      "title": "AI 智能体互联国标试点在京启动，美团、滴滴、联想等18家单位首批签约",
+      "url": "https://www.ithome.com/0/979/816.htm",
+      "source": "IT之家",
+      "source_icon": "🟢",
+      "summary": "《人工智能智能体互联》系列标准应用推进专题会议 7月21日在北京海淀区中关村展示中心召开。 会议由全国信息技术标准化技术委员会人工智能分委会主办。",
+      "tag": "AI Agent",
+      "id": 4
+    },
+    {
+      "title": "谷歌发布多款Gemini模型，旗舰Pro版本发布时间仍未确定",
+      "url": "https://36kr.com/newsflashes/3906021223584898?f=rss",
+      "source": "36氪",
+      "source_icon": "🔵",
+      "summary": "Alphabet旗下谷歌7月21日发布三款成本更低的Gemini人工智能模型，包括Gemini3.6Flash、Gemini3.5Flash-Lite以及面向网络安全场景的Gemini3.5 Flas…",
+      "tag": "大模型",
+      "id": 5
+    },
+    {
+      "title": "102.4Tbps：英伟达 Spectrum-6 交换系统落地全球超大规模 AI 工厂",
+      "url": "https://www.ithome.com/0/979/791.htm",
+      "source": "IT之家",
+      "source_icon": "🟢",
+      "summary": "英伟达昨日（7月 21日）发布博文，宣布面向 Vera Rubin 平台推出Spectrum-6 交换系统，带宽达102.4Tbps，容量较上一代提升 2 倍。",
+      "tag": "AI算力",
+      "id": 6
+    },
+    {
+      "title": "美国将改革科研资金分配：从大学转向 AI，影响 2000 亿美元预算",
+      "url": "https://www.ithome.com/0/979/827.htm",
+      "source": "IT之家",
+      "source_icon": "🟢",
+      "summary": "北京时间7 月 22日，据《华尔街日报》报道，特朗普政府计划通过加大对个人科学家和AI应用的支持，而非侧重大学，来加快联邦科研的改革。这是该政府加快技术升级以应对竞争的最新尝试。",
+      "tag": "AI投融资",
+      "id": 7
+    },
+    {
+      "title": "DeepSeek R1 推理 AI 测试：英伟达 Vera Rubin NVL72 每兆瓦 Tokens 吞吐量提升 10 倍",
+      "url": "https://www.ithome.com/0/979/825.htm",
+      "source": "IT之家",
+      "source_icon": "🟢",
+      "summary": "英伟达（NVIDIA）昨日（7月 21日）发布博文，宣布其Vera Rubin正迈步万亿级规模部署。 英伟达在博文中指出，公司正加速量产Vera RubinNVL72，并已在 CoreWeave、Go…",
+      "tag": "大模型",
+      "id": 8
+    },
+    {
+      "title": "AI平台可预测制备最佳量子点薄膜的溶剂组合",
+      "url": "https://36kr.com/newsflashes/3906040663020930?f=rss",
+      "source": "36氪",
+      "source_icon": "🔵",
+      "summary": "韩国首尔大学研究团队开发出一种基于人工智能（AI）的量子点发光二极管（QLED）制备工艺设计平台，可反向设计量子点薄膜制备条件，预测实现高性能量子点薄膜所需��最佳溶剂组合。",
+      "tag": "AI产品",
+      "id": 9
+    },
+    {
+      "title": "OpenAI：ChatGPT Work和GPT-5.6今日起面向小型企业开放",
+      "url": "https://36kr.com/newsflashes/3906028912776583?f=rss",
+      "source": "36氪",
+      "source_icon": "🔵",
+      "summary": "OpenAI宣布推出面向小型企业的ChatGPT服务计划，ChatGPT Work和GPT-5.6今日起面向小型企业开放。（财联社）",
+      "tag": "大模型",
+      "id": 10
+    }
+  ]
+}
