@@ -1,0 +1,99 @@
+{
+  "date": "2026-07-29",
+  "generated_at": "2026-07-29T07:54:50.372046+08:00",
+  "category": "餐饮零售 & AI科技",
+  "total": 10,
+  "editor_note": "今天共精选 10 条。餐饮零售板块：8点1氪丨李斌现身长鑫科技答谢晚宴；瑞幸等话题值得关注；AI科技板块：OpenAI 引入两种转录模型：低延迟、等动态持续发酵。",
+  "items": [
+    {
+      "title": "8点1氪丨李斌现身长鑫科技答谢晚宴；瑞幸打赢“泰国瑞幸”，获赔近2000万；澳门政府发布美素佳儿奶粉铅超标事件最新检测结果",
+      "url": "https://36kr.com/p/3914520847570307?f=rss",
+      "source": "36氪",
+      "source_icon": "🔵",
+      "summary": "今日热点导览2026暑期档电影票房已突破57亿茅台多地直营店：53度、500ml飞天茅台售价提至1719元/瓶 长鑫科技上市半日，7名高管晋升“10亿身家” 巴西总统卢拉：美持续在关税上对巴施压系战略…",
+      "tag": "餐饮动态",
+      "id": 1
+    },
+    {
+      "title": "硅谷开始在大模型上“消费降级”了",
+      "url": "https://www.tmtpost.com/8082154.html",
+      "source": "钛媒体",
+      "source_icon": "🟠",
+      "summary": "从炫耀性消费到算计性生存",
+      "tag": "商业洞察",
+      "id": 2
+    },
+    {
+      "title": "OpenAI 引入两种转录模型：低延迟、更好理解上下文",
+      "url": "https://www.ithome.com/0/982/801.htm",
+      "source": "IT之家",
+      "source_icon": "🟢",
+      "summary": "OpenAI公司今天（7 月 29 日）在 X平台发布公告，宣布推出GPT-Live-Transcribe和 GPT-Transcribe两种转录模型，并支持通过API方式调用。",
+      "tag": "大模型",
+      "id": 3
+    },
+    {
+      "title": "OpenAI 模型失控受害者不仅只有抱抱脸，Modal Labs 确认一名客户被黑",
+      "url": "https://www.ithome.com/0/982/800.htm",
+      "source": "IT之家",
+      "source_icon": "🟢",
+      "summary": "此前从 OpenAI“越狱”并对抱抱脸（Hugging Face）发动黑客攻击的“失控智能体”，还成功入侵了Modal Labs的一名客户。",
+      "tag": "大模型",
+      "id": 4
+    },
+    {
+      "title": "AIDA64 v8.35 发布：新增英特尔 Panther Lake-R 初步支持，强化 AMD Zen 6 及 Mustang Peak 支持",
+      "url": "https://www.ithome.com/0/982/798.htm",
+      "source": "IT之家",
+      "source_icon": "🟢",
+      "summary": "FinalWire今日正式发布了 AIDA64 最新的v8.35 版本更新，覆盖全部四个产品版本。 本次更新的核心亮点是增强了对下一代处理器的支持，初步支持英特尔PantherLake-R（Refre…",
+      "tag": "AI产品",
+      "id": 5
+    },
+    {
+      "title": "开源 PC 系统 Haiku 已获授权使用 Firefox 浏览器名称",
+      "url": "https://www.ithome.com/0/982/810.htm",
+      "source": "IT之家",
+      "source_icon": "🟢",
+      "summary": "3dEyes于 7 月 23日在社区发帖，表示Haiku（原名OpenBeOS）已获得Mozilla授权，可以在 Haiku 平台上使用火狐Firefox 浏览器名称。",
+      "tag": "开源",
+      "id": 6
+    },
+    {
+      "title": "OpenAI 奥尔特曼：人们并不想要 AI CEO，且更珍视人性联结",
+      "url": "https://www.ithome.com/0/982/804.htm",
+      "source": "IT之家",
+      "source_icon": "🟢",
+      "summary": "OpenAICEO 萨姆 ·奥尔特曼认为，人们并不希望让AI取代自己的职位。“以我的工作为例，外界希望知道谁要为一家公司的决策负责；如果决策失误，又该向谁追责。人们其实并不想要 AI CEO。",
+      "tag": "AI产品",
+      "id": 7
+    },
+    {
+      "title": "数百条 Claude 聊天记录被谷歌索引，Anthropic 回应称用户主动分享所致",
+      "url": "https://www.ithome.com/0/982/802.htm",
+      "source": "IT之家",
+      "source_icon": "🟢",
+      "summary": "7月 26日，Anthropic旗 Claude的共享对话功能曝出隐私风险。有人在 Reddit上发帖称，Claude 用户通过“分享”功能生成的公开链接可被谷歌等搜索引擎进行收录，导致包含个人简历、…",
+      "tag": "大模型",
+      "id": 8
+    },
+    {
+      "title": "科氪 | 定义AI睡眠健康新赛道 东莞数字人体与智慧睡眠创新联合体落地慕思",
+      "url": "https://36kr.com/p/3915239611739781?f=rss",
+      "source": "36氪",
+      "source_icon": "🔵",
+      "summary": "7月27日，东莞市数字人体与智慧睡眠创新联合体揭牌暨工作推进会在慕思健康睡眠股份有限公司（以下简称“慕思”）总部举行。本次工作推进会由东莞市科学技术局、厚街镇人民政府指导，慕思、广东华中科技大学工业技…",
+      "tag": "AIGC",
+      "id": 9
+    },
+    {
+      "title": "氪星晚报｜Meta宣布与贝莱德达成战略合作，将在埃尔帕索开发数据中心；“国科超导”完成超亿元融资；我国启动人工智能大模型IPv6能力提升专项行动",
+      "url": "https://36kr.com/p/3913321294369924?f=rss",
+      "source": "36氪",
+      "source_icon": "🔵",
+      "summary": "大公司： YouTube与NBC环球达成合作协议，将为美用户提供流媒体捆绑服务 7月27日，美国流媒体平台YouTube与媒体巨头NBC环球（NBCUniversal）宣布深化战略合作。",
+      "tag": "大模型",
+      "id": 10
+    }
+  ]
+}
