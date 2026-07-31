@@ -1,0 +1,99 @@
+{
+  "date": "2026-08-01",
+  "generated_at": "2026-08-01T07:57:02.864875+08:00",
+  "category": "餐饮零售 & AI科技",
+  "total": 10,
+  "editor_note": "今天共精选 10 条。AI科技板块：德国法院裁定 AI 音乐生成公司 Sun等动态持续发酵。",
+  "items": [
+    {
+      "title": "德国法院裁定 AI 音乐生成公司 Suno 侵犯版权，需支付赔偿金",
+      "url": "https://www.ithome.com/0/984/382.htm",
+      "source": "IT之家",
+      "source_icon": "🟢",
+      "summary": "德国慕尼黑地方法院周五作出裁决，认定AI 音乐初创公司 Suno构成版权侵权，并责令其披露非法获利。 法院指出，Suno无权处理由德国国家授权的音乐版权管理机构Gema 所代表的艺术家作品。",
+      "tag": "AI产品",
+      "id": 1
+    },
+    {
+      "title": "MiniMax H3 通用多模态视频模型将于 8 月 3 日开源，最高可支持 15s 2K 分辨率",
+      "url": "https://www.ithome.com/0/984/379.htm",
+      "source": "IT之家",
+      "source_icon": "🟢",
+      "summary": "稀宇科技今天宣布推出MiniMax H3通用多模态视频模型，魔搭社区显示，这款模型将于北京时间 8 月 3 日 0点正式开源 。",
+      "tag": "大模型",
+      "id": 2
+    },
+    {
+      "title": "欧盟《人工智能法》新增透明度要求，8 月 2 日起正式执行",
+      "url": "https://www.ithome.com/0/984/365.htm",
+      "source": "IT之家",
+      "source_icon": "🟢",
+      "summary": "欧盟委员会7 月 31日宣布，自8 月 2日起，欧盟委员会人工智能办公室将与各成员国主管部门共同开始执行《人工智能法》相关规定。",
+      "tag": "AI产品",
+      "id": 3
+    },
+    {
+      "title": "国内唯一做多模态长记忆的公司，融资数千万，押注主动智能｜涌现新项目",
+      "url": "https://36kr.com/p/3919386961177985?f=rss",
+      "source": "36氪",
+      "source_icon": "🔵",
+      "summary": "文｜王欣逸编辑｜张雨忻 一句话介绍国内唯一做多模态长记忆的公司——丘脑智能，推出原生多模态记忆基座，押注AI从通用走向个性化，最终走向主动智能。",
+      "tag": "大模型",
+      "id": 4
+    },
+    {
+      "title": "36氪独家｜曾爱玲入职B站担任AI视频生成业务负责人，向CEO陈睿汇报",
+      "url": "https://36kr.com/p/3910776673064073?f=rss",
+      "source": "36氪",
+      "source_icon": "🔵",
+      "summary": "文｜王毓婵兰杰 编辑｜乔芊36氪独家获悉，曾爱玲入职哔哩哔哩（下称“B站”），担任AI视频生成业务负责人，向CEO陈睿汇报。 36氪就此事向B站方面求证，对方暂无回应。",
+      "tag": "AIGC",
+      "id": 5
+    },
+    {
+      "title": "App+1 | 诗经山河图：我用 AI 做了一张《诗经》地图",
+      "url": "https://sspai.com/post/112730",
+      "source": "少数派",
+      "source_icon": "🔵",
+      "summary": "也许在某个瞬间，你会发现：三千年的时间很长，但古人与我们之间，并没有想象中那么遥远。",
+      "tag": "AI产品",
+      "id": 6
+    },
+    {
+      "title": "离 AI 最近的老牌写作工具不聊 AI：iA Writer 8.0 大版本更新",
+      "url": "https://sspai.com/post/112787",
+      "source": "少数派",
+      "source_icon": "🔵",
+      "summary": "本文为你梳理8.0 版本 iA Writer的主要亮点。",
+      "tag": "AI产品",
+      "id": 7
+    },
+    {
+      "title": "蒲得宇预估苹果 2027Q1 发布 iPhone Air 2：新增 4800 万超广角、A20 Pro 芯片",
+      "url": "https://www.ithome.com/0/984/407.htm",
+      "source": "IT之家",
+      "source_icon": "🟢",
+      "summary": "广发证券分析师蒲得宇（JeffPu）昨日（7 月 31日）发布研报，预估苹果公司会在 2027 年第 1季度发布iPhone Air2。",
+      "tag": "AI算力",
+      "id": 8
+    },
+    {
+      "title": "索尼 PlayStation 乐高套装被曝 10 月 1 日发售，同步推出《宇宙机器人》赠品",
+      "url": "https://www.ithome.com/0/984/393.htm",
+      "source": "IT之家",
+      "source_icon": "🟢",
+      "summary": "乐高爆料者BrickTap今日透露，传闻中的乐高PlayStation 套装将于 10月 1 日发售，购买该套装即可获赠一份Astro Bot主题赠品。",
+      "tag": "机器人",
+      "id": 9
+    },
+    {
+      "title": "高德：联合哈啰、海思和开源鸿蒙，推出共享两轮行业首个 AI 原生导航方案",
+      "url": "https://www.ithome.com/0/984/389.htm",
+      "source": "IT之家",
+      "source_icon": "🟢",
+      "summary": "高德开放平台宣布，联合哈啰骑行、上海海思、开源鸿蒙，共同推出共享两轮行业首个 AI 原生导航方案，并率先落地内蒙古包头。 据介绍，高德开放平台推出专为共享电助力车打造的RTOS版本轻量化车机导航方案，…",
+      "tag": "开源",
+      "id": 10
+    }
+  ]
+}
