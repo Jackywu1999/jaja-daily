@@ -1,0 +1,99 @@
+{
+  "date": "2026-08-04",
+  "generated_at": "2026-08-04T08:03:49.692514+08:00",
+  "category": "餐饮零售 & AI科技",
+  "total": 10,
+  "editor_note": "今天共精选 10 条。餐饮零售板块：8点1氪丨蔡崇信宣布离婚，不涉及出售阿里等话题值得关注；AI科技板块：国际刑警组织：AI 已成非洲网络犯罪核心等动态持续发酵。",
+  "items": [
+    {
+      "title": "8点1氪丨蔡崇信宣布离婚，不涉及出售阿里股份；瑞幸回应员工对嘴喷奶油；IF椰子水市值从126亿暴跌到16亿",
+      "url": "https://36kr.com/p/3923043072634498?f=rss",
+      "source": "36氪",
+      "source_icon": "🔵",
+      "summary": "今日热点导览马斯克关注了DeepSeek的X账号祥鹏航空回应航班误发过期方便面OpenAI或将IPO推迟到明年SpaceX首份财报即将发布小米多款手机正式涨价每月10万美元，特朗普“真实社交”售卖“优…",
+      "tag": "餐饮动态",
+      "id": 1
+    },
+    {
+      "title": "卖烘焙厂、关大店、开折扣店，盒马在算一笔大账",
+      "url": "https://www.tmtpost.com/8089210.html",
+      "source": "钛媒体",
+      "source_icon": "🟠",
+      "summary": "侯毅种下的盒马，严筱磊在给它“做减法\"",
+      "tag": "餐饮动态",
+      "id": 2
+    },
+    {
+      "title": "国际刑警组织：AI 已成非洲网络犯罪核心驱动力",
+      "url": "https://www.ithome.com/0/985/252.htm",
+      "source": "IT之家",
+      "source_icon": "🟢",
+      "summary": "国际刑警组织今日发布博文称，人工智能已参与非洲55%网络犯罪案件，使攻击速度更快、规模更大，也让受害者越来越难防范和追查。 非洲正在加快推进数字化转型，2025年非洲移动网络用户数已超过 11亿。",
+      "tag": "AI产品",
+      "id": 3
+    },
+    {
+      "title": "微星推出 Crosshair A16 HX MLG Edition 游戏本：锐龙 9 8940HX 处理器、RTX 5070 显卡",
+      "url": "https://www.ithome.com/0/985/245.htm",
+      "source": "IT之家",
+      "source_icon": "🟢",
+      "summary": "微星现已在海外市场推出Crosshair A16 HX MLGEdition 游戏本，新品搭载AMD 锐龙 9 8940HX处理器，最高可选配英伟达 RTX 5070 显卡。",
+      "tag": "AI产品",
+      "id": 4
+    },
+    {
+      "title": "搜索引擎公司 DuckDuckGo“整活”推出 Paso Robles 太阳镜，号称无 AI、无摄像头、永不发送数据",
+      "url": "https://www.ithome.com/0/985/236.htm",
+      "source": "IT之家",
+      "source_icon": "🟢",
+      "summary": "谷歌、三星、Meta等科技巨头正在争相布局 AI智能眼镜市场，镜框内置的微型摄像头，则逐渐让智能眼镜成为公众的隐私“噩梦”，利用其导致的偷拍和其他滥用事件呈增加趋势。",
+      "tag": "AI产品",
+      "id": 5
+    },
+    {
+      "title": "App+1 | 诗经山河图：我用 AI 做了一张《诗经》地图",
+      "url": "https://sspai.com/post/112730",
+      "source": "少数派",
+      "source_icon": "🔵",
+      "summary": "也许在某个瞬间，你会发现：三千年的时间很长，但古人与我们之间，并没有想象中那么遥远。",
+      "tag": "AI产品",
+      "id": 6
+    },
+    {
+      "title": "SK 海力士与闪迪将在 FMS 2026 发布 HBF 首个标准规范，展示面向 AI 的存储解决方案",
+      "url": "https://www.ithome.com/0/985/289.htm",
+      "source": "IT之家",
+      "source_icon": "🟢",
+      "summary": "SK 海力士宣布联合闪迪（Sandisk），将在美国加州举办的闪存峰会2026（FMS2026）期间共同发布下一代存储技术高带宽闪存（HBF，HighBandwidthFlash）的首个标准规范。",
+      "tag": "AI产品",
+      "id": 7
+    },
+    {
+      "title": "库克称苹果正评估算力成本，iOS 27 的 Siri AI 额度方案尚未敲定",
+      "url": "https://www.ithome.com/0/985/271.htm",
+      "source": "IT之家",
+      "source_icon": "🟢",
+      "summary": "科技媒体9to5Mac 昨日（8 月 3日）发布博文，报道称基于苹果首席执行官蒂姆· 库克（TimCook）在财报电话会议上释放的信号，苹果仍在评估iOS 27 中 SiriAI（Siri 人工智能）…",
+      "tag": "AI算力",
+      "id": 8
+    },
+    {
+      "title": "Hugging Face CEO 德朗格：中国正在赢得 AI 竞赛，而美国则在“各自为战”",
+      "url": "https://www.ithome.com/0/985/268.htm",
+      "source": "IT之家",
+      "source_icon": "🟢",
+      "summary": "HuggingFace 首席执行官克莱门特 ·德朗格（Clément Delangue）近日为开放权重（Open-weight）AI 模型发声，同时向美国发出警告，称中国在人工智能竞赛中正占据领先优势。",
+      "tag": "AI产品",
+      "id": 9
+    },
+    {
+      "title": "从实验到产线——AI 工作流的规模化挑战与协作生态 | 2026 ChinaJoy AI未来生态大会",
+      "url": "https://36kr.com/p/3923717502072969?f=rss",
+      "source": "36氪",
+      "source_icon": "🔵",
+      "summary": "AI工作流如何从实验室的“惊艳一刻”走向产线的“日常运转”？当生成能力不再是门槛，规模化落地的瓶颈在哪里，人又该扮演什么角色？ 内容生产正在经历从“技术验证”到“产业落地”的关键跨越。",
+      "tag": "AI产品",
+      "id": 10
+    }
+  ]
+}
