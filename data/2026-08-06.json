@@ -1,0 +1,99 @@
+{
+  "date": "2026-08-06",
+  "generated_at": "2026-08-06T07:55:23.359662+08:00",
+  "category": "餐饮零售 & AI科技",
+  "total": 10,
+  "editor_note": "今天共精选 10 条。餐饮零售板块：【钛晨报】商务部新闻发言人就对美系列涉华等话题值得关注；AI科技板块：Cloudflare 宣布推出开源“Cl等动态持续发酵。",
+  "items": [
+    {
+      "title": "【钛晨报】商务部新闻发言人就对美系列涉华消极措施实施反制答记者问；宇树科技开启科创板IPO初步询价，市场预估IPO市值或将超400亿元；段永平持仓从7.65%降至5.55%，泡泡玛特澄清：不是主动减持",
+      "url": "https://www.tmtpost.com/8092739.html",
+      "source": "钛媒体",
+      "source_icon": "🟠",
+      "summary": "京东开源JoyAI-Video-Edit模型，支持实时互动编辑；字节跳动发布音视频全双工大模型SeedRealtime；胖东来宣布未来三年战略：暂停帮扶与行业会议，2030年后逐步退出扩张；本田第一财…",
+      "tag": "商业洞察",
+      "id": 1
+    },
+    {
+      "title": "五路零售巨头入场，竞速硬折扣",
+      "url": "https://www.tmtpost.com/8090393.html",
+      "source": "钛媒体",
+      "source_icon": "🟠",
+      "summary": "3万人挤进一家新店，9.9元烤鸡卖断货：中国零售在换活法。",
+      "tag": "零售动态",
+      "id": 2
+    },
+    {
+      "title": "Cloudflare 宣布推出开源“Cloudflare OS”：面向 AI 智能体和企业工作的开放平台",
+      "url": "https://www.ithome.com/0/986/252.htm",
+      "source": "IT之家",
+      "source_icon": "🟢",
+      "summary": "Cloudflare今日宣布开源名为“CloudflareOS”的AI平台项目，定位为面向智能体（Agents）、应用程序以及企业工作流程的开放平台。",
+      "tag": "AI Agent",
+      "id": 3
+    },
+    {
+      "title": "中国联通：智算规模达 45EFLOPS，今年算力相关投资将超 175 亿元",
+      "url": "https://www.ithome.com/0/986/235.htm",
+      "source": "IT之家",
+      "source_icon": "🟢",
+      "summary": "中国联通今日宣布，截至目前，中国联通标准机架规模超过 110 万架，建成7 个百兆瓦级 AIDC园区，智算规模达到45EFLOPS",
+      "tag": "AI投融资",
+      "id": 4
+    },
+    {
+      "title": "CrowdStrike 推出国际 AI 安全挑战赛：“策反”智能体，总奖金 10 万美元",
+      "url": "https://www.ithome.com/0/986/234.htm",
+      "source": "IT之家",
+      "source_icon": "🟢",
+      "summary": "网络安全公司CrowdStrike 今天（5日）宣布携手亚马逊云科技（AWS），推出总奖金10万美元",
+      "tag": "AI Agent",
+      "id": 5
+    },
+    {
+      "title": "继 OpenAI、Anthropic 之后，Meta AI 模型测试期间也发生“越界”事件",
+      "url": "https://www.ithome.com/0/986/269.htm",
+      "source": "IT之家",
+      "source_icon": "🟢",
+      "summary": "据《The Information》当地时间周三报道，Meta的一款 AI模型在网络安全测试过程中入侵了另一家公司的系统。这是继多家大型AI公司之后，再次发生AI智能体在测试中入侵其他公司系统的事件。",
+      "tag": "大模型",
+      "id": 6
+    },
+    {
+      "title": "挑战 Codex 等，Meta 推出其首个编程 AI 智能体工具 Muse Code",
+      "url": "https://www.ithome.com/0/986/268.htm",
+      "source": "IT之家",
+      "source_icon": "🟢",
+      "summary": "Meta公司今天（8 月 6日）发布博文，宣布以测试版推出其首个编程 AI智能体工具MuseCode，希望挑战 Anthropic 的Claude Code，以及OpenAI 的 Codex 等编程A…",
+      "tag": "AI Agent",
+      "id": 7
+    },
+    {
+      "title": "谷歌 DeepMind 重组：哈萨比斯转任首席科学家，聚焦通用人工智能应用",
+      "url": "https://www.ithome.com/0/986/265.htm",
+      "source": "IT之家",
+      "source_icon": "🟢",
+      "summary": "谷歌母公司Alphabet 昨日（8 月 5日）宣布重组旗下AI 公司DeepMind，公司首席执行官戴米斯· 哈萨比斯（DemisHassabis）卸任日常管理职务，转任董事长兼 Alphabet首…",
+      "tag": "AI产品",
+      "id": 8
+    },
+    {
+      "title": "The Office Agent Race Shifts From Chatbots to Organizational Work",
+      "url": "https://www.tmtpost.com/8092632.html",
+      "source": "钛媒体",
+      "source_icon": "🟠",
+      "summary": "Trafficdata and rapidproductconsolidations showlargetechnology firmsracingto turn AI from apersonala…",
+      "tag": "AI Agent",
+      "id": 9
+    },
+    {
+      "title": "为什么供应链“计划-执行-反馈”闭环是人类迄今最难的AI问题",
+      "url": "https://www.tmtpost.com/8092454.html",
+      "source": "钛媒体",
+      "source_icon": "🟠",
+      "summary": "供应链问题到底是管理工程问题，还是系统科学和复杂性科学的问题？",
+      "tag": "AI产品",
+      "id": 10
+    }
+  ]
+}
