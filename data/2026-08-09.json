@@ -1,0 +1,99 @@
+{
+  "date": "2026-08-09",
+  "generated_at": "2026-08-09T07:22:27.280485+08:00",
+  "category": "餐饮零售 & AI科技",
+  "total": 10,
+  "editor_note": "今天共精选 10 条。餐饮零售板块：每回一次县城，加盟商的门头又变了等话题值得关注；AI科技板块：内部“一路绿灯”：消息称 WorkBud等动态持续发酵。",
+  "items": [
+    {
+      "title": "每回一次县城，加盟商的门头又变了",
+      "url": "https://www.tmtpost.com/8096277.html",
+      "source": "钛媒体",
+      "source_icon": "🟠",
+      "summary": "留在县城的，是什么？",
+      "tag": "商业洞察",
+      "id": 1
+    },
+    {
+      "title": "3.6万家门店，瑞幸撞上天花板？",
+      "url": "https://www.tmtpost.com/8095964.html",
+      "source": "钛媒体",
+      "source_icon": "🟠",
+      "summary": "3.6万家门店，瑞幸撞上天花板？",
+      "tag": "餐饮动态",
+      "id": 2
+    },
+    {
+      "title": "内部“一路绿灯”：消息称 WorkBuddy 已成腾讯 AI 应用战略优先级最高产品之一",
+      "url": "https://www.ithome.com/0/987/446.htm",
+      "source": "IT之家",
+      "source_icon": "🟢",
+      "summary": "今年 5 月以来，腾讯WorkBuddy的广告从北京知春路铺到深圳高新园。打开手机，头部应用的信息流里也几乎都是WorkBuddy的身影。 据报道，这是腾讯近年来少见的饱和式产品投放。",
+      "tag": "AI产品",
+      "id": 3
+    },
+    {
+      "title": "Cloudflare：AI 机器人流量已超越人类，预计五年后人机流量比达 1:1000 近乎“误差”",
+      "url": "https://www.ithome.com/0/987/438.htm",
+      "source": "IT之家",
+      "source_icon": "🟢",
+      "summary": "Cloudflare在 2026年第二季度财报电话会议上披露，AI机器人等来源的非人类流量已于 2026年 5 月正式超过人类流量，比CEO 马修 · 普林斯（MatthewPrince）此前预测的2…",
+      "tag": "机器人",
+      "id": 4
+    },
+    {
+      "title": "全球最大 AI 算力超级单体：远景乌兰察布星河基地投产，百万卡并行、百万 P 算力",
+      "url": "https://www.ithome.com/0/987/435.htm",
+      "source": "IT之家",
+      "source_icon": "🟢",
+      "summary": "远景科技集团8 月 6 日宣布在内蒙古乌兰察布建成AI 算力超级单体，标志着“远景乌兰察布星河基地”正式投产。该基地是远景“戈壁使命（MissionGobi）”计划落地的首个旗舰项目，园区总规划容量达…",
+      "tag": "AI算力",
+      "id": 5
+    },
+    {
+      "title": "OpenAI 收购 AI 演示文稿初创公司 NextSlide",
+      "url": "https://www.ithome.com/0/987/455.htm",
+      "source": "IT之家",
+      "source_icon": "🟢",
+      "summary": "NextSlide近日宣布加入OpenAI，其团队成员现已投身于ChatGPT的开发工作。NextSlide官网目前展示了一份由创始人Ahmed Beshry发布的说明。",
+      "tag": "AI投融资",
+      "id": 6
+    },
+    {
+      "title": "OpenAI 桌面端 ChatGPT 上线语音交互功能，可语音操控电脑执行多步骤任务",
+      "url": "https://www.ithome.com/0/987/452.htm",
+      "source": "IT之家",
+      "source_icon": "🟢",
+      "summary": "OpenAI 当地时间周四宣布，已更新ChatGPT桌面应用，新增对ChatGPT Voice的支持。用户现在可以直接通过语音与ChatGPT对话，控制AI智能体，并让其在电脑上执行各种任务。",
+      "tag": "大模型",
+      "id": 7
+    },
+    {
+      "title": "曝亚马逊利用 45 年前规划绕过社区投票建设 AI 数据中心，美国加州吉尔罗伊市民不满",
+      "url": "https://www.ithome.com/0/987/449.htm",
+      "source": "IT之家",
+      "source_icon": "🟢",
+      "summary": "据科技媒体Tom's Hardware今天报道，亚马逊位于美国加州吉尔罗伊市的新建数据中心项目近日引发民众关注。该项目上月开工时，许多当地居民才发现自己此前根本没有知悉过项目存在。",
+      "tag": "AI产品",
+      "id": 8
+    },
+    {
+      "title": "Link-X Demo Day 2026 ：AI 创业向下扎根、向外延伸、向内深入",
+      "url": "https://www.tmtpost.com/8096463.html",
+      "source": "钛媒体",
+      "source_icon": "🟠",
+      "summary": "8月8日，“Link-XDemo Day2026（创新项目展示日）——Spark Moment·灵光一闪”活动在北京中关村国际技术交易中心举行。",
+      "tag": "AI产品",
+      "id": 9
+    },
+    {
+      "title": "【数智周报】张一鸣：字节跳动“拒绝蒸馏”，不用别人输出换榜单排名；三星发布下一代AI存储路线图，展示zHBM和400层以上V10 NAND技术；闪迪第四财季营收超预期增长372%，数据中心收入增近13倍，拟豪掷140亿回购",
+      "url": "https://www.tmtpost.com/8096279.html",
+      "source": "钛媒体",
+      "source_icon": "🟠",
+      "summary": "（8月3日-8日）“AI支出巨浪”很快消退？资深策略师“捕捉”到两大危险信号；谷歌人工智能领导层重大调整：AI元老效力27年后离职，DeepMind创始人转任首席科学家；阿里Qwen3.8正式发布，编…",
+      "tag": "商业洞察",
+      "id": 10
+    }
+  ]
+}
