@@ -1,0 +1,99 @@
+{
+  "date": "2026-08-10",
+  "generated_at": "2026-08-10T07:25:09.857582+08:00",
+  "category": "餐饮零售 & AI科技",
+  "total": 10,
+  "editor_note": "今天共精选 10 条。餐饮零售板块：4元一杯的星巴克，还是没能偷家库迪瑞幸等话题值得关注；AI科技板块：5 岁孩子使用 AI 后“暴躁易怒”，家等动态持续发酵。",
+  "items": [
+    {
+      "title": "4元一杯的星巴克，还是没能偷家库迪瑞幸",
+      "url": "https://www.tmtpost.com/8096567.html",
+      "source": "钛媒体",
+      "source_icon": "🟠",
+      "summary": "蜜雪冰城可以原谅星巴克了",
+      "tag": "餐饮动态",
+      "id": 1
+    },
+    {
+      "title": "5 岁孩子使用 AI 后“暴躁易怒”，家长发现 AI 竟会迎合孩子编造血腥暴力内容",
+      "url": "https://www.ithome.com/0/987/603.htm",
+      "source": "IT之家",
+      "source_icon": "🟢",
+      "summary": "孩子沉迷AI聊天，或造成身心健康隐患。 当事人刘女士告诉记者，自己因为工作繁忙，在朋友的推荐下开始让孩子使用 AI。据其介绍，让孩子使用AI 的初衷是利用其陪伴功能和学习功能对孩子进行早教启蒙 。",
+      "tag": "AI产品",
+      "id": 2
+    },
+    {
+      "title": "员工用 AI 批量提交诉讼，英国就业法院诉状激增",
+      "url": "https://www.ithome.com/0/987/602.htm",
+      "source": "IT之家",
+      "source_icon": "🟢",
+      "summary": "据科技媒体The Decoder今天报道，英国就业法院的临时救济申请数如今增长迅猛。越来越多员工开始使用 ChatGPT 或Grok免费起草诉状，不再聘请律师。英国就业法庭主席 BarryClarke",
+      "tag": "AI产品",
+      "id": 3
+    },
+    {
+      "title": "2026 年上半年全国人形机器人领域新设企业 11.6 万户，同比增长 9.5%",
+      "url": "https://www.ithome.com/0/987/596.htm",
+      "source": "IT之家",
+      "source_icon": "🟢",
+      "summary": "8月 8日，市场监管总局公布数据显示，上半年，全国新设“8 大新兴产业 + 9大未来产业”相关企业56.1 万户。",
+      "tag": "商业洞察",
+      "id": 4
+    },
+    {
+      "title": "AI存储股暴跌，高盛为何敢押注HBM翻倍？",
+      "url": "https://www.tmtpost.com/8096591.html",
+      "source": "钛媒体",
+      "source_icon": "🟠",
+      "summary": "高盛八大判断背后——比预测更重要的，是验证与修正预测的速度。",
+      "tag": "AI产品",
+      "id": 5
+    },
+    {
+      "title": "宇树科技今日启动申购，A 股迎来“人形机器人第一股”",
+      "url": "https://www.ithome.com/0/987/649.htm",
+      "source": "IT之家",
+      "source_icon": "🟢",
+      "summary": "8月 10日，宇树科技正式启动申购，A 股即将迎来“人形机器人第一股”。此前，宇树科技确定发行价为150.80 元 / 股，对应市值约609.93亿元。",
+      "tag": "机器人",
+      "id": 6
+    },
+    {
+      "title": "OpenAI 宣布取消 ChatGPT 免费版用户纯文本对话次数限制",
+      "url": "https://www.ithome.com/0/987/647.htm",
+      "source": "IT之家",
+      "source_icon": "🟢",
+      "summary": "OpenAI宣布即将取消免费版和 Go版用户在纯文本对话中的次数限制，从当地时间8 月 10日（今天）开始，免费账户和 Go账户用户在进行普通文字聊天时，将不再受到消息数量上限限制，可以持续进行文本对…",
+      "tag": "大模型",
+      "id": 7
+    },
+    {
+      "title": "甲骨文 OpenJDK 项目新规：不允许提交 AI 生成代码",
+      "url": "https://www.ithome.com/0/987/615.htm",
+      "source": "IT之家",
+      "source_icon": "🟢",
+      "summary": "甲骨文 OpenJDK 项目新规：不允许提交 AI 生成代码",
+      "tag": "AI产品",
+      "id": 8
+    },
+    {
+      "title": "【钛晨报】7月物价温和运行：CPI同比上涨0.5%，AI消费电子成新兴涨价动能；原字节跳动机器人一号位加入小米；苹果被曝正在测试长鑫科技存储芯片，用于iPhone和MacBoo",
+      "url": "https://www.tmtpost.com/8096820.html",
+      "source": "钛媒体",
+      "source_icon": "🟠",
+      "summary": "腾讯WorkBuddy手机端实现与桌面端跨设备协同；于东来发文回应关闭胖东来许昌生活广场店；苹果中国官网删除Apple智能接入阿里千问手册；马斯克：即将发射的V3卫星性能将比V2卫星高出一个数量级，该…",
+      "tag": "机器人",
+      "id": 9
+    },
+    {
+      "title": "做底座还是做入口？国产AI 到下决心的时候了！",
+      "url": "https://www.tmtpost.com/8096705.html",
+      "source": "钛媒体",
+      "source_icon": "🟠",
+      "summary": "多数没有自有入口的底座，只能服务于掌握入口的一方，其实就是在给入口打工。",
+      "tag": "AI产品",
+      "id": 10
+    }
+  ]
+}
