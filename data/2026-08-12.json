@@ -1,0 +1,99 @@
+{
+  "date": "2026-08-12",
+  "generated_at": "2026-08-12T07:34:23.556770+08:00",
+  "category": "餐饮零售 & AI科技",
+  "total": 10,
+  "editor_note": "今天共精选 10 条。餐饮零售板块：谷歌有史以来增长最快的产品：Gemini等话题值得关注；AI科技板块：苹果 2026 返校季活动延长至 9 月等动态持续发酵。",
+  "items": [
+    {
+      "title": "谷歌有史以来增长最快的产品：Gemini 应用月活跃用户达 10 亿",
+      "url": "https://www.ithome.com/0/988/552.htm",
+      "source": "IT之家",
+      "source_icon": "🟢",
+      "summary": "谷歌CEO 桑达尔 · 皮查伊（SundarPichai）宣布，Gemini 应用月活跃用户达到 10亿 ，是谷歌有史以来增长最快的产品，也是该公司第14款跨越十亿用户大关的产品。",
+      "tag": "商业洞察",
+      "id": 1
+    },
+    {
+      "title": "苹果 2026 返校季活动延长至 9 月 24 日：中国大陆用户买 Mac / iPad 送 AirTags",
+      "url": "https://www.ithome.com/0/988/548.htm",
+      "source": "IT之家",
+      "source_icon": "🟢",
+      "summary": "苹果2026 年返校促销活动 于 7 月16 日开始，原定结束日期为8 月 27日，现已延长至 9 月 24 日。为教育目的，有资格从Apple Store教育商店购买之人包括如下教师、员工、学生及父…",
+      "tag": "AI产品",
+      "id": 2
+    },
+    {
+      "title": "台风过境：宁波用 AI“算”出防汛最优解，预报模型 5 秒生成方案",
+      "url": "https://www.ithome.com/0/988/529.htm",
+      "source": "IT之家",
+      "source_icon": "🟢",
+      "summary": "今年第13 号台风“白海豚”于 8 月 9日登陆，给地处三江交汇、濒临海湾的浙江宁波带来强降雨。 据央视报道，作为人均水资源占有量远低于全国平均水平的缺水城市，宁波在台风防御中面临水库既要腾库防洪、又…",
+      "tag": "大模型",
+      "id": 3
+    },
+    {
+      "title": "英伟达调动5000亿美元，算力金融化加速",
+      "url": "https://www.tmtpost.com/8098887.html",
+      "source": "钛媒体",
+      "source_icon": "🟠",
+      "summary": "资本正在按照未来最乐观的需求预期建设今天的基础设施。",
+      "tag": "AI投融资",
+      "id": 4
+    },
+    {
+      "title": "戚薇授权AI数字分身，演员开始批量生产自己",
+      "url": "https://www.tmtpost.com/8098760.html",
+      "source": "钛媒体",
+      "source_icon": "🟠",
+      "summary": "AI改变的不只是拍戏方式，更是明星变现的底层逻辑。",
+      "tag": "AI产品",
+      "id": 5
+    },
+    {
+      "title": "OpenAI 高管莱特卡普宣布离职创业，奥尔特曼感谢其贡献",
+      "url": "https://www.ithome.com/0/988/556.htm",
+      "source": "IT之家",
+      "source_icon": "🟢",
+      "summary": "OpenAI高级主管布拉德 · 莱特卡普（BradLightcap）今天（8月 12 日）在 X平台发布推文，宣布将离职创业。",
+      "tag": "AI产品",
+      "id": 6
+    },
+    {
+      "title": "从阿里离职五个月后，林俊旸官宣创办 AI 公司语用科技 Pragmatik Labs",
+      "url": "https://www.ithome.com/0/988/555.htm",
+      "source": "IT之家",
+      "source_icon": "🟢",
+      "summary": "林俊旸（yáng）今日宣布，他在上海创办了一家新公司PragmatikLabs（语用科技），简称 p7k。新公司的研究方向为横跨数字世界和物理世界的下一代智能体（Agent）。",
+      "tag": "AI产品",
+      "id": 7
+    },
+    {
+      "title": "AI 云服务巨头 CoreWeave 2026 财年第二财季营收 25.75 亿美元，同比增长 112.46%",
+      "url": "https://www.ithome.com/0/988/544.htm",
+      "source": "IT之家",
+      "source_icon": "🟢",
+      "summary": "AI云服务巨头 CoreWeave 今日发布2026财年（2026 年 1 月～2026 年12月）半年报（2026 年 1月～2026年 6 月）及第二财季（2026 年 4月～2026年 6 月）…",
+      "tag": "商业洞察",
+      "id": 8
+    },
+    {
+      "title": "字节AI，不装了：收税12%、不蒸馏、赌5万亿",
+      "url": "https://www.tmtpost.com/8098796.html",
+      "source": "钛媒体",
+      "source_icon": "🟠",
+      "summary": "阿里赢在商业和生态，腾讯赢在社交粘性，但字节赢的是生态闭环无短板。",
+      "tag": "AI产品",
+      "id": 9
+    },
+    {
+      "title": "晶泰控股：AI for Science的“炼金术士”",
+      "url": "https://www.tmtpost.com/8098872.html",
+      "source": "钛媒体",
+      "source_icon": "🟠",
+      "summary": "晶泰控股底层逻辑拆解",
+      "tag": "AI产品",
+      "id": 10
+    }
+  ]
+}
