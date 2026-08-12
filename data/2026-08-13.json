@@ -1,0 +1,99 @@
+{
+  "date": "2026-08-13",
+  "generated_at": "2026-08-13T07:35:30.851889+08:00",
+  "category": "餐饮零售 & AI科技",
+  "total": 10,
+  "editor_note": "今天共精选 10 条。餐饮零售板块：东鹏饮料，摸到了天花板等话题值得关注；AI科技板块：阿里开放 Qwen3.8-2.4T-A9等动态持续发酵。",
+  "items": [
+    {
+      "title": "东鹏饮料，摸到了天花板",
+      "url": "https://www.tmtpost.com/8099397.html",
+      "source": "钛媒体",
+      "source_icon": "🟠",
+      "summary": "东鹏依然没有证明“渠道复用”的可行性。",
+      "tag": "餐饮动态",
+      "id": 1
+    },
+    {
+      "title": "上线“明天达”，拼多多打响时效战",
+      "url": "https://www.tmtpost.com/8100698.html",
+      "source": "钛媒体",
+      "source_icon": "🟠",
+      "summary": "阻击即时零售，不忘传统电商",
+      "tag": "电商",
+      "id": 2
+    },
+    {
+      "title": "阿里开放 Qwen3.8-2.4T-A95B 模型权重：2.4T MoE、激活 95B、原生 256K 上下文",
+      "url": "https://www.ithome.com/0/989/001.htm",
+      "source": "IT之家",
+      "source_icon": "🟢",
+      "summary": "阿里云“魔搭ModelScope社区”公众号昨天（12 日）深夜宣布，阿里Qwen 团队正式开放Qwen3.8-2.4T-A95B 模型权重。",
+      "tag": "大模型",
+      "id": 3
+    },
+    {
+      "title": "深夜放大招！DeepSeek V4 Pro 正式版 API 更新上线，多项测试性能接近 Fable 5",
+      "url": "https://www.ithome.com/0/989/000.htm",
+      "source": "IT之家",
+      "source_icon": "🟢",
+      "summary": "据IT之家小伙伴反馈，DeepSeek V4 Pro正式版今日晚间正式发布 ，已更新至 API，调用模型名不变。新版本增强了 Agent能力，支持Responses API 和Codex 接入。",
+      "tag": "大模型",
+      "id": 4
+    },
+    {
+      "title": "剑指 GPT-5.6 Sol，SpaceXAI 发布 Grok 4.6 模型",
+      "url": "https://www.ithome.com/0/988/999.htm",
+      "source": "IT之家",
+      "source_icon": "🟢",
+      "summary": "北京时间今天（12 日）晚间，Grok4.6正式发布。新模型在Grok 4.5基础上进一步强化长时间运行的智能体任务，以及复杂的交互和视觉工作。",
+      "tag": "大模型",
+      "id": 5
+    },
+    {
+      "title": "对话少数派老麦：从 Palm、WebOS 到 AI 硬件，依然不想成为多数派",
+      "url": "https://sspai.com/post/113352",
+      "source": "少数派",
+      "source_icon": "🔵",
+      "summary": "《三五环》主播刘飞邀请老麦聊了聊他从Palm时代开始的二十年数码时代的经营历程。复盘了少数派如何从一家媒体，一步步跑通「内容+产品」的商业闭环；也聊到了他与罗永浩那段「不打不相识」的往事，以及那些改变…",
+      "tag": "AI产品",
+      "id": 6
+    },
+    {
+      "title": "我，与「唯一」的 iPhone Air",
+      "url": "https://sspai.com/post/112880",
+      "source": "少数派",
+      "source_icon": "🔵",
+      "summary": "在iPhone Air之后才发现，有些产品存在的意义，是帮我确认我真正需要什么。",
+      "tag": "AI产品",
+      "id": 7
+    },
+    {
+      "title": "消息称苹果拟向出版商支付最高数亿美元，获取新闻内容以改进 AI 版 Siri",
+      "url": "https://www.ithome.com/0/989/014.htm",
+      "source": "IT之家",
+      "source_icon": "🟢",
+      "summary": "苹果正在与多家出版商洽谈新的合作协议，希望使用它们的内容来提供最新的新闻和信息，这是苹果改进AI 驱动的 Siri语音助手计划的一部分。 据知情人士透露，苹果近几个月已经主动联系了一些出版商。",
+      "tag": "AI投融资",
+      "id": 8
+    },
+    {
+      "title": "腾讯微信公布 WeLM 模型：80B 版已在 AI 助手小微上应用，617B 版正在开发",
+      "url": "https://www.ithome.com/0/989/007.htm",
+      "source": "IT之家",
+      "source_icon": "🟢",
+      "summary": "腾讯微信团队在X 平台公布了由微信团队打造的大语言模型WeLM ，该模型以资源利用效率为核心。 根据官方公布的海报，WeLM系列大语言模型目前已经明确的两个规格是：WeLM-80B：800 亿总参数，…",
+      "tag": "大模型",
+      "id": 9
+    },
+    {
+      "title": "Claude 打破平台壁垒：Chrome 侧边栏 AI 对话互通全平台历史记录",
+      "url": "https://www.ithome.com/0/989/006.htm",
+      "source": "IT之家",
+      "source_icon": "🟢",
+      "summary": "Anthropic今天（8 月 13 日）在 X平台发布推文，宣布升级适用于谷歌Chrome 浏览器的 Claude扩展程序，在侧边栏带来完整的 ClaudeCowork 会话体验。",
+      "tag": "大模型",
+      "id": 10
+    }
+  ]
+}
