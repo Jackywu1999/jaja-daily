@@ -1,0 +1,99 @@
+{
+  "date": "2026-08-14",
+  "generated_at": "2026-08-14T07:35:25.165213+08:00",
+  "category": "餐饮零售 & AI科技",
+  "total": 10,
+  "editor_note": "今天共精选 10 条。AI科技板块：神秘生图模型“mona-lisa-1”曝等动态持续发酵。",
+  "items": [
+    {
+      "title": "神秘生图模型“mona-lisa-1”曝光：含 OpenAI 来源信号，GPT-Image-2 发布三个月仍稳坐第一",
+      "url": "https://www.ithome.com/0/989/476.htm",
+      "source": "IT之家",
+      "source_icon": "🟢",
+      "summary": "8月 9日有一款代号为“mona-lisa-1”的图像生成模型出现在AI竞技场的盲测列表中。爆料者 AiBattle称，他将该模型生成的图片提交至OpenAI官方内容验证工具后，检测到了与OpenAI…",
+      "tag": "大模型",
+      "id": 1
+    },
+    {
+      "title": "微软整合个人、企业版两套 Copilot AI 助手，为“超级应用”铺路",
+      "url": "https://www.ithome.com/0/989/474.htm",
+      "source": "IT之家",
+      "source_icon": "🟢",
+      "summary": "据外媒The Verge 今天（13日）晚间报道，微软终于开始整合面向个人和企业用户的两套Copilot AI助手，目标是打造一个统一的“超级应用”。",
+      "tag": "AI产品",
+      "id": 2
+    },
+    {
+      "title": "华为 MatePad Edge 鸿蒙 HarmonyOS 7 花粉 Beta 版开推，新增全新视效、AI 变声检测等功能",
+      "url": "https://www.ithome.com/0/989/472.htm",
+      "source": "IT之家",
+      "source_icon": "🟢",
+      "summary": "华为官方平板软件维护宣布，MatePadEdge 开启鸿蒙 HarmonyOS7花粉 Beta 版本推送（版本号7.0.0.102 SP5）。据介绍，新版本将带来沉浸光感视效、星盾防诈等功能。",
+      "tag": "AI产品",
+      "id": 3
+    },
+    {
+      "title": "【钛晨报】央行出手！万亿买断式逆回购今日落地；DeepSeek官宣涨价、长鑫科技成中国市值最大上市公司；宇树科技遭弃购8734股、史上最大IPO或将易主",
+      "url": "https://www.tmtpost.com/8102600.html",
+      "source": "钛媒体",
+      "source_icon": "🟠",
+      "summary": "五粮液出手稳价；中芯国际：第二季销售收入为30亿美元，三季度收入预计环比增长2%到4%；中国移动中期收入下滑，算智收入占比升至22.6%；三星、SK海力士积极引入AI，人员绩效考核与AI部署直接挂钩；…",
+      "tag": "大模型",
+      "id": 4
+    },
+    {
+      "title": "罕见表态，张一鸣全面升级AI大战",
+      "url": "https://www.tmtpost.com/8102072.html",
+      "source": "钛媒体",
+      "source_icon": "🟠",
+      "summary": "罕见表态，张一鸣全面升级AI大战",
+      "tag": "AI产品",
+      "id": 5
+    },
+    {
+      "title": "对话少数派老麦：从 Palm、WebOS 到 AI 硬件，依然不想成为多数派",
+      "url": "https://sspai.com/post/113352",
+      "source": "少数派",
+      "source_icon": "🔵",
+      "summary": "《三五环》主播刘飞邀请老麦聊了聊他从Palm时代开始的二十年数码时代的经营历程。复盘了少数派如何从一家媒体，一步步跑通「内容+产品」的商业闭环；也聊到了他与罗永浩那段「不打不相识」的往事，以及那些改变…",
+      "tag": "AI产品",
+      "id": 6
+    },
+    {
+      "title": "我，与「唯一」的 iPhone Air",
+      "url": "https://sspai.com/post/112880",
+      "source": "少数派",
+      "source_icon": "🔵",
+      "summary": "在iPhone Air之后才发现，有些产品存在的意义，是帮我确认我真正需要什么。",
+      "tag": "AI产品",
+      "id": 7
+    },
+    {
+      "title": "谷歌推出 Gemini 3.7 Flash 模型，首发优惠价为原 3.6 Flash 的一半",
+      "url": "https://www.ithome.com/0/989/497.htm",
+      "source": "IT之家",
+      "source_icon": "🟢",
+      "summary": "当地时间8 月 13日，谷歌宣布推出Gemini 3.7 Flash模型，专为编程与Agents场景打造。 IT之家注意到，本次发布距 Gemini 3.6Flash发布仅间隔约三周，谷歌称该版本的推…",
+      "tag": "大模型",
+      "id": 8
+    },
+    {
+      "title": "最高每秒生成 750 个词元：OpenAI 推 Ultrafast 模式，GPT-5.6 Sol AI 提速 14 倍",
+      "url": "https://www.ithome.com/0/989/492.htm",
+      "source": "IT之家",
+      "source_icon": "🟢",
+      "summary": "OpenAI公司今天（8 月 14日）发布公告，宣布以预览形式，针对其最强AI 模型 GPT-5.6 Sol 推出Ultrafast（超高速）模式，是标准处理速度的 14倍，最高每秒输出750个词元（…",
+      "tag": "大模型",
+      "id": 9
+    },
+    {
+      "title": "备战 IPO 上市：彭博社称 2026 年 OpenAI 年化营收有望翻番达 400 亿美元",
+      "url": "https://www.ithome.com/0/989/490.htm",
+      "source": "IT之家",
+      "source_icon": "🟢",
+      "summary": "彭博社今天（8月 14日）发布博文，报道称在收 IPO（首次公开募股）上市前，OpenAI 的 发展势头良好，2026有望实现年化收入超过 400亿美元",
+      "tag": "AI投融资",
+      "id": 10
+    }
+  ]
+}
