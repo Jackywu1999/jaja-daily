@@ -1,0 +1,99 @@
+{
+  "date": "2026-08-16",
+  "generated_at": "2026-08-16T07:14:53.307003+08:00",
+  "category": "餐饮零售 & AI科技",
+  "total": 10,
+  "editor_note": "今天共精选 10 条。餐饮零售板块：从浅草寺到时代广场，影石海外开店逻辑是什等话题值得关注；AI科技板块：柏能集团警告：AI 热潮加剧供应紧张，显等动态持续发酵。",
+  "items": [
+    {
+      "title": "从浅草寺到时代广场，影石海外开店逻辑是什么？",
+      "url": "https://www.tmtpost.com/8104118.html",
+      "source": "钛媒体",
+      "source_icon": "🟠",
+      "summary": "如何建立全球品牌认知？",
+      "tag": "商业洞察",
+      "id": 1
+    },
+    {
+      "title": "线上品牌批量涌入商场，服饰大洗牌来了",
+      "url": "https://www.tmtpost.com/8104022.html",
+      "source": "钛媒体",
+      "source_icon": "🟠",
+      "summary": "一批知名老品牌收缩战场，又一批原创新品牌上位，并与国际大牌近身SOLO，一进一退之间，其背后的意义可能早已不再是一次简单的迭代。",
+      "tag": "零售动态",
+      "id": 2
+    },
+    {
+      "title": "柏能集团警告：AI 热潮加剧供应紧张，显卡短缺或推高 PC 价格",
+      "url": "https://www.ithome.com/0/990/189.htm",
+      "source": "IT之家",
+      "source_icon": "🟢",
+      "summary": "总部位于新加坡、旗下拥有映众、索泰等品牌的柏能集团昨日警告称，未来几个月的显卡供应情况可能进一步恶化。 该公司对此表示，PC 市场仍面临巨大挑战，供应受到严重限制，导致零部件成本大幅上涨，进而导致消费…",
+      "tag": "AI产品",
+      "id": 3
+    },
+    {
+      "title": "全球第一：阿里通义千问 AI 模型全球下载量破 30 亿，碾压 Meta 和谷歌",
+      "url": "https://www.ithome.com/0/990/187.htm",
+      "source": "IT之家",
+      "source_icon": "🟢",
+      "summary": "阿里旗下开源AI模型千问家族在过去六个月内全球累计下载量突破30亿次，超越 Meta、Alphabet 等一众竞争对手，成为全球下载量第一的AI模型。",
+      "tag": "大模型",
+      "id": 4
+    },
+    {
+      "title": "另类 AI：前谷歌员工打造“聊天机器人”ChatTJB，不过背后全是真人回复",
+      "url": "https://www.ithome.com/0/990/184.htm",
+      "source": "IT之家",
+      "source_icon": "🟢",
+      "summary": "多年来，人们一直被警告AI可能抢走工作。据《财富》杂志当地时间12日报道，32岁的前谷歌员工塔克 ·布莱恩特决定反过来还以颜色，并创建了由真人回答问题的网站 ChatTJB。",
+      "tag": "机器人",
+      "id": 5
+    },
+    {
+      "title": "Anthropic 发布 AI 风险报告：旗下智能体会攻击同类并隐藏自身违规痕迹",
+      "url": "https://www.ithome.com/0/990/201.htm",
+      "source": "IT之家",
+      "source_icon": "🟢",
+      "summary": "Claude 系列智能体正在“消灭”同类竞争对手智能体、钻系统漏洞掩盖自身痕迹，甚至还会表达道德层面的顾虑。这一结论来自 Anthropic最新发布的风险报告，该报告汇总了公司研发并向公众开放的产品所…",
+      "tag": "AI Agent",
+      "id": 6
+    },
+    {
+      "title": "整活网页 Your AI Slop Bores Me 上线：真人扮演 AI 回答用户提问",
+      "url": "https://www.ithome.com/0/990/198.htm",
+      "source": "IT之家",
+      "source_icon": "🟢",
+      "summary": "网页项目Your AI Slop BoresMe 近日上线，这款平台的精妙之处，藏在它极简的设计之中。平台设有两个标签页：真人提问端与AI扮演端。",
+      "tag": "AI产品",
+      "id": 7
+    },
+    {
+      "title": "AI 编曲控制台 Suno Studio 2.0 发布：新增 MIDI 支持、效果插件",
+      "url": "https://www.ithome.com/0/990/190.htm",
+      "source": "IT之家",
+      "source_icon": "🟢",
+      "summary": "当地时间14日，Suno正式推出了 Studio2.0，通过一系列大幅升级进一步向“真正的数字音频工作站（DAW）靠拢”，而非只是带有生成式AI功能的简易音频编辑器。",
+      "tag": "AI产品",
+      "id": 8
+    },
+    {
+      "title": "字节AI，先慢后快？",
+      "url": "https://www.tmtpost.com/8104642.html",
+      "source": "钛媒体",
+      "source_icon": "🟠",
+      "summary": "字节AI，先慢后快？",
+      "tag": "AI产品",
+      "id": 9
+    },
+    {
+      "title": "AI正在批量制造“幽灵”",
+      "url": "https://www.tmtpost.com/8104535.html",
+      "source": "钛媒体",
+      "source_icon": "🟠",
+      "summary": "“你是gg还是mm？”“我是AI。”",
+      "tag": "AI产品",
+      "id": 10
+    }
+  ]
+}
