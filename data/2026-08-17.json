@@ -1,0 +1,99 @@
+{
+  "date": "2026-08-17",
+  "generated_at": "2026-08-17T07:14:21.381070+08:00",
+  "category": "餐饮零售 & AI科技",
+  "total": 10,
+  "editor_note": "今天共精选 10 条。AI科技板块：筹备 IPO 之际，消息称 OpenAI等动态持续发酵。",
+  "items": [
+    {
+      "title": "筹备 IPO 之际，消息称 OpenAI 已解散旗下风险防范团队",
+      "url": "https://www.ithome.com/0/990/406.htm",
+      "source": "IT之家",
+      "source_icon": "🟢",
+      "summary": "OpenAI 已于上月末解散旗下风险防范团队。该团队的核心工作是评估公司模型是否存在重大风险，并制定风险缓解措施，比如模型失控入侵其他企业这类极端场景。",
+      "tag": "AI投融资",
+      "id": 1
+    },
+    {
+      "title": "Anthropic Claude 出现大规模服务故障，旗下多项服务无法登录 / 无法加载",
+      "url": "https://www.ithome.com/0/990/404.htm",
+      "source": "IT之家",
+      "source_icon": "🟢",
+      "summary": "综合外媒 bleepingcomputer，AnthropicClaude目前出现大规模服务故障，多名用户反馈无法正常登录，Anthropic 旗下多项服务的运行性能也受到影响。",
+      "tag": "大模型",
+      "id": 2
+    },
+    {
+      "title": "斯坦福调查显示：84% 中国受访者对 AI 感到兴奋，美国比例仅为 38%",
+      "url": "https://www.ithome.com/0/990/398.htm",
+      "source": "IT之家",
+      "source_icon": "🟢",
+      "summary": "斯坦福大学发布的《AIIndex2026》报告显示，中国受访者对AI的态度明显比美国人积极。 数据显示，84%的中国受访者表示对 AI产品和服务感到兴奋，美国这一比例为 38%。",
+      "tag": "AI产品",
+      "id": 3
+    },
+    {
+      "title": "超节点绕行英伟达：国产算力换了一条赛道",
+      "url": "https://www.tmtpost.com/8104729.html",
+      "source": "钛媒体",
+      "source_icon": "🟠",
+      "summary": "真正让英伟达紧张的，是有人在系统层面重新定义了算力供给的方式。",
+      "tag": "AI算力",
+      "id": 4
+    },
+    {
+      "title": "【数智周报】 华为云OfficeClaw升级为OfficeAce；Meta发布轻量化AI模型，单张显卡即可运行；千问办公助理收费；智谱宣布ZCode全面升级",
+      "url": "https://www.tmtpost.com/8104888.html",
+      "source": "钛媒体",
+      "source_icon": "🟠",
+      "summary": "（8月10日~8月15日）面壁智能启动IPO；英伟达研发万亿参数开源模型Nemotron 4；SpaceXAI推出“全天候数字同事”Grok Bot；宇树科技：网上投资者放弃认购8734股",
+      "tag": "大模型",
+      "id": 5
+    },
+    {
+      "title": "建模交易平台 CGTrader：AI 生成的 3D 模型数量激增，但销售额仅占 1%",
+      "url": "https://www.ithome.com/0/990/414.htm",
+      "source": "IT之家",
+      "source_icon": "🟢",
+      "summary": "随着“图生3D 模型”AI工具逐步流行，目前许多3D 建模交易平台都遭到各种 AI生成的3D模型“轰炸”，不过参考CGTrader报告显示，尽管此类AI内容正在平台上快速增加，但相关商品的实际销售情况…",
+      "tag": "大模型",
+      "id": 6
+    },
+    {
+      "title": "DeepSeek API 峰谷定价方案今日生效，高峰时段价格翻倍",
+      "url": "https://www.ithome.com/0/990/413.htm",
+      "source": "IT之家",
+      "source_icon": "🟢",
+      "summary": "8月 13日，深度求索官方宣布将对DeepSeek API价格进行更新调整，采用峰谷定价，空闲时段价格为高峰时段价格的一半。今日起，该定价方案正式生效。",
+      "tag": "大模型",
+      "id": 7
+    },
+    {
+      "title": "支付巨头 Stripe 敲定收购 AI 初创公司 OpenRouter，金额超 70 亿美元",
+      "url": "https://www.ithome.com/0/990/410.htm",
+      "source": "IT之家",
+      "source_icon": "🟢",
+      "summary": "支付巨头Stripe 已经敲定收购 AI基础设施初创公司OpenRouter的交易，收购金额超过 70亿美元",
+      "tag": "AI投融资",
+      "id": 8
+    },
+    {
+      "title": "星链之后，马斯克为什么又盯上了太空算力？",
+      "url": "https://www.tmtpost.com/8105159.html",
+      "source": "钛媒体",
+      "source_icon": "🟠",
+      "summary": "两万亿美元SpaceX，还需要一个比星链更大的市场。",
+      "tag": "AI算力",
+      "id": 9
+    },
+    {
+      "title": "机器人赛道进入洗牌期",
+      "url": "https://www.tmtpost.com/8104953.html",
+      "source": "钛媒体",
+      "source_icon": "🟠",
+      "summary": "随着上市公司半年报预告陆续披露，多家机器人产业链企业业绩出现明显增长，部分企业利润增速达到数倍甚至十几倍，一切似乎都在说明，机器人时代正在加速到来。",
+      "tag": "机器人",
+      "id": 10
+    }
+  ]
+}
