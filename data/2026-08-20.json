@@ -1,0 +1,99 @@
+{
+  "date": "2026-08-20",
+  "generated_at": "2026-08-20T07:17:53.619801+08:00",
+  "category": "餐饮零售 & AI科技",
+  "total": 10,
+  "editor_note": "今天共精选 10 条。AI科技板块：599 元起芒米 AIR Y 系列竖版掌等动态持续发酵。",
+  "items": [
+    {
+      "title": "599 元起芒米 AIR Y 系列竖版掌机开售：高通骁龙 865 版 999~1199 元",
+      "url": "https://www.ithome.com/0/991/860.htm",
+      "source": "IT之家",
+      "source_icon": "🟢",
+      "summary": "芒米科技旗下竖版安卓掌机AIR Y 系列已于今日上午 10:08现货开售。该系列于8 月 6日公布售价并开启预售，IT之家汇总价格如下：AIR Y（3GB RAM + 32GBROM）：599元 AI…",
+      "tag": "AI产品",
+      "id": 1
+    },
+    {
+      "title": "原价 19.99 美元 / 月的 AI 助手免费送，亚马逊 Alexa+ 登陆全美所有受支持的 Fire TV",
+      "url": "https://www.ithome.com/0/991/859.htm",
+      "source": "IT之家",
+      "source_icon": "🟢",
+      "summary": "当地时间19日（今天），亚马逊宣布将向美国所有兼容的Fire TV 设备免费提供Alexa+，不论用户是否订阅AmazonPrime。",
+      "tag": "AI产品",
+      "id": 2
+    },
+    {
+      "title": "为 5 万亿参数超大模型“铺路”？消息称字节跳动调整 Seed 基模团队组织架构",
+      "url": "https://www.ithome.com/0/991/856.htm",
+      "source": "IT之家",
+      "source_icon": "🟢",
+      "summary": "晚点LatePost 今天（19日）晚间发布消息称，字节跳动的大模型部门Seed 已于上周完成了新一轮的组织调整 。其中最关键的部分是Seed FoundationModel（Seed基础模型）成立了…",
+      "tag": "大模型",
+      "id": 3
+    },
+    {
+      "title": "对话鹿明机器人创始人喻超：具身下半场，从造机器人转向造技能",
+      "url": "https://www.tmtpost.com/8109017.html",
+      "source": "钛媒体",
+      "source_icon": "🟠",
+      "summary": "任务决定能力，任务决定形态。",
+      "tag": "机器人",
+      "id": 4
+    },
+    {
+      "title": "腾讯AI大氪金",
+      "url": "https://www.tmtpost.com/8108898.html",
+      "source": "钛媒体",
+      "source_icon": "🟠",
+      "summary": "腾讯AI大氪金",
+      "tag": "AI产品",
+      "id": 5
+    },
+    {
+      "title": "社区速递 154 | AI 代码助手大乱斗、租房电钻组合与神奇实体卡片故事机",
+      "url": "https://sspai.com/post/113593",
+      "source": "少数派",
+      "source_icon": "🔵",
+      "summary": "除了首页时间流和侧栏的精选展位，少数派Matrix社区还有很多优秀内容因条件所限无法得到有效曝光，因此我们决定重启Matrix周报，并在此基础上添加更多社区内容、作者投稿新玩意呈现给大家。",
+      "tag": "AI产品",
+      "id": 6
+    },
+    {
+      "title": "特朗普力挺 AI 数据中心：反对建设的州和社区将被甩在后面",
+      "url": "https://www.ithome.com/0/991/871.htm",
+      "source": "IT之家",
+      "source_icon": "🟢",
+      "summary": "美国总统唐纳德 · 特朗普表示，数据中心可能需要重新树立公众形象。 特朗普当地时间周三在一场聚焦加密货币的活动结束后对记者表示：“我想说，它可能需要在公共关系方面得到一些帮助。",
+      "tag": "AI产品",
+      "id": 7
+    },
+    {
+      "title": "OpenAI 扩展零数据留存安全机制，自动化分析跨交互风险",
+      "url": "https://www.ithome.com/0/991/868.htm",
+      "source": "IT之家",
+      "source_icon": "🟢",
+      "summary": "OpenAI公司今天（8 月 20日）发布博文，宣布面向符合资格的前沿模型API客户，扩展“零数据留存”（ZeroDataRetention）服务， 自动化系统可识别跨交互风险模式。",
+      "tag": "政策监管",
+      "id": 8
+    },
+    {
+      "title": "Meta 推出 Meta AI 原生 Mac 应用：支持窗口共享、跨应用听写",
+      "url": "https://www.ithome.com/0/991/866.htm",
+      "source": "IT之家",
+      "source_icon": "🟢",
+      "summary": "Meta今天推出了全新的 Mac 版 MetaAI 应用，目前以测试版形式提供。 这款应用主要面向企业和内容创作者，并与Facebook 和 Instagram集成。",
+      "tag": "AI产品",
+      "id": 9
+    },
+    {
+      "title": "从作业帮AI超级老师，看教育AI应用落地的更多可能",
+      "url": "https://www.tmtpost.com/8109259.html",
+      "source": "钛媒体",
+      "source_icon": "🟠",
+      "summary": "AI可以像特级教师一样教孩子，这让AI在教育场景的落地有了全新典范。",
+      "tag": "AI产品",
+      "id": 10
+    }
+  ]
+}
