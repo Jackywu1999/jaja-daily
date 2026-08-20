@@ -1,0 +1,99 @@
+{
+  "date": "2026-08-21",
+  "generated_at": "2026-08-21T07:20:04.538874+08:00",
+  "category": "餐饮零售 & AI科技",
+  "total": 10,
+  "editor_note": "今天共精选 10 条。餐饮零售板块：新茶饮能讲的故事不多了等话题值得关注；AI科技板块：荣耀机器人元气仔练成“凌波微步”，将参加等动态持续发酵。",
+  "items": [
+    {
+      "title": "新茶饮能讲的故事不多了",
+      "url": "https://www.tmtpost.com/8110590.html",
+      "source": "钛媒体",
+      "source_icon": "🟠",
+      "summary": "很多策略治标不治本。",
+      "tag": "餐饮动态",
+      "id": 1
+    },
+    {
+      "title": "荣耀机器人元气仔练成“凌波微步”，将参加第二届人形机器人运动会",
+      "url": "https://www.ithome.com/0/992/362.htm",
+      "source": "IT之家",
+      "source_icon": "🟢",
+      "summary": "荣耀官方今日发布视频，分享了荣耀机器人元气仔的跑步画面。根据官方描述，元气仔脚底生风，使出失传已久的“凌波微步”，左突右冲，灵活得不像个机器人。",
+      "tag": "机器人",
+      "id": 2
+    },
+    {
+      "title": "中国信通院：全国已建成启用超 70 家具身智能训练场，覆盖过半省级行政区",
+      "url": "https://www.ithome.com/0/992/357.htm",
+      "source": "IT之家",
+      "source_icon": "🟢",
+      "summary": "中国信息通信研究院日前发布的《具身智能训练场研究报告（2026 年）》显示，近两年，在政策支持和产业需求的牵引下，我国具身智能训练场建设加速推进。",
+      "tag": "大模型",
+      "id": 3
+    },
+    {
+      "title": "美政府机构警告：黑客正利用 AI 攻击全美多地供水系统",
+      "url": "https://www.ithome.com/0/992/352.htm",
+      "source": "IT之家",
+      "source_icon": "🟢",
+      "summary": "据外媒TechCrunch 今天（20日）报道，美国供水系统近期接连遭遇网络攻击，美国网络安全和基础设施安全局（CISA）、美国联邦调查局和美国国家安全局等安全机构警告，黑客正持续入侵关键基础设施使用…",
+      "tag": "AI产品",
+      "id": 4
+    },
+    {
+      "title": "935亿热钱与冷水：宇树成为具身智能最后一只神股？",
+      "url": "https://www.tmtpost.com/8109234.html",
+      "source": "钛媒体",
+      "source_icon": "🟠",
+      "summary": "具身智能融资，进入理性时刻。",
+      "tag": "机器人",
+      "id": 5
+    },
+    {
+      "title": "社区速递 154 | AI 代码助手大乱斗、租房电钻组合与神奇实体卡片故事机",
+      "url": "https://sspai.com/post/113593",
+      "source": "少数派",
+      "source_icon": "🔵",
+      "summary": "除了首页时间流和侧栏的精选展位，少数派Matrix社区还有很多优秀内容因条件所限无法得到有效曝光，因此我们决定重启Matrix周报，并在此基础上添加更多社区内容、作者投稿新玩意呈现给大家。",
+      "tag": "AI产品",
+      "id": 6
+    },
+    {
+      "title": "云电脑 Windows 365 上线 5 周年，微软规划深度整合 AI 智能体体验",
+      "url": "https://www.ithome.com/0/992/419.htm",
+      "source": "IT之家",
+      "source_icon": "🟢",
+      "summary": "微软今天（8月 21日）发布博文，庆祝其云电脑服务Windows 365（2021年上线）推出 5 周年，并规划整合AI智能体，帮助用户在受管云电脑中操作应用、完成任务。",
+      "tag": "AI Agent",
+      "id": 7
+    },
+    {
+      "title": "蚂蚁百灵开源 Ling-3.0 tiny / flash Base 模型，开放训练过程中的关键节点",
+      "url": "https://www.ithome.com/0/992/416.htm",
+      "source": "IT之家",
+      "source_icon": "🟢",
+      "summary": "蚂蚁百灵在本月陆续开源了Ling-3.0-tiny 和Ling-3.0-flash 模型。官方昨日宣布，将 Ling-3.0-tiny-base与Ling-3.0-flash-base正式开源 ，除最…",
+      "tag": "大模型",
+      "id": 8
+    },
+    {
+      "title": "Meta 成微软最大 AI 客户之一：年采购额达数亿美元，每周消耗数万亿词元",
+      "url": "https://www.ithome.com/0/992/397.htm",
+      "source": "IT之家",
+      "source_icon": "🟢",
+      "summary": "Meta正通过微软 Azure 云服务采购 AI服务，年支出高达数亿美元，已成为微软规模最大的AI客户之一。知情人士称，Meta每周通过 Azure 消耗的 AI算力达到了数万亿词元（Token）。",
+      "tag": "AI投融资",
+      "id": 9
+    },
+    {
+      "title": "AI 办公混战，腾讯百度抢先",
+      "url": "https://www.tmtpost.com/8109247.html",
+      "source": "钛媒体",
+      "source_icon": "🟠",
+      "summary": "AI办公，谁与争锋？",
+      "tag": "AI产品",
+      "id": 10
+    }
+  ]
+}
