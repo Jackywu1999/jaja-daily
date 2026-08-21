@@ -1,0 +1,99 @@
+{
+  "date": "2026-08-22",
+  "generated_at": "2026-08-22T07:18:19.117720+08:00",
+  "category": "餐饮零售 & AI科技",
+  "total": 10,
+  "editor_note": "今天共精选 10 条。餐饮零售板块：王振辉重返京东，先接住外卖大战的沉没成本等话题值得关注；AI科技板块：青少年开发者借助 Claude Code等动态持续发酵。",
+  "items": [
+    {
+      "title": "王振辉重返京东，先接住外卖大战的沉没成本",
+      "url": "https://www.tmtpost.com/8111529.html",
+      "source": "钛媒体",
+      "source_icon": "🟠",
+      "summary": "营收增长24%，股价大跌13%",
+      "tag": "电商",
+      "id": 1
+    },
+    {
+      "title": "青少年开发者借助 Claude Code AI 编程工具，成功为惠普打印机冷门机型开发出苹果 macOS 原生驱动",
+      "url": "https://www.ithome.com/0/992/832.htm",
+      "source": "IT之家",
+      "source_icon": "🟢",
+      "summary": "一名青少年开发者Kuber Mehta 利用Anthropic的 ClaudeCode，为一款缺乏macOS官方支持的惠普激光打印机开发出了原生驱动，展示了AI编程工具在解决冷门硬件兼容问题上的潜力。",
+      "tag": "大模型",
+      "id": 2
+    },
+    {
+      "title": "代码显示三星正准备为 Galaxy Z Flip8/Fold8 手机引入 AI 小组件功能，基于谷歌“Create My Widget”技术",
+      "url": "https://www.ithome.com/0/992/821.htm",
+      "source": "IT之家",
+      "source_icon": "🟢",
+      "summary": "消息源Fahad Ali Javed在挖掘三星One UI代码时，发现三星正准备为Galaxy Z Flip8/Fold8系列手机引入AI小组件功能，预计相应功能将于 9 月前上线。",
+      "tag": "AI产品",
+      "id": 3
+    },
+    {
+      "title": "电脑手机“养”不活的维修人，拼命挤进机器人行业",
+      "url": "https://www.tmtpost.com/8112057.html",
+      "source": "钛媒体",
+      "source_icon": "🟠",
+      "summary": "电脑手机“养”不活的维修人，拼命挤进机器人行业",
+      "tag": "机器人",
+      "id": 4
+    },
+    {
+      "title": "腾讯“测试中”的Agent钱包，被亚马逊抢先了",
+      "url": "https://www.tmtpost.com/8111610.html",
+      "source": "钛媒体",
+      "source_icon": "🟠",
+      "summary": "亚马逊AgentCore Payments正式进入GA阶段，可以代替用户直接付钱",
+      "tag": "AI Agent",
+      "id": 5
+    },
+    {
+      "title": "消息称字节豆包最快下周发布对标腾讯 WorkBuddy 办公类 AI 产品",
+      "url": "https://www.ithome.com/0/992/890.htm",
+      "source": "IT之家",
+      "source_icon": "🟢",
+      "summary": "据第一财经新皮层消息，字节豆包团队最快将于下周发布一款对标腾讯WorkBuddy的办公类产品。 据介绍，这款产品相当于将目前豆包 App内的「工作任务」模式单独拆分出来，成为一个独立应用 。",
+      "tag": "AI产品",
+      "id": 6
+    },
+    {
+      "title": "美国硅谷大谈机器人未来，现场主角却来自中国",
+      "url": "https://www.ithome.com/0/992/883.htm",
+      "source": "IT之家",
+      "source_icon": "🟢",
+      "summary": "8月 21日，据《商业内幕》报道，旧金山机器人大会Actuate 吸引了约 1500名投资者、创业者和工程师参与，但现场展示的机器人数量却远少于预期。",
+      "tag": "机器人",
+      "id": 7
+    },
+    {
+      "title": "对 AI 抵触情绪上升：美国年轻人越来越讨厌 AI，硅谷高管爆发公开分歧",
+      "url": "https://www.ithome.com/0/992/882.htm",
+      "source": "IT之家",
+      "source_icon": "🟢",
+      "summary": "随着人工智能快速进入工作、教育和日常生活，美国社会对AI的抵触情绪正在上升。 最新调查显示，超过一半的30 岁以下美国人对AI“担忧多于兴奋”，这一比例相比五年前增加了24%；超过 70%的受访者认为…",
+      "tag": "AI产品",
+      "id": 8
+    },
+    {
+      "title": "用AI治疗癌症！背后巨头Moderna，股价暴涨177%",
+      "url": "https://www.tmtpost.com/8112046.html",
+      "source": "钛媒体",
+      "source_icon": "🟠",
+      "summary": "Moderna癌症疫苗III期临床成功。",
+      "tag": "AI产品",
+      "id": 9
+    },
+    {
+      "title": "“大疆教父”李泽湘，第4个机器人IPO来了",
+      "url": "https://www.tmtpost.com/8112070.html",
+      "source": "钛媒体",
+      "source_icon": "🟠",
+      "summary": "本末动力递表港交所。",
+      "tag": "AI投融资",
+      "id": 10
+    }
+  ]
+}
