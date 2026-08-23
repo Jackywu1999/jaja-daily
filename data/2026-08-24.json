@@ -1,0 +1,99 @@
+{
+  "date": "2026-08-24",
+  "generated_at": "2026-08-24T07:15:29.571480+08:00",
+  "category": "餐饮零售 & AI科技",
+  "total": 10,
+  "editor_note": "今天共精选 10 条。餐饮零售板块：伯南克加盟Anthropic：一个救火队等话题值得关注；AI科技板块：加州伯克利数学教授撰文批评学生基础差，却等动态持续发酵。",
+  "items": [
+    {
+      "title": "伯南克加盟Anthropic：一个救火队长，守得住AI的门吗？",
+      "url": "https://www.tmtpost.com/8113322.html",
+      "source": "钛媒体",
+      "source_icon": "🟠",
+      "summary": "伯南克的加盟，象征价值远大于实质价值。 他的能力边界、制度定位、身份绑定，三重局限决定了——他既堵不住AI核心风险的源头，也真正独立不起来，说到底更像IPO周期和合规叙事里的一件\"信用道具\"。",
+      "tag": "商业洞察",
+      "id": 1
+    },
+    {
+      "title": "加州伯克利数学教授撰文批评学生基础差，却被抓包“用 AI 写的”",
+      "url": "https://www.ithome.com/0/993/309.htm",
+      "source": "IT之家",
+      "source_icon": "🟢",
+      "summary": "加州大学伯克利分校数学教授兹韦兹德利娜 · 斯坦科娃日前在《旧金山标准报》撰文批评部分学生存在“严重”的数学基础缺失，却又承认文章本身曾借助AI编辑，由此引发争议。",
+      "tag": "AI产品",
+      "id": 2
+    },
+    {
+      "title": "OpenAI 首席全球事务官勒汉恩：公众、企业要为 AI 网络攻击做好防御准备",
+      "url": "https://www.ithome.com/0/993/305.htm",
+      "source": "IT之家",
+      "source_icon": "🟢",
+      "summary": "OpenAI首席全球事务官克里斯 ·勒汉恩警告，前沿AI 模型已经开始具备规划和发动复杂网络攻击 的能力，公众和企业需要为 AI“持续不断”的网络攻击做好防御准备。",
+      "tag": "AI产品",
+      "id": 3
+    },
+    {
+      "title": "OpenAI 推出青少年版 ChatGPT，多名儿童安全专家质疑安全机制透明度",
+      "url": "https://www.ithome.com/0/993/301.htm",
+      "source": "IT之家",
+      "source_icon": "🟢",
+      "summary": "OpenAI本周推出了 ChatGPT青少年版，专门面向年轻用户，并通过年龄识别机制限制部分功能。 对此，外媒Engadget采访了多名儿童安全专家，他们对ChatGPT青少年版的评价并不一致。",
+      "tag": "大模型",
+      "id": 4
+    },
+    {
+      "title": "世界模型站上风口，机器人距离“真正干活”还有多远？",
+      "url": "https://www.tmtpost.com/8113119.html",
+      "source": "钛媒体",
+      "source_icon": "🟠",
+      "summary": "模型需要真实场景产生数据，但真实场景又需要足够成熟的模型和能够算得过来的成本，才愿意大规模部署机器人。",
+      "tag": "大模型",
+      "id": 5
+    },
+    {
+      "title": "AI 时代的 Surface Pro 7 改造指南：看板、轻量工作站与 Linux 笔记本",
+      "url": "https://sspai.com/prime/story/surface-pro-7-linux-ai-dashboard",
+      "source": "少数派",
+      "source_icon": "🔵",
+      "summary": "手头这台闲置的SurfacePro7在桌角放了挺长一段时间。当年买它看重的是二合一的便携形态，但放在Windows11下只要长时间亮屏就一定会过热、偶尔跳屏，基本处于不可用的状态。",
+      "tag": "AI产品",
+      "id": 6
+    },
+    {
+      "title": "让 PC 与 HomePod 互联：音频串流工具 WinAirCast",
+      "url": "https://sspai.com/post/113002",
+      "source": "少数派",
+      "source_icon": "🔵",
+      "summary": "打破生态壁垒，让好的设备发挥出它应有的价值，这就是WinAirCast的初衷。我们希望为Windows用户提供一款稳定、低延迟且现代化的音频串流工具。",
+      "tag": "AI产品",
+      "id": 7
+    },
+    {
+      "title": "线下活动｜Echoes Remain：迈克尔杰克逊 68 周年诞辰唱片展",
+      "url": "https://sspai.com/post/113675",
+      "source": "少数派",
+      "source_icon": "🔵",
+      "summary": "又一年8月29日如期而至，MichaelJackson的诞辰来到了第68个年头，我们决定在少数派广州线下店举办一场MJ唱片展。",
+      "tag": "AI产品",
+      "id": 8
+    },
+    {
+      "title": "揭秘苹果摄像头版 AirPods 为何泄露：可能是测试新功能时合并错误",
+      "url": "https://www.ithome.com/0/993/316.htm",
+      "source": "IT之家",
+      "source_icon": "🟢",
+      "summary": "苹果在8 月 17 日发布 macOSTahoe26.7 RC时，意外泄露了摄像头版AirPods的演示视频。除了耳机惨遭曝光以外，这个系统还包含了Home Hub家庭中枢等大量未公布产品信息。",
+      "tag": "AI产品",
+      "id": 9
+    },
+    {
+      "title": "2 分 21 秒 63，天卓队使用天工 Ultra 夺得人形机器人 1500 米冠军",
+      "url": "https://www.ithome.com/0/993/310.htm",
+      "source": "IT之家",
+      "source_icon": "🟢",
+      "summary": "第二届世界人形机器人运动会昨天（8月 22日）在国家速滑馆开幕。今天（8月 23日），1500 米决赛鸣枪开跑，共34支队伍参赛。",
+      "tag": "机器人",
+      "id": 10
+    }
+  ]
+}
