@@ -1,0 +1,99 @@
+{
+  "date": "2026-08-25",
+  "generated_at": "2026-08-25T07:17:54.370799+08:00",
+  "category": "餐饮零售 & AI科技",
+  "total": 10,
+  "editor_note": "今天共精选 10 条。AI科技板块：线下活动｜Echoes Remain：迈等动态持续发酵。",
+  "items": [
+    {
+      "title": "线下活动｜Echoes Remain：迈克尔杰克逊 68 周年诞辰唱片展",
+      "url": "https://sspai.com/post/113675",
+      "source": "少数派",
+      "source_icon": "🔵",
+      "summary": "又一年8月29日如期而至，MichaelJackson的诞辰来到了第68个年头，我们决定在少数派广州线下店举办一场MJ唱片展。",
+      "tag": "AI产品",
+      "id": 1
+    },
+    {
+      "title": "美国阿拉巴马州向 OpenAI 发出传票，就其模型入侵 Hugging Face 事件展开调查",
+      "url": "https://www.ithome.com/0/993/777.htm",
+      "source": "IT之家",
+      "source_icon": "🟢",
+      "summary": "美国阿拉巴马州总检察长当地时间周一宣布，已向OpenAI发出传票，就该公司在Hugging Face事件中涉嫌存在“完全缺乏监管和充分安全保障”的问题展开调查。 此次调查发生在数周前。",
+      "tag": "大模型",
+      "id": 2
+    },
+    {
+      "title": "代码显示谷歌正在为 Google Play 商店应用开发 AI 图片搜索功能",
+      "url": "https://www.ithome.com/0/993/775.htm",
+      "source": "IT之家",
+      "source_icon": "🟢",
+      "summary": "外媒Android Authority在挖掘谷歌Google Play 商店应用v52.8.55-34 版本时发现，谷歌正在为应用内置的AI 搜索功能 Ask Play开发图片搜索功能。",
+      "tag": "AI产品",
+      "id": 3
+    },
+    {
+      "title": "苹果 iOS 27 版 Safari 浏览器前瞻：AI 自动整理标签页、定制创建扩展等",
+      "url": "https://www.ithome.com/0/993/773.htm",
+      "source": "IT之家",
+      "source_icon": "🟢",
+      "summary": "科技媒体MacRumors 昨日（8 月 24日）发布博文，汇总梳理了iOS 27 版苹果 Safari浏览器的诸多新功能 / 新特性，包括利用 AppleIntelligence（苹果智能）自动整理…",
+      "tag": "AI产品",
+      "id": 4
+    },
+    {
+      "title": "说好AI三年回本，阿里转头找股东要800亿“救急”？",
+      "url": "https://www.tmtpost.com/8113703.html",
+      "source": "钛媒体",
+      "source_icon": "🟠",
+      "summary": "AI是印钞机，怎么最后印的是新股？",
+      "tag": "AI产品",
+      "id": 5
+    },
+    {
+      "title": "AI 助力改造非智能升降桌：智能升降、语音控制、多端联动……",
+      "url": "https://sspai.com/post/113563",
+      "source": "少数派",
+      "source_icon": "🔵",
+      "summary": "把非智能的双电机升降桌，改成我梦想中的智能升降中枢。",
+      "tag": "AI产品",
+      "id": 6
+    },
+    {
+      "title": "AI 时代的 Surface Pro 7 改造指南：看板、轻量工作站与 Linux 笔记本",
+      "url": "https://sspai.com/prime/story/surface-pro-7-linux-ai-dashboard",
+      "source": "少数派",
+      "source_icon": "🔵",
+      "summary": "手头这台闲置的SurfacePro7在桌角放了挺长一段时间。当年买它看重的是二合一的便携形态，但放在Windows11下只要长时间亮屏就一定会过热、偶尔跳屏，基本处于不可用的状态。",
+      "tag": "AI产品",
+      "id": 7
+    },
+    {
+      "title": "让 PC 与 HomePod 互联：音频串流工具 WinAirCast",
+      "url": "https://sspai.com/post/113002",
+      "source": "少数派",
+      "source_icon": "🔵",
+      "summary": "打破生态壁垒，让好的设备发挥出它应有的价值，这就是WinAirCast的初衷。我们希望为Windows用户提供一款稳定、低延迟且现代化的音频串流工具。",
+      "tag": "AI产品",
+      "id": 8
+    },
+    {
+      "title": "研究团队调查发现超七成英语生物医学论文已使用 AI 辅助写作，呼吁业界建立完善监管机制",
+      "url": "https://www.ithome.com/0/993/781.htm",
+      "source": "IT之家",
+      "source_icon": "🟢",
+      "summary": "近期Lena Holzwarth带头的研究团队分析了来自PubMed Central 平台的119 万余篇英文生物医学论文，发现生成式AI正迅速融入学术论文写作。",
+      "tag": "政策监管",
+      "id": 9
+    },
+    {
+      "title": "苹果 AI 服务器内部结构首曝：M5 系列芯片、2U 机架，Mac Studio 负责软件控制",
+      "url": "https://www.ithome.com/0/993/778.htm",
+      "source": "IT之家",
+      "source_icon": "🟢",
+      "summary": "消息源@hsuchingpo 昨日（8 月24日）在 X平台发布推文，分享了 4 张图片，展示了苹果自研Apple Silicon AI服务器内部布局，采用定制 2U机架，内部设有 4 列硬件，每列包…",
+      "tag": "AI算力",
+      "id": 10
+    }
+  ]
+}
