@@ -1,0 +1,99 @@
+{
+  "date": "2026-08-26",
+  "generated_at": "2026-08-26T07:20:09.695518+08:00",
+  "category": "餐饮零售 & AI科技",
+  "total": 10,
+  "editor_note": "今天共精选 10 条。餐饮零售板块：222人年薪超百万，84家零售上市公司薪等话题值得关注；AI科技板块：OpenAI 发布适用于 ChatGPT等动态持续发酵。",
+  "items": [
+    {
+      "title": "222人年薪超百万，84家零售上市公司薪酬全景图",
+      "url": "https://www.tmtpost.com/8115770.html",
+      "source": "钛媒体",
+      "source_icon": "🟠",
+      "summary": "222人年薪超百万，84家零售上市公司薪酬全景图",
+      "tag": "零售动态",
+      "id": 1
+    },
+    {
+      "title": "饮料厂商，谨慎造“新”",
+      "url": "https://www.tmtpost.com/8115472.html",
+      "source": "钛媒体",
+      "source_icon": "🟠",
+      "summary": "市场疲软，新品试错成本大幅提升",
+      "tag": "餐饮动态",
+      "id": 2
+    },
+    {
+      "title": "OpenAI 发布适用于 ChatGPT Work 和 Codex 的 Admin 插件，管理员可通过对话管理用户和权限",
+      "url": "https://www.ithome.com/0/994/294.htm",
+      "source": "IT之家",
+      "source_icon": "🟢",
+      "summary": "OpenAI推出了一款全新的 ChatGPTAdmin 插件，让工作区管理员可以直接通过对话管理用户和权限、分析使用情况，并根据相关数据生成报告。",
+      "tag": "大模型",
+      "id": 3
+    },
+    {
+      "title": "Piston V 迷你主机开启众筹：自带 4 英寸圆形触控屏、AMD 锐龙 AI 9 365 处理器",
+      "url": "https://www.ithome.com/0/994/291.htm",
+      "source": "IT之家",
+      "source_icon": "🟢",
+      "summary": "制造商Piston V 宣布推出一款同名Piston V 迷你主机，该机现已在Kickstarter开启众筹并已众筹成功，该机自带一块圆形触控屏，匹配16GB RAM 和 500GB M.2SSD，超…",
+      "tag": "AI产品",
+      "id": 4
+    },
+    {
+      "title": "OpenAI 奥尔特曼承认自己高估 AI 普及速度：最大阻力其实是改变用户习惯",
+      "url": "https://www.ithome.com/0/994/256.htm",
+      "source": "IT之家",
+      "source_icon": "🟢",
+      "summary": "过去几年，全球科技巨头通过新品发布会、媒体采访和大量广告不断向公众灌输一个观点：AI 很快就会改变生活中的几乎一切。OpenAICEO奥尔特曼却反其道而行之，主动去修正这种过于激进的预期。",
+      "tag": "AI产品",
+      "id": 5
+    },
+    {
+      "title": "AI 助力改造非智能升降桌：智能升降、语音控制、多端联动……",
+      "url": "https://sspai.com/post/113563",
+      "source": "少数派",
+      "source_icon": "🔵",
+      "summary": "把非智能的双电机升降桌，改成我梦想中的智能升降中枢。",
+      "tag": "AI产品",
+      "id": 6
+    },
+    {
+      "title": "AI 时代的 Surface Pro 7 改造指南：看板、轻量工作站与 Linux 笔记本",
+      "url": "https://sspai.com/prime/story/surface-pro-7-linux-ai-dashboard",
+      "source": "少数派",
+      "source_icon": "🔵",
+      "summary": "手头这台闲置的SurfacePro7在桌角放了挺长一段时间。当年买它看重的是二合一的便携形态，但放在Windows11下只要长时间亮屏就一定会过热、偶尔跳屏，基本处于不可用的状态。",
+      "tag": "AI产品",
+      "id": 7
+    },
+    {
+      "title": "NVIDIA 发布机器人计算机 Jetson Orin Nano 2，带来双倍算力或四成节能",
+      "url": "https://www.ithome.com/0/994/303.htm",
+      "source": "IT之家",
+      "source_icon": "🟢",
+      "summary": "NVIDIA（英伟达）当地时间25 日宣布推出面向入门级边缘人工智能的JetsonOrin Nano 2机器人计算机。这一产品预计将在2027H1以模组及开发套件的形态上市。",
+      "tag": "机器人",
+      "id": 8
+    },
+    {
+      "title": "AI 竞赛升温：曝 OpenAI 已预训练 Bel 模型：超 10T 参数，冲击通用人工智能",
+      "url": "https://www.ithome.com/0/994/296.htm",
+      "source": "IT之家",
+      "source_icon": "🟢",
+      "summary": "消息源@synthwavedd 今天（8 月26日）在 X平台发布推文，爆料称OpenAI已完成预训练下一代模型，内部代号为Bel，是Doug模型的直接继任者，总产数量超过 10T。",
+      "tag": "大模型",
+      "id": 9
+    },
+    {
+      "title": "Anthropic 更新 Claude 记忆机制，打通 Cowork 与聊天的记忆功能",
+      "url": "https://www.ithome.com/0/994/295.htm",
+      "source": "IT之家",
+      "source_icon": "🟢",
+      "summary": "Anthropic宣布更新 Claude Cowork与聊天功能之间的记忆机制。此次更新将两个系统的记忆功能打通，实现统一管理。",
+      "tag": "大模型",
+      "id": 10
+    }
+  ]
+}
