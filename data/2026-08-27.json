@@ -1,0 +1,99 @@
+{
+  "date": "2026-08-27",
+  "generated_at": "2026-08-27T12:11:19.467264+08:00",
+  "category": "餐饮零售 & AI科技",
+  "total": 10,
+  "editor_note": "今天共精选 10 条。餐饮零售板块：茉莉奶白的速度与账本：年开近千家店，首批等话题值得关注；AI科技板块：谷歌 AI 责任团队将被移出 DeepM等动态持续发酵。",
+  "items": [
+    {
+      "title": "茉莉奶白的速度与账本：年开近千家店，首批加盟商开始退出",
+      "url": "https://www.tmtpost.com/8118045.html",
+      "source": "钛媒体",
+      "source_icon": "🟠",
+      "summary": "一门“看起来赚钱”的生意",
+      "tag": "商业洞察",
+      "id": 1
+    },
+    {
+      "title": "谷歌 AI 责任团队将被移出 DeepMind，员工担忧安全评估独立性受损",
+      "url": "https://www.ithome.com/0/994/901.htm",
+      "source": "IT之家",
+      "source_icon": "🟢",
+      "summary": "据《华尔街日报》看到的一封内部邮件，谷歌正在将一支专门研究人工智能风险及其社会影响的团队从谷歌DeepMind调离。谷歌DeepMind 是该公司负责开发前沿AI 模型的研究机构。",
+      "tag": "政策监管",
+      "id": 2
+    },
+    {
+      "title": "Perplexity AI 推出 Portable Computer 本地智能体应用",
+      "url": "https://www.ithome.com/0/994/885.htm",
+      "source": "IT之家",
+      "source_icon": "🟢",
+      "summary": "PerplexityAI 当地时间 25 日宣布推出Portable Computer。这是其Perplexity Computer多模型编排智能体数字员工的本地化版本 ，可实现私密的工作流，仅在需要…",
+      "tag": "AI Agent",
+      "id": 3
+    },
+    {
+      "title": "OpenAI 前研究员巴雷特 · 佐夫重返谷歌，助力 Gemini 研发",
+      "url": "https://www.ithome.com/0/994/859.htm",
+      "source": "IT之家",
+      "source_icon": "🟢",
+      "summary": "巴雷特· 佐夫（BarretZoph）今年曾因与Thinking MachinesLab首席执行官米拉 · 穆拉蒂（MiraMurati）发生分歧而突然离职，并转投 OpenAI。",
+      "tag": "大模型",
+      "id": 4
+    },
+    {
+      "title": "DeepSeek调价之后，谁走出了斩杀线？",
+      "url": "https://www.tmtpost.com/8118102.html",
+      "source": "钛媒体",
+      "source_icon": "🟠",
+      "summary": "一次调价，重新划定了大模型的竞争边界",
+      "tag": "大模型",
+      "id": 5
+    },
+    {
+      "title": "黄仁勋驳斥“循环融资”质疑：AI 行业需要巨额资金，英伟达投资风险很低",
+      "url": "https://www.ithome.com/0/994/943.htm",
+      "source": "IT之家",
+      "source_icon": "🟢",
+      "summary": "英伟达CEO黄仁勋当地时间周三为公司日益深入参与人工智能行业融资进行了辩护。他反驳了外界关于英伟达向其他AI公司提供资金支持，是为了人为推高自身营收增长的批评。",
+      "tag": "AI投融资",
+      "id": 6
+    },
+    {
+      "title": "被盗 iPhone 黑产 AnonyMousKIT 披露：AI 语音钓鱼套取苹果手机密码",
+      "url": "https://www.ithome.com/0/994/942.htm",
+      "source": "IT之家",
+      "source_icon": "🟢",
+      "summary": "网络安全公司SOCRadar 于 8 月 25日发布博文，披露名为AnonyMousKIT的网络钓鱼即服务（PhaaS）平台， 主要服务于被盗苹果设备的解锁与转售链条。",
+      "tag": "AI产品",
+      "id": 7
+    },
+    {
+      "title": "黄仁勋回应 OpenAI 首款自研 AI 芯片挑战：英伟达提供“截然不同”服务",
+      "url": "https://www.ithome.com/0/994/904.htm",
+      "source": "IT之家",
+      "source_icon": "🟢",
+      "summary": "金融媒体marketwatch 今天（8 月27 日）发布博文，报道称在英伟达最新财报电话会议上，公司CEO 黄仁勋回应 OpenAI首款自研推理芯片 Jalapeño，表示英伟达正在打造的东西与 O…",
+      "tag": "AI算力",
+      "id": 8
+    },
+    {
+      "title": "DeepSeek一张涨价单，繁荣了一条产业链？",
+      "url": "https://www.tmtpost.com/8118103.html",
+      "source": "钛媒体",
+      "source_icon": "🟠",
+      "summary": "DeepSeek一张涨价单，繁荣了一条产业链？",
+      "tag": "大模型",
+      "id": 9
+    },
+    {
+      "title": "AI的账单，不只由科技公司买单",
+      "url": "https://www.tmtpost.com/8118214.html",
+      "source": "钛媒体",
+      "source_icon": "🟠",
+      "summary": "AI正在从一个技术变量，变成社会的资源配置变量",
+      "tag": "AI产品",
+      "id": 10
+    }
+  ]
+}
