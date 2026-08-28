@@ -1,0 +1,99 @@
+{
+  "date": "2026-08-28",
+  "generated_at": "2026-08-28T14:27:56.423352+08:00",
+  "category": "餐饮零售 & AI科技",
+  "total": 10,
+  "editor_note": "今天共精选 10 条。餐饮零售板块：商场掀起板前潮，多品牌扎堆入局，餐饮消费等话题值得关注；AI科技板块：中国人民银行 9 月 4 日发行科创未来等动态持续发酵。",
+  "items": [
+    {
+      "title": "商场掀起板前潮，多品牌扎堆入局，餐饮消费逻辑正发生转变",
+      "url": "https://www.tmtpost.com/8120261.html",
+      "source": "钛媒体",
+      "source_icon": "🟠",
+      "summary": "当前板前餐饮模式的流行，背后实际上是餐饮消费逻辑以及餐饮消费者心态的一次重要转变。",
+      "tag": "餐饮动态",
+      "id": 1
+    },
+    {
+      "title": "卖1000万赚15万，中国餐饮何时告别“自虐式经营”？",
+      "url": "https://www.tmtpost.com/8120260.html",
+      "source": "钛媒体",
+      "source_icon": "🟠",
+      "summary": "一批头部品牌悄悄调价，餐饮业正经历一场集体转向。",
+      "tag": "餐饮动态",
+      "id": 2
+    },
+    {
+      "title": "中国人民银行 9 月 4 日发行科创未来（人工智能）金银纪念币，图案含芯片、电路纹理等",
+      "url": "https://www.ithome.com/0/995/492.htm",
+      "source": "IT之家",
+      "source_icon": "🟢",
+      "summary": "中国人民银行定于2026 年 9 月 4日发行科创未来（人工智能）金银纪念币一套。该套金银纪念币共 3 枚，其中金质纪念币 1 枚，银质纪念币 2 枚，均为中华人民共和国法定货币。",
+      "tag": "AI算力",
+      "id": 3
+    },
+    {
+      "title": "国家发改委：发展机器人产业必须因地制宜，防止盲目跟风、一哄而上",
+      "url": "https://www.ithome.com/0/995/481.htm",
+      "source": "IT之家",
+      "source_icon": "🟢",
+      "summary": "据国家发展改革委官网文字实录，国家发展改革委政策研究室副主任李超在今日的发改委 8 月份例行发布会上表示，机器人产业涉及人工智能、先进制造、新材料等诸多前沿技术，必须坚持因地制宜、健康有序发展，立足本…",
+      "tag": "机器人",
+      "id": 4
+    },
+    {
+      "title": "蚂蚁百灵推出金融增强模型 Ling-3.0-flash-Fin：API 调用限免一个月，下周开源",
+      "url": "https://www.ithome.com/0/995/464.htm",
+      "source": "IT之家",
+      "source_icon": "🟢",
+      "summary": "蚂蚁百灵今日推出金融增强模型 Ling-3.0-flash-Fin，延续Ling-3.0-flash的模型架构和长上下文能力，保持124B 总参数、5.1B 激活参数的配置。",
+      "tag": "大模型",
+      "id": 5
+    },
+    {
+      "title": "稳居开源模型第一梯队，腾讯发布混元 Hy4 preview 模型",
+      "url": "https://www.ithome.com/0/995/570.htm",
+      "source": "IT之家",
+      "source_icon": "🟢",
+      "summary": "腾讯官方今日发布了Hy4preview，总参数770B，激活参数49B，上下文长度 1M。 官方表示，Hy4preview在模型尺寸、上下文长度、数据规模上都进行了显著的扩展，预训练和后训练的共同进步…",
+      "tag": "大模型",
+      "id": 6
+    },
+    {
+      "title": "开源电子书工具 Calibre 9.14 发布：首次引入 AI 生成封面",
+      "url": "https://www.ithome.com/0/995/569.htm",
+      "source": "IT之家",
+      "source_icon": "🟢",
+      "summary": "科技媒体Linuxiac 今天（8 月 28日）发布博文，报道称开源电子书管理器Calibre 推出 9.14版本更新，首次引入了由 AI驱动的电子书封面图像生成器。",
+      "tag": "开源",
+      "id": 7
+    },
+    {
+      "title": "Anthropic 推出 MHS 标准，首度重拳杀入物理 AI 领域",
+      "url": "https://www.ithome.com/0/995/514.htm",
+      "source": "IT之家",
+      "source_icon": "🟢",
+      "summary": "Anthropic昨日（8 月 27日）发布博文，宣布以研究预览形式，发布模型硬件标准（ModelHardwareStandard，MHS）， 路透社、CNBC 等媒体解读认为这标志着该公司首次公开进…",
+      "tag": "AI产品",
+      "id": 8
+    },
+    {
+      "title": "700个Agent串联起来，成立了一家“地下公司”",
+      "url": "https://www.tmtpost.com/8120181.html",
+      "source": "钛媒体",
+      "source_icon": "🟠",
+      "summary": "拉群、派活儿、共享经验，还一起闯进了Hugging Face。",
+      "tag": "AI Agent",
+      "id": 9
+    },
+    {
+      "title": "机器人卖出去4万台之后，供应链能接住万亿市场需求么？",
+      "url": "https://www.tmtpost.com/8119874.html",
+      "source": "钛媒体",
+      "source_icon": "🟠",
+      "summary": "具身产业跑起来之后，供应链跟得上吗？",
+      "tag": "机器人",
+      "id": 10
+    }
+  ]
+}
