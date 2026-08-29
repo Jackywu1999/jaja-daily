@@ -1,0 +1,99 @@
+{
+  "date": "2026-08-29",
+  "generated_at": "2026-08-29T11:59:30.366643+08:00",
+  "category": "餐饮零售 & AI科技",
+  "total": 10,
+  "editor_note": "今天共精选 10 条。餐饮零售板块：农夫山泉上半年茶饮料收入增长30.1%；等话题值得关注；AI科技板块：Meta 为 Quest 头显推出 XR等动态持续发酵。",
+  "items": [
+    {
+      "title": "农夫山泉上半年茶饮料收入增长30.1%；古茗上半年营收增长31.9%，门店超1.4万家；滔搏获Sierra Designs中国市场独家运营权｜消研所周报",
+      "url": "https://www.tmtpost.com/8121016.html",
+      "source": "钛媒体",
+      "source_icon": "🟠",
+      "summary": "UNIQLO SHANGHAI全球旗舰店将于10月30日焕新启幕；松鲜鲜颁布中国居民减钠白皮书。",
+      "tag": "餐饮动态",
+      "id": 1
+    },
+    {
+      "title": "Meta 为 Quest 头显推出 XR Operator 开发者工具，利用 AI 智能体快速测试 VR 游戏",
+      "url": "https://www.ithome.com/0/995/854.htm",
+      "source": "IT之家",
+      "source_icon": "🟢",
+      "summary": "Meta宣布推出一款名为 Meta XROperator 的实验性开发者工具，旨在让AI 智能体测试 VR应用，目前相应工具已集成在Meta XR SDK v205中，便于开发者调用。",
+      "tag": "AI Agent",
+      "id": 2
+    },
+    {
+      "title": "阿里云巴西节点开服，Qwen 系列开源模型全球下载量突破 30 亿次",
+      "url": "https://www.ithome.com/0/995/847.htm",
+      "source": "IT之家",
+      "source_icon": "🟢",
+      "summary": "8月 28日，阿里云宣布巴西数据中心正式启用，设有两个可用区，为企业客户及开发者提供计算、存储、数据库等云服务，企业级AI服务将陆续上线。",
+      "tag": "大模型",
+      "id": 3
+    },
+    {
+      "title": "豪掷400亿元！孙正义惨亏割肉后，又“接盘”机器人了",
+      "url": "https://www.tmtpost.com/8120970.html",
+      "source": "钛媒体",
+      "source_icon": "🟠",
+      "summary": "软银集团洽购1X Technologies多数股权。",
+      "tag": "AI投融资",
+      "id": 4
+    },
+    {
+      "title": "从“AI时代已开始”到“最动荡的转型期”：盖茨这三年看见了什么",
+      "url": "https://www.tmtpost.com/8121501.html",
+      "source": "钛媒体",
+      "source_icon": "🟠",
+      "summary": "AI已在生物、网络、心理、就业等多个维度跨过临界点，而行业内外几乎无人正视。盖茨罕见从长期乐观转向“刹车”，成为那个在阳光下拉响警报的人。",
+      "tag": "AI产品",
+      "id": 5
+    },
+    {
+      "title": "AI 算力拉动铜需求激增，2026 年 AI 服务器专用高端铜箔需求预计增 260%",
+      "url": "https://www.ithome.com/0/995/891.htm",
+      "source": "IT之家",
+      "source_icon": "🟢",
+      "summary": "AI 与铜的距离看起来很远。一边是发生在“云端”的前沿算法，一边是深埋地下的传统金属。可当 AI“跑”起来，它们就被紧紧连在了一起。",
+      "tag": "AI算力",
+      "id": 6
+    },
+    {
+      "title": "OpenAI：因 Cursor 被 SpaceX 收购，将停止向 Cursor 提供 AI 模型",
+      "url": "https://www.ithome.com/0/995/874.htm",
+      "source": "IT之家",
+      "source_icon": "🟢",
+      "summary": "当地时间8 月 28日，OpenAI 发布公告，宣布已正式通知 SpaceX，计划终止向 Cursor 提供OpenAI模型的合作合同，拟定的服务停止接入日期为2026 年 11 月 12日。",
+      "tag": "大模型",
+      "id": 7
+    },
+    {
+      "title": "开源鸿蒙机器人操作系统 M-Robots OS 3.0 Beta 版发布，重心从“单机能力”转向“群体智能”",
+      "url": "https://www.ithome.com/0/995/865.htm",
+      "source": "IT之家",
+      "source_icon": "🟢",
+      "summary": "由国家数据局主办的2026中国国际大数据产业博览会昨日在贵阳开幕。深开鸿高级副总裁、研发体系总裁王皓博士在会上正式发布了M-Robots OS 3.0 Beta版。",
+      "tag": "开源",
+      "id": 8
+    },
+    {
+      "title": "46枚、45枚、10枚、5枚，人形机器人运动会的奖牌数到底在测什么",
+      "url": "https://www.tmtpost.com/8120414.html",
+      "source": "钛媒体",
+      "source_icon": "🟠",
+      "summary": "2026 世界人形机器人运动会企业合并奖牌榜，智元、天工、宇树、银河通用分列前列，但奖牌数受报项、第三方队伍、参赛模式影响，不能直接等同综合实力。",
+      "tag": "机器人",
+      "id": 9
+    },
+    {
+      "title": "打不过就加入？三大唱片巨头豪掷5亿，入股AI绘图“鼻祖”",
+      "url": "https://www.tmtpost.com/8121144.html",
+      "source": "钛媒体",
+      "source_icon": "🟠",
+      "summary": "三大唱片巨头给StabilityAI投了5个亿",
+      "tag": "AI产品",
+      "id": 10
+    }
+  ]
+}
