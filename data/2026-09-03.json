@@ -1,0 +1,99 @@
+{
+  "date": "2026-09-03",
+  "generated_at": "2026-09-03T08:54:29.755510+08:00",
+  "category": "餐饮零售 & AI科技",
+  "total": 10,
+  "editor_note": "今天共精选 10 条。AI科技板块：欧洲最强 AI：西班牙公司推出 Quas等动态持续发酵。",
+  "items": [
+    {
+      "title": "欧洲最强 AI：西班牙公司推出 Quasar 438B 模型，1M 词元上下文",
+      "url": "https://www.ithome.com/0/997/726.htm",
+      "source": "IT之家",
+      "source_icon": "🟢",
+      "summary": "西班牙AI 公司 MultiverseComputing最新推出 Quasar 438B模型，根据Artificial Analysis得分，该模型 IntelligenceIndexv4.1.1 得…",
+      "tag": "大模型",
+      "id": 1
+    },
+    {
+      "title": "谷歌推出 Gemini 3.8 Flash Cyber 模型，内部已全面部署用于代码安全防护",
+      "url": "https://www.ithome.com/0/997/708.htm",
+      "source": "IT之家",
+      "source_icon": "🟢",
+      "summary": "当地时间9 月 2日，谷歌宣布推出Gemini 3.8 FlashCyber 模型，通过Fairwind计划面向首批受信任的安全防护团队开放。",
+      "tag": "大模型",
+      "id": 2
+    },
+    {
+      "title": "谷歌 Gemini 3.8 Flash 模型上线，适用软件工程、智能体任务等场景",
+      "url": "https://www.ithome.com/0/997/702.htm",
+      "source": "IT之家",
+      "source_icon": "🟢",
+      "summary": "谷歌今天（2日）在 Google DeepMind网站低调上线了Gemini 3.8 Flash模型。其基于Gemini 3.7Flash，拥有在软件工程和智能体知识工作流方面的性能提升，并持续支持可…",
+      "tag": "大模型",
+      "id": 3
+    },
+    {
+      "title": "【钛晨报】央行行长潘功胜出席G20财长和央行行长会议，强调继续实施好适度宽松的货币政策；CrowdStrike与OpenAI扩大合作；港股通买入Minimax规模超越阿里巴巴和腾讯",
+      "url": "https://www.tmtpost.com/8126299.html",
+      "source": "钛媒体",
+      "source_icon": "🟠",
+      "summary": "中国团队在自主超导量子计算机上实现新突破，传输效率高达98%；畅销书《富爸爸穷爸爸》作者自曝负债12亿美元；燧原科技：科创板IPO网上发行最终中签率0.02455315%；国家能源局召开新型电网建设工…",
+      "tag": "政策监管",
+      "id": 4
+    },
+    {
+      "title": "AI 落地东盟，30% 是技术和算法，70% 是人 | AIMX Singapore 2026 现场观察",
+      "url": "https://www.tmtpost.com/8124464.html",
+      "source": "钛媒体",
+      "source_icon": "🟠",
+      "summary": "上海证明的是中国AI能站上多高的舞台，金沙检验的是它能不能进别人的预算表。",
+      "tag": "AI产品",
+      "id": 5
+    },
+    {
+      "title": "社区速递 156 | 满血全功能磁吸转换头与手机 AI 通话的真实体验",
+      "url": "https://sspai.com/post/114078",
+      "source": "少数派",
+      "source_icon": "🔵",
+      "summary": "除了首页时间流和侧栏的精选展位，少数派Matrix社区还有很多优秀内容因条件所限无法得到有效曝光，因此我们决定重启Matrix周报，并在此基础上添加更多社区内容、作者投稿新玩意呈现给大家。",
+      "tag": "AI产品",
+      "id": 6
+    },
+    {
+      "title": "探索太阳风暴早期预警：AI 提前 9.24 小时捕捉太阳活动区信号",
+      "url": "https://www.ithome.com/0/997/737.htm",
+      "source": "IT之家",
+      "source_icon": "🟢",
+      "summary": "科技媒体SciTech 昨日（9 月 2日）发布博文，报道称由美国新泽西理工学院（NJIT）牵头的科研团队发布最新研究，成功打造出机器学习模型EarlyDetect，可从太阳声学活动和磁场变化中识别活…",
+      "tag": "AI产品",
+      "id": 7
+    },
+    {
+      "title": "纽约时报诉 OpenAI 案升级：美国司法部首次就 AI 版权问题公开表态，主张 AI 训练属“合理使用”",
+      "url": "https://www.ithome.com/0/997/732.htm",
+      "source": "IT之家",
+      "source_icon": "🟢",
+      "summary": "美国司法部（DOJ）当地时间9 月 1日向曼哈顿联邦法院提交了一份“利益声明”，正式介入《纽约时报》诉OpenAI版权侵权案。",
+      "tag": "大模型",
+      "id": 8
+    },
+    {
+      "title": "Meta 发布最强 AI 模型 Muse Spark 1.3，编码能力超 GPT-5.6 Sol",
+      "url": "https://www.ithome.com/0/997/728.htm",
+      "source": "IT之家",
+      "source_icon": "🟢",
+      "summary": "MetaPlatforms 于 2026 年 9月2 日发布迄今最强大 AI 模型MuseSpark1.3，专为延长智能体工作流与增强编码能力设计。",
+      "tag": "大模型",
+      "id": 9
+    },
+    {
+      "title": "存力接棒算力：AI智能体把存储推上主战场",
+      "url": "https://www.tmtpost.com/8123421.html",
+      "source": "钛媒体",
+      "source_icon": "🟠",
+      "summary": "当AI智能体开始“记忆”，存储如何接住这场变革？",
+      "tag": "AI Agent",
+      "id": 10
+    }
+  ]
+}
