@@ -1,0 +1,99 @@
+{
+  "date": "2026-09-04",
+  "generated_at": "2026-09-04T08:39:33.544108+08:00",
+  "category": "餐饮零售 & AI科技",
+  "total": 10,
+  "editor_note": "今天共精选 10 条。AI科技板块：HTC 为旗下 AI 智能眼镜 VIVE等动态持续发酵。",
+  "items": [
+    {
+      "title": "HTC 为旗下 AI 智能眼镜 VIVE Eagle 新增全新圆框款式，系列产品同步升级支持 3K 分辨率录像等功能",
+      "url": "https://www.ithome.com/0/998/232.htm",
+      "source": "IT之家",
+      "source_icon": "🟢",
+      "summary": "HTC宣布为旗下 AI 智能眼镜 VIVEEagle 新增全新圆框款式，同步升级多项软件功能，将录像分辨率从2K 提升至3K，并新增慢动作拍摄、第一视角直播、AI 实时翻译对话模式、点头接听、摇头拒接…",
+      "tag": "AI产品",
+      "id": 1
+    },
+    {
+      "title": "英伟达开源发布 PAIR：本地跑 AI 新方案，调度 Mac / RTX PC 跨设备推理",
+      "url": "https://www.ithome.com/0/998/229.htm",
+      "source": "IT之家",
+      "source_icon": "🟢",
+      "summary": "科技媒体AppleInsider 昨日（9 月3 日）发布博文，报道称英伟达以开源测试版状态，推出Personal AIRouter（PAIR）软件，用于在局域网内为本地 AI请求选择可用计算机，类似…",
+      "tag": "大模型",
+      "id": 2
+    },
+    {
+      "title": "研究显示：用户过度依赖 ChatGPT 等 AI 产品可能导致独立思考能力下降",
+      "url": "https://www.ithome.com/0/998/217.htm",
+      "source": "IT之家",
+      "source_icon": "🟢",
+      "summary": "外媒notebookcheck援引《应用认知心理学》（AppliedCognitivePsychology）期刊一项小型研究，认为用户过度依赖ChatGPT 等 AI产品可能会导致用户独立思考能力下降…",
+      "tag": "大模型",
+      "id": 3
+    },
+    {
+      "title": "中国儒意连推三款AI产品，首次打通AI创作链路｜独家",
+      "url": "https://www.tmtpost.com/8127550.html",
+      "source": "钛媒体",
+      "source_icon": "🟠",
+      "summary": "战投爱诗科技后，中国儒意三款AI产品集中曝光，AI内容生成赛道迎来“游戏系”玩家。",
+      "tag": "AI产品",
+      "id": 4
+    },
+    {
+      "title": "年收入1.5亿，卖到129亿：AI的收银台为何值86倍天价？",
+      "url": "https://www.tmtpost.com/8124567.html",
+      "source": "钛媒体",
+      "source_icon": "🟠",
+      "summary": "AI产业的利润，正从智能的制造转向智能的流通。",
+      "tag": "AI产品",
+      "id": 5
+    },
+    {
+      "title": "社区速递 156 | 满血全功能磁吸转换头与手机 AI 通话的真实体验",
+      "url": "https://sspai.com/post/114078",
+      "source": "少数派",
+      "source_icon": "🔵",
+      "summary": "除了首页时间流和侧栏的精选展位，少数派Matrix社区还有很多优秀内容因条件所限无法得到有效曝光，因此我们决定重启Matrix周报，并在此基础上添加更多社区内容、作者投稿新玩意呈现给大家。",
+      "tag": "AI产品",
+      "id": 6
+    },
+    {
+      "title": "黄仁勋：拟收购 Hugging Face，不是为了把 AI 关进英伟达",
+      "url": "https://www.ithome.com/0/998/248.htm",
+      "source": "IT之家",
+      "source_icon": "🟢",
+      "summary": "英伟达（NVIDIA）昨日（9月 3日）宣布，已同意以129.303亿美元",
+      "tag": "AI投融资",
+      "id": 7
+    },
+    {
+      "title": "微软最强转录 AI 模型：MAI-Transcribe-2 登场，60 语种平均词错误率 5.2%",
+      "url": "https://www.ithome.com/0/998/241.htm",
+      "source": "IT之家",
+      "source_icon": "🟢",
+      "summary": "微软昨日（9月 3日）发布博文，宣布推出 MAI-Transcribe-2， 宣称是其最快、最准确、最便宜的AI语音转文字模型。",
+      "tag": "大模型",
+      "id": 8
+    },
+    {
+      "title": "铭凡确认 AI 迷你工作站 MS-S1 MAX-P495 九月开售",
+      "url": "https://www.ithome.com/0/998/236.htm",
+      "source": "IT之家",
+      "source_icon": "🟢",
+      "summary": "MINISFORUM（铭凡）今日确认，其基于AMD 锐龙 AI Max+ PRO495处理器的新款 AI 迷你工作站MS-S1MAX-P495 即将在本月内开售。",
+      "tag": "AI产品",
+      "id": 9
+    },
+    {
+      "title": "【钛晨报】十部门发文“促中小企业发展”，加码直接融资、AI赋能等；燧原科技中签号出炉、康佳拟主动退市；“微信单删提示”冲上热搜，官方回应",
+      "url": "https://www.tmtpost.com/8127957.html",
+      "source": "钛媒体",
+      "source_icon": "🟠",
+      "summary": "精智达拿下15.76亿元半导体设备大单；小米汽车拟进军欧洲市场；字节跳动将获得约296亿美元银团贷款；天猫上线Token充值中心；奥尔特曼：OpenAI肯定会研发人形机器人；机构：存储器推升成本，预计…",
+      "tag": "AI投融资",
+      "id": 10
+    }
+  ]
+}
