@@ -1,0 +1,99 @@
+{
+  "date": "2026-09-05",
+  "generated_at": "2026-09-05T08:34:26.170129+08:00",
+  "category": "餐饮零售 & AI科技",
+  "total": 10,
+  "editor_note": "今天共精选 10 条。餐饮零售板块：从500家店缩到39家：嗨特购闭店潮背后等话题值得关注；AI科技板块：外卖补贴退场之后，王兴赢回了利润、蒋凡买等动态持续发酵。",
+  "items": [
+    {
+      "title": "从500家店缩到39家：嗨特购闭店潮背后，折扣零售迎来模式分水岭",
+      "url": "https://www.tmtpost.com/8129043.html",
+      "source": "钛媒体",
+      "source_icon": "🟠",
+      "summary": "仅仅短短两年时间，全国营业门店收缩近90%。",
+      "tag": "零售动态",
+      "id": 1
+    },
+    {
+      "title": "外卖补贴退场之后，王兴赢回了利润、蒋凡买到了门票",
+      "url": "https://www.tmtpost.com/8128242.html",
+      "source": "钛媒体",
+      "source_icon": "🟠",
+      "summary": "“外卖”的仗才刚开始真打",
+      "tag": "AI产品",
+      "id": 2
+    },
+    {
+      "title": "谷歌最强音乐 AI Lyria 3.5 塞进 Gemini：一键生成 3 分钟完整歌曲",
+      "url": "https://www.ithome.com/0/998/647.htm",
+      "source": "IT之家",
+      "source_icon": "🟢",
+      "summary": "谷歌今天（9月 5日）发布公告，宣布在 Gemini 应用和GeminiAPI 中上线最新音乐生成模型Lyria3.5，标志着谷歌音乐AI 从内部实验工具（GoogleFlow Music）走向主流用…",
+      "tag": "大模型",
+      "id": 3
+    },
+    {
+      "title": "消息称苹果计划明年上线全新“家庭安全监控服务”，将 AI 引入家庭安防",
+      "url": "https://www.ithome.com/0/998/642.htm",
+      "source": "IT之家",
+      "source_icon": "🟢",
+      "summary": "苹果正计划在2027年（明年）推出一项全新的家庭安全监控服务，作为其进一步拓展智能家居业务的一部分。 与此同时，苹果正在研发一款注重隐私保护的家庭安防摄像头及自动化设备。",
+      "tag": "政策监管",
+      "id": 4
+    },
+    {
+      "title": "匿名 AI 模型再现：又一 Alpha 上线 OpenCode，线索指向智谱",
+      "url": "https://www.ithome.com/0/998/641.htm",
+      "source": "IT之家",
+      "source_icon": "🟢",
+      "summary": "在Ox Alpha 确认为GLM-5.3-Flash原生多模态模型后，又一款名为Omen Alpha 的模型昨日（9 月4日）上线 OpenCode Go订阅计划 ，种种线索表明同样来自智谱公司。",
+      "tag": "大模型",
+      "id": 5
+    },
+    {
+      "title": "消息称谷歌正为旧款 Pixel 手机引入苹果 AirDrop 跨平台传输支持",
+      "url": "https://www.ithome.com/0/998/654.htm",
+      "source": "IT之家",
+      "source_icon": "🟢",
+      "summary": "据外媒AndroidAuthority报道，继谷歌逐步为Pixel 手机带来 QuickShare与苹果 AirDrop之间的跨平台传输支持后，近期又有Pixel 7 和 Pixel 8系列用户发现，…",
+      "tag": "AI产品",
+      "id": 6
+    },
+    {
+      "title": "影响你的下一份 AI 账单：消息称 Anthropic 降低外部依赖，评估自建部分计费系统",
+      "url": "https://www.ithome.com/0/998/652.htm",
+      "source": "IT之家",
+      "source_icon": "🟢",
+      "summary": "科技媒体The Information 昨日（9月 4 日）发布博文，报道称基于招聘信息，Anthropic为降低对 Stripe等第三方服务商的依赖， 正评估自建更多内部支付与计费基础设施。",
+      "tag": "AI产品",
+      "id": 7
+    },
+    {
+      "title": "科沃斯 IFA 2026 官宣成为“全球第一大家用机器人品牌”，2026 年 Q2 国际市场收入已占总营收 51%",
+      "url": "https://www.ithome.com/0/998/651.htm",
+      "source": "IT之家",
+      "source_icon": "🟢",
+      "summary": "科沃斯（ECOVACS）在IFA 2026期间宣布公司已成为全球第一大家用机器人品牌，其产品已经进入全球180个市场、覆盖超过3800万户家庭。",
+      "tag": "机器人",
+      "id": 8
+    },
+    {
+      "title": "Keep Cut Its Way to Profit. Now It Needs AI to Find Growth",
+      "url": "https://www.tmtpost.com/8129155.html",
+      "source": "钛媒体",
+      "source_icon": "🟠",
+      "summary": "Overthose eight years inbetween,Keepland shut down,big-ticketequipment offeringswerescaled back,head…",
+      "tag": "AI产品",
+      "id": 9
+    },
+    {
+      "title": "OpenAI官宣”AGI时代”：GPT-6 Astra的思维第一次”不可读”，监控者看不懂的模型来了",
+      "url": "https://www.tmtpost.com/8128382.html",
+      "source": "钛媒体",
+      "source_icon": "🟠",
+      "summary": "最聪明的大脑最难被读懂。",
+      "tag": "大模型",
+      "id": 10
+    }
+  ]
+}
