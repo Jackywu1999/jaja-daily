@@ -1,0 +1,99 @@
+{
+  "date": "2026-09-06",
+  "generated_at": "2026-09-06T08:31:32.679721+08:00",
+  "category": "餐饮零售 & AI科技",
+  "total": 10,
+  "editor_note": "今天共精选 10 条。AI科技板块：Epic CEO 斯威尼：AI 导致内存等动态持续发酵。",
+  "items": [
+    {
+      "title": "Epic CEO 斯威尼：AI 导致内存、存储价格暴涨，游戏行业正遭遇第二次崩盘",
+      "url": "https://www.ithome.com/0/998/836.htm",
+      "source": "IT之家",
+      "source_icon": "🟢",
+      "summary": "EpicGames 首席执行官蒂姆 ·斯威尼（Tim Sweeney）在最新一期的《Edge》杂志专访中，与多位业内专家一起探讨了游戏产业当前所面临的“大崩盘 2.0 （Crash2.0）”危机。",
+      "tag": "AI产品",
+      "id": 1
+    },
+    {
+      "title": "AI 热潮下的韩国：真人秀为三星、SK 海力士员工配对，首尔大学 10 人有 9 人选择计科相关专业",
+      "url": "https://www.ithome.com/0/998/835.htm",
+      "source": "IT之家",
+      "source_icon": "🟢",
+      "summary": "韩国AI概念股大涨，带来的影响从资本市场迅速扩散到社会生活。甚至在前段时间，网上也流传着有关“韩国人（因为炒股、赚钱）仿佛进入了黄金时代”的段子。",
+      "tag": "AI产品",
+      "id": 2
+    },
+    {
+      "title": "GPT-6 Astra 模型发布，OpenAI 总裁布罗克曼自信放话“欢迎来到 AGI 时代”",
+      "url": "https://www.ithome.com/0/998/833.htm",
+      "source": "IT之家",
+      "source_icon": "🟢",
+      "summary": "OpenAI 宣布，新推出的Astra 模型已经达到 AI行业最为追求的一个里程碑。当地时间周四，OpenAI总裁格雷格 · 布罗克曼在宣布Astra模型推出的媒体电话会议结束时自信喊话：“欢迎来到A…",
+      "tag": "大模型",
+      "id": 3
+    },
+    {
+      "title": "从能用到抢入口，AI办公大考才刚开始",
+      "url": "https://www.tmtpost.com/8129098.html",
+      "source": "钛媒体",
+      "source_icon": "🟠",
+      "summary": "没有终局，只有持续进化。",
+      "tag": "AI产品",
+      "id": 4
+    },
+    {
+      "title": "具身智能等不来自己的“ChatGPT时刻”",
+      "url": "https://www.tmtpost.com/8129238.html",
+      "source": "钛媒体",
+      "source_icon": "🟠",
+      "summary": "没有单点爆发的英雄叙事，只有产业在能力、成本、扩散三条曲线中的层层落地。",
+      "tag": "大模型",
+      "id": 5
+    },
+    {
+      "title": "OpenAI 将建立全新框架，承诺未来将更加透明地披露 AI 智能体失控情况",
+      "url": "https://www.ithome.com/0/998/859.htm",
+      "source": "IT之家",
+      "source_icon": "🟢",
+      "summary": "OpenAI 发文，宣布将建立全新框架，承诺“更加透明地”向民众披露旗下AI智能体“失控”和“失准（Misalignment）”情况。",
+      "tag": "AI Agent",
+      "id": 6
+    },
+    {
+      "title": "极摩客展出 EVO-X5 Pro 迷你主机：锐龙 AI Max+ PRO 495 处理器，192GB 内存",
+      "url": "https://www.ithome.com/0/998/840.htm",
+      "source": "IT之家",
+      "source_icon": "🟢",
+      "summary": "极摩客在IFA 2026 上展出了极摩客EVO-X5Pro迷你主机，搭载AMD 锐龙 AI Max+ PRO495 处理器",
+      "tag": "AI产品",
+      "id": 7
+    },
+    {
+      "title": "合成器大厂罗兰 Roland 进军 AI 生成音乐领域，主打“旋律创作”",
+      "url": "https://www.ithome.com/0/998/837.htm",
+      "source": "IT之家",
+      "source_icon": "🟢",
+      "summary": "合成器大厂罗兰（Roland）正式进军生成式AI音乐领域，新推出了一款数字音频工作站（DAW）插件MelodyFlip。该插件内置约 250种按照不同音乐类型整理的主题音乐创意合集，名为“Palett…",
+      "tag": "AI产品",
+      "id": 8
+    },
+    {
+      "title": "再造百万销量机器人，科沃斯把爆款做成了“流水线”",
+      "url": "https://www.tmtpost.com/8129844.html",
+      "source": "钛媒体",
+      "source_icon": "🟠",
+      "summary": "这不是实验室里的概念演示，而是科沃斯窗宝面向欧洲市场的实景秀场。",
+      "tag": "机器人",
+      "id": 9
+    },
+    {
+      "title": "具身智能的冰与火之歌：热在展台，冷在产线",
+      "url": "https://www.tmtpost.com/8129186.html",
+      "source": "钛媒体",
+      "source_icon": "🟠",
+      "summary": "冰与火的试炼才刚开始。",
+      "tag": "机器人",
+      "id": 10
+    }
+  ]
+}
