@@ -1,0 +1,99 @@
+{
+  "date": "2026-09-07",
+  "generated_at": "2026-09-07T08:38:17.927170+08:00",
+  "category": "餐饮零售 & AI科技",
+  "total": 10,
+  "editor_note": "今天共精选 10 条。餐饮零售板块：诡异又倒胃口：AI 食物图片攻占餐厅菜单等话题值得关注；AI科技板块：《神鬼寓言》游戏总监称本作所有 NPC 等动态持续发酵。",
+  "items": [
+    {
+      "title": "《神鬼寓言》游戏总监称本作所有 NPC 均为人工设计，未使用 AI 及随机生成器",
+      "url": "https://www.ithome.com/0/999/052.htm",
+      "source": "IT之家",
+      "source_icon": "🟢",
+      "summary": "《神鬼寓言》游戏总监Ralph Fulton 在接受外媒GamesRadar+ 采访时，透露《神鬼寓言（Fable）》中的每一名NPC均为单独设计的，开发团队希望每个角色的职业、外貌和性格能够相互匹配…",
+      "tag": "AI产品",
+      "id": 1
+    },
+    {
+      "title": "Anthropic 15 亿美元 AI 版权和解金开始陆续发放，但出版社和作者分配补偿争议不断",
+      "url": "https://www.ithome.com/0/999/049.htm",
+      "source": "IT之家",
+      "source_icon": "🟢",
+      "summary": "Anthropic 去年就版权集体诉讼案达成和解。法院裁定，Anthropic&nbsp;使用受版权保护的材料训练AI模型符合“合理使用”（FairUse）原则，属于合法行为，但通过盗版方式获取这些材…",
+      "tag": "AI投融资",
+      "id": 2
+    },
+    {
+      "title": "诡异又倒胃口：AI 食物图片攻占餐厅菜单，让消费者食欲全无",
+      "url": "https://www.ithome.com/0/999/042.htm",
+      "source": "IT之家",
+      "source_icon": "🟢",
+      "summary": "午休期间，吉尔 · 森内特看到了一些让她完全提不起食欲的东西，于是忍不住分享给自己在X 平台上的 2.6万名粉丝：一家牙买加烧烤快闪餐厅使用人工智能生成的菜单图片，里面的肉看起来像是一条条皮带，上面还…",
+      "tag": "餐饮动态",
+      "id": 3
+    },
+    {
+      "title": "2026动力电池新叙事：电驱万物，AI赋能，固态仍需耐心丨行业风向标",
+      "url": "https://www.tmtpost.com/8129971.html",
+      "source": "钛媒体",
+      "source_icon": "🟠",
+      "summary": "钠电入局，锂电打开多元增长空间。",
+      "tag": "AI产品",
+      "id": 4
+    },
+    {
+      "title": "OpenAI 称年底实现 AGI：藏起思考的模型，和它背后的资本之争",
+      "url": "https://www.tmtpost.com/8129268.html",
+      "source": "钛媒体",
+      "source_icon": "🟠",
+      "summary": "OpenAI高管称已完成通用人工智能（AGI）80%的进程，预计2026 年底前推出内部 AGI系统。",
+      "tag": "大模型",
+      "id": 5
+    },
+    {
+      "title": "JetBrains 推出 Kotlin Toolchain 0.12 版本：新增多平台库发布能力、支持直接构建运行 Wasm 网页应用",
+      "url": "https://www.ithome.com/0/999/072.htm",
+      "source": "IT之家",
+      "source_icon": "🟢",
+      "summary": "JetBrains现已发布构建工具 KotlinToolchain 0.12，新增Kotlin多平台库发布能力，覆盖 JVM、Android、iOS以及WebAssembly（Wasm），同时官方推出…",
+      "tag": "AI产品",
+      "id": 6
+    },
+    {
+      "title": "英伟达黄仁勋祝贺 OpenAI 团队发布 Astra，称“AGI 已经到来”",
+      "url": "https://www.ithome.com/0/999/069.htm",
+      "source": "IT之家",
+      "source_icon": "🟢",
+      "summary": "英伟达创始人兼首席执行官黄仁勋今天在 X 平台发文，祝贺OpenAI 发布最新大模型Astra，并抛出引人注目的观点：AGI 已经到来。",
+      "tag": "AI算力",
+      "id": 7
+    },
+    {
+      "title": "曝魅族 AI 小方块将量产上市，搭载紫光展讯 T8200 处理器 + 4 英寸小方屏",
+      "url": "https://www.ithome.com/0/999/061.htm",
+      "source": "IT之家",
+      "source_icon": "🟢",
+      "summary": "据博主@体验more透露，魅族 AI 小方块将量产上市，搭载紫光展讯T8200处理器，配备 4 英寸小方屏。博主还晒出了魅族 AI小方块的产品包装盒。",
+      "tag": "AI投融资",
+      "id": 8
+    },
+    {
+      "title": "从精密技术到行业与机器人，爱普生正在重新给技术“定价”",
+      "url": "https://www.tmtpost.com/8129869.html",
+      "source": "钛媒体",
+      "source_icon": "🟠",
+      "summary": "对于一家成立超过80年的制造企业而言，最大的挑战不是如何拥抱未来，而是如何让过去积累的能力，在未来继续产生价值。",
+      "tag": "机器人",
+      "id": 9
+    },
+    {
+      "title": "计划-执行-反馈的闭环：我如何在千亿级制造企业打造物理AI",
+      "url": "https://www.tmtpost.com/8129811.html",
+      "source": "钛媒体",
+      "source_icon": "🟠",
+      "summary": "一个维持18年运行的自主决策系统——物理AI的打造过程和公理体系提炼",
+      "tag": "AI产品",
+      "id": 10
+    }
+  ]
+}
