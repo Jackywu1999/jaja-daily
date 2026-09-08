@@ -1,0 +1,99 @@
+{
+  "date": "2026-09-08",
+  "generated_at": "2026-09-08T08:52:20.393473+08:00",
+  "category": "餐饮零售 & AI科技",
+  "total": 10,
+  "editor_note": "今天共精选 10 条。AI科技板块：消息称三星进入人形机器人赛道，计划在明年等动态持续发酵。",
+  "items": [
+    {
+      "title": "消息称三星进入人形机器人赛道，计划在明年 CES 2027 首秀",
+      "url": "https://www.ithome.com/0/999/466.htm",
+      "source": "IT之家",
+      "source_icon": "🟢",
+      "summary": "据韩媒sedaily消息，三星电子正加快其人形机器人原型机的研发，计划在明年1 月于美国拉斯维加斯举办的 CES2027 上，首次公开其自主研发的人形机器人。",
+      "tag": "机器人",
+      "id": 1
+    },
+    {
+      "title": "vivo X500 系列手机全球首发蓝图光御 900 传感器，CIPA 7.0 防抖、AI 摄影助手",
+      "url": "https://www.ithome.com/0/999/452.htm",
+      "source": "IT之家",
+      "source_icon": "🟢",
+      "summary": "在今晚的vivo创作者盛典活动中，vivo官方公布了 X500系列手机的影像配置。vivo X500 系列将首发主摄和潜望长焦CIPA 7.0 防抖等级，全新升级 2 亿长焦画质。",
+      "tag": "AI产品",
+      "id": 2
+    },
+    {
+      "title": "智能体出海东南亚，还缺懂本土落地的人 ｜SEA Frontline",
+      "url": "https://www.tmtpost.com/8128887.html",
+      "source": "钛媒体",
+      "source_icon": "🟠",
+      "summary": "智能体落地东南亚真正有价值的地方仍旧在那些还离不开本地的人、本地的信任、本地的判断力的环节。",
+      "tag": "AI Agent",
+      "id": 3
+    },
+    {
+      "title": "AI Video Generation Crosses Real-Time Threshold, Enabling Continuous Streams and Interactive Stories",
+      "url": "https://www.tmtpost.com/8131491.html",
+      "source": "钛媒体",
+      "source_icon": "🟠",
+      "summary": "Faster-than-playbackgeneration frommodelssuch as MiniMax H3Maxis shifting AI videofrombatch producti…",
+      "tag": "AI产品",
+      "id": 4
+    },
+    {
+      "title": "AI and the Evolution of Value Investing: A Conversation with Zhong Zhaomin",
+      "url": "https://www.tmtpost.com/8131485.html",
+      "source": "钛媒体",
+      "source_icon": "🟠",
+      "summary": "Thebreakout ofgenerativeartificialintelligenceis reshapingcorporatemodels and globalmarkets.As infor…",
+      "tag": "AI产品",
+      "id": 5
+    },
+    {
+      "title": "法拉第未来机器人 8 月销量 158 台再创新高，累销已突破 552 台",
+      "url": "https://www.ithome.com/0/999/512.htm",
+      "source": "IT之家",
+      "source_icon": "🟢",
+      "summary": "贾跃亭今早发布视频宣布，法拉第未来 EAI机器人本体销售及出货量达158台，再创单月新高 。 贾跃亭表示，自 2月启动交付以来，截至 8 月底，机器人累计销售及出货量已达到552 台。",
+      "tag": "机器人",
+      "id": 6
+    },
+    {
+      "title": "OpenAI GPT-6 Astra 模型自主通关 3D 解谜游戏《传送门》：耗时 24 小时，成本 571 美元",
+      "url": "https://www.ithome.com/0/999/488.htm",
+      "source": "IT之家",
+      "source_icon": "🟢",
+      "summary": "一名AI和大语言模型爱好者近日进行了一项实验，让OpenAI 的新模型 GPT-6Astra自主通关了 Valve 旗下 3D解谜游戏《传送门》。",
+      "tag": "大模型",
+      "id": 7
+    },
+    {
+      "title": "驰为 UniBox AI495 Pro 迷你主机亮相，X 型金属框架设计",
+      "url": "https://www.ithome.com/0/999/473.htm",
+      "source": "IT之家",
+      "source_icon": "🟢",
+      "summary": "驰为(CHUWI) 在 IFA 2026上公布了2 款 AI工作站迷你主机，分别是UniBox AI495 Pro 和UniBox AI395，搭载对应型号的 AMD 锐龙 AIMax+处理器。",
+      "tag": "AI产品",
+      "id": 8
+    },
+    {
+      "title": "通用机器人，正在从一种身体变成一种架构",
+      "url": "https://www.tmtpost.com/8131405.html",
+      "source": "钛媒体",
+      "source_icon": "🟠",
+      "summary": "现实工作正在让机器人的身体分化，跨本体模型则试图让数据和能力穿过这些差异。过去被寄托在一台机器上的“通用”，正在被拆到模型、模块与具体身体之间。",
+      "tag": "机器人",
+      "id": 9
+    },
+    {
+      "title": "【钛晨报】信息通信行业发展“十五五”规划发布，部署26项重点任务；微信内测“小微AI社交”：AI先聊再带回结果；央行：8月末黄金储备升至7673万盎司，连续22个月增持",
+      "url": "https://www.tmtpost.com/8131620.html",
+      "source": "钛媒体",
+      "source_icon": "🟠",
+      "summary": "宇树科技：首次实现人形机器人全自主搏击；理想汽车：自研电池将全面搭载到所有车型；华为时隔六年再次发布高性能芯片；千问办公推出业内首个多人工作台；捷豹路虎计划两年裁减4000个岗位；消息称1c nm有望…",
+      "tag": "AI产品",
+      "id": 10
+    }
+  ]
+}
