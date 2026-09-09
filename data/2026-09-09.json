@@ -1,0 +1,99 @@
+{
+  "date": "2026-09-09",
+  "generated_at": "2026-09-09T08:59:08.681896+08:00",
+  "category": "餐饮零售 & AI科技",
+  "total": 10,
+  "editor_note": "今天共精选 10 条。餐饮零售板块：永和大王母公司冲刺港股IPO，餐饮品牌如等话题值得关注；AI科技板块：扎克伯格推进“个人超级智能”：Meta 等动态持续发酵。",
+  "items": [
+    {
+      "title": "永和大王母公司冲刺港股IPO，餐饮品牌如何面对破发潮？",
+      "url": "https://www.tmtpost.com/8133007.html",
+      "source": "钛媒体",
+      "source_icon": "🟠",
+      "summary": "在餐饮品牌上市难的今天，快乐蜂能获得资本市场的青睐吗？",
+      "tag": "餐饮动态",
+      "id": 1
+    },
+    {
+      "title": "扎克伯格推进“个人超级智能”：Meta 发布其首款个人智能体 Muse，内部测试喜忧参半",
+      "url": "https://www.ithome.com/0/999/960.htm",
+      "source": "IT之家",
+      "source_icon": "🟢",
+      "summary": "北京时间9 月 9日，据路透社报道，Meta周二正式发布了其长期宣传的 AI助手，该助手可自主代表用户完成发送邮件、卖车及预订旅行等任务。",
+      "tag": "AI Agent",
+      "id": 2
+    },
+    {
+      "title": "继 Claude 尝试攻克黎曼猜想后：OpenAI 宣布用 10000 个 AI 智能体 88 小时攻克千禧年大奖难题，陶哲轩既点赞又担忧",
+      "url": "https://www.ithome.com/0/999/959.htm",
+      "source": "IT之家",
+      "source_icon": "🟢",
+      "summary": "OpenAI于当地时间 9 月 8日宣布，其内部未公开的AI 模型（性能远超最新发布的GPT-6 Astra）已成功解决“纳维-斯托克斯存在性与光滑性问题”（Navier-Stokesexistenc…",
+      "tag": "大模型",
+      "id": 3
+    },
+    {
+      "title": "OpenAI 最强 AI 生图模型：ChatGPT Images 2.5 登场，延迟降低 50%、新增 Sketch 草图",
+      "url": "https://www.ithome.com/0/999/956.htm",
+      "source": "IT之家",
+      "source_icon": "🟢",
+      "summary": "OpenAI今天（9 月 9 日）官宣发布ChatGPTImages2.5，图像生成延迟最多降低 50%，并新增Sketch草图参考、模板库、图片内评论标注等实用功能， 是该公司当前最先进的图像生成模…",
+      "tag": "大模型",
+      "id": 4
+    },
+    {
+      "title": "大模型的Token生意，终究没绕过天猫",
+      "url": "https://www.tmtpost.com/8132584.html",
+      "source": "钛媒体",
+      "source_icon": "🟠",
+      "summary": "模型能力被放上同一张价签。",
+      "tag": "大模型",
+      "id": 5
+    },
+    {
+      "title": "Sonos 27 音频系统更新：配对增强环绕声道、预览外部 AI 接入等",
+      "url": "https://www.ithome.com/0/999/966.htm",
+      "source": "IT之家",
+      "source_icon": "🟢",
+      "summary": "Sonos昨日（9 月 8日）发布新闻稿，宣布通过苹果App Store应用商店渠道，更新Sonos 27音频系统，并向Sonos S2系列产品免费推送。",
+      "tag": "AI产品",
+      "id": 6
+    },
+    {
+      "title": "苹果 2026 款 Apple TV 4K 曝光：升级 A19/Pro 芯片，支持 Siri AI",
+      "url": "https://www.ithome.com/0/999/963.htm",
+      "source": "IT之家",
+      "source_icon": "🟢",
+      "summary": "消息源亚伦· 佩里斯（AaronPerris）昨日（9月 8 日）在 X平台发布推文，通过挖掘tvOS 27 Beta更新代码，发现了AppleTV18,1硬件踪迹，预估是苹果新款 Apple TV …",
+      "tag": "AI算力",
+      "id": 7
+    },
+    {
+      "title": "Claude 额度离奇消失，Anthropic 确认账号被黑客盗用",
+      "url": "https://www.ithome.com/0/999/962.htm",
+      "source": "IT之家",
+      "source_icon": "🟢",
+      "summary": "9月 9日，据TechCrunch报道，多名Claude用户近期发现，自己在没有使用服务的情况下，账号额度仍在快速消耗。Anthropic 调查后称，黑客利用窃取的Claude登录会话访问用户账号，并…",
+      "tag": "大模型",
+      "id": 8
+    },
+    {
+      "title": "长胶陷阱：为什么优秀的AI系统必须懂得“不优化”什么",
+      "url": "https://www.tmtpost.com/8133417.html",
+      "source": "钛媒体",
+      "source_icon": "🟠",
+      "summary": "好的反馈循环是从现实中学习，但学习并不意味着吸收现实产生的一切。",
+      "tag": "AI产品",
+      "id": 9
+    },
+    {
+      "title": "Runway ARR 突破 2 亿美元：视频热潮转向世界模型押注",
+      "url": "https://www.tmtpost.com/8133572.html",
+      "source": "钛媒体",
+      "source_icon": "🟠",
+      "summary": "仅在第二季度就净增ARR 超过 4000万美元，人均营收约为52万美元。",
+      "tag": "大模型",
+      "id": 10
+    }
+  ]
+}
