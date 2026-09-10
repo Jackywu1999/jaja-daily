@@ -1,0 +1,99 @@
+{
+  "date": "2026-09-10",
+  "generated_at": "2026-09-10T08:46:04.494108+08:00",
+  "category": "餐饮零售 & AI科技",
+  "total": 10,
+  "editor_note": "今天共精选 10 条。餐饮零售板块：份额战之后，东南亚电商开始拼闭环 ｜出海等话题值得关注；AI科技板块：Anthropic 披露第四起 Clau等动态持续发酵。",
+  "items": [
+    {
+      "title": "份额战之后，东南亚电商开始拼闭环 ｜出海参考",
+      "url": "https://www.tmtpost.com/8134189.html",
+      "source": "钛媒体",
+      "source_icon": "🟠",
+      "summary": "东南亚电商平台在经营好线上货架之外，还要进入本地消费的完整过程：发现商品、建立信任、体验产品、完成交易、本地履约，再回到下一次复购。",
+      "tag": "电商",
+      "id": 1
+    },
+    {
+      "title": "拆解几多全：两个月狂开87家，商场盯上了它的流量和承租能力",
+      "url": "https://www.tmtpost.com/8133806.html",
+      "source": "钛媒体",
+      "source_icon": "🟠",
+      "summary": "两个月87家、六成在商场，几多全的扩张逻辑浮出水面。",
+      "tag": "零售动态",
+      "id": 2
+    },
+    {
+      "title": "Anthropic 披露第四起 Claude 模型未经授权访问真实第三方系统的安全事件",
+      "url": "https://www.ithome.com/1/000/565.htm",
+      "source": "IT之家",
+      "source_icon": "🟢",
+      "summary": "Anthropic于当地时间 9 月 9日发文，确认一起发生于2026 年 1月的安全事件，也是Anthropic对外披露的第四起真实网络安全事件。",
+      "tag": "大模型",
+      "id": 3
+    },
+    {
+      "title": "苹果 Apple Watch 将增 AI 音频功能：全天谈话划重点 / 回顾 15 秒对话",
+      "url": "https://www.ithome.com/1/000/559.htm",
+      "source": "IT之家",
+      "source_icon": "🟢",
+      "summary": "彭博社今天（9月 10日）发布博文，报道称在2026秋季发布会上，苹果为Apple Watch Series12、AppleWatch Ultra 4两款智能手表，带来了 Siri Recap 和Li…",
+      "tag": "AI产品",
+      "id": 4
+    },
+    {
+      "title": "证明照片不是 AI：苹果 iPhone 18 Pro 支持像素级标注真实图像数据，但又和国内无关",
+      "url": "https://www.ithome.com/1/000/544.htm",
+      "source": "IT之家",
+      "source_icon": "🟢",
+      "summary": "在AI照片近乎以假乱真的年代，苹果为最新发布的iPhone 18 Pro系列手机带来一项标注真实照片功能。苹果在今日的发布会上宣布推出“Apple参考图像”，iPhone18 Pro用户可通过该技术证…",
+      "tag": "AI产品",
+      "id": 5
+    },
+    {
+      "title": "曾获扎克伯格 15 亿美元 offer，Meta 明星 AI 研究员安德鲁 · 塔洛克宣布离职",
+      "url": "https://www.ithome.com/1/000/574.htm",
+      "source": "IT之家",
+      "source_icon": "🟢",
+      "summary": "北京时间9 月 10日，据《华尔街日报》报道，知情人士透露，明星AI 研究员安德鲁 · 塔洛克(AndrewTulloch) 即将从 Meta离职。",
+      "tag": "AI投融资",
+      "id": 6
+    },
+    {
+      "title": "米哈游《原神》角色声音被“偷”获赔 75 万元，上海首例涉 AI 声音仿冒不正当竞争案宣判",
+      "url": "https://www.ithome.com/1/000/573.htm",
+      "source": "IT之家",
+      "source_icon": "🟢",
+      "summary": "据《案件聚焦》节目公众号，近日，上海市浦东新区人民法院宣判了上海市首例涉AI声音仿冒不正当竞争纠纷案。米哈游公司于 2025年发现，一款AI 变声软件提供了《原神》63款角色的声音资源包，供用户付费变…",
+      "tag": "AI产品",
+      "id": 7
+    },
+    {
+      "title": "OpenAI 悄然收紧 ChatGPT 广告政策，禁止 Adobe 等竞品投放 AI 生图与音频广告",
+      "url": "https://www.ithome.com/1/000/568.htm",
+      "source": "IT之家",
+      "source_icon": "🟢",
+      "summary": "OpenAI最近刚刚推出了 ChatGPTImages2.5 图像生成模型以及 ChatGPTLive 语音功能。据 The Information今日报道，OpenAI 近期悄然更新了其广告政策，禁…",
+      "tag": "商业洞察",
+      "id": 8
+    },
+    {
+      "title": "GPT Image 2.5来了，OpenAI开始抄Banana的作业",
+      "url": "https://www.tmtpost.com/8133662.html",
+      "source": "钛媒体",
+      "source_icon": "🟠",
+      "summary": "大力加强了改图能力。",
+      "tag": "大模型",
+      "id": 9
+    },
+    {
+      "title": "150亿，无锡收获一个机器人IPO",
+      "url": "https://www.tmtpost.com/8133805.html",
+      "source": "钛媒体",
+      "source_icon": "🟠",
+      "summary": "150亿，无锡收获一个机器人IPO",
+      "tag": "AI投融资",
+      "id": 10
+    }
+  ]
+}
