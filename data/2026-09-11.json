@@ -1,0 +1,99 @@
+{
+  "date": "2026-09-11",
+  "generated_at": "2026-09-11T08:47:19.976296+08:00",
+  "category": "餐饮零售 & AI科技",
+  "total": 10,
+  "editor_note": "今天共精选 10 条。餐饮零售板块：一支笔、一只狗、一套能力：京东的AI硬件等话题值得关注；AI科技板块：消息称索尼 PlayStation 实时等动态持续发酵。",
+  "items": [
+    {
+      "title": "一支笔、一只狗、一套能力：京东的AI硬件爆款方法论",
+      "url": "https://www.tmtpost.com/8135125.html",
+      "source": "钛媒体",
+      "source_icon": "🟠",
+      "summary": "线上的入口早已成型，物理世界的入口，京东正打算一支笔、一盏灯、一台烤箱、一架轮椅地去攒。",
+      "tag": "电商",
+      "id": 1
+    },
+    {
+      "title": "消息称索尼 PlayStation 实时服务型游戏《Fairgames$》更换马甲，以全新代号“Project Espresso”亮相",
+      "url": "https://www.ithome.com/1/001/083.htm",
+      "source": "IT之家",
+      "source_icon": "🟢",
+      "summary": "索尼PlayStation实时服务型游戏《Fairgames$》似乎更换了马甲，以全新代号“Project Espresso”重新亮相，官方同步公开了首段实机内容，同时开启玩家测试招募。",
+      "tag": "AI产品",
+      "id": 2
+    },
+    {
+      "title": "你只是怕了：美国高官公开驳斥 Anthropic“AI 末日论”，称担忧源于对技术革命的恐惧",
+      "url": "https://www.ithome.com/1/001/080.htm",
+      "source": "IT之家",
+      "source_icon": "🟢",
+      "summary": "美国国防部（又称“战争部”）首席技术官埃米尔· 迈克尔（EmilMichael）当地时间9 月 10日在华盛顿举行的国防工业会议上，回应了Anthropic 工程师雅各布 ·考克森（JacobCoxo…",
+      "tag": "AI产品",
+      "id": 3
+    },
+    {
+      "title": "商汤科技 AI 办公智能体“小浣熊”移动端 App 上线，提供苹果 iOS / 安卓版本",
+      "url": "https://www.ithome.com/1/001/079.htm",
+      "source": "IT之家",
+      "source_icon": "🟢",
+      "summary": "商汤科技宣布AI 办公智能体“小浣熊”移动端 App正式上线，提供苹果iOS和安卓版本，用户提交App反馈问卷，可获1000积分。",
+      "tag": "AI Agent",
+      "id": 4
+    },
+    {
+      "title": "九方智投“股道智航”正式发布：“AI+量化”重新定义证券投顾4.0时代",
+      "url": "https://www.tmtpost.com/8135640.html",
+      "source": "钛媒体",
+      "source_icon": "🟠",
+      "summary": "从股道领航到股道智航，变的是技术形态，不变的是“以客户为中心”的初心。",
+      "tag": "AI产品",
+      "id": 5
+    },
+    {
+      "title": "OpenAI 扩大实时语音模型能力：GPT-Live-1 上线 API，支持打断处理、工具调用和电话语音智能体",
+      "url": "https://www.ithome.com/1/001/091.htm",
+      "source": "IT之家",
+      "source_icon": "🟢",
+      "summary": "OpenAI今日宣布将 GPT-Live-1 引入API，开发者可据此打造支持实时语音交互的应用和业务流程。该模型支持全双工对话，能够同时听取和输出语音，并在对话过程中处理打断、停顿及背景噪声。",
+      "tag": "大模型",
+      "id": 6
+    },
+    {
+      "title": "环球音乐与 ElevenLabs 达成合作，共同打造授权人工智能音乐平台",
+      "url": "https://www.ithome.com/1/001/089.htm",
+      "source": "IT之家",
+      "source_icon": "🟢",
+      "summary": "环球音乐集团(UMG) 美国当地时间 10日宣布与人工智能音频研究和产品公司ElevenLabs达成一项多年许可协议和更广泛的战略合作。这也是后者与主流唱片公司达成的首份合作协议。",
+      "tag": "AI产品",
+      "id": 7
+    },
+    {
+      "title": "马斯克 SpaceXAI 团队将直播用 Grok Bot 从零开始建立一家公司，从创意构思、产品开发到实际工作部署",
+      "url": "https://www.ithome.com/1/001/088.htm",
+      "source": "IT之家",
+      "source_icon": "🟢",
+      "summary": "马斯克旗下SpaceXAI团队宣布，将于当地时间9 月 15 日至 17日开展为期三天的直播活动，展示团队成员如何借助Grok Bot从一个想法和一张白纸开始，制定商业计划、确定产品功能并完成实际工程…",
+      "tag": "电商",
+      "id": 8
+    },
+    {
+      "title": "【钛晨报】证监会发声，事关“十五五”资本市场工作；DeepSeek V4.1 Flash模型正式发布；马斯克旗下The Boring Company完成30亿美元D轮融资，估值达230亿美元",
+      "url": "https://www.tmtpost.com/8135740.html",
+      "source": "钛媒体",
+      "source_icon": "🟠",
+      "summary": "高德回应“扫雷榜”传闻：正式发布“避雷指南1.0”；A股龙头进入苹果首款折叠屏手机iPhone Duo供应链；HD现代重工将投资8336亿韩元建设新发动机工厂；星巴克拟斥资10亿美元改造多达9000家…",
+      "tag": "大模型",
+      "id": 9
+    },
+    {
+      "title": "AI无限拉低创作门槛，内容平台怎么讲新故事",
+      "url": "https://www.tmtpost.com/8135602.html",
+      "source": "钛媒体",
+      "source_icon": "🟠",
+      "summary": "AI让想法到产品的距离缩短近乎为零，也催生出新型创作者Builder（建造者）。他们既非传统开发者，也非传统内容创作者，而是把想法做出来，并且把过程公开的人。",
+      "tag": "AI产品",
+      "id": 10
+    }
+  ]
+}
