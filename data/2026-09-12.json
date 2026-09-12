@@ -1,0 +1,99 @@
+{
+  "date": "2026-09-12",
+  "generated_at": "2026-09-12T08:50:26.226015+08:00",
+  "category": "餐饮零售 & AI科技",
+  "total": 10,
+  "editor_note": "今天共精选 10 条。餐饮零售板块：京东启动物理 AI 加速计划：两年内采集等话题值得关注；AI科技板块：OpenAI 将 Habitat 从 P等动态持续发酵。",
+  "items": [
+    {
+      "title": "京东启动物理 AI 加速计划：两年内采集超 1000万小时真实场景视频数据",
+      "url": "https://www.tmtpost.com/8135323.html",
+      "source": "钛媒体",
+      "source_icon": "🟠",
+      "summary": "未来十年，大模型与实体产业的深度结合，将触发全新的范式变革，不只会改变生产方式与组织模式，更会重构整个产业的价值逻辑。",
+      "tag": "电商",
+      "id": 1
+    },
+    {
+      "title": "OpenAI 将 Habitat 从 Python 迁移至 Rust：CPU 效率提升 6 倍，服务 10 亿 ChatGPT 用户",
+      "url": "https://www.ithome.com/1/001/497.htm",
+      "source": "IT之家",
+      "source_icon": "🟢",
+      "summary": "OpenAI 今日发文，主要介绍了其在线存储平台Habitat如何应对产品规模的快速增长，以及从Python 迁移至 Rust的工程实践。",
+      "tag": "大模型",
+      "id": 2
+    },
+    {
+      "title": "OpenAI 承认其 AI 智能体曾对 Ruby 语言包管理器 RubyGems 发起网络攻击",
+      "url": "https://www.ithome.com/1/001/492.htm",
+      "source": "IT之家",
+      "source_icon": "🟢",
+      "summary": "OpenAI 智能体开发人员参与了一起此前未披露的网络攻击，该攻击使 RubyGems 服务不堪重负。",
+      "tag": "AI Agent",
+      "id": 3
+    },
+    {
+      "title": "OpenAI 进一步完善 ChatGPT Sites：响应速度提升、新增协作功能、可绑定自定义域名",
+      "url": "https://www.ithome.com/1/001/485.htm",
+      "source": "IT之家",
+      "source_icon": "🟢",
+      "summary": "OpenAI宣布进一步完善 ChatGPTSites 功能，新增一项“Build Together”协作功能，允许用户邀请其他人共同开发同一个网站/ Web应用。",
+      "tag": "大模型",
+      "id": 4
+    },
+    {
+      "title": "AI末日论者停不下末日论调，是时候听听他们怎么说了",
+      "url": "https://www.tmtpost.com/8137504.html",
+      "source": "钛媒体",
+      "source_icon": "🟠",
+      "summary": "与新技术相关的末日式设想，已经是延续了一个多世纪的传统。但这一次，也许真的会不一样。",
+      "tag": "AI产品",
+      "id": 5
+    },
+    {
+      "title": "第三方公司基于三星 Galaxy Watch 8 打造 Bark Watch 儿童手表，内置 AI 风险监测功能",
+      "url": "https://www.ithome.com/1/001/505.htm",
+      "source": "IT之家",
+      "source_icon": "🟢",
+      "summary": "美国科技公司Bark Technologies基于三星Galaxy Watch 8 40mm版手表进行定制，推出了一款Bark Watch儿童手表，面向“已经开始希望获得更多独立性的儿童”，定价为24…",
+      "tag": "AI产品",
+      "id": 6
+    },
+    {
+      "title": "国补后 3499 元起，全新一代华为 MatePad Air / 悦享款平板电脑今日开售",
+      "url": "https://www.ithome.com/1/001/503.htm",
+      "source": "IT之家",
+      "source_icon": "🟢",
+      "summary": "全新一代华为MatePad Air 平板电脑今日10:08 正式开售，限时优惠叠加国补后到手价 4299元起，悦享款3499 元起。",
+      "tag": "AI产品",
+      "id": 7
+    },
+    {
+      "title": "DeepSeek 开口说话了：灰度测试 AI 语音对话，支持四种音色",
+      "url": "https://www.ithome.com/1/001/498.htm",
+      "source": "IT之家",
+      "source_icon": "🟢",
+      "summary": "据IT之家小伙伴反馈，DeepSeek 灰度测试语音对话，测试到的用户在App右上角会有一个小喇叭按钮。 此外，DeepSeek的设置页面会出现一个“ 朗读音色”选项，用户可以选择四种音色：贝壳：百变…",
+      "tag": "大模型",
+      "id": 8
+    },
+    {
+      "title": "蚂蚁灵波不“嫁接”：具身大脑的原生路线与冷启动",
+      "url": "https://www.tmtpost.com/8137542.html",
+      "source": "钛媒体",
+      "source_icon": "🟠",
+      "summary": "VLA和 WAM两条路线，灵波都没有选。",
+      "tag": "机器人",
+      "id": 9
+    },
+    {
+      "title": "京东启动物理 AI 加速计划：两年内采集超 1000万小时真实场景视频数据",
+      "url": "https://www.tmtpost.com/8135323.html",
+      "source": "钛媒体",
+      "source_icon": "🟠",
+      "summary": "未来十年，大模型与实体产业的深度结合，将触发全新的范式变革，不只会改变生产方式与组织模式，更会重构整个产业的价值逻辑。",
+      "tag": "电商",
+      "id": 10
+    }
+  ]
+}
