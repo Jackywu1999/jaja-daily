@@ -1,0 +1,99 @@
+{
+  "date": "2026-09-13",
+  "generated_at": "2026-09-13T08:34:03.815490+08:00",
+  "category": "餐饮零售 & AI科技",
+  "total": 10,
+  "editor_note": "今天共精选 10 条。餐饮零售板块：中东主权资本押注瑞幸：一杯咖啡里，藏着怎等话题值得关注；AI科技板块：谷歌完成对创企 Mechanize 的人等动态持续发酵。",
+  "items": [
+    {
+      "title": "中东主权资本押注瑞幸：一杯咖啡里，藏着怎样的零售新逻辑？",
+      "url": "https://www.tmtpost.com/8137851.html",
+      "source": "钛媒体",
+      "source_icon": "🟠",
+      "summary": "一套被验证得零售操作系统",
+      "tag": "餐饮动态",
+      "id": 1
+    },
+    {
+      "title": "种草，开始被清算",
+      "url": "https://www.tmtpost.com/8137652.html",
+      "source": "钛媒体",
+      "source_icon": "🟠",
+      "summary": "种草没有消失，它正在被清算",
+      "tag": "电商",
+      "id": 2
+    },
+    {
+      "title": "海底捞27.5亿港元减持背后，是家族信托的税务压力",
+      "url": "https://www.tmtpost.com/8137293.html",
+      "source": "钛媒体",
+      "source_icon": "🟠",
+      "summary": "当大股东是一个家族信托，股东层面的资金安排与公司股价之间，并不存在真正的隔离。",
+      "tag": "餐饮动态",
+      "id": 3
+    },
+    {
+      "title": "算力词元贷加速全国推广，支持机房建设、GPU 服务器集群采购",
+      "url": "https://www.ithome.com/1/001/656.htm",
+      "source": "IT之家",
+      "source_icon": "🟢",
+      "summary": "今年服贸会首次推出“金融 + 科创”的联展模式，让金融机构联合他们所赋能的科创企业同台参展。展台上除了金融产品，还有智能机械臂、运载火箭模型、人形机器人等硬科技，背后是 算力贷、算力保、投贷联动 等新…",
+      "tag": "商业洞察",
+      "id": 4
+    },
+    {
+      "title": "谷歌完成对创企 Mechanize 的人才收购，旨在补齐自家 AI 编程短板",
+      "url": "https://www.ithome.com/1/001/653.htm",
+      "source": "IT之家",
+      "source_icon": "🟢",
+      "summary": "据《商业内幕》今天（12 日）凌晨报道，谷歌完成了对旧金山AI 编程初创企业 Mechanize的人才收购。Mechanize 联合创始人塔迈 ·贝西罗格鲁的LinkedIn资料显示，他自8 月起加入…",
+      "tag": "AI投融资",
+      "id": 5
+    },
+    {
+      "title": "与 AI 搏斗失败后重新开始找工作：经验分享与半可靠避雷指南",
+      "url": "https://sspai.com/post/114461",
+      "source": "少数派",
+      "source_icon": "🔵",
+      "summary": "Matrix首页推荐Matrix是少数派的写作社区，我们主张分享真实的产品体验，有实用价值的经验与思考。我们会不定期挑选Matrix最优质的文章，展示来自用户的最真实的体验和观点。",
+      "tag": "AI产品",
+      "id": 6
+    },
+    {
+      "title": "育儿博主曝光 Meta AI 可抓取日常数据“汇总生成隐私家庭信息”，官方紧急修复",
+      "url": "https://www.ithome.com/1/001/685.htm",
+      "source": "IT之家",
+      "source_icon": "🟢",
+      "summary": "Meta确认现已修复 Meta AI的一项功能缺陷。此前有媒体爆出相应功能可能主动向用户推荐涉及个人隐私的问题，并从用户可访问的信息中整理出包括儿童在内的个人资料。",
+      "tag": "AI产品",
+      "id": 7
+    },
+    {
+      "title": "A20 Pro 芯片 AI 跑分曝光：苹果 iPhone 18 Pro NPU 较前代最高增幅 51.53%",
+      "url": "https://www.ithome.com/1/001/675.htm",
+      "source": "IT之家",
+      "source_icon": "🟢",
+      "summary": "在CPU / GPU跑分曝光之后，苹果iPhone 18 Pro（对应机型iPhone19,2）的GeekBench AI 跑分昨日（9月12日）现身，相比较 iPhone 17 Pro最高增幅为 5…",
+      "tag": "AI算力",
+      "id": 8
+    },
+    {
+      "title": "奥尔特曼确认：OpenAI 今年不会上市",
+      "url": "https://www.ithome.com/1/001/669.htm",
+      "source": "IT之家",
+      "source_icon": "🟢",
+      "summary": "OpenAI首席执行官萨姆 ·奥尔特曼本周五接受《财富》杂志采访，确认公司不会在今年上市。 奥尔特曼指出，OpenAI并不急于推进IPO（首次公开募股）。",
+      "tag": "AI投融资",
+      "id": 9
+    },
+    {
+      "title": "25 位菲尔兹奖得主联名愤怒，OpenAI 退出赞助：AI 正在激怒整个数学界",
+      "url": "https://www.tmtpost.com/8137883.html",
+      "source": "钛媒体",
+      "source_icon": "🟠",
+      "summary": "数学家们说：AI公司负责宣布“突破”，而数学家负责免费验证、修补，甚至收拾烂摊子。这笔账，他们不想再忍了。",
+      "tag": "AI产品",
+      "id": 10
+    }
+  ]
+}
