@@ -1,0 +1,99 @@
+{
+  "date": "2026-09-15",
+  "generated_at": "2026-09-15T09:07:52.947813+08:00",
+  "category": "餐饮零售 & AI科技",
+  "total": 10,
+  "editor_note": "今天共精选 10 条。餐饮零售板块：试水跨境电商，小红书 Redshop 如等话题值得关注；AI科技板块：Anthropic Claude Opu等动态持续发酵。",
+  "items": [
+    {
+      "title": "试水跨境电商，小红书 Redshop 如何在“夹缝”中生存",
+      "url": "https://www.tmtpost.com/8139456.html",
+      "source": "钛媒体",
+      "source_icon": "🟠",
+      "summary": "不敢硬碰TikTokshop，也不甘只做 Etsy？",
+      "tag": "电商",
+      "id": 1
+    },
+    {
+      "title": "京东建十万卡，字节“借”296亿，AI 算力进入「豪赌时刻」",
+      "url": "https://www.tmtpost.com/8139073.html",
+      "source": "钛媒体",
+      "source_icon": "🟠",
+      "summary": "AI军备赛进入买单周期，这一次，中国大厂也下了重注。",
+      "tag": "电商",
+      "id": 2
+    },
+    {
+      "title": "Anthropic Claude Opus 5.2 灰度测试曝光：响应更快，告别“偷懒”",
+      "url": "https://www.ithome.com/1/002/365.htm",
+      "source": "IT之家",
+      "source_icon": "🟢",
+      "summary": "原标题：《突发！Opus5.2深夜上线，RSI 真来了？》 今天清晨，Opus5.2悄悄上线了。许多开发者发现，新一代神级模型Claude Opus5.2，已经在Claude Code中开启灰度测试！",
+      "tag": "大模型",
+      "id": 3
+    },
+    {
+      "title": "CG3M 版微星 Claw 8 EX AI+ 掌机曝光：10 核 Xe3，最高 90 INT8 TOPS",
+      "url": "https://www.ithome.com/1/002/363.htm",
+      "source": "IT之家",
+      "source_icon": "🟢",
+      "summary": "科技媒体videocardz 昨日（9 月 14日）发布博文，报道称基于美国零售商CompSource页面信息，微星（MSI）将为Claw 8 EX AI+ 新增CG3M 版本，采用英特尔锐炫 G3（…",
+      "tag": "AI产品",
+      "id": 4
+    },
+    {
+      "title": "曝 Glass Imaging 被 OpenAI 收购：前苹果员工创办，其影像技术已用于荣耀手机",
+      "url": "https://www.ithome.com/1/002/359.htm",
+      "source": "IT之家",
+      "source_icon": "🟢",
+      "summary": "华尔街日报昨日（9月 14日）发布博文，报道称OpenAI公司悄然收购手机影像初创公司GlassImaging，预估这笔交易后该公司估值超过 3亿美元",
+      "tag": "AI投融资",
+      "id": 5
+    },
+    {
+      "title": "Excel AI 辅助工作流横评：数据分析高手还是照葫芦画瓢？",
+      "url": "https://sspai.com/prime/story/ai-assisted-spreadsheeting-a-survey",
+      "source": "少数派",
+      "source_icon": "🔵",
+      "summary": "用具体的测试数据和盲评结果，聊聊当下AI 辅助制作 Excel的真实水平，以及我使用AI 辅助制作 Excel的心得。查看全文本文为会员文章，出自《单篇文章》，订阅后可阅读全文。",
+      "tag": "AI产品",
+      "id": 6
+    },
+    {
+      "title": "与 AI 搏斗失败后重新开始找工作：经验分享与半可靠避雷指南",
+      "url": "https://sspai.com/post/114461",
+      "source": "少数派",
+      "source_icon": "🔵",
+      "summary": "Matrix首页推荐Matrix是少数派的写作社区，我们主张分享真实的产品体验，有实用价值的经验与思考。我们会不定期挑选Matrix最优质的文章，展示来自用户的最真实的体验和观点。",
+      "tag": "AI产品",
+      "id": 7
+    },
+    {
+      "title": "AI-eSIM 团体标准编制启动，中国移动 / 联通 / 电信三大运营商参与",
+      "url": "https://www.ithome.com/1/002/375.htm",
+      "source": "IT之家",
+      "source_icon": "🟢",
+      "summary": "由中国通信企业协会主办的2026 信息通信行业 6G+人工智能创新发展研讨会于上周末在雄安新区举办。会上举行了AI-eSIM 团体标准编制启动仪式，AI-eSIM 领域将迎来规范化、标准化发展新阶段。",
+      "tag": "AI产品",
+      "id": 8
+    },
+    {
+      "title": "联想来酷斗战者 AI NAS 900 系列私有云主机开售：飞牛 fnOS 系统，6999 元起",
+      "url": "https://www.ithome.com/1/002/373.htm",
+      "source": "IT之家",
+      "source_icon": "🟢",
+      "summary": "联想来酷斗战者AI 私有云主机今日 9:00正式开售，售价 6999 元起 ： AI NAS900（Ultra 7 355、16GB+512GB）：6999元 AI NAS 900Pro（UltraX…",
+      "tag": "AI产品",
+      "id": 9
+    },
+    {
+      "title": "Meta 对 Instagram 应用 AI 修图功能新增付费限制，需订阅 Meta One 会员使用",
+      "url": "https://www.ithome.com/1/002/366.htm",
+      "source": "IT之家",
+      "source_icon": "🟢",
+      "summary": "据外媒Business Insider报道，Instagram近期开始对部分 AI修图功能加入付费限制，用户在使用AI修图达到一定程度后，应用便会要求用户订阅Meta One Core会员才能继续使用…",
+      "tag": "AI产品",
+      "id": 10
+    }
+  ]
+}
