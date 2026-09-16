@@ -1,0 +1,99 @@
+{
+  "date": "2026-09-16",
+  "generated_at": "2026-09-16T08:59:37.051736+08:00",
+  "category": "餐饮零售 & AI科技",
+  "total": 10,
+  "editor_note": "今天共精选 10 条。餐饮零售板块：【钛晨报】两部门要求美团、携程等平台，防等话题值得关注；AI科技板块：OpenAI 奥尔特曼称 AI 行业自律等动态持续发酵。",
+  "items": [
+    {
+      "title": "【钛晨报】两部门要求美团、携程等平台，防范化解“全网最低价”等竞争风险；平台月付将退出支付选项？支付宝、京东等多方回应；华为与赛力斯合作模式官宣调整",
+      "url": "https://www.tmtpost.com/8141167.html",
+      "source": "钛媒体",
+      "source_icon": "🟠",
+      "summary": "高端MLCC是买的海外产品回来贴牌？风华高科回应；报道称字节跳动上半年营收同比增长30%，达到1200亿美元；郭平：华为没有计划制造卫星或太空飞船；小红书发布金融生态公约，非法荐股、伪造资质、违规导流…",
+      "tag": "电商",
+      "id": 1
+    },
+    {
+      "title": "OpenAI 奥尔特曼称 AI 行业自律可守住安全底线",
+      "url": "https://www.ithome.com/1/002/838.htm",
+      "source": "IT之家",
+      "source_icon": "🟢",
+      "summary": "昨日（9月 15 日）在旧金山举办的Salesforce 活动中，OpenAI首席执行官萨姆 · 奥尔特曼（SamAltman）认为，AI公司行业自律可以掌控研发风险，不会对广大民众造成重大伤害。",
+      "tag": "政策监管",
+      "id": 2
+    },
+    {
+      "title": "影石 Mic Pro 腾讯会议版 AI 录音领夹麦发布，698 元",
+      "url": "https://www.ithome.com/1/002/835.htm",
+      "source": "IT之家",
+      "source_icon": "🟢",
+      "summary": "影石昨日发布了Mic Pro 腾讯会议版 AI录音领夹麦，售价 698 元。该产品定位 Agent 时代 AI录音笔，接入了腾讯会议录音转写、纪要能力，按下即可录制，录完自动同步腾讯会议 App，AI…",
+      "tag": "AI产品",
+      "id": 3
+    },
+    {
+      "title": "英伟达黄仁勋：AI 行业不需要新法律，开发可兼得速度和安全",
+      "url": "https://www.ithome.com/1/002/834.htm",
+      "source": "IT之家",
+      "source_icon": "🟢",
+      "summary": "昨日（9月 15 日）举办的Salesforce 活动中，英伟达首席执行官黄仁勋表示，AI开发不应被理解为“速度”和“安全”二选一。",
+      "tag": "政策监管",
+      "id": 4
+    },
+    {
+      "title": "OpenAI 考虑 1.2 万亿美元融资，拟将首次公开募股推迟至 2027 年",
+      "url": "https://www.tmtpost.com/8141318.html",
+      "source": "钛媒体",
+      "source_icon": "🟠",
+      "summary": "本轮融资将在3 月 1220 亿美元融资设定的8520亿美元投后估值基础上增加约 3500亿美元。",
+      "tag": "AI投融资",
+      "id": 5
+    },
+    {
+      "title": "Excel AI 辅助工作流横评：数据分析高手还是照葫芦画瓢？",
+      "url": "https://sspai.com/prime/story/ai-assisted-spreadsheeting-a-survey",
+      "source": "少数派",
+      "source_icon": "🔵",
+      "summary": "用具体的测试数据和盲评结果，聊聊当下AI 辅助制作 Excel的真实水平，以及我使用AI 辅助制作 Excel的心得。查看全文本文为会员文章，出自《单篇文章》，订阅后可阅读全文。",
+      "tag": "AI产品",
+      "id": 6
+    },
+    {
+      "title": "OpenAI GPT-5.5 将于 10 月 14 日下线：覆盖 ChatGPT 与 Codex，官方建议迁移至新模型",
+      "url": "https://www.ithome.com/1/002/858.htm",
+      "source": "IT之家",
+      "source_icon": "🟢",
+      "summary": "OpenAI 今日宣布，GPT-5.5将于 10 月 14 日从ChatGPT、ChatGPTWork 和 Codex中下线，覆盖所有订阅方案。",
+      "tag": "大模型",
+      "id": 7
+    },
+    {
+      "title": "Meta 扎克伯格：保障 AI 安全应依靠引入独立外部评估，而不是放缓 AI 发展",
+      "url": "https://www.ithome.com/1/002/854.htm",
+      "source": "IT之家",
+      "source_icon": "🟢",
+      "summary": "MetaCEO 扎克伯格今日在 X平台发文，表达了对业界呼吁放缓AI开发一事的看法。 扎克伯格表示，现实情况是用户绝不会愿意去用那些与自身价值观未对齐、且无法按指令执行任务的智能体。",
+      "tag": "政策监管",
+      "id": 8
+    },
+    {
+      "title": "全球首富马斯克谈 AI 安全：主张交叉测试，让对手来“挑刺”",
+      "url": "https://www.ithome.com/1/002/851.htm",
+      "source": "IT之家",
+      "source_icon": "🟢",
+      "summary": "昨日（9月 15 日）召开的 All-In峰会上，全球首富埃隆· 马斯克（ElonMusk）以视频方式远程出席，在谈及 AI 时主张头部 AI公司在发布模型前彼此交叉测试，并认为这一机制应尽快推向全球。",
+      "tag": "政策监管",
+      "id": 9
+    },
+    {
+      "title": "黄仁勋当众接起总统的电话：AI减速之争进入第三个交易日",
+      "url": "https://www.tmtpost.com/8140304.html",
+      "source": "钛媒体",
+      "source_icon": "🟠",
+      "summary": "芯片、光通信、存储产业链周一全线重挫的同时，网络安全股出现了本轮周期里少见的单日行情。",
+      "tag": "AI产品",
+      "id": 10
+    }
+  ]
+}
