@@ -1,0 +1,99 @@
+{
+  "date": "2026-09-17",
+  "generated_at": "2026-09-17T09:02:46.813317+08:00",
+  "category": "餐饮零售 & AI科技",
+  "total": 10,
+  "editor_note": "今天共精选 10 条。餐饮零售板块：金融理财产品不能“种草”了，流量和交易开等话题值得关注；AI科技板块：Anthropic CEO 提议引入“银等动态持续发酵。",
+  "items": [
+    {
+      "title": "金融理财产品不能“种草”了，流量和交易开始分家",
+      "url": "https://www.tmtpost.com/8142207.html",
+      "source": "钛媒体",
+      "source_icon": "🟠",
+      "summary": "流量留在平台，交易回到机构，金融营销正在重新分工。",
+      "tag": "电商",
+      "id": 1
+    },
+    {
+      "title": "当万店不再是护城河，新茶饮的规模时代落幕了吗？",
+      "url": "https://www.tmtpost.com/8142214.html",
+      "source": "钛媒体",
+      "source_icon": "🟠",
+      "summary": "换挡的胜负手只有三个：单店营业额何时止跌，加盟商何时稳定赚钱，万店网络何时从负担变回资产。",
+      "tag": "餐饮动态",
+      "id": 2
+    },
+    {
+      "title": "塔吉特及另外五只表现出色的零售股",
+      "url": "https://www.tmtpost.com/8142338.html",
+      "source": "钛媒体",
+      "source_icon": "🟠",
+      "summary": "无论是仍处于鼎盛时期的零售巨头，还是正迎来转机、势头渐起的逆袭故事，这六家零售商都值得关注。",
+      "tag": "零售动态",
+      "id": 3
+    },
+    {
+      "title": "Anthropic CEO 提议引入“银行式监管”：专家称评估员无权叫停 AI，你不能既当运动员又当裁判",
+      "url": "https://www.ithome.com/1/003/354.htm",
+      "source": "IT之家",
+      "source_icon": "🟢",
+      "summary": "9月 17日，据CNBC报道，AnthropicCEO Dario Amodei提议将独立第三方安全评估员长期嵌入前沿AI公司，赋予其接近内部风险团队的访问权限，并在有限删减前提下自主发布调查结果的权…",
+      "tag": "政策监管",
+      "id": 4
+    },
+    {
+      "title": "苹果首款折叠 iPhone Duo 有望支持“轻量级 UI”，Apple Pencil 悬停触发 Siri AI",
+      "url": "https://www.ithome.com/1/003/353.htm",
+      "source": "IT之家",
+      "source_icon": "🟢",
+      "summary": "消息源@itspdfu 今天（9 月 17日）在 X 平台发布推文，爆料称苹果公司正在为Siri AI引入名为“Lightweight UI”（轻量级用户界面）的交互方式。",
+      "tag": "AI产品",
+      "id": 5
+    },
+    {
+      "title": "Excel AI 辅助工作流横评：数据分析高手还是照葫芦画瓢？",
+      "url": "https://sspai.com/prime/story/ai-assisted-spreadsheeting-a-survey",
+      "source": "少数派",
+      "source_icon": "🔵",
+      "summary": "用具体的测试数据和盲评结果，聊聊当下AI 辅助制作 Excel的真实水平，以及我使用AI 辅助制作 Excel的心得。查看全文本文为会员文章，出自《单篇文章》，订阅后可阅读全文。",
+      "tag": "AI产品",
+      "id": 6
+    },
+    {
+      "title": "苹果 iOS 27.2 Beta 1 更新汇总：升级健康、拓展 Siri AI，为中国用户带来存储覆写擦除选项",
+      "url": "https://www.ithome.com/1/003/375.htm",
+      "source": "IT之家",
+      "source_icon": "🟢",
+      "summary": "苹果今日向iPhone 和 iPad 用户推送了iOS/ iPadOS 27.2 开发者预览版Beta 更新（内部版本号：24B5084k），IT之家查询MacRumors等媒体报道，汇总本次更新带来…",
+      "tag": "AI产品",
+      "id": 7
+    },
+    {
+      "title": "折旧模型失效：英伟达 B200 二手残值达首发价 158%，AI 算力需求持续推高 GPU 溢价",
+      "url": "https://www.ithome.com/1/003/368.htm",
+      "source": "IT之家",
+      "source_icon": "🟢",
+      "summary": "数据分析公司Silicon Data最新数据显示，英伟达B200 GPU（Blackwell架构）在出货约一年后，二手残值已涨至其原始上市价格的 158%。",
+      "tag": "大模型",
+      "id": 8
+    },
+    {
+      "title": "马斯克突然对苹果撤诉？OpenAI 怀疑有鬼，法官下令披露背后协议",
+      "url": "https://www.ithome.com/1/003/359.htm",
+      "source": "IT之家",
+      "source_icon": "🟢",
+      "summary": "北京时间9 月 17日，据科技网站9to5mac报道，美国联邦法官马克· 皮特曼 (Mark Pittman)要求埃隆· 马斯克 (Elon Musk)旗下公司提供细节，披露是否存在协议促使其撤销了对…",
+      "tag": "AI产品",
+      "id": 9
+    },
+    {
+      "title": "大模型的进步，为什么越来越难衡量了？",
+      "url": "https://www.tmtpost.com/8142369.html",
+      "source": "钛媒体",
+      "source_icon": "🟠",
+      "summary": "模型评测正在成为一种竞争力。",
+      "tag": "大模型",
+      "id": 10
+    }
+  ]
+}
