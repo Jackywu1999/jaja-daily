@@ -1,0 +1,99 @@
+{
+  "date": "2026-09-18",
+  "generated_at": "2026-09-18T08:57:40.349204+08:00",
+  "category": "餐饮零售 & AI科技",
+  "total": 10,
+  "editor_note": "今天共精选 10 条。AI科技板块：“外卖大战”后：第三方配送全面洗牌等动态持续发酵。",
+  "items": [
+    {
+      "title": "“外卖大战”后：第三方配送全面洗牌",
+      "url": "https://www.tmtpost.com/8143727.html",
+      "source": "钛媒体",
+      "source_icon": "🟠",
+      "summary": "接下来如无意外，第三方配送公司将会有一轮重大的洗牌，强者恒强的趋势将更加明显。",
+      "tag": "AI产品",
+      "id": 1
+    },
+    {
+      "title": "OpenAI 披露 GPT-5.6 Sol 异常行为：AI 模型会留下指令要求“未来版本的自己”隐瞒自身错误",
+      "url": "https://www.ithome.com/1/003/896.htm",
+      "source": "IT之家",
+      "source_icon": "🟢",
+      "summary": "OpenAI 发文，披露研究团队在训练最新模型GPT-5.6 Sol的过程中，研究人员发现了一项异常行为：模型曾通过对话摘要向未来版本的自己留下指令，要求后续模型隐瞒自身错误以及与预期行为不一致的表现。",
+      "tag": "大模型",
+      "id": 2
+    },
+    {
+      "title": "消息称 Steam 平台山寨游戏泛滥，爆款独立作品遭其他开发者利用 AI 快速复制",
+      "url": "https://www.ithome.com/1/003/893.htm",
+      "source": "IT之家",
+      "source_icon": "🟢",
+      "summary": "外媒Kotaku发文指出，目前Steam平台盗版山寨游戏泛滥，在平台搜索某些突然爆红的独立游戏竟如同“大海捞针”，稍不留神就会被山寨游戏骗到。",
+      "tag": "AI产品",
+      "id": 3
+    },
+    {
+      "title": "吴恩达谈 AI 灭绝论：堪比科幻小说，新一波造势或意在影响监管",
+      "url": "https://www.ithome.com/1/003/892.htm",
+      "source": "IT之家",
+      "source_icon": "🟢",
+      "summary": "北京时间9 月 18日，据彭博社报道，AI 领域的先锋吴恩达表示，顶尖模型开发商研究人员发出的有关AI生存风险的警告属于“科幻小说”，可能不利于确保这项技术为社会带来最大益处。",
+      "tag": "政策监管",
+      "id": 4
+    },
+    {
+      "title": "从过山车到机器人：金马游乐5.61亿定增的战略转向与风险",
+      "url": "https://www.tmtpost.com/8143448.html",
+      "source": "钛媒体",
+      "source_icon": "🟠",
+      "summary": "上半年收入不足800万元、占公司营收约2%的机器人业务，将获得金马游乐本轮逾六成的募资安排。",
+      "tag": "机器人",
+      "id": 5
+    },
+    {
+      "title": "微软及 OpenAI 内部文件曝光：高管曾警告 AI 可能对新闻机构产生“毁灭性影响”",
+      "url": "https://www.ithome.com/1/003/908.htm",
+      "source": "IT之家",
+      "source_icon": "🟢",
+      "summary": "随着美国《纽约时报》等新闻机构持续推进就微软、OpenAI 之间针对训练数据版权问题的诉讼，微软和OpenAI内部一批此前被标记为机密的文件现已正式公开，其中展示了微软和OpenAI 内部员工对 AI…",
+      "tag": "AI产品",
+      "id": 6
+    },
+    {
+      "title": "谷歌最强 AI 模型：Gemini 4 Pro 开测，SVG 生图表现惊艳",
+      "url": "https://www.ithome.com/1/003/902.htm",
+      "source": "IT之家",
+      "source_icon": "🟢",
+      "summary": "根据@LuminaBench等网友反馈，谷歌正以“gemini-3.8-flash”名称，在 Arena 等基准平台测试其最强Gemini4 Pro模型，内部开发代号为 Argon。",
+      "tag": "大模型",
+      "id": 7
+    },
+    {
+      "title": "OpenAI 被指控“为赚钱不择手段”：明知威胁出版商生存，仍大量侵权",
+      "url": "https://www.ithome.com/1/003/897.htm",
+      "source": "IT之家",
+      "source_icon": "🟢",
+      "summary": "北京时间9 月 18日，根据《纽约时报》提交的最新诉讼文件，OpenAI 在明知其对出版商构成“生存威胁”的情况下，仍复制了数百万篇受版权保护的文章，以打造潜在价值高达“天文数字”的AI技术。",
+      "tag": "AI产品",
+      "id": 8
+    },
+    {
+      "title": "一位CIO的自我革命：AI三年，从内部重构到外部生长",
+      "url": "https://www.tmtpost.com/8141973.html",
+      "source": "钛媒体",
+      "source_icon": "🟠",
+      "summary": "这是一场跑进业务深处的AI变革。 三年间，蒋林泉以RIDE 推动 28类数字员工上岗，以Half-Stack重塑产研组织，以AI Native推动公司业务系统向智能体开放。",
+      "tag": "AI产品",
+      "id": 9
+    },
+    {
+      "title": "Agent手机爆发前夜，vivo把答案押在\"个人化智能\"",
+      "url": "https://www.tmtpost.com/8143272.html",
+      "source": "钛媒体",
+      "source_icon": "🟠",
+      "summary": "Agent手机是进入到模型、系统、硬件、应用生态和个人数据共同构成的系统竞争。",
+      "tag": "AI Agent",
+      "id": 10
+    }
+  ]
+}
