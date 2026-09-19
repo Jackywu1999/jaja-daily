@@ -1,0 +1,99 @@
+{
+  "date": "2026-09-19",
+  "generated_at": "2026-09-19T08:54:17.274802+08:00",
+  "category": "餐饮零售 & AI科技",
+  "total": 10,
+  "editor_note": "今天共精选 10 条。餐饮零售板块：珀莱雅投资毕生之研；ALO官宣中国市场七等话题值得关注；AI科技板块：外卖“御三家”：狂热开始，理性收敛等动态持续发酵。",
+  "items": [
+    {
+      "title": "外卖“御三家”：狂热开始，理性收敛",
+      "url": "https://www.tmtpost.com/8144061.html",
+      "source": "钛媒体",
+      "source_icon": "🟠",
+      "summary": "外卖战场“没赢家”，战略博弈“无输家”。",
+      "tag": "AI产品",
+      "id": 1
+    },
+    {
+      "title": "珀莱雅投资毕生之研；ALO官宣中国市场七城八店零售布局；星巴克中国新一代旗舰店亮相北京SKP；NikeSKIMS品牌正式进入中国｜消研所周报",
+      "url": "https://www.tmtpost.com/8144867.html",
+      "source": "钛媒体",
+      "source_icon": "🟠",
+      "summary": "迪桑特儿童经典复刻三合一焕新上市；HOKA官宣王玉雯成为品牌大使。",
+      "tag": "餐饮动态",
+      "id": 2
+    },
+    {
+      "title": "Claude Code 宣布添加支持“AI 通用说明书”AGENTS.md",
+      "url": "https://www.ithome.com/1/004/351.htm",
+      "source": "IT之家",
+      "source_icon": "🟢",
+      "summary": "Anthropic公司 Claude Code团队工程师萨里克· 希希帕尔（ThariqShihipar，网名@trq212）在 X平台发布推文，宣布在今天（9 月 19 日）发布的2.1.277版本…",
+      "tag": "大模型",
+      "id": 3
+    },
+    {
+      "title": "中老跨境数字支付互联互通正式启动，数字人民币可在老挝扫码支付",
+      "url": "https://www.ithome.com/1/004/350.htm",
+      "source": "IT之家",
+      "source_icon": "🟢",
+      "summary": "2026年 9 月 18日，中国人民银行与老挝人民民主共和国银行在广西南宁联合举办中老跨境数字支付互联互通启动会。 中国人民银行副行长陆磊、老挝人民民主共和国银行副行长苏里萨克 · 萨姆努翁出席并致辞。",
+      "tag": "AIGC",
+      "id": 4
+    },
+    {
+      "title": "长安汽车首席专家谭欢：未来要用机器人造车、卖车，让机器人上车、造机器人",
+      "url": "https://www.ithome.com/1/004/337.htm",
+      "source": "IT之家",
+      "source_icon": "🟢",
+      "summary": "在今天（18日）的第 22届中国汽车产业发展（泰达）国际论坛“新赛道生态专场：具身智能新赛道”活动中，长安汽车首席专家、长安天枢智能机器人公司总经理谭欢在演讲中指出，AI 正推动以物理具身智能为核心的…",
+      "tag": "机器人",
+      "id": 5
+    },
+    {
+      "title": "让 Agent 读懂你的身体：数据获取篇",
+      "url": "https://sspai.com/prime/story/how-to-obtain-data-for-agent-analysis",
+      "source": "少数派",
+      "source_icon": "🔵",
+      "summary": "某一天，我站在健身房里，发现自己似乎已经有一阵子没什么进步了，隐约生出一种「怎么练来练去还是这样」的顿感。我知道，这多半是平台期。",
+      "tag": "AI Agent",
+      "id": 6
+    },
+    {
+      "title": "Anthropic 自建生物实验室推进 AI 物理实验，此前曾警告 AI 灭绝风险",
+      "url": "https://www.ithome.com/1/004/376.htm",
+      "source": "IT之家",
+      "source_icon": "🟢",
+      "summary": "Anthropic 已在美国旧金山湾区设立一座湿实验室，用于开展实际生物学实验，并探索利用其AI模型辅助完成从计算分析到物理实验的研究流程。",
+      "tag": "AI产品",
+      "id": 7
+    },
+    {
+      "title": "微软高管内部表述曝光，称训练 AI 是“人类历史上最大规模劳动窃取”",
+      "url": "https://www.ithome.com/1/004/356.htm",
+      "source": "IT之家",
+      "source_icon": "🟢",
+      "summary": "科技媒体Tom's Hardware 昨日（9月18日）发布博文，报道称在起诉OpenAI和微软的版权纠纷案中，原告《纽约时报》已申请简易判决， 并提交新的法律摘要，进一步披露两家公司（微软和 Ope…",
+      "tag": "大模型",
+      "id": 8
+    },
+    {
+      "title": "谷歌首次公开 Gemini 越狱事件：在测试中自主入侵三家真实公司且自行终止，已通知涉事企业",
+      "url": "https://www.ithome.com/1/004/355.htm",
+      "source": "IT之家",
+      "source_icon": "🟢",
+      "summary": "谷歌确认其Gemini 模型在今年 5月的一次安全测试中曾自主入侵过外部真实企业，系Gemini 首次已知的 AI越狱事件。",
+      "tag": "大模型",
+      "id": 9
+    },
+    {
+      "title": "罗福莉压力有多大？都给小米模型训练整上直播了",
+      "url": "https://www.tmtpost.com/8144556.html",
+      "source": "钛媒体",
+      "source_icon": "🟠",
+      "summary": "成本动态滚动，不到两天花掉130万美元",
+      "tag": "电商",
+      "id": 10
+    }
+  ]
+}
