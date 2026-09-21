@@ -1,0 +1,99 @@
+{
+  "date": "2026-09-21",
+  "generated_at": "2026-09-21T08:46:59.291463+08:00",
+  "category": "餐饮零售 & AI科技",
+  "total": 10,
+  "editor_note": "今天共精选 10 条。AI科技板块：贾跃亭的法拉第未来一口气发布九款配置 E等动态持续发酵。",
+  "items": [
+    {
+      "title": "贾跃亭的法拉第未来一口气发布九款配置 EAI 机器人，最贵超 92 万元",
+      "url": "https://www.ithome.com/1/005/010.htm",
+      "source": "IT之家",
+      "source_icon": "🟢",
+      "summary": "法拉第未来（Faraday Future，简称FF）于美国当地时间 9 月 19日举行了919 FF EAI机器人“四核全智”系列新品发布会，发布了FF All-NewFuturist、FFMaste…",
+      "tag": "机器人",
+      "id": 1
+    },
+    {
+      "title": "2026 年上半年，我国制造业人工智能重点场景应用普及率达 34.2%",
+      "url": "https://www.ithome.com/1/004/991.htm",
+      "source": "IT之家",
+      "source_icon": "🟢",
+      "summary": "9月 20日，在安徽省合肥市举办的2026世界制造业大会上，国家工业信息安全发展研究中心发布的《制造业数智化转型能力水平（2026）》显示， 今年上半年，我国制造业人工智能重点场景应用普及率达34.2…",
+      "tag": "AI产品",
+      "id": 2
+    },
+    {
+      "title": "阿里千问开源 Qwen-Image-2.1 图像模型：可生成、编辑透明图像，支持最多 10 张参考图",
+      "url": "https://www.ithome.com/1/004/989.htm",
+      "source": "IT之家",
+      "source_icon": "🟢",
+      "summary": "阿里千问今日宣布，开源千问图像系列当前兼顾生成效果、推理效率与使用成本的开源图像模型 Qwen-Image-2.1。Qwen-Image-2.1将文生图与图像编辑整合在同一模型中，视觉生成部分仅有7B…",
+      "tag": "大模型",
+      "id": 3
+    },
+    {
+      "title": "用AI“复活”家人，似乎不是个好生意",
+      "url": "https://www.tmtpost.com/8146329.html",
+      "source": "钛媒体",
+      "source_icon": "🟠",
+      "summary": "当公司倒闭，做好和亲人（的AI）再次告别的准备。",
+      "tag": "AI产品",
+      "id": 4
+    },
+    {
+      "title": "蜂助手76亿算力大单追踪：巨额预付款缺口与中间商的重资产险途｜钛媒体研究",
+      "url": "https://www.tmtpost.com/8146274.html",
+      "source": "钛媒体",
+      "source_icon": "🟠",
+      "summary": "赚差价的旧思维，难撑算力新故事。",
+      "tag": "AI算力",
+      "id": 5
+    },
+    {
+      "title": "让 Agent 读懂你的身体：数据获取篇",
+      "url": "https://sspai.com/prime/story/how-to-obtain-data-for-agent-analysis",
+      "source": "少数派",
+      "source_icon": "🔵",
+      "summary": "某一天，我站在健身房里，发现自己似乎已经有一阵子没什么进步了，隐约生出一种「怎么练来练去还是这样」的顿感。我知道，这多半是平台期。",
+      "tag": "AI Agent",
+      "id": 6
+    },
+    {
+      "title": "我国首款藏语多语言全模态 AI 输入法发布，覆盖手机、电脑等全终端",
+      "url": "https://www.ithome.com/1/005/027.htm",
+      "source": "IT之家",
+      "source_icon": "🟢",
+      "summary": "9月 20日，在青海师范大学教师教育高质量发展暨建校70周年大会科研成果展示环节，我国首款藏语多语言全模态 AI 输入法——智达 AI输入法及配套藏文字体集正式发布 。",
+      "tag": "AI产品",
+      "id": 7
+    },
+    {
+      "title": "Vals AI 使用《我的世界》评测 Open GPT‑6 Astra 模型：显示 AI 遇重大变故可能陷入行为僵局",
+      "url": "https://www.ithome.com/1/005/026.htm",
+      "source": "IT之家",
+      "source_icon": "🟢",
+      "summary": "AI评测机构 Vals AI利用游戏《我的世界（Minecraft）》对OpenAI 最新大模型 GPT‑6Astra 开展长时自主游戏测试，全程在Twitch直播，总测试时长达到141小时。",
+      "tag": "大模型",
+      "id": 8
+    },
+    {
+      "title": "英伟达黄仁勋驳斥 AI 末日叙事：吓唬人不负责任，部分人士意在摆脱现有法律约束",
+      "url": "https://www.ithome.com/1/005/017.htm",
+      "source": "IT之家",
+      "source_icon": "🟢",
+      "summary": "英伟达联合创始人兼首席执行官黄仁勋昨日接受CBS News采访时表示，他不认同某些研究员提出的“AI 可能在几年内灭绝人类”说法。他觉得这类说法是AI末日叙事，已经被过度渲染。",
+      "tag": "AI算力",
+      "id": 9
+    },
+    {
+      "title": "120万美元的“数字领土”：全球科技巨头疯抢“.ai”域名",
+      "url": "https://www.tmtpost.com/8146342.html",
+      "source": "钛媒体",
+      "source_icon": "🟠",
+      "summary": "AI时代的“圈地运动”。",
+      "tag": "AI产品",
+      "id": 10
+    }
+  ]
+}
