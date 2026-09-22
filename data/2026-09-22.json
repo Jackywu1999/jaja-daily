@@ -1,0 +1,99 @@
+{
+  "date": "2026-09-22",
+  "generated_at": "2026-09-22T09:23:29.546432+08:00",
+  "category": "餐饮零售 & AI科技",
+  "total": 10,
+  "editor_note": "今天共精选 10 条。AI科技板块：OpenAI 宣布成立数学与 AI 顾问等动态持续发酵。",
+  "items": [
+    {
+      "title": "OpenAI 宣布成立数学与 AI 顾问组，神秘新模型 24 天攻破 100+ 世界级难题",
+      "url": "https://www.ithome.com/1/005/500.htm",
+      "source": "IT之家",
+      "source_icon": "🟢",
+      "summary": "OpenAI宣布成立“数学与 AI顾问组”（AdvisoryGroup on MathematicsandArtificialIntelligence）。",
+      "tag": "大模型",
+      "id": 1
+    },
+    {
+      "title": "2026 上半年全球 AI 眼镜出货量同比大增 263%，“无屏幕”产品占主流",
+      "url": "https://www.ithome.com/1/005/498.htm",
+      "source": "IT之家",
+      "source_icon": "🟢",
+      "summary": "外媒Android Authority 援引Counterpoint Research《智能眼镜市场追踪“报告，认为目前智能眼镜仍属于相对小众的科技产品，但其市场增长速度正在明显加快。",
+      "tag": "AI产品",
+      "id": 2
+    },
+    {
+      "title": "英国消费者权益机构 Citizens Advice：基本服务供应商应停止在客服工作中依赖 AI 聊天机器人",
+      "url": "https://www.ithome.com/1/005/497.htm",
+      "source": "IT之家",
+      "source_icon": "🟢",
+      "summary": "英国消费者权益机构Citizens Advice近日呼吁，能源、银行、电话和互联网等提供基本服务的企业在客服工作中应当停止依赖AI机器人，保障用户“与真人沟通的权利”。",
+      "tag": "机器人",
+      "id": 3
+    },
+    {
+      "title": "OpenAI自曝6起事故：AI安全的第一份\"审计报告\"由谁签字？",
+      "url": "https://www.tmtpost.com/8147676.html",
+      "source": "钛媒体",
+      "source_icon": "🟠",
+      "summary": "当安全事件变成定期披露，AI公司就从\"出了大事再解释\"转向\"持续被审计\"。",
+      "tag": "政策监管",
+      "id": 4
+    },
+    {
+      "title": "捡快递200小时的Figure机器人，走进30个陌生家庭自主干家务",
+      "url": "https://www.tmtpost.com/8147667.html",
+      "source": "钛媒体",
+      "source_icon": "🟠",
+      "summary": "Figure机器人是否堪当家务保姆？",
+      "tag": "机器人",
+      "id": 5
+    },
+    {
+      "title": "当 AI 让执行力变得廉价，我们该拿什么脱颖而出？",
+      "url": "https://sspai.com/post/114519",
+      "source": "少数派",
+      "source_icon": "🔵",
+      "summary": "当代码与设计的生产成本趋近于零，我们可以这样跳出工具的依赖，构建属于自己的优势和认知壁垒。",
+      "tag": "AI产品",
+      "id": 6
+    },
+    {
+      "title": "韩 AI 芯片企业 FuriosaAI 披露新一代推理加速器规格：32 倍算力、32 倍内存带宽",
+      "url": "https://www.ithome.com/1/005/531.htm",
+      "source": "IT之家",
+      "source_icon": "🟢",
+      "summary": "据韩媒ZDNET Korea 当地时间 21日报道，韩媒AI 半导体初创企业 FuriosaAI昨日公布了其第三代AI推理加速器的技术细节。",
+      "tag": "大模型",
+      "id": 7
+    },
+    {
+      "title": "AI 编程平台 Bitrig 宣布为苹果 iPhone Duo 引入支持，提供交互式 3D 模拟器供开发者测试应用",
+      "url": "https://www.ithome.com/1/005/513.htm",
+      "source": "IT之家",
+      "source_icon": "🟢",
+      "summary": "随着苹果上周发布Xcode 27.1 Beta 1并加入iPhone Duo应用开发支持，如今一款AI 编程平台 Bitrig也宣布支持构建和测试iPhone Duo应用。",
+      "tag": "AI产品",
+      "id": 8
+    },
+    {
+      "title": "索尼 SIE 申请“AI 自修复系统”专利：利用人工智能实时生成诊断固件以修复 PlayStation 游戏机故障",
+      "url": "https://www.ithome.com/1/005/501.htm",
+      "source": "IT之家",
+      "source_icon": "🟢",
+      "summary": "据专利聚合网站Patentlyze披露，索尼SIE 近日提交一项基于 AI 的PlayStation 自动诊断和修复系统专利，该系统可以持续监测联网的PlayStation设备，在发现软件问题后由AI…",
+      "tag": "AI产品",
+      "id": 9
+    },
+    {
+      "title": "对话芯展速李蓁：内存墙下，存储不再是算力的附属品",
+      "url": "https://www.tmtpost.com/8147817.html",
+      "source": "钛媒体",
+      "source_icon": "🟠",
+      "summary": "下一个十年，算力的差距会缩小，存力的差距才会决定谁跑在前面。",
+      "tag": "AI算力",
+      "id": 10
+    }
+  ]
+}
