@@ -1,0 +1,99 @@
+{
+  "date": "2026-09-24",
+  "generated_at": "2026-09-24T09:00:14.529762+08:00",
+  "category": "餐饮零售 & AI科技",
+  "total": 10,
+  "editor_note": "今天共精选 10 条。餐饮零售板块：9.9元的冷冻烘焙，正在重走“网红店”的等话题值得关注；AI科技板块：OpenAI CEO 奥尔特曼联合国演讲等动态持续发酵。",
+  "items": [
+    {
+      "title": "9.9元的冷冻烘焙，正在重走“网红店”的老路？",
+      "url": "https://www.tmtpost.com/8150764.html",
+      "source": "钛媒体",
+      "source_icon": "🟠",
+      "summary": "低价能打开市场，零售能力才是分水岭。",
+      "tag": "餐饮动态",
+      "id": 1
+    },
+    {
+      "title": "2027，零售将进入自营化元年",
+      "url": "https://www.tmtpost.com/8150812.html",
+      "source": "钛媒体",
+      "source_icon": "🟠",
+      "summary": "市场将淘汰自营率低于30%的玩家。",
+      "tag": "零售动态",
+      "id": 2
+    },
+    {
+      "title": "OpenAI CEO 奥尔特曼联合国演讲：AI 可能走向文艺复兴，也可能带来工业革命式动荡",
+      "url": "https://www.ithome.com/1/006/521.htm",
+      "source": "IT之家",
+      "source_icon": "🟢",
+      "summary": "当地时间9 月 23日，OpenAICEO 萨姆 · 奥尔特曼（SamAltman）在联合国安理会就AI议题发表讲话，讨论AI发展带来的机遇与风险，并呼吁加强国际合作，建立针对前沿AI系统的能力评估、…",
+      "tag": "AI产品",
+      "id": 3
+    },
+    {
+      "title": "苹果 HomePod 运行 Siri AI 交互体验曝光：白 / 蓝 / 橙主色调指示灯",
+      "url": "https://www.ithome.com/1/006/519.htm",
+      "source": "IT之家",
+      "source_icon": "🟢",
+      "summary": "消息源@itspdfu 今天（9 月 24日）在 X 平台发布推文，挖掘audioOS 27系统，发现了适用于 HomePod 的SiriAI交互体验。",
+      "tag": "AI产品",
+      "id": 4
+    },
+    {
+      "title": "高通发布第二代骁龙音频平台至尊版：AI 能力翻倍、功耗降低 40%",
+      "url": "https://www.ithome.com/1/006/516.htm",
+      "source": "IT之家",
+      "source_icon": "🟢",
+      "summary": "在夏威夷举办的2026骁龙峰会上，高通在宣布第六代骁龙8 至尊版和第六代骁龙 8超级至尊版芯片后， 今天发布第二代骁龙音频平台至尊版。",
+      "tag": "AI产品",
+      "id": 5
+    },
+    {
+      "title": "华为 MatePad Air Z 系列平板官宣今日 10:08 预售，2999 元起",
+      "url": "https://www.ithome.com/1/006/535.htm",
+      "source": "IT之家",
+      "source_icon": "🟢",
+      "summary": "华为今日官宣平板Air 系列家族实力更新 —— 华为MatePadAir Z闪亮登场，9 月 24 日 10:08 正式预售，2999 元起，9月 29 日 10:08正式开售，提供珊瑚橙、海岛蓝、星…",
+      "tag": "AI产品",
+      "id": 6
+    },
+    {
+      "title": "腾讯 QClaw 微信远程办公 AI 助手宣布 12 月 24 日停运，即日起停止新用户注册",
+      "url": "https://www.ithome.com/1/006/528.htm",
+      "source": "IT之家",
+      "source_icon": "🟢",
+      "summary": "腾讯QClaw 微信远程办公 AI助手今日发布公告称，因业务发展调整，QClaw将于 2026 年 12 月 24 日00:00 正式停止运营。",
+      "tag": "AI产品",
+      "id": 7
+    },
+    {
+      "title": "Anthropic 宣布成立生命科学团队和实验室，Claude 自主发现新型酶系统",
+      "url": "https://www.ithome.com/1/006/524.htm",
+      "source": "IT之家",
+      "source_icon": "🟢",
+      "summary": "当地时间9 月 23日，Anthropic 宣布成立生命科学研究团队及自有分子生物学实验室，并公布了一项由Claude参与生物学研究取得的早期成果。",
+      "tag": "大模型",
+      "id": 8
+    },
+    {
+      "title": "【钛晨报】“十五五”民政工作怎么干？四大重点任务，养老排在第一位；马斯克预测未来世界：20年后可能有1000亿台人形机器人；高瓴创投原合伙人严文韬正式入职DeepSeek",
+      "url": "https://www.tmtpost.com/8151174.html",
+      "source": "钛媒体",
+      "source_icon": "🟠",
+      "summary": "经合组织上调2026年全球经济增速预期至2.9%；恒生指数公司推出恒生半导体产业指数等八条新指数；中国将适度超前、系统推进新一代通信网建设，推动算力设施扩容提质；央行：9月24日将开展8000亿元ML…",
+      "tag": "大模型",
+      "id": 9
+    },
+    {
+      "title": "把握AI数据中心热潮：Marvell及另外两只股票",
+      "url": "https://www.tmtpost.com/8151200.html",
+      "source": "钛媒体",
+      "source_icon": "🟠",
+      "summary": "英伟达首席执行官黄仁勋在预测迈威尔将成为下一家市值达到一万亿美元的芯片公司时判断错了。",
+      "tag": "AI产品",
+      "id": 10
+    }
+  ]
+}
