@@ -1,0 +1,99 @@
+{
+  "date": "2026-09-25",
+  "generated_at": "2026-09-25T09:06:12.759835+08:00",
+  "category": "餐饮零售 & AI科技",
+  "total": 10,
+  "editor_note": "今天共精选 10 条。餐饮零售板块：老乡鸡全国门店突破2000家；江南布衣携等话题值得关注；AI科技板块：Meta 推出 2 款 AI 工具，让用等动态持续发酵。",
+  "items": [
+    {
+      "title": "老乡鸡全国门店突破2000家；江南布衣携手高端鞋履品牌Marsèll开启大中华区战略合作；迈胜完成A+轮融资；PANE获黑蚁资本投资｜消研所周报",
+      "url": "https://www.tmtpost.com/8151668.html",
+      "source": "钛媒体",
+      "source_icon": "🟠",
+      "summary": "李宁龙店首家全球旗舰店落地上海南京东路；lululemon武汉物流中心正式启用。",
+      "tag": "商业洞察",
+      "id": 1
+    },
+    {
+      "title": "Meta 推出 2 款 AI 工具，让用户在手机端直接构建游戏",
+      "url": "https://www.ithome.com/1/007/068.htm",
+      "source": "IT之家",
+      "source_icon": "🟢",
+      "summary": "科技媒体The Verge 昨日（9 月 24日）发布博文，报道称在2026 年 Connect大会上，Meta公司扩充其 Horizon平台，推出 Horizon Create 和HorizonSt…",
+      "tag": "AI产品",
+      "id": 2
+    },
+    {
+      "title": "消息称 OpenAI 将在数日内预览网络安全专用模型 GPT-6 Cyber",
+      "url": "https://www.ithome.com/1/007/061.htm",
+      "source": "IT之家",
+      "source_icon": "🟢",
+      "summary": "据《财富》杂志消息，多位知情人士透露，OpenAI正计划在未来几天内抢先预览其最新的网络安全专用模型GPT-6 Cyber。",
+      "tag": "大模型",
+      "id": 3
+    },
+    {
+      "title": "Meta 的 AI 智能体 Muse 被发现可导出虚拟机大量文件",
+      "url": "https://www.ithome.com/1/007/059.htm",
+      "source": "IT之家",
+      "source_icon": "🟢",
+      "summary": "科技媒体macobserver 昨日（9 月24 日）发布博文，报道称Meta Muse被发现可在简单提示词下，打包并返回用户专属虚拟机中的大量Linux 文件。",
+      "tag": "AI Agent",
+      "id": 4
+    },
+    {
+      "title": "独家对话Taboola创始人兼CEO：程序化广告出局，Agent成万亿广告最大买家",
+      "url": "https://www.tmtpost.com/8151830.html",
+      "source": "钛媒体",
+      "source_icon": "🟠",
+      "summary": "Agent时代广告生存标准十分残酷。辛戈尔达给出判据只有两条：你有我没有的独特数据吗？你有广告主绕不开你的触达渠道吗？任一条答否就被跳过，“其余的部分，Claude自己就能搞定。”",
+      "tag": "商业洞察",
+      "id": 5
+    },
+    {
+      "title": "长安汽车：力争在 2028 年实现人形机器人量产、2030 年推出商用航线飞行汽车",
+      "url": "https://www.ithome.com/1/007/073.htm",
+      "source": "IT之家",
+      "source_icon": "🟢",
+      "summary": "据中新网重庆，重庆辖区上市公司投资者网上集体接待日暨半年度业绩说明会于9 月 23日举行。 长安汽车资本运营部副总经理、董事会办公室副主任谢仁军表示：关于固态电池项目，公司正有序推进研发，已开展20A…",
+      "tag": "机器人",
+      "id": 6
+    },
+    {
+      "title": "马斯克：若保持强劲加速度，SpaceXAI 约 6 个月后就能领跑",
+      "url": "https://www.ithome.com/1/007/069.htm",
+      "source": "IT之家",
+      "source_icon": "🟢",
+      "summary": "马斯克在 X 平台发文表示，他谨慎乐观地认为，SpaceX将在两到三个月内拥有（开发出）Fable / GPT-6 级别的模型。 随后有网友表示，对于SpaceXAI来说，一切都结束了。",
+      "tag": "AI产品",
+      "id": 7
+    },
+    {
+      "title": "谷歌 Gemini 3.8 Live 虚拟人上线：实时唇形同步 + 自然表情，无缝切换 97 种语言",
+      "url": "https://www.ithome.com/1/007/043.htm",
+      "source": "IT之家",
+      "source_icon": "🟢",
+      "summary": "谷歌近日宣布，在上周推出Gemini 3.8 Live的基础上，正式推出带有Live Avatar 功能的Gemini3.8Live， 为原生实时对话模型带来接近实时的视觉呈现效果。",
+      "tag": "大模型",
+      "id": 8
+    },
+    {
+      "title": "具身智能的行业信用正在被机器人公司透支",
+      "url": "https://www.tmtpost.com/8152223.html",
+      "source": "钛媒体",
+      "source_icon": "🟠",
+      "summary": "当稀缺的称号变成批量供应的标配，含金量便开始流失",
+      "tag": "机器人",
+      "id": 9
+    },
+    {
+      "title": "阿里、字节、DeepSeek豪赌10万亿参数模型：一场停不下来的烧钱游戏",
+      "url": "https://www.tmtpost.com/8151500.html",
+      "source": "钛媒体",
+      "source_icon": "🟠",
+      "summary": "阿里字节DeepSeek重启大模型军备赛。",
+      "tag": "大模型",
+      "id": 10
+    }
+  ]
+}
