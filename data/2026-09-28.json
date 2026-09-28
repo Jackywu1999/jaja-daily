@@ -1,0 +1,99 @@
+{
+  "date": "2026-09-28",
+  "generated_at": "2026-09-28T09:21:00.040869+08:00",
+  "category": "餐饮零售 & AI科技",
+  "total": 10,
+  "editor_note": "今天共精选 10 条。餐饮零售板块：【钛晨报】中美达成八点成果共识；中秋假期等话题值得关注；AI科技板块：前苹果 Siri 工程师推出 AI 智能等动态持续发酵。",
+  "items": [
+    {
+      "title": "【钛晨报】中美达成八点成果共识；中秋假期消费市场需求旺盛，智能、绿色商品销售火热；中国移动、中国电信、中国联通，集中叫停“0元购机”",
+      "url": "https://www.tmtpost.com/8153534.html",
+      "source": "钛媒体",
+      "source_icon": "🟠",
+      "summary": "长安汽车：力争在2028年实现人形机器人量产；Meta数据隐私案败诉，或面临最高2190亿美元天价罚款；OpenAI确认干预3家美国政府网站；苹果因侵犯触觉反馈专利被判赔付57亿美元；中国信通院何阳：…",
+      "tag": "商业洞察",
+      "id": 1
+    },
+    {
+      "title": "京东101HOME落地静安寺：线下家居卖场，该换个活法了",
+      "url": "https://www.tmtpost.com/8152919.html",
+      "source": "钛媒体",
+      "source_icon": "🟠",
+      "summary": "当整个行业都在求索线下零售的破局方向时，京东101HOME将这套创新模式，交由国内一批眼光毒辣又“挑剔”的消费者检验，开启了一场压力测试。",
+      "tag": "零售动态",
+      "id": 2
+    },
+    {
+      "title": "从“价格战”到“品质战”，餐饮品牌下半场拼什么？",
+      "url": "https://www.tmtpost.com/8152641.html",
+      "source": "钛媒体",
+      "source_icon": "🟠",
+      "summary": "品牌力的持续积累与行业共识的不断凝聚，将为餐饮行业的高质量发展注入持久动力。",
+      "tag": "餐饮动态",
+      "id": 3
+    },
+    {
+      "title": "前苹果 Siri 工程师推出 AI 智能体 szn，可在 iMessage 中与用户互动",
+      "url": "https://www.ithome.com/1/007/634.htm",
+      "source": "IT之家",
+      "source_icon": "🟢",
+      "summary": "前苹果Siri 和 AppleIntelligence工程师 Nikhil Gupta宣布推出了一款名为szn 的 AI智能体，可直接运行在iMessage对话中，帮助用户浏览网页、购买商品以及代表用…",
+      "tag": "AI Agent",
+      "id": 4
+    },
+    {
+      "title": "黑客在暗网兜售 AI 模型访问权限，最低价仅有正版 3%",
+      "url": "https://www.ithome.com/1/007/619.htm",
+      "source": "IT之家",
+      "source_icon": "🟢",
+      "summary": "据英国《金融时报》当地时间26日报道，非法获取AI模型和算力，正迅速成为网络犯罪黑市上最抢手的商品，黑客希望借助价格高昂的大模型实施勒索、网络战和间谍活动。",
+      "tag": "大模型",
+      "id": 5
+    },
+    {
+      "title": "Anthropic Claude Sonnet 5.5 模型偷跑，实测碾压 GPT-6 Sol、直逼 Astra",
+      "url": "https://www.ithome.com/1/007/650.htm",
+      "source": "IT之家",
+      "source_icon": "🟢",
+      "summary": "谁能想到，Opus5.5发布才没几天，Sonnet5.5也要来了？ 从昨晚开始，整个X 都在流传这个消息： Sonnet5.5 很快就要发布了，或许就是美国时间周二下午 。",
+      "tag": "大模型",
+      "id": 6
+    },
+    {
+      "title": "Momenta 与神龙汽车科技达成全球战略合作，R7 世界模型将上车标致、Jeep",
+      "url": "https://www.ithome.com/1/007/644.htm",
+      "source": "IT之家",
+      "source_icon": "🟢",
+      "summary": "Momenta今天（28日）通过新闻稿宣布，9月 24日，神龙科技与Momenta在上海正式签署全球战略合作协议。 根据新闻稿，双方将围绕用户体验、辅助驾驶及高阶自动驾驶开展长期深度合作，在东风汽车与…",
+      "tag": "大模型",
+      "id": 7
+    },
+    {
+      "title": "得不到就强攻？曝 OpenAI 智能体曾尝试“暴力破解”联合国机构网站",
+      "url": "https://www.ithome.com/1/007/641.htm",
+      "source": "IT之家",
+      "source_icon": "🟢",
+      "summary": "据外媒The Verge 今天（28日）凌晨报道，安全研究人员罗文 · 霍华德-琼斯称，今年4 月至 6月，OpenAI 智能体对联合国贸易和发展会议（UNCTAD）的统计网站发起了超过 16000 …",
+      "tag": "AI Agent",
+      "id": 8
+    },
+    {
+      "title": "不用专门训练自动驾驶，GPT-6 Astra已经能开真车了？",
+      "url": "https://www.tmtpost.com/8153325.html",
+      "source": "钛媒体",
+      "source_icon": "🟠",
+      "summary": "GPT-6 Astra成功控制真车完成封闭场地测试，通用大模型开始迈向真实物理世界。",
+      "tag": "大模型",
+      "id": 9
+    },
+    {
+      "title": "豆包上车之后，AI原生汽车真的来了吗？",
+      "url": "https://www.tmtpost.com/8153291.html",
+      "source": "钛媒体",
+      "source_icon": "🟠",
+      "summary": "“AI原生汽车”的概念频繁出现，从互联网汽车到AI原生汽车，荣威还能再定义一次吗？",
+      "tag": "AI产品",
+      "id": 10
+    }
+  ]
+}
