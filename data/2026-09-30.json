@@ -1,0 +1,99 @@
+{
+  "date": "2026-09-30",
+  "generated_at": "2026-09-30T09:47:36.067720+08:00",
+  "category": "餐饮零售 & AI科技",
+  "total": 10,
+  "editor_note": "今天共精选 10 条。餐饮零售板块：麦当劳 AI 定价系统曝光：同款汉堡隔两等话题值得关注；AI科技板块：OpenAI 奥尔特曼：AI 的影响将超等动态持续发酵。",
+  "items": [
+    {
+      "title": "OpenAI 奥尔特曼：AI 的影响将超过工业革命，当下是进入就业市场的最佳时机",
+      "url": "https://www.ithome.com/1/008/574.htm",
+      "source": "IT之家",
+      "source_icon": "🟢",
+      "summary": "当地时间29日，奥尔特曼在旧金山举行的OpenAI DevDay大会上宣布推出新AI 智能体产品Dots，并描绘了一幅宏大愿景。",
+      "tag": "AI产品",
+      "id": 1
+    },
+    {
+      "title": "美议员提出重磅法案：政府出台安全防护机制前，AI 不得进行递归式自我改进",
+      "url": "https://www.ithome.com/1/008/570.htm",
+      "source": "IT之家",
+      "source_icon": "🟢",
+      "summary": "当地时间28日，据美国CNBC报道，代表硅谷选区的民主党联邦众议员罗· 康纳准备提出一项 AI监管法案，引入严格责任标准，并禁止 AI在缺乏政府安全防护机制的情况下进行递归式自我改进 。",
+      "tag": "政策监管",
+      "id": 2
+    },
+    {
+      "title": "麦当劳 AI 定价系统曝光：同款汉堡隔两英里价差达 21%",
+      "url": "https://www.ithome.com/1/008/563.htm",
+      "source": "IT之家",
+      "source_icon": "🟢",
+      "summary": "麦当劳正越来越多地借助人工智能，为美国本土以及部分海外市场制定菜单价格。这套方案意在提升总部的利润，但有可能招致消费者不满，同时还会引来反垄断机构的审查。",
+      "tag": "餐饮动态",
+      "id": 3
+    },
+    {
+      "title": "【钛晨报】重大利好！央行“四箭齐发”，房贷贴息政策落地；中行回应万事达信用卡遭盗刷；英伟达欲拉保险公司入场，为AI芯片融资风险兜底",
+      "url": "https://www.tmtpost.com/8156446.html",
+      "source": "钛媒体",
+      "source_icon": "🟠",
+      "summary": "2家A股公司今起停牌；DeepSeekHarnessv0.2预览版正式发布；比亚迪选举王传福为第九届董事会董事长；荣耀Magic9全系列获“首批AI智能体手机”入网认证；中国气象局监测11月前后将形成…",
+      "tag": "AI投融资",
+      "id": 4
+    },
+    {
+      "title": "ARR真的是大模型企业的黄金指标吗？",
+      "url": "https://www.tmtpost.com/8154376.html",
+      "source": "钛媒体",
+      "source_icon": "🟠",
+      "summary": "快速上涨的ARR，要花多少钱才能维持。",
+      "tag": "大模型",
+      "id": 5
+    },
+    {
+      "title": "Anthropic 与 SpaceX 签署最高 845 亿美元算力协议，可提前 90 天发通知解除",
+      "url": "https://www.ithome.com/1/008/589.htm",
+      "source": "IT之家",
+      "source_icon": "🟢",
+      "summary": "随着AI 巨头 Anthropic 筹备IPO 上市，路透社查阅的文件显示，这家企业已经和SpaceX签署了价值数百亿美元的算力协议。",
+      "tag": "AI投融资",
+      "id": 6
+    },
+    {
+      "title": "研扬推出无风扇 \"Panther Lake\" 迷你主机，内置 Frore AirJet 超声波振膜主动散热",
+      "url": "https://www.ithome.com/1/008/576.htm",
+      "source": "IT之家",
+      "source_icon": "🟢",
+      "summary": "研扬(AAEON) 昨日宣布推出基于第 3代英特尔酷睿Ultra 处理器 \"PantherLake\"的 UP Xtreme PTL EdgeAir 迷你主机。",
+      "tag": "AI产品",
+      "id": 7
+    },
+    {
+      "title": "OpenAI CEO 奥尔特曼谈上市：需先做好 AI 安全承诺，暂无明确时间表",
+      "url": "https://www.ithome.com/1/008/575.htm",
+      "source": "IT之家",
+      "source_icon": "🟢",
+      "summary": "数月以来，外界一直都在猜测OpenAI究竟何时会启动上市流程。首席执行官萨姆· 奥尔特曼（SamAltman）表示，只有当这家企业能够就模型安全作出更完善的承诺之后，才会考虑上市；目前尚且没有确定的时…",
+      "tag": "AI投融资",
+      "id": 8
+    },
+    {
+      "title": "物理AI深海养巨鲸",
+      "url": "https://www.tmtpost.com/8156666.html",
+      "source": "钛媒体",
+      "source_icon": "🟠",
+      "summary": "特斯拉与巨头加速布局物理AI，推动AI产业从虚拟走向真实，巨头转型争夺技术制高点。",
+      "tag": "AI产品",
+      "id": 9
+    },
+    {
+      "title": "当“AI饲料”，我都被AI嫌弃了？",
+      "url": "https://www.tmtpost.com/8155815.html",
+      "source": "钛媒体",
+      "source_icon": "🟠",
+      "summary": "OpenAI和微软内部记录曝光，文字、照片，社交媒体上的一切都已经被喂给AI",
+      "tag": "AI产品",
+      "id": 10
+    }
+  ]
+}
