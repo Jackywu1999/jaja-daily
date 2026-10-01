@@ -1,0 +1,99 @@
+{
+  "date": "2026-10-01",
+  "generated_at": "2026-10-01T09:46:30.558545+08:00",
+  "category": "餐饮零售 & AI科技",
+  "total": 10,
+  "editor_note": "今天共精选 10 条。餐饮零售板块：销量增长、收入缩水：斯坦德机器人的“第二等话题值得关注；AI科技板块：OpenAI 同新思达成合作，共同开发 等动态持续发酵。",
+  "items": [
+    {
+      "title": "OpenAI 同新思达成合作，共同开发 GPT-Synopsys 芯片设计模型",
+      "url": "https://www.ithome.com/1/008/968.htm",
+      "source": "IT之家",
+      "source_icon": "🟢",
+      "summary": "Synopsys（新思科技）当地时间30 日宣布与 OpenAI建立战略合作伙伴关系。两家公司签署了一份范围广泛的多年期协议，共同开发 GPT-Synopsys 模型。",
+      "tag": "大模型",
+      "id": 1
+    },
+    {
+      "title": "内存高价恐成常态：美光称人形机器人每台需 200GB 内存",
+      "url": "https://www.ithome.com/1/008/967.htm",
+      "source": "IT之家",
+      "source_icon": "🟢",
+      "summary": "科技媒体Wccftech 今天（10 月 1日）发布博文，报道称在2026 财年（2025 年 9 月 5日～2026年 9 月 3日）年报电话会议上，美光科技首席财务官指出人形机器人将成为内存需求新…",
+      "tag": "机器人",
+      "id": 2
+    },
+    {
+      "title": "美国加州《反机器人老板》法案生效，禁止完全依赖 AI 解雇或惩戒员工",
+      "url": "https://www.ithome.com/1/008/965.htm",
+      "source": "IT之家",
+      "source_icon": "🟢",
+      "summary": "IT之家9 月 11日消息，美国加利福尼亚州州长Gavin Newsom（加文 ·纽森）当地时间昨日签署《2026年反机器人老板法案》(SB947)，对人工智能在人力资源领域的应用作出规制。",
+      "tag": "机器人",
+      "id": 3
+    },
+    {
+      "title": "销量增长、收入缩水：斯坦德机器人的“第二曲线”，怎么越卖越亏？",
+      "url": "https://www.tmtpost.com/8157612.html",
+      "source": "钛媒体",
+      "source_icon": "🟠",
+      "summary": "超6成收入来自海外。",
+      "tag": "商业洞察",
+      "id": 4
+    },
+    {
+      "title": "实测ChatGPT dot后，我明白了大厂为什么必须做个人智能体",
+      "url": "https://www.tmtpost.com/8157453.html",
+      "source": "钛媒体",
+      "source_icon": "🟠",
+      "summary": "给AI配电脑，多出一门生意。",
+      "tag": "大模型",
+      "id": 5
+    },
+    {
+      "title": "别再把攻略全甩给 AI：国庆七天河南自驾，我是这样用 Agent 的",
+      "url": "https://sspai.com/post/114945",
+      "source": "少数派",
+      "source_icon": "🔵",
+      "summary": "祝你旅途顺遂，假期自由。",
+      "tag": "AI Agent",
+      "id": 6
+    },
+    {
+      "title": "生物安全领域里程碑：谷歌 DeepMind 首创 AI 蛋白质水印技术",
+      "url": "https://www.ithome.com/1/008/940.htm",
+      "source": "IT之家",
+      "source_icon": "🟢",
+      "summary": "谷歌今日推出SynthID Bio，将数字水印技术引入合成生物学领域。该技术可将不可感知的签名直接嵌入生物编码，不仅能在数字模型上验证， 还可在合成的物理蛋白质上完成验证，同时在实验室测试中保持蛋白质…",
+      "tag": "政策监管",
+      "id": 7
+    },
+    {
+      "title": "谷歌推出 Gemini 4 Argon 旗舰 AI 模型，消息称其实战性能遭员工质疑",
+      "url": "https://www.ithome.com/1/008/982.htm",
+      "source": "IT之家",
+      "source_icon": "🟢",
+      "summary": "Alphabet公司旗下的谷歌已经开始逐步推出备受期待的旗舰人工智能模型Gemini 4 Argon，但这家企业内部对于该模型在代码编写等核心领域的实际表现尚存质疑。",
+      "tag": "大模型",
+      "id": 8
+    },
+    {
+      "title": "AMD 锐龙 AI Max+ PRO 495 版 Framework Desktop 预售，含 192GB 内存 6,469 美元起",
+      "url": "https://www.ithome.com/1/008/978.htm",
+      "source": "IT之家",
+      "source_icon": "🟢",
+      "summary": "模块化PC 制造商 Framework当地时间9 月 30 日启动了 ITX 迷你主机FrameworkDesktop最新配置的预售。该机型仅支持 Linux 操作系统。",
+      "tag": "AI产品",
+      "id": 9
+    },
+    {
+      "title": "影视业迎来AI大考",
+      "url": "https://www.tmtpost.com/8157488.html",
+      "source": "钛媒体",
+      "source_icon": "🟠",
+      "summary": "影视业迎来AI大考",
+      "tag": "AI产品",
+      "id": 10
+    }
+  ]
+}
