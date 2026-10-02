@@ -1,0 +1,99 @@
+{
+  "date": "2026-10-02",
+  "generated_at": "2026-10-02T09:56:23.480812+08:00",
+  "category": "餐饮零售 & AI科技",
+  "total": 10,
+  "editor_note": "今天共精选 10 条。餐饮零售板块：宠物进餐厅的账，还没有算清等话题值得关注；AI科技板块：古尔曼：苹果首款智能家居中枢支持 AI 等动态持续发酵。",
+  "items": [
+    {
+      "title": "宠物进餐厅的账，还没有算清",
+      "url": "https://www.tmtpost.com/8157211.html",
+      "source": "钛媒体",
+      "source_icon": "🟠",
+      "summary": "宠物友好，不是流量密码，是运营能力。",
+      "tag": "餐饮动态",
+      "id": 1
+    },
+    {
+      "title": "古尔曼：苹果首款智能家居中枢支持 AI 面部识别，为家人切换呈现专属内容",
+      "url": "https://www.ithome.com/1/009/206.htm",
+      "source": "IT之家",
+      "source_icon": "🟢",
+      "summary": "在首期Power On播客节目中，彭博社的马克· 古尔曼（MarkGurman）爆料称，苹果公司首款智能家居中枢（HomeHub）将采用 AI面部识别，会判断当前家庭成员并显示对应内容。",
+      "tag": "AI产品",
+      "id": 2
+    },
+    {
+      "title": "加州检察长向 OpenAI 发出传票，调查 AI 网络安全风险",
+      "url": "https://www.ithome.com/1/009/204.htm",
+      "source": "IT之家",
+      "source_icon": "🟢",
+      "summary": "加利福尼亚州总检察长罗布 · 邦塔办公室宣布，邦塔本人已向OpenAI发出调查传票，要求其就AI模型涉及的网络安全事件和风险提供更多信息。",
+      "tag": "政策监管",
+      "id": 3
+    },
+    {
+      "title": "OpenAI 上线“虚拟试穿”功能：ChatGPT 能帮你试衣，还能找“明星同款”",
+      "url": "https://www.ithome.com/1/009/197.htm",
+      "source": "IT之家",
+      "source_icon": "🟢",
+      "summary": "当地时间 1 日，OpenAI再次扩展 ChatGPT的购物能力。公司宣布在全球推出两项新功能，一项是让用户虚拟试穿服装和配饰，另一项是新增收藏功能，方便用户先把看中的商品存起来，之后再查看。",
+      "tag": "大模型",
+      "id": 4
+    },
+    {
+      "title": "腾讯经销、字节驻场、Kimi借船：FDE成了大模型的新成本？",
+      "url": "https://www.tmtpost.com/8157828.html",
+      "source": "钛媒体",
+      "source_icon": "🟠",
+      "summary": "AI公司活成了它们最讨厌的样子。",
+      "tag": "大模型",
+      "id": 5
+    },
+    {
+      "title": "别再把攻略全甩给 AI：国庆七天河南自驾，我是这样用 Agent 的",
+      "url": "https://sspai.com/post/114945",
+      "source": "少数派",
+      "source_icon": "🔵",
+      "summary": "祝你旅途顺遂，假期自由。",
+      "tag": "AI Agent",
+      "id": 6
+    },
+    {
+      "title": "英伟达黄仁勋将出席：微软预热本月 Surface 发布会，聚焦本地 AI 重塑下一代 PC",
+      "url": "https://www.ithome.com/1/009/212.htm",
+      "source": "IT之家",
+      "source_icon": "🟢",
+      "summary": "微软官方开发者账号@windowsdev 今天（10 月2日）在 X平台发布推文，宣布将于太平洋时间 10 月 7 日上午10点（北京时间 10 月 8 日凌晨 1点）举办一场面向开发者与构建者的线上…",
+      "tag": "AI算力",
+      "id": 7
+    },
+    {
+      "title": "索尼 PlayStation 为标准版 PS5 游戏主机带来轻量级 AI 超分辨率技术 QSSR",
+      "url": "https://www.ithome.com/1/009/210.htm",
+      "source": "IT之家",
+      "source_icon": "🟢",
+      "summary": "Sony（索尼）PlayStation官方当地时间 1 日宣布 为标准版PS5游戏主机推出基于人工智能的超分辨率QSSR 。该技术率先在《漫威金刚狼》《羊蹄山之魂》上得到支持。",
+      "tag": "AI产品",
+      "id": 8
+    },
+    {
+      "title": "苹果首款 AI 智能安防摄像头曝光：金属圆柱造型，不录视频、仅推送文本提醒",
+      "url": "https://www.ithome.com/1/009/208.htm",
+      "source": "IT之家",
+      "source_icon": "🟢",
+      "summary": "在首期Power On播客节目中，彭博社的马克· 古尔曼（MarkGurman）爆料称，苹果正筹备推出家用智能摄像头（代号为 J450），将配套协同苹果首款智能家居中枢（Home Hub）工作。",
+      "tag": "AI产品",
+      "id": 9
+    },
+    {
+      "title": "谷歌推出了个“做题家”：Gemini 4 Argon屠榜，但干活差点意思",
+      "url": "https://www.tmtpost.com/8157785.html",
+      "source": "钛媒体",
+      "source_icon": "🟠",
+      "summary": "消失10个月的谷歌，为什么连Pro这块招牌都扔了？",
+      "tag": "大模型",
+      "id": 10
+    }
+  ]
+}
