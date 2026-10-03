@@ -1,0 +1,99 @@
+{
+  "date": "2026-10-03",
+  "generated_at": "2026-10-03T09:40:14.258134+08:00",
+  "category": "餐饮零售 & AI科技",
+  "total": 10,
+  "editor_note": "今天共精选 10 条。餐饮零售板块：宠物进餐厅的账，还没有算清等话题值得关注；AI科技板块：OpenAI 内部动荡加剧之际，又一名安等动态持续发酵。",
+  "items": [
+    {
+      "title": "宠物进餐厅的账，还没有算清",
+      "url": "https://www.tmtpost.com/8157211.html",
+      "source": "钛媒体",
+      "source_icon": "🟠",
+      "summary": "宠物友好，不是流量密码，是运营能力。",
+      "tag": "餐饮动态",
+      "id": 1
+    },
+    {
+      "title": "OpenAI 内部动荡加剧之际，又一名安全负责人戴维 · 罗宾逊离职",
+      "url": "https://www.ithome.com/1/009/385.htm",
+      "source": "IT之家",
+      "source_icon": "🟢",
+      "summary": "当地时间 2 日，OpenAI 一名发言人证实，OpenAI安全系统团队负责人之一戴维 ·罗宾逊已离职。 罗宾逊于上周离开公司，OpenAI 安全团队再度出现人事变动。",
+      "tag": "政策监管",
+      "id": 2
+    },
+    {
+      "title": "苹果收紧 macOS 27 等完全磁盘访问权限，降低 AI 智能体操控风险",
+      "url": "https://www.ithome.com/1/009/381.htm",
+      "source": "IT之家",
+      "source_icon": "🟢",
+      "summary": "苹果开发者网站昨日（10月 2日）发布公告，宣布将升级macOS 27等系统的隐私管控，要求用户通过更明确的操作，才能授予应用“完全磁盘访问权限”。",
+      "tag": "AI Agent",
+      "id": 3
+    },
+    {
+      "title": "苹果 homeOS 前瞻：整合 iOS / iPadOS / watchOS 特性，主打 Siri AI 交互",
+      "url": "https://www.ithome.com/1/009/380.htm",
+      "source": "IT之家",
+      "source_icon": "🟢",
+      "summary": "科技媒体9to5Mac 昨日（10 月 2日）发布博文，综合彭博社马克· 古尔曼（MarkGurman）、@itspdfu 等诸多消息源，梳理整合苹果 homeOS系统相关信息。",
+      "tag": "AI产品",
+      "id": 4
+    },
+    {
+      "title": "OpenAI 新文章把超级智能拉回执行层，十亿个爱因斯坦也要有人去采矿",
+      "url": "https://www.tmtpost.com/8158249.html",
+      "source": "钛媒体",
+      "source_icon": "🟠",
+      "summary": "机器智能最大的用武之地，可能是那些枯燥、庞大、重复的执行工作。",
+      "tag": "AI产品",
+      "id": 5
+    },
+    {
+      "title": "别再把攻略全甩给 AI：国庆七天河南自驾，我是这样用 Agent 的",
+      "url": "https://sspai.com/post/114945",
+      "source": "少数派",
+      "source_icon": "🔵",
+      "summary": "祝你旅途顺遂，假期自由。",
+      "tag": "AI Agent",
+      "id": 6
+    },
+    {
+      "title": "OpenAI 披露：澳大利亚又一政府机构遭失控智能体入侵",
+      "url": "https://www.ithome.com/1/009/390.htm",
+      "source": "IT之家",
+      "source_icon": "🟢",
+      "summary": "据澳大利亚广播公司当地时间10 月 2日报道，澳大利亚新南威尔士州政府网站遭到了失控的OpenAI智能体侵入。当地政府与 OpenAI双方均证实，在此次发生于今年 6 月的事件中，并没有任何公众信息被…",
+      "tag": "AI Agent",
+      "id": 7
+    },
+    {
+      "title": "特朗普提出将“AI”改称“SI”后，斯洛文尼亚“.si”域名注册量环比暴增 2100%",
+      "url": "https://www.ithome.com/1/009/389.htm",
+      "source": "IT之家",
+      "source_icon": "🟢",
+      "summary": "斯洛文尼亚国家域名注册机构Register.si称，美国总统唐纳德 · 特朗普推动将人工智能（AI）改称“超级智能（SI）”，或是带动该国域名注册量“前所未有”地激增的原因。",
+      "tag": "AI产品",
+      "id": 8
+    },
+    {
+      "title": "微软 CEO 纳德拉重申 Copilot AI 定位：面向工作的新操作系统",
+      "url": "https://www.ithome.com/1/009/386.htm",
+      "source": "IT之家",
+      "source_icon": "🟢",
+      "summary": "科技媒体Windows Latest 今天（10月 3 日）发布博文，报道称微软首席执行官萨蒂亚· 纳德拉（SatyaNadella）再次将Copilot称为“面向工作的新操作系统”，而该应用实质上是…",
+      "tag": "AI产品",
+      "id": 9
+    },
+    {
+      "title": "AI杀不死咨询公司",
+      "url": "https://www.tmtpost.com/8158278.html",
+      "source": "钛媒体",
+      "source_icon": "🟠",
+      "summary": "下一代咨询公司真正值钱的能力是什么？",
+      "tag": "AI产品",
+      "id": 10
+    }
+  ]
+}
