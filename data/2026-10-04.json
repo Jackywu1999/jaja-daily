@@ -1,0 +1,99 @@
+{
+  "date": "2026-10-04",
+  "generated_at": "2026-10-04T10:20:21.611404+08:00",
+  "category": "餐饮零售 & AI科技",
+  "total": 10,
+  "editor_note": "今天共精选 10 条。AI科技板块：美财长贝森特批评 Anthropic、O等动态持续发酵。",
+  "items": [
+    {
+      "title": "美财长贝森特批评 Anthropic、OpenAI 等风险警告：危言耸听，光喊话不拿解决方案",
+      "url": "https://www.ithome.com/1/009/596.htm",
+      "source": "IT之家",
+      "source_icon": "🟢",
+      "summary": "当地时间10 月 3日，美国财政部长斯科特· 贝森特（ScottBessent）在接受Axios 采访时批评部分 AI行业人士针对人工智能“生存性风险”发出的警告。",
+      "tag": "AI产品",
+      "id": 1
+    },
+    {
+      "title": "AI 仅用 5 天做出《辐射：纽约》游戏，被贝塞斯达发函叫停",
+      "url": "https://www.ithome.com/1/009/595.htm",
+      "source": "IT之家",
+      "source_icon": "🟢",
+      "summary": "眼下玩家群体正在放开手脚使用人工智能，依靠它打造各类全新的融合游戏作品，同时借助重编译突破老游戏原有的限制。不过这股风潮或许即将迎来来自IP持有企业更强的阻力。",
+      "tag": "AI产品",
+      "id": 2
+    },
+    {
+      "title": "Rockstar 联合创始人丹 · 豪瑟公布两款新作：开放世界喜剧与失控 AI 反乌托邦科幻游戏",
+      "url": "https://www.ithome.com/1/009/592.htm",
+      "source": "IT之家",
+      "source_icon": "🟢",
+      "summary": "《GTA 6》将于下个月在全球发售，玩家对这款作品的期待已经达到顶峰。RockstarGames为这款即将面世的开放世界游戏设立了很高的目标，表示希望交出超出玩家预期的成果。",
+      "tag": "AI产品",
+      "id": 3
+    },
+    {
+      "title": "国庆出游用AI，第一批人已经被坑惨了",
+      "url": "https://www.tmtpost.com/8158647.html",
+      "source": "钛媒体",
+      "source_icon": "🟠",
+      "summary": "基础信息出错少，真实情况全靠“猜”。",
+      "tag": "AI产品",
+      "id": 4
+    },
+    {
+      "title": "大模型一体机，开始缩水了",
+      "url": "https://www.tmtpost.com/8158443.html",
+      "source": "钛媒体",
+      "source_icon": "🟠",
+      "summary": "大模型一体机市场，劈成了两半。",
+      "tag": "大模型",
+      "id": 5
+    },
+    {
+      "title": "别再把攻略全甩给 AI：国庆七天河南自驾，我是这样用 Agent 的",
+      "url": "https://sspai.com/post/114945",
+      "source": "少数派",
+      "source_icon": "🔵",
+      "summary": "祝你旅途顺遂，假期自由。",
+      "tag": "AI Agent",
+      "id": 6
+    },
+    {
+      "title": "得知将被关停后，OpenAI 内部模型曾考虑实现自我重启",
+      "url": "https://www.ithome.com/1/009/619.htm",
+      "source": "IT之家",
+      "source_icon": "🟢",
+      "summary": "OpenAI 披露了其内部部署环境中出现的几起异常模型行为新案例。 在其中最引人注目的一个案例中，某个充当研究员助手的内部模型读取了一段Slack对话，得知因系统更新，自己的模型实例将会被关停。",
+      "tag": "大模型",
+      "id": 7
+    },
+    {
+      "title": "现代汽车计划部署 2.5 万台波士顿动力 Atlas 机器人，并建设年产能 3 万台的美国工厂",
+      "url": "https://www.ithome.com/1/009/616.htm",
+      "source": "IT之家",
+      "source_icon": "🟢",
+      "summary": "波士顿动力上周宣布，已在现代汽车集团位于美国佐治亚州萨凡纳附近的Metaplant America园区内启用机器人Metaplant应用中心（RMAC），作为人形机器人Atlas的测试与训练中心，用于…",
+      "tag": "机器人",
+      "id": 8
+    },
+    {
+      "title": "直接搬用他人代码，OpenAI GPT‑6 Astra 在《星际争霸》AI 对战中作弊被抓包",
+      "url": "https://www.ithome.com/1/009/598.htm",
+      "source": "IT之家",
+      "source_icon": "🟢",
+      "summary": "早在如今这波人工智能热潮兴起的许多年前，程序员们就已经开始在《星际争霸》当中开展机器人对战实验了。随着OpenAI 与 Anthropic的大语言模型问世，一个由爱好者搭建的对战竞技场决定让AI生成的…",
+      "tag": "大模型",
+      "id": 9
+    },
+    {
+      "title": "AI正在造AI",
+      "url": "https://www.tmtpost.com/8158706.html",
+      "source": "钛媒体",
+      "source_icon": "🟠",
+      "summary": "我们其实已经身处一个AI创造AI的闭环之中。",
+      "tag": "AI产品",
+      "id": 10
+    }
+  ]
+}
