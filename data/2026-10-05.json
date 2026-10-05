@@ -1,0 +1,99 @@
+{
+  "date": "2026-10-05",
+  "generated_at": "2026-10-05T09:31:03.914734+08:00",
+  "category": "餐饮零售 & AI科技",
+  "total": 10,
+  "editor_note": "今天共精选 10 条。AI科技板块：DeepSeek V4.1 Flash 等动态持续发酵。",
+  "items": [
+    {
+      "title": "DeepSeek V4.1 Flash 发力，中美顶尖模型 LiveBench 跑分差距缩至 3%",
+      "url": "https://www.ithome.com/1/009/751.htm",
+      "source": "IT之家",
+      "source_icon": "🟢",
+      "summary": "北京时间10 月 5日，据彭博行业研究称，过去几个月，随着DeepSeek 等中国 AI实验室的模型不断进步，美国AI公司相对中国同行的性能领先优势急剧缩小，降至历史最低水平，这让美国的科技主导地位面…",
+      "tag": "大模型",
+      "id": 1
+    },
+    {
+      "title": "“机器人通用大脑”受追捧：FieldAI 拟融资 7 亿美元，估值达 100 亿美元",
+      "url": "https://www.ithome.com/1/009/746.htm",
+      "source": "IT之家",
+      "source_icon": "🟢",
+      "summary": "FieldAI 正在为人形机器人、无人机等各类机器人打造一款通用大脑。投资者正为重押这一发展愿景投入巨资。 据《商业内幕》报道，一位了解本次交易的人士透露，这家机器人企业正在融资 7 亿美元",
+      "tag": "AI投融资",
+      "id": 2
+    },
+    {
+      "title": "OpenAI GPT-6 Sol 被破解，30 万字系统提示词已泄露",
+      "url": "https://www.ithome.com/1/009/745.htm",
+      "source": "IT之家",
+      "source_icon": "🟢",
+      "summary": "大模型圈的核心机密，终究还是保不住了！继前阵子Opus 5.5 被爆出 190万字提示词泄露后，AI圈的「地心引力」再次失效——OpenAI的现役代码模型 GPT-6 SolCodex 惨遭「开盒」，…",
+      "tag": "大模型",
+      "id": 3
+    },
+    {
+      "title": "“国民辣酱”老干妈也用上AI，营收已重回巅峰",
+      "url": "https://www.tmtpost.com/8159130.html",
+      "source": "钛媒体",
+      "source_icon": "🟠",
+      "summary": "通过四年的质量巩固与体系优化，2025年，老干妈营收达54亿元，创历史最高峰值。",
+      "tag": "AI产品",
+      "id": 4
+    },
+    {
+      "title": "9秒删库，700个AI失控，豪掷513亿买不来安全？",
+      "url": "https://www.tmtpost.com/8153885.html",
+      "source": "钛媒体",
+      "source_icon": "🟠",
+      "summary": "AI从工具变成同事，安全就从选项变成前提。",
+      "tag": "政策监管",
+      "id": 5
+    },
+    {
+      "title": "别再把攻略全甩给 AI：国庆七天河南自驾，我是这样用 Agent 的",
+      "url": "https://sspai.com/post/114945",
+      "source": "少数派",
+      "source_icon": "🔵",
+      "summary": "祝你旅途顺遂，假期自由。",
+      "tag": "AI Agent",
+      "id": 6
+    },
+    {
+      "title": "软银集团孙正义罕见发出 AI 安全警告，呼吁各国携手应对威胁",
+      "url": "https://www.ithome.com/1/009/758.htm",
+      "source": "IT之家",
+      "source_icon": "🟢",
+      "summary": "软银集团创始人孙正义一直被视为人工智能最坚定的拥护者之一。然而他近日坦言，随着AI能力的突飞猛进，就连他也对伴随而来的安全风险深感担忧。",
+      "tag": "政策监管",
+      "id": 7
+    },
+    {
+      "title": "Meta 的 AI 助手 Muse 被曝可深度分析用户社交关系，并为每位联系人建立个人档案",
+      "url": "https://www.ithome.com/1/009/755.htm",
+      "source": "IT之家",
+      "source_icon": "🟢",
+      "summary": "Meta的全新个人助手 Muse已经迅速走红，数百万用户下载了这款人工智能智能体，把它和自己的银行账户、消息软件或者健康数据进行绑定，交由它代为完成各项事务。",
+      "tag": "AI产品",
+      "id": 8
+    },
+    {
+      "title": "OpenAI 奥尔特曼：人工智能的巨大效益值得承担部分风险",
+      "url": "https://www.ithome.com/1/009/754.htm",
+      "source": "IT之家",
+      "source_icon": "🟢",
+      "summary": "OpenAI首席执行官萨姆 · 奥尔特曼（SamAltman）近日在接受《Decoded》栏目专访时表示，他的公司与竞争对手Anthropic在人工智能监管问题上，仍然存在根本性的世界观分歧。",
+      "tag": "AI产品",
+      "id": 9
+    },
+    {
+      "title": "算力资产寿命的多空之争：黄仁勋说能用六年，空头说三年就该报废",
+      "url": "https://www.tmtpost.com/8158686.html",
+      "source": "钛媒体",
+      "source_icon": "🟠",
+      "summary": "算力进入“资产时代”：它有了估值公式，有了残值曲线，也开始有了自己的融资渠道。",
+      "tag": "AI算力",
+      "id": 10
+    }
+  ]
+}
