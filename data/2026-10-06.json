@@ -1,0 +1,99 @@
+{
+  "date": "2026-10-06",
+  "generated_at": "2026-10-06T10:38:40.167061+08:00",
+  "category": "餐饮零售 & AI科技",
+  "total": 10,
+  "editor_note": "今天共精选 10 条。AI科技板块：英伟达黄仁勋“世界巡演”AI 视频海内外等动态持续发酵。",
+  "items": [
+    {
+      "title": "英伟达黄仁勋“世界巡演”AI 视频海内外爆火，马斯克调侃“内存涨价的原因找到了”",
+      "url": "https://www.ithome.com/1/009/953.htm",
+      "source": "IT之家",
+      "source_icon": "🟢",
+      "summary": "近期有关迈克尔 · 杰克逊演唱会的二创视频在国内视频平台爆火，网友们将舞台上的迈克尔 · 杰克逊和台下的观众替换为各种知名人物。",
+      "tag": "AI算力",
+      "id": 1
+    },
+    {
+      "title": "LG 电子将为北美超 5GW 人工智能数据中心供应冷水机组",
+      "url": "https://www.ithome.com/1/009/949.htm",
+      "source": "IT之家",
+      "source_icon": "🟢",
+      "summary": "LG 电子当地时间昨日宣布，其北美分支与暖通空调服务企业AIR Control Concepts达成一项涉及超 5GW 规模 的人工智能数据中心(AIDC) 先进冷水机组长期供应协议。",
+      "tag": "AI产品",
+      "id": 2
+    },
+    {
+      "title": "维基媒体：OpenAI 失控 AI 智能体或引发其 5 月数据服务故障",
+      "url": "https://www.ithome.com/1/009/947.htm",
+      "source": "IT之家",
+      "source_icon": "🟢",
+      "summary": "运营网络百科全书维基百科的维基媒体基金会表示，今年 5 月其数据服务出现故障，或许和来自OpenAI失控智能体产生的巨量访问流量有关。",
+      "tag": "AI Agent",
+      "id": 3
+    },
+    {
+      "title": "这个国庆，第一批机器人员工已经上岗",
+      "url": "https://www.tmtpost.com/8159586.html",
+      "source": "钛媒体",
+      "source_icon": "🟠",
+      "summary": "具身机器人集体入职。",
+      "tag": "机器人",
+      "id": 4
+    },
+    {
+      "title": "快手的视频Agent，会不会来晚了？",
+      "url": "https://www.tmtpost.com/8159522.html",
+      "source": "钛媒体",
+      "source_icon": "🟠",
+      "summary": "视频模型厂商，正集体从\"生成一段画面\"走向\"交付一部成片\"。",
+      "tag": "AI Agent",
+      "id": 5
+    },
+    {
+      "title": "别再把攻略全甩给 AI：国庆七天河南自驾，我是这样用 Agent 的",
+      "url": "https://sspai.com/post/114945",
+      "source": "少数派",
+      "source_icon": "🔵",
+      "summary": "祝你旅途顺遂，假期自由。",
+      "tag": "AI Agent",
+      "id": 6
+    },
+    {
+      "title": "消息称 OpenAI 洽谈 300 亿美元融资，阿联酋基金、贝莱德入局磋商",
+      "url": "https://www.ithome.com/1/009/961.htm",
+      "source": "IT之家",
+      "source_icon": "🟢",
+      "summary": "知情人士透露，OpenAI 正在与来自阿联酋的多家投资基金（总部位于阿布扎比的MGX也在其中）展开磋商，希望由这些基金作为基石投资方，助力这家ChatGPT 开发商完成一轮规模300 亿美元",
+      "tag": "AI投融资",
+      "id": 7
+    },
+    {
+      "title": "防止 AI 胡编乱造：微软 Word Copilot 新增引用功能，可溯源查证",
+      "url": "https://www.ithome.com/1/009/958.htm",
+      "source": "IT之家",
+      "source_icon": "🟢",
+      "summary": "科技媒体Windows Central昨日（10月 5日）发布博文，报道称在Word文档处理应用中，微软优化 Copilot AI体验，新增引用功能，帮助用户溯源遏制AI幻觉。",
+      "tag": "AI产品",
+      "id": 8
+    },
+    {
+      "title": "苹果与 OpenAI 商业秘密诉讼交锋升级：互指违规提交新证据",
+      "url": "https://www.ithome.com/1/009/955.htm",
+      "source": "IT之家",
+      "source_icon": "🟢",
+      "summary": "几天之前，OpenAI 指责苹果在商业秘密诉讼当中违规提交新证据。如今苹果予以反击，反过来指控OpenAI在其提交的回应中超出了法院规则允许的范围。",
+      "tag": "AI产品",
+      "id": 9
+    },
+    {
+      "title": "7300亿美元押注之后，市场开始追问AI的回报",
+      "url": "https://www.tmtpost.com/8159557.html",
+      "source": "钛媒体",
+      "source_icon": "🟠",
+      "summary": "四大科技巨头今年砸下7300亿美元建AI，直接收入却只有250亿，当股价与芯片股彻底脱钩、1.65万亿表外债务浮出水面，市场终于开始追问：花掉的钱，什么时候赚得回来？",
+      "tag": "AI投融资",
+      "id": 10
+    }
+  ]
+}
