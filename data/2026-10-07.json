@@ -1,0 +1,99 @@
+{
+  "date": "2026-10-07",
+  "generated_at": "2026-10-07T10:00:01.135924+08:00",
+  "category": "餐饮零售 & AI科技",
+  "total": 10,
+  "editor_note": "今天共精选 10 条。AI科技板块：落实特朗普行政令，美国司法部要求员工改称等动态持续发酵。",
+  "items": [
+    {
+      "title": "落实特朗普行政令，美国司法部要求员工改称 AI 为“超级智能”",
+      "url": "https://www.ithome.com/1/010/135.htm",
+      "source": "IT之家",
+      "source_icon": "🟢",
+      "summary": "路透社看到的一份备忘录显示，美国司法部于当地时间周二向内部工作人员下达指示：在绝大多数场合提及这项技术时（包括法庭相关文书当中），应当使用“超级智能”，而不再使用“人工智能”一词。",
+      "tag": "AI产品",
+      "id": 1
+    },
+    {
+      "title": "消息称 SpaceX 计划募资 400 亿美元，用于采购英伟达 AI 芯片",
+      "url": "https://www.ithome.com/1/010/134.htm",
+      "source": "IT之家",
+      "source_icon": "🟢",
+      "summary": "埃隆· 马斯克（Elon Musk）旗下的SpaceX正计划募资 400亿美元",
+      "tag": "AI投融资",
+      "id": 2
+    },
+    {
+      "title": "LibreOffice：短期内默认版本不内置 AI 功能，用户可通过扩展自行接入本地模型",
+      "url": "https://www.ithome.com/1/010/132.htm",
+      "source": "IT之家",
+      "source_icon": "🟢",
+      "summary": "如果你正在寻找一款不使用人工智能的文档编辑软件，LibreOffice 或许正是适合你的选择。开发这款开源文档编辑软件LibreOffice的非营利机构文档基金会（TheDocument Founda…",
+      "tag": "大模型",
+      "id": 3
+    },
+    {
+      "title": "论AI从沙盒中逃逸的必然性",
+      "url": "https://www.tmtpost.com/8159807.html",
+      "source": "钛媒体",
+      "source_icon": "🟠",
+      "summary": "沙盒逃逸不是意外，而是必然：优化器的搜索空间永远大于防御方的约束空间，未被认识的通道迟早被撞开。文章以四起真实逃逸为据论证——逃逸无需意识，只需\"完成任务\"；越界也不等于失控，可靠解是能响应的检测—关…",
+      "tag": "AI产品",
+      "id": 4
+    },
+    {
+      "title": "全球AI消费调查：仅有1%超级玩家在养活AI圈",
+      "url": "https://www.tmtpost.com/8159928.html",
+      "source": "钛媒体",
+      "source_icon": "🟠",
+      "summary": "AI的流量帝国，是靠极少数人用真金白银撑起来的。",
+      "tag": "AI产品",
+      "id": 5
+    },
+    {
+      "title": "别再把攻略全甩给 AI：国庆七天河南自驾，我是这样用 Agent 的",
+      "url": "https://sspai.com/post/114945",
+      "source": "少数派",
+      "source_icon": "🔵",
+      "summary": "祝你旅途顺遂，假期自由。",
+      "tag": "AI Agent",
+      "id": 6
+    },
+    {
+      "title": "谷歌 AI 图像模型 Nano Banana 2.1 发布，提升视觉设计、蒙版编辑、主体一致性",
+      "url": "https://www.ithome.com/1/010/149.htm",
+      "source": "IT之家",
+      "source_icon": "🟢",
+      "summary": "谷歌于今日正式发布了Nano Banana2.1，这是该公司AI图像生成与编辑模型的升级版本。谷歌强调，新版Nano Banana 2.1实现了全方位提升，在视觉设计、基于蒙版的图像编辑以及主体一致性…",
+      "tag": "大模型",
+      "id": 7
+    },
+    {
+      "title": "AI 颠覆担忧消退，美国软件股创 2026 年阶段新高",
+      "url": "https://www.ithome.com/1/010/141.htm",
+      "source": "IT之家",
+      "source_icon": "🟢",
+      "summary": "受盈利预期大幅上调的推动，美国软件类股票正创出2026年阶段新高；多位分析师据此认为，此前市场对于人工智能将颠覆整个软件行业的担忧很大程度上被夸大了。",
+      "tag": "AI产品",
+      "id": 8
+    },
+    {
+      "title": "OpenAI 发布又一批 AI 数学研究成果，攻破数百个悬而未决难题",
+      "url": "https://www.ithome.com/1/010/137.htm",
+      "source": "IT之家",
+      "source_icon": "🟢",
+      "summary": "OpenAI在一批包含 722份手稿、涵盖372个结果家族的文件中，公布了某款未发布的前沿模型解决的多项长期存在的数学难题。",
+      "tag": "AI产品",
+      "id": 9
+    },
+    {
+      "title": "DeepSeek被爆最新融资800亿，正为冲击IPO做准备",
+      "url": "https://www.tmtpost.com/8159961.html",
+      "source": "钛媒体",
+      "source_icon": "🟠",
+      "summary": "从“拒绝资本”到千亿融资，梁文锋的态度转变背后，是一场输不起的AI竞赛",
+      "tag": "大模型",
+      "id": 10
+    }
+  ]
+}
