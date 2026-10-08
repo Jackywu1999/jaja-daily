@@ -1,0 +1,99 @@
+{
+  "date": "2026-10-08",
+  "generated_at": "2026-10-08T10:24:21.862216+08:00",
+  "category": "餐饮零售 & AI科技",
+  "total": 10,
+  "editor_note": "今天共精选 10 条。AI科技板块：加州非营利组织新报告：ChatGPT 青等动态持续发酵。",
+  "items": [
+    {
+      "title": "加州非营利组织新报告：ChatGPT 青少年模式并不适合青少年",
+      "url": "https://www.ithome.com/1/010/383.htm",
+      "source": "IT之家",
+      "source_icon": "🟢",
+      "summary": "加州非营利组织Common Sense Media发布的新报告认为，OpenAI的 ChatGPT青少年模式对未成年人而言风险过高。",
+      "tag": "大模型",
+      "id": 1
+    },
+    {
+      "title": "“白宫 AI 沙皇”履新第一站定在硅谷，消息称会见英伟达黄仁勋、OpenAI 奥尔特曼等巨头 CEO",
+      "url": "https://www.ithome.com/1/010/373.htm",
+      "source": "IT之家",
+      "source_icon": "🟢",
+      "summary": "美国国家情报总监、新科“白宫AI 沙皇”杰伊 ·克莱顿接下了另一项职务：领导特朗普口中所称的“超级智能工作组”。履新后的第一站是硅谷，他将与AI行业多名重量级高管见面。",
+      "tag": "AI算力",
+      "id": 2
+    },
+    {
+      "title": "美国一男子因利用 AI 骗取音乐版权收入被判 18 个月监禁并罚没 800 万美元",
+      "url": "https://www.ithome.com/1/010/378.htm",
+      "source": "IT之家",
+      "source_icon": "🟢",
+      "summary": "美国司法部当地时间本月 6 日发布公告，表示该国北卡罗来纳州男子Michael Smith 因利用 AI骗取音乐版权收入被判18 个月监禁并罚没 800万美元",
+      "tag": "AI产品",
+      "id": 3
+    },
+    {
+      "title": "Haiku 5.5发布，Anthropic开始撒钱",
+      "url": "https://www.tmtpost.com/8160574.html",
+      "source": "钛媒体",
+      "source_icon": "🟠",
+      "summary": "模型砍到一折，API额度直接白送。",
+      "tag": "AI产品",
+      "id": 4
+    },
+    {
+      "title": "谁在捧杀Utopai X？",
+      "url": "https://www.tmtpost.com/8160338.html",
+      "source": "钛媒体",
+      "source_icon": "🟠",
+      "summary": "把一个后训练模型吹成原生独立AI模型，是一场巨大的公关灾难。",
+      "tag": "AI产品",
+      "id": 5
+    },
+    {
+      "title": "别再把攻略全甩给 AI：国庆七天河南自驾，我是这样用 Agent 的",
+      "url": "https://sspai.com/post/114945",
+      "source": "少数派",
+      "source_icon": "🔵",
+      "summary": "祝你旅途顺遂，假期自由。",
+      "tag": "AI Agent",
+      "id": 6
+    },
+    {
+      "title": "惠普战 66 Air 商务轻薄本上架：\"Wildcat Lake\" + OLED，到手 5099.15 元起",
+      "url": "https://www.ithome.com/1/010/395.htm",
+      "source": "IT之家",
+      "source_icon": "🟢",
+      "summary": "HP（惠普）现已在电商平台上架搭载战66 Air (ZHAN66 14AirG2i)商务轻薄笔记本电脑。其基于第3 代英特尔酷睿处理器 \"WildcatLake\"，配备OLED屏幕。",
+      "tag": "AI产品",
+      "id": 7
+    },
+    {
+      "title": "警告“AI 或灭绝人类”的前 Anthropic 研究员：某种意义上，我曾研究让 AI 取代自己",
+      "url": "https://www.ithome.com/1/010/394.htm",
+      "source": "IT之家",
+      "source_icon": "🟢",
+      "summary": "曾在Anthropic 和 OpenAI任职的研究员雅各布 · 考克森警告，AI 很快就能自主开展研究，人类可能完全无法掌控此后的发展。",
+      "tag": "AI产品",
+      "id": 8
+    },
+    {
+      "title": "黄仁勋焦虑 AI 需求降温，曝英伟达拟再投 10 亿美元加码人形机器人企业 Figure",
+      "url": "https://www.ithome.com/1/010/387.htm",
+      "source": "IT之家",
+      "source_icon": "🟢",
+      "summary": "当地时间 7 日，据The Information援引一名知情人士消息称，英伟达曾讨论向人形机器人制造商Figure 再投资 10亿美元",
+      "tag": "AI投融资",
+      "id": 9
+    },
+    {
+      "title": "GPT-6全球上线、Claude Haiku 5.5降价，这个假期AI圈也没停",
+      "url": "https://www.tmtpost.com/8160689.html",
+      "source": "钛媒体",
+      "source_icon": "🟠",
+      "summary": "成本压下来之后，下一个阶段比什么？",
+      "tag": "大模型",
+      "id": 10
+    }
+  ]
+}
