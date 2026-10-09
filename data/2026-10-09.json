@@ -1,0 +1,99 @@
+{
+  "date": "2026-10-09",
+  "generated_at": "2026-10-09T10:41:52.311053+08:00",
+  "category": "餐饮零售 & AI科技",
+  "total": 10,
+  "editor_note": "今天共精选 10 条。餐饮零售板块：7-ELEVEn关闭印度全部门店等话题值得关注；AI科技板块：《Artificial》奥尔特曼扮演者加等动态持续发酵。",
+  "items": [
+    {
+      "title": "7-ELEVEn关闭印度全部门店",
+      "url": "https://www.tmtpost.com/8161277.html",
+      "source": "钛媒体",
+      "source_icon": "🟠",
+      "summary": "7-ELEVEn印度退场：便利店巨头为何败给街头Kirana？",
+      "tag": "商业洞察",
+      "id": 1
+    },
+    {
+      "title": "《Artificial》奥尔特曼扮演者加菲尔德：演了这部戏，我开始怀疑 AI",
+      "url": "https://www.ithome.com/1/010/786.htm",
+      "source": "IT之家",
+      "source_icon": "🟢",
+      "summary": "当地时间 8 日，据《商业内幕》报道，安德鲁 · 加菲尔德在即将上映的电影《Artificial》中饰演OpenAI CEO 萨姆 ·奥尔特曼，可这段表演经历并没有让他更加看好 AI。",
+      "tag": "AI产品",
+      "id": 2
+    },
+    {
+      "title": "字节 Seed 团队发现 DeepSeek“抽风”原因，长上下文可能性能漂移",
+      "url": "https://www.ithome.com/1/010/780.htm",
+      "source": "IT之家",
+      "source_icon": "🟢",
+      "summary": "字节Seed 团队今年 9 月底在预印本平台arXiv 提交了一篇论文，谈到分块KV缓存压缩带来的相位敏感性，直指 DeepSeek“抽风”原因。",
+      "tag": "大模型",
+      "id": 3
+    },
+    {
+      "title": "新思科技拟寻求与中国 AI 实验室合作，在华加速芯片设计",
+      "url": "https://www.ithome.com/1/010/777.htm",
+      "source": "IT之家",
+      "source_icon": "🟢",
+      "summary": "芯片设计软件龙头企业新思科技（Synopsys）表示，尽管美国政府收紧了对人工智能与半导体的出口管制，但公司计划通过与中国的大语言模型（LLM）构建者合作，利用其工具的AI版本，协助中国本土企业加速芯…",
+      "tag": "AI算力",
+      "id": 4
+    },
+    {
+      "title": "影视公司站在AI牌桌前：谁在梭哈，谁在观望，谁在裸泳",
+      "url": "https://www.tmtpost.com/8161608.html",
+      "source": "钛媒体",
+      "source_icon": "🟠",
+      "summary": "我们盘点了A股和港股上市的27家上市公司，梳理了他们在AI领域的布局。",
+      "tag": "AI产品",
+      "id": 5
+    },
+    {
+      "title": "微软升级 Win11 的 AI 框架，实验性支持 GGUF 与 ONNX 原生本地推理",
+      "url": "https://www.ithome.com/1/010/825.htm",
+      "source": "IT之家",
+      "source_icon": "🟢",
+      "summary": "科技媒体NeoWin 昨日（10 月 8日）发布博文，报道称微软正与llama.cpp 和 GGUF开源社区合作，在Windows 11 系统上升级Windows ML，实验性原生支持 GGUF 与 …",
+      "tag": "大模型",
+      "id": 6
+    },
+    {
+      "title": "陶哲轩质疑 OpenAI 公司：719 篇 AI 数学证明，人类真的理解了吗？",
+      "url": "https://www.ithome.com/1/010/795.htm",
+      "source": "IT之家",
+      "source_icon": "🟢",
+      "summary": "OpenAI于 10 月公布 719 份 AI数学解答，涵盖372个数学结果族，涉及数百项开放研究问题，不过发布后被指尚未完全达到“数学与人工智能顾问小组”（AGMAI）提出的标准。",
+      "tag": "AI产品",
+      "id": 7
+    },
+    {
+      "title": "黄仁勋女婿 Nico Caprez 火速晋升英伟达全球 AI 基础设施增长副总裁，曾是职业滑雪运动员",
+      "url": "https://www.ithome.com/1/010/788.htm",
+      "source": "IT之家",
+      "source_icon": "🟢",
+      "summary": "据The Information本周报道，英伟达CEO 黄仁勋的长女 MadisonHuang（黄敏珊）最近与35 岁的 Nico Caprez结婚，后者今年1 月火速升任英伟达全球 AI基础设施增长…",
+      "tag": "商业洞察",
+      "id": 8
+    },
+    {
+      "title": "数亿融资的AI乙游，正在失守它的阵地",
+      "url": "https://www.tmtpost.com/8161802.html",
+      "source": "钛媒体",
+      "source_icon": "🟠",
+      "summary": "留给AI乙游的时间已经不多了。",
+      "tag": "AI投融资",
+      "id": 9
+    },
+    {
+      "title": "手机新品发布潮：集体涨价，AI上桌，折叠屏走向主流",
+      "url": "https://www.tmtpost.com/8161706.html",
+      "source": "钛媒体",
+      "source_icon": "🟠",
+      "summary": "一面是出货量持续收缩，一面是万元定价集体上探。",
+      "tag": "AI产品",
+      "id": 10
+    }
+  ]
+}
