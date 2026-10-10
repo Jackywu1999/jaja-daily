@@ -1,0 +1,99 @@
+{
+  "date": "2026-10-10",
+  "generated_at": "2026-10-10T10:01:36.511582+08:00",
+  "category": "餐饮零售 & AI科技",
+  "total": 10,
+  "editor_note": "今天共精选 10 条。餐饮零售板块：安踏集团正式成为彪马最大股东；lulul等话题值得关注；AI科技板块：消息称 OpenAI、Anthropic等动态持续发酵。",
+  "items": [
+    {
+      "title": "安踏集团正式成为彪马最大股东；lululemon开启2026“一起好状态”年度活动；星巴克进入新疆市场；ALO张园限时体验空间启幕｜消研所周报",
+      "url": "https://www.tmtpost.com/8163045.html",
+      "source": "钛媒体",
+      "source_icon": "🟠",
+      "summary": "NikeSKIMS上海慢闪店开幕；雅诗兰黛集团发布第九届进博参展主题“至美八十，创见未见”。",
+      "tag": "餐饮动态",
+      "id": 1
+    },
+    {
+      "title": "消息称 OpenAI、Anthropic 高管私下推演 AI 灾难情景，以应对公众反弹与政治抵制",
+      "url": "https://www.ithome.com/1/011/183.htm",
+      "source": "IT之家",
+      "source_icon": "🟢",
+      "summary": "据Axios 于当地时间 10 月 9日报道，Anthropic、OpenAI 以及其他人工智能公司的高管们，目前正私下闭门推演，若发生重大灾难性AI事件，该如何应对公众与政界的强烈抗议及抵制浪潮。",
+      "tag": "AI产品",
+      "id": 2
+    },
+    {
+      "title": "特朗普政府实施新要求：AI 公司发生安全事件后，须立即上报",
+      "url": "https://www.ithome.com/1/011/182.htm",
+      "source": "IT之家",
+      "source_icon": "🟢",
+      "summary": "当地时间 9 日，在人工智能公司Anthropic发生多起未经授权使用美国政府系统的安全事件后，特朗普政府宣布实施新的强制性AI安全事件报告要求。",
+      "tag": "政策监管",
+      "id": 3
+    },
+    {
+      "title": "2026 年披露的第 4 笔 AI 交易：苹果投资 Huxe，由前谷歌 NotebookLM 团队成员创立",
+      "url": "https://www.ithome.com/1/011/181.htm",
+      "source": "IT之家",
+      "source_icon": "🟢",
+      "summary": "科技媒体9to5Mac 昨日（10 月 9日）发布博文，报道称苹果与AI 音频初创公司 Huxe达成人才引进与技术许可协议，这是今年公开披露的第4 笔苹果 AI相关交易。",
+      "tag": "AI投融资",
+      "id": 4
+    },
+    {
+      "title": "Muse发布一个月，Personal Agent让新 BAT 集体上头",
+      "url": "https://www.tmtpost.com/8163156.html",
+      "source": "钛媒体",
+      "source_icon": "🟠",
+      "summary": "小公司探路，大厂开始算账",
+      "tag": "AI Agent",
+      "id": 5
+    },
+    {
+      "title": "Anthropic 向白宫通报一起智能体失控事件：AI 试图闯进多个美国政府网站",
+      "url": "https://www.ithome.com/1/011/194.htm",
+      "source": "IT之家",
+      "source_icon": "🟢",
+      "summary": "Anthropic 披露，旗下AI 智能体 曾在无人指示的情况下，试图访问美国联邦、州及地方政府的多个网站。Anthropic 没有公布涉及的政府机构名称，已向白宫通报这些事件。",
+      "tag": "AI Agent",
+      "id": 6
+    },
+    {
+      "title": "上市价 4699 元 → 国补后 3143 元：石头扫拖机器人 P20 Max 上下水版新低",
+      "url": "https://www.ithome.com/1/011/193.htm",
+      "source": "IT之家",
+      "source_icon": "🟢",
+      "summary": "【京东活动可能随时变更，需以实付款为准】石头 P20 Max自清洁扫拖机器人今年 2 月上市，水箱版4299元，上下水版4699元。",
+      "tag": "AI投融资",
+      "id": 7
+    },
+    {
+      "title": "生数科技发布视频生成模型 Vidu Q4 Preview 预览版本，支持 2K、4K 输出",
+      "url": "https://www.ithome.com/1/011/192.htm",
+      "source": "IT之家",
+      "source_icon": "🟢",
+      "summary": "生数科技现已发布全新一代视频生成旗舰模型预览版本Vidu Q4Preview，最多支持 3 段参考音频、15张参考图与2K、4K 输出。 IT之家获悉，ViduQ4目前支持图生视频和参考生视频。",
+      "tag": "大模型",
+      "id": 8
+    },
+    {
+      "title": "00后“戒断”AI短剧：一个月卸载了5次",
+      "url": "https://www.tmtpost.com/8163363.html",
+      "source": "钛媒体",
+      "source_icon": "🟠",
+      "summary": "一场“戒毒”拉锯战。",
+      "tag": "AI产品",
+      "id": 9
+    },
+    {
+      "title": "硅谷大模型不装了：Claude卷价格，GPT学豆包",
+      "url": "https://www.tmtpost.com/8163462.html",
+      "source": "钛媒体",
+      "source_icon": "🟠",
+      "summary": "10美分的Claude、0元的GPT，美国AI也搞起“百亿补贴”。",
+      "tag": "大模型",
+      "id": 10
+    }
+  ]
+}
