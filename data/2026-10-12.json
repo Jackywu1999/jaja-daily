@@ -1,0 +1,90 @@
+{
+  "date": "2026-10-12",
+  "generated_at": "2026-10-12T10:00:15.823105+08:00",
+  "category": "餐饮零售 & AI科技",
+  "total": 9,
+  "editor_note": "今天共精选 9 条。AI科技板块：纸质书《终焉路独行》出现 AI 提示词，等动态持续发酵。",
+  "items": [
+    {
+      "title": "纸质书《终焉路独行》出现 AI 提示词，策划团队致歉称系误将校对软件提示词当正文处理所致",
+      "url": "https://www.ithome.com/1/011/740.htm",
+      "source": "IT之家",
+      "source_icon": "🟢",
+      "summary": "有读者近日在社交平台分享，称自己在阅读《终焉路独行》这本书时，正文内容横插了一句话：“需要我再微调部分语句，让整体文风更贴合悬疑灵异的氛围吗？",
+      "tag": "AI产品",
+      "id": 1
+    },
+    {
+      "title": "OpenAI 宣布 GPT-6.1 Sol 默认上下文长度从 272k 提升至 500k，增加约 80%",
+      "url": "https://www.ithome.com/1/011/736.htm",
+      "source": "IT之家",
+      "source_icon": "🟢",
+      "summary": "OpenAI的 ThibaultSottiaux（Tibo）今日宣布，已将Codex 和 Work 环境下GPT-6.1Sol 的 默认上下文长度提升至500k ，相比此前的272k 增加了约80%。",
+      "tag": "大模型",
+      "id": 2
+    },
+    {
+      "title": "英国将加强网络防御，AI 国务大臣呼吁人工智能企业加大安全保障力度",
+      "url": "https://www.ithome.com/1/011/727.htm",
+      "source": "IT之家",
+      "source_icon": "🟢",
+      "summary": "英国将加强其网络防御，同时呼吁顶尖人工智能研发企业在系统安全治理上采取更积极的举措。英国 AI 国务大臣卡尼什卡 ·纳拉扬（Kanishka Narayan）预计将在西伦敦发表的专题演讲中正式宣布上述…",
+      "tag": "政策监管",
+      "id": 3
+    },
+    {
+      "title": "请来Claude老祖，谷歌能借Agent翻身吗？",
+      "url": "https://www.tmtpost.com/8164268.html",
+      "source": "钛媒体",
+      "source_icon": "🟠",
+      "summary": "agent底座之争，OpenAI又被针对了。",
+      "tag": "大模型",
+      "id": 4
+    },
+    {
+      "title": "马化腾带 28 岁青年与广东省委书记黄坤明座谈，腾讯首席 AI 科学家姚顺雨露面",
+      "url": "https://www.ithome.com/1/011/765.htm",
+      "source": "IT之家",
+      "source_icon": "🟢",
+      "summary": "10月 8日，国庆假期后首个工作日，广东省委书记黄坤明到深圳调研，走进腾讯总部。在座谈交流环节，腾讯董事会主席兼首席执行官马化腾发言，在他旁边还坐着一个仅 28岁的年轻人，此人是腾讯首席AI 科学家姚…",
+      "tag": "AI产品",
+      "id": 5
+    },
+    {
+      "title": "全球运营商最大单体智算中心扩容工程：中国移动呼和浩特智算中心总算力达 20100P，90% 服务京津冀",
+      "url": "https://www.ithome.com/1/011/751.htm",
+      "source": "IT之家",
+      "source_icon": "🟢",
+      "summary": "由中建三局承建的中国移动智算中心（呼和浩特）扩容工程—— 中国移动呼和浩特数据中心B25、B27 项目已于近日顺利竣工。 该项目位于内蒙古和林格尔新区，合约额27亿元，建筑面积约44500平方米，IT…",
+      "tag": "AI算力",
+      "id": 6
+    },
+    {
+      "title": "越障高度 40mm：小米米家扫拖机器人 6 水箱版 1779 元、上下水版 2089 元",
+      "url": "https://www.ithome.com/1/011/746.htm",
+      "source": "IT之家",
+      "source_icon": "🟢",
+      "summary": "小米旗下米家扫拖机器人6 标准版发售于 2026 年 4月，该机器人提供28000Pa吸力，其中水箱版本定价2699元、上下水版本定价3099元。",
+      "tag": "机器人",
+      "id": 7
+    },
+    {
+      "title": "本末科技，还没吃上具身智能这碗饭",
+      "url": "https://www.tmtpost.com/8164407.html",
+      "source": "钛媒体",
+      "source_icon": "🟠",
+      "summary": "具身智能业务营收占比5%。",
+      "tag": "机器人",
+      "id": 8
+    },
+    {
+      "title": "AI创造的新工作，可能根本轮不到你",
+      "url": "https://www.tmtpost.com/8164296.html",
+      "source": "钛媒体",
+      "source_icon": "🟠",
+      "summary": "未来真正稀缺的，可能不只是工作机会，还有让一个普通人从什么都不会，逐渐成为专业人才的机会。",
+      "tag": "AI产品",
+      "id": 9
+    }
+  ]
+}
