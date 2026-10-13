@@ -1,0 +1,99 @@
+{
+  "date": "2026-10-13",
+  "generated_at": "2026-10-13T11:19:02.527090+08:00",
+  "category": "餐饮零售 & AI科技",
+  "total": 10,
+  "editor_note": "今天共精选 10 条。餐饮零售板块：赵一鸣的秤能校，加盟商的账难平等话题值得关注；AI科技板块：微软推出 Maia 300 自研 AI 等动态持续发酵。",
+  "items": [
+    {
+      "title": "赵一鸣的秤能校，加盟商的账难平",
+      "url": "https://www.tmtpost.com/8166464.html",
+      "source": "钛媒体",
+      "source_icon": "🟠",
+      "summary": "赵一鸣的秤能校，加盟商的账难平",
+      "tag": "商业洞察",
+      "id": 1
+    },
+    {
+      "title": "微软推出 Maia 300 自研 AI 芯片，明年拟部署超百万颗以降低算力成本",
+      "url": "https://www.ithome.com/1/012/191.htm",
+      "source": "IT之家",
+      "source_icon": "🟢",
+      "summary": "微软于当地时间周一发布了新一代自研AI 芯片，并计划在明年部署超百万颗该芯片，用于支撑自身内部AI业务。这款芯片名为 Maia300，是微软第三代自研芯片，专门用于AI数据运算，例如代码生成、代表用户…",
+      "tag": "AI算力",
+      "id": 2
+    },
+    {
+      "title": "AI 工厂建设迎来统一蓝图：英伟达开放 Vera Rubin 机架设计",
+      "url": "https://www.ithome.com/1/012/120.htm",
+      "source": "IT之家",
+      "source_icon": "🟢",
+      "summary": "英伟达昨日（10月 12日）发布公告，在开放计算项目（OCP）全球峰会上，英伟达宣布开放Vera Rubin机架与计算托架设计，并与Cisco、Google、Meta、Microsoft、Vision…",
+      "tag": "AI算力",
+      "id": 3
+    },
+    {
+      "title": "华为徐松余：麒麟 9050 系列开启未来 10 年新征程，实现业界首个 30B MoE 大模型入端",
+      "url": "https://www.ithome.com/1/012/176.htm",
+      "source": "IT之家",
+      "source_icon": "🟢",
+      "summary": "IT之家10 月 13日现场消息，华为今日（10月 13 日）在上海练秋湖举办 2026麒麟媒体沟通会，华为半导体业务无线终端芯片产品管理部部长徐松余发表演讲。",
+      "tag": "大模型",
+      "id": 4
+    },
+    {
+      "title": "数字员工“AI大机遇”的另一面",
+      "url": "https://www.tmtpost.com/8166174.html",
+      "source": "钛媒体",
+      "source_icon": "🟠",
+      "summary": "珠海金智维冲刺港交所上市，业务聚焦AI数字员工，但近三年亏损严重，财务状况不佳。",
+      "tag": "AI产品",
+      "id": 5
+    },
+    {
+      "title": "阿里千问升级个人 AI 助理，Personal Agent“千问 Go！”即将发布",
+      "url": "https://www.ithome.com/1/012/244.htm",
+      "source": "IT之家",
+      "source_icon": "🟢",
+      "summary": "阿里千问Personal Agent“ 千问Go！ ”即将发布，支持申请航班延误理赔、汽车保养、运动预约和购物比价等任务。千问定位为用户办事的个人 AI助理。",
+      "tag": "AI Agent",
+      "id": 6
+    },
+    {
+      "title": "AI 也要“反虐待”：全球首富马斯克推荐用户不要“折磨”超级智能 SI",
+      "url": "https://www.ithome.com/1/012/204.htm",
+      "source": "IT之家",
+      "source_icon": "🟢",
+      "summary": "在Anthropic更新使用政策，禁止用户对AI模型持续且无明确目的的辱骂或残忍行为后，全球首富埃隆· 马斯克（ElonMusk）表态支持该政策。",
+      "tag": "AI产品",
+      "id": 7
+    },
+    {
+      "title": "Jev 引爆决策 AI 模型新赛道，爆红后被卷入原创争议",
+      "url": "https://www.ithome.com/1/012/193.htm",
+      "source": "IT之家",
+      "source_icon": "🟢",
+      "summary": "科技媒体Tom's Hardware 今天（10月13日）发布博文，报道称TypeSafe 发布 Jev模型后引爆“决策AI模型”赛道， 在微软、OpenAI、Cloudflare、Perplexit…",
+      "tag": "大模型",
+      "id": 8
+    },
+    {
+      "title": "TikTok’s Chief Sees AI Unlocking Science Within Three Years",
+      "url": "https://www.tmtpost.com/8166635.html",
+      "source": "钛媒体",
+      "source_icon": "🟠",
+      "summary": "ShouZi Chew told aSingaporeaudience thatartificialintelligence coulddeliverreal advances inphysics,b…",
+      "tag": "AI产品",
+      "id": 9
+    },
+    {
+      "title": "“大模型时代的谷歌，可能永远不会出现”",
+      "url": "https://www.tmtpost.com/8166394.html",
+      "source": "钛媒体",
+      "source_icon": "🟠",
+      "summary": "但这并不等于“AI 没有垄断”。",
+      "tag": "大模型",
+      "id": 10
+    }
+  ]
+}
