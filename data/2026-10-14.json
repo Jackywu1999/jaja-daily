@@ -1,0 +1,99 @@
+{
+  "date": "2026-10-14",
+  "generated_at": "2026-10-14T09:33:11.034136+08:00",
+  "category": "餐饮零售 & AI科技",
+  "total": 10,
+  "editor_note": "今天共精选 10 条。餐饮零售板块：星巴克，重新学做中国生意等话题值得关注；AI科技板块：德勤调查：英国过半大企业未来一年打算用 等动态持续发酵。",
+  "items": [
+    {
+      "title": "星巴克，重新学做中国生意",
+      "url": "https://www.tmtpost.com/8167760.html",
+      "source": "钛媒体",
+      "source_icon": "🟠",
+      "summary": "教育市场是一种能力，留住市场则是另一种能力。",
+      "tag": "餐饮动态",
+      "id": 1
+    },
+    {
+      "title": "胖东来真的不靠超市赚钱？",
+      "url": "https://www.tmtpost.com/8165973.html",
+      "source": "钛媒体",
+      "source_icon": "🟠",
+      "summary": "胖东来真的不靠超市赚钱？",
+      "tag": "零售动态",
+      "id": 2
+    },
+    {
+      "title": "印度软件巨头印孚瑟斯董事长尼勒卡尼：AI 正推动业务增长，就业担忧纯属无稽之谈",
+      "url": "https://www.ithome.com/1/012/648.htm",
+      "source": "IT之家",
+      "source_icon": "🟢",
+      "summary": "印度知名科技企业家、印孚瑟斯董事长南丹· 尼勒卡尼不认同 AI会造成大规模失业的担忧。他认为，AI 反而能为小企业注入活力，催生新的技能需求。现年 71岁的尼勒卡尼，是印孚瑟斯七名联合创始人之一。",
+      "tag": "商业洞察",
+      "id": 3
+    },
+    {
+      "title": "德勤调查：英国过半大企业未来一年打算用 AI 替代打工人",
+      "url": "https://www.ithome.com/1/012/647.htm",
+      "source": "IT之家",
+      "source_icon": "🟢",
+      "summary": "一项针对首席财务官的权威调查显示，英国众多大型企业准备在未来一年用人工智能替代员工。 德勤于当地时间周三发布报告称， 尽管人工智能的应用尚处于早期阶段，但52%的首席财务官预计会借助这项技术裁员 。",
+      "tag": "AI产品",
+      "id": 4
+    },
+    {
+      "title": "苹果官网新线索，全尺寸 HomePod 有望支持 Siri AI",
+      "url": "https://www.ithome.com/1/012/645.htm",
+      "source": "IT之家",
+      "source_icon": "🟢",
+      "summary": "消息源@itspdfu 今天（10 月 14日）在 X 平台发布推文，报道称基于苹果官网相关代码信息，全尺寸 HomePod 未来可能会支持Siri AI。",
+      "tag": "AI产品",
+      "id": 5
+    },
+    {
+      "title": "OPPO 与 Manus 达成合作，Find X10 系列将首发搭载下一代 AI 智能体",
+      "url": "https://www.ithome.com/1/012/656.htm",
+      "source": "IT之家",
+      "source_icon": "🟢",
+      "summary": "OPPO昨日宣布与 AI 智能体平台 Manus达成合作，将在其智能手机上带来下一代智能体人工智能体验。本次合作会把Manus 的智能体能力集成至 OPPO的AI MindPilot，帮助用户把复杂的…",
+      "tag": "AI Agent",
+      "id": 6
+    },
+    {
+      "title": "一名 OpenAI 工程师被捕：涉嫌秘密录制高管会议，最高面临 5 年监禁",
+      "url": "https://www.ithome.com/1/012/653.htm",
+      "source": "IT之家",
+      "source_icon": "🟢",
+      "summary": "美国司法部昨日（10月 13日）发布公告，称 OpenAI一名沙特籍工程师因涉嫌在旧金山办公室高管会议室安装隐藏录音设备，被逮捕并指控非法拦截口头通信。",
+      "tag": "AI产品",
+      "id": 7
+    },
+    {
+      "title": "黄仁勋又出手了，英伟达拟再砸 20 亿美元加码欧洲 AI",
+      "url": "https://www.ithome.com/1/012/651.htm",
+      "source": "IT之家",
+      "source_icon": "🟢",
+      "summary": "英伟达CEO黄仁勋在欧洲访问期间宣布，公司计划追加 20亿美元",
+      "tag": "AI投融资",
+      "id": 8
+    },
+    {
+      "title": "所有App都在塞AI，但用户已经烦了",
+      "url": "https://www.tmtpost.com/8167377.html",
+      "source": "钛媒体",
+      "source_icon": "🟠",
+      "summary": "Al还没成熟，但所有App都必须上场了。",
+      "tag": "AI产品",
+      "id": 9
+    },
+    {
+      "title": "【钛晨报】“求索”4.0上线！国内首个人工智能全产业链评测基准发布；重庆市委原副书记、市政府原市长黄奇帆被查；DeepSeek据称将完成1000亿元融资",
+      "url": "https://www.tmtpost.com/8167674.html",
+      "source": "钛媒体",
+      "source_icon": "🟠",
+      "summary": "字节跳动Seed单设安全与对齐部门，严林负责向吴永辉汇报；尊界V800公布制动踏板第三方检测结果；智元启动新融资，估值500亿元，IPO暂缓；马斯克披露Terafab芯片工厂规划：每年制造和测试10款…",
+      "tag": "大模型",
+      "id": 10
+    }
+  ]
+}
