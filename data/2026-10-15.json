@@ -1,0 +1,90 @@
+{
+  "date": "2026-10-15",
+  "generated_at": "2026-10-15T09:10:47.997073+08:00",
+  "category": "餐饮零售 & AI科技",
+  "total": 9,
+  "editor_note": "今天共精选 9 条。餐饮零售板块：300亿魔芋零食突然“刹车”，下一个零食等话题值得关注；AI科技板块：YouTube Music 给音乐打 A等动态持续发酵。",
+  "items": [
+    {
+      "title": "300亿魔芋零食突然“刹车”，下一个零食品类之王要换人了？",
+      "url": "https://www.tmtpost.com/8168931.html",
+      "source": "钛媒体",
+      "source_icon": "🟠",
+      "summary": "供给过剩与品控危机下，魔芋零食彻底告别野蛮生长。",
+      "tag": "餐饮动态",
+      "id": 1
+    },
+    {
+      "title": "3800亿自有品牌：超市正在把货架改成自己的柜台",
+      "url": "https://www.tmtpost.com/8168922.html",
+      "source": "钛媒体",
+      "source_icon": "🟠",
+      "summary": "货架上的超市商标越密，赌注就越大。",
+      "tag": "零售动态",
+      "id": 2
+    },
+    {
+      "title": "YouTube Music 给音乐打 AI 标签，用户听歌可看清“成分表”",
+      "url": "https://www.ithome.com/1/013/168.htm",
+      "source": "IT之家",
+      "source_icon": "🟢",
+      "summary": "YouTube昨日（10 月 14日）发布公告，为了提高在音乐作品使用 AI的透明度，宣布其音乐平台YouTube Music 上线 AI音乐标注功能，后续将同步扩展至主YouTube应用程序。",
+      "tag": "AI产品",
+      "id": 3
+    },
+    {
+      "title": "受益于 AI 热潮，分析师预计台积电有望连续第六个季度创下单季盈利新高",
+      "url": "https://www.ithome.com/1/013/167.htm",
+      "source": "IT之家",
+      "source_icon": "🟢",
+      "summary": "全球最大的先进人工智能芯片制造商台积电将于周四发布财报，受科技行业基建投入热潮推动，公司有望连续第六个季度创下盈利新高。 分析师表示，市场对台积电AI芯片产能，以及先进芯片封装技术CoWoS的需求依旧…",
+      "tag": "AI产品",
+      "id": 4
+    },
+    {
+      "title": "AI 实时分离人声，席琳 · 迪翁演唱会用上音频黑科技",
+      "url": "https://www.ithome.com/1/013/165.htm",
+      "source": "IT之家",
+      "source_icon": "🟢",
+      "summary": "席琳· 迪翁（CélineDion）的歌声响彻巴黎郊外的普莱尼蒂德体育馆，她演唱的《泰坦尼克号》主题曲，即便传到这座巨型场馆最远区域的观众耳中，清晰度几乎就如同观众站在舞台上她的身旁。",
+      "tag": "AI产品",
+      "id": 5
+    },
+    {
+      "title": "DeepSeek 网页 / API 服务今日出现部分中断，提示“服务器暂时不可用”",
+      "url": "https://www.ithome.com/1/013/179.htm",
+      "source": "IT之家",
+      "source_icon": "🟢",
+      "summary": "据多位IT之家小伙伴反馈，DeepSeek 今日出现服务问题，对话提示“服务器暂时不可用”。DeepSeek官方服务状态页面显示，DeepSeek 网页 / API服务出现部分中断 ，官方正在排查问题…",
+      "tag": "大模型",
+      "id": 6
+    },
+    {
+      "title": "Epic 借助 AI 打造新版启动器，承认传统编程“太难”",
+      "url": "https://www.ithome.com/1/013/172.htm",
+      "source": "IT之家",
+      "source_icon": "🟢",
+      "summary": "EpicGames 推出了新版 EpicGames 启动器的预览版，使用 AI“氛围编程”完成开发。Epic游戏商城官网发布的公告称，由于传统编程方式太过困难，公司决定使用AI开发新版启动器。",
+      "tag": "AI产品",
+      "id": 7
+    },
+    {
+      "title": "Linux 之父托瓦兹推出首个 AI 辅助开发的补丁：并发文件读取吞吐量提升约 3 倍",
+      "url": "https://www.ithome.com/1/013/171.htm",
+      "source": "IT之家",
+      "source_icon": "🟢",
+      "summary": "科技媒体lwn 昨日（10 月 14日）发布博文，报道称Linux 之父林纳斯 ·托瓦兹（LinusTorvalds）在其个人 Git仓库中推送了一个名为 noref-filemap-read-wit…",
+      "tag": "AI产品",
+      "id": 8
+    },
+    {
+      "title": "万元级人形机器人，只是“赛博玩具”？",
+      "url": "https://www.tmtpost.com/8168453.html",
+      "source": "钛媒体",
+      "source_icon": "🟠",
+      "summary": "万元级人形机器人，只是“赛博玩具”？",
+      "tag": "机器人",
+      "id": 9
+    }
+  ]
+}
