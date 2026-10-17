@@ -1,0 +1,99 @@
+{
+  "date": "2026-10-17",
+  "generated_at": "2026-10-17T08:58:30.432215+08:00",
+  "category": "餐饮零售 & AI科技",
+  "total": 10,
+  "editor_note": "今天共精选 10 条。餐饮零售板块：京东双十一取消定金预售，押注服务消费推上等话题值得关注；AI科技板块：苹果 App Store 新规落地，AI等动态持续发酵。",
+  "items": [
+    {
+      "title": "京东双十一取消定金预售，押注服务消费推上百项产品",
+      "url": "https://www.tmtpost.com/8171375.html",
+      "source": "钛媒体",
+      "source_icon": "🟠",
+      "summary": "当双十一进入第18个年头，单纯比拼价格早已不再是制胜的法宝，随着电商增长放缓，平台竞争焦点逐步转移到供应链履约、服务能力、产业数字化。",
+      "tag": "电商",
+      "id": 1
+    },
+    {
+      "title": "新旧物种交手，机器人小店“吃”掉便利店的黄金周",
+      "url": "https://www.tmtpost.com/8171361.html",
+      "source": "钛媒体",
+      "source_icon": "🟠",
+      "summary": "节后能否活下去才是真正的考验",
+      "tag": "零售动态",
+      "id": 2
+    },
+    {
+      "title": "苹果 App Store 新规落地，AI 深度伪造迎来最严审核",
+      "url": "https://www.ithome.com/1/014/209.htm",
+      "source": "IT之家",
+      "source_icon": "🟢",
+      "summary": "苹果公司昨日（10月 16 日）更新《App审核指南》，在最新修订的1.2条款中，加强治理针对AI内容创作类应用，将 AI生成的、未经当事人同意的私密图像明确纳入禁止范围。",
+      "tag": "AI产品",
+      "id": 3
+    },
+    {
+      "title": "Anthropic 内部调查：大多数员工相信到 2030 年 AI 能完成至少八成工作",
+      "url": "https://www.ithome.com/1/014/205.htm",
+      "source": "IT之家",
+      "source_icon": "🟢",
+      "summary": "据《商业内幕》今天（17 日）早间报道，Anthropic 员工普遍认为，AI 将取代自己大部分工作，绝大多数美国劳动者则持不同看法。",
+      "tag": "AI产品",
+      "id": 4
+    },
+    {
+      "title": "Anthropic 报告：AI 工时已是人类 6 倍，初级程序员岗位骤减，人均雇员创收是 Meta / 谷歌同期的 2 至 4 倍",
+      "url": "https://www.ithome.com/1/014/195.htm",
+      "source": "IT之家",
+      "source_icon": "🟢",
+      "summary": "人工智能公司Anthropic 昨日（10 月 16日）发布报告称，在公司成立约 5 年后，其人均雇员创收已达 MetaPlatforms和谷歌在各自高速增长期的 2 至 4倍。",
+      "tag": "AI产品",
+      "id": 5
+    },
+    {
+      "title": "223 道题、2651 条标准：阿里 Qwen 开源 BlenderWorld，给 AI 出了一套 3D 建模大考",
+      "url": "https://www.ithome.com/1/014/217.htm",
+      "source": "IT之家",
+      "source_icon": "🟢",
+      "summary": "阿里Qwen 团队于 10 月 14 日开源BlenderWorld，这是一个用于评测视觉智能体在Blender中完成真实 3D创作任务的基准。",
+      "tag": "大模型",
+      "id": 6
+    },
+    {
+      "title": "ChatGPT 能替你操作谷歌 Chrome 浏览器了：读网页、网购比价、发消息等",
+      "url": "https://www.ithome.com/1/014/214.htm",
+      "source": "IT之家",
+      "source_icon": "🟢",
+      "summary": "OpenAI于 10 月 15 日更新ChatGPTfor Chrome 扩展程序（版本号1.26.1005.11759），ChatGPT现在可以读取 Chrome浏览器中已打开的多个标签页， 并基于…",
+      "tag": "大模型",
+      "id": 7
+    },
+    {
+      "title": "OpenAI 升级适用于谷歌 Chrome 浏览器的 ChatGPT 扩展：能直接读取你的标签页",
+      "url": "https://www.ithome.com/1/014/213.htm",
+      "source": "IT之家",
+      "source_icon": "🟢",
+      "summary": "当地时间16日，OpenAI宣布升级 Chrome 浏览器的ChatGPT 扩展程序， 支持读取用户打开的标签页，提供更有针对性的回答 。OpenAI曾推出自有浏览器，随后又于8 月 9日停用。",
+      "tag": "大模型",
+      "id": 8
+    },
+    {
+      "title": "新旧物种交手，机器人小店“吃”掉便利店的黄金周",
+      "url": "https://www.tmtpost.com/8171361.html",
+      "source": "钛媒体",
+      "source_icon": "🟠",
+      "summary": "节后能否活下去才是真正的考验",
+      "tag": "零售动态",
+      "id": 9
+    },
+    {
+      "title": "Muse能带火国内个人AI智能体吗？",
+      "url": "https://www.tmtpost.com/8171318.html",
+      "source": "钛媒体",
+      "source_icon": "🟠",
+      "summary": "Muse能带火国内个人AI智能体吗？",
+      "tag": "AI Agent",
+      "id": 10
+    }
+  ]
+}
