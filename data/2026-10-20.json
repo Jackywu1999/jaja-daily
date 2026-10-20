@@ -1,0 +1,99 @@
+{
+  "date": "2026-10-20",
+  "generated_at": "2026-10-20T09:28:36.104453+08:00",
+  "category": "餐饮零售 & AI科技",
+  "total": 10,
+  "editor_note": "今天共精选 10 条。餐饮零售板块：种草在内、成交在外，开环电商是配菜还是新等话题值得关注；AI科技板块：被控在办公室安装窃听设备，OpenAI 等动态持续发酵。",
+  "items": [
+    {
+      "title": "种草在内、成交在外，开环电商是配菜还是新路？｜ 出海参考",
+      "url": "https://www.tmtpost.com/8173893.html",
+      "source": "钛媒体",
+      "source_icon": "🟠",
+      "summary": "黑五大促预算锁死之前，TikTok喊出“支持成交发生在别处”。",
+      "tag": "电商",
+      "id": 1
+    },
+    {
+      "title": "绝味食品“摘帽”，两年关店6000家，昔“卤味一哥”还能翻身吗？",
+      "url": "https://www.tmtpost.com/8173640.html",
+      "source": "钛媒体",
+      "source_icon": "🟠",
+      "summary": "ST绝味将摘帽，经营压力仍待解。",
+      "tag": "餐饮动态",
+      "id": 2
+    },
+    {
+      "title": "被控在办公室安装窃听设备，OpenAI 前工程师保释申请遭驳回",
+      "url": "https://www.ithome.com/1/015/090.htm",
+      "source": "IT之家",
+      "source_icon": "🟢",
+      "summary": "一名被指控在AI 初创企业 OpenAI办公室安装窃听设备的前OpenAI工程师，当地时间周一被旧金山法官驳回保释申请，这意味着他只能在狱中开展辩护。",
+      "tag": "AI产品",
+      "id": 3
+    },
+    {
+      "title": "疑似 Steam Deck 2 的 AMD Gainsborough APU 跑分泄露：CPU 核心数增加 50%",
+      "url": "https://www.ithome.com/1/015/086.htm",
+      "source": "IT之家",
+      "source_icon": "🟢",
+      "summary": "一款全新的AMD Gainsborough APU疑似出现在OpenBenchmark平台的泄露信息中，被认为有可能是Valve Steam Deck 2的备选芯片。",
+      "tag": "AI产品",
+      "id": 4
+    },
+    {
+      "title": "挑战英伟达 CUDA：亚马逊推出开源工具 TorchNeuron，自研 Trainium 芯片轻松运行 PyTorch 代码",
+      "url": "https://www.ithome.com/1/015/082.htm",
+      "source": "IT之家",
+      "source_icon": "🟢",
+      "summary": "当地时间10 月 19日，亚马逊宣布推出开源工具 TorchNeuron，借助该工具，开发人员编写的PyTorch 代码可以在亚马逊的自研Trainium 芯片上本地运行， 只需更改一次配置，无需重写…",
+      "tag": "开源",
+      "id": 5
+    },
+    {
+      "title": "英特尔向 FCC 申请禁令豁免：美国芯片工厂离不开外国 AGV 机器人",
+      "url": "https://www.ithome.com/1/015/106.htm",
+      "source": "IT之家",
+      "source_icon": "🟢",
+      "summary": "英特尔公司已向美国联邦通信委员会（FCC）申请豁免近期一项针对境外先进机器人的禁令，称其需要持续使用这类对美国半导体制造至关重要的“小众”设备。",
+      "tag": "机器人",
+      "id": 6
+    },
+    {
+      "title": "消息称 Anthropic 考虑加单 Nscale，双方有望再签 450 亿美元算力合同",
+      "url": "https://www.ithome.com/1/015/094.htm",
+      "source": "IT之家",
+      "source_icon": "🟢",
+      "summary": "综合彭博社与路透社报道，人工智能初创企业 Anthropic正与数据中心开发商Nscale就一笔新的云算力租赁合同进行洽谈 。",
+      "tag": "AI投融资",
+      "id": 7
+    },
+    {
+      "title": "微软 Win11 推送蓝牙升级：与苹果 AirPods 配对时间最多缩短 15 秒",
+      "url": "https://www.ithome.com/1/015/091.htm",
+      "source": "IT之家",
+      "source_icon": "🟢",
+      "summary": "科技媒体Windows Latest 今天（10月20日）发布博文，报道称Windows 11 系统安装 10月累积更新之后， 微软优化耳机重连、音频播放及通话稳定性之外，还缩短AirPods配对耗时…",
+      "tag": "AI产品",
+      "id": 8
+    },
+    {
+      "title": "纽娲机器人杨睿刚：无人配送跑了十年，机器人为何还到不了家门？",
+      "url": "https://www.tmtpost.com/8171183.html",
+      "source": "钛媒体",
+      "source_icon": "🟠",
+      "summary": "难题集中在几笔容易被低估的事件上：新场地的部署、既有设施的改造，以及异常发生时的人工兜底。",
+      "tag": "机器人",
+      "id": 9
+    },
+    {
+      "title": "万亿级机器人市场，可否成为美的第二增长曲线？",
+      "url": "https://www.tmtpost.com/8172784.html",
+      "source": "钛媒体",
+      "source_icon": "🟠",
+      "summary": "这些成果，不等于商业市场的大规模落地。",
+      "tag": "商业洞察",
+      "id": 10
+    }
+  ]
+}
