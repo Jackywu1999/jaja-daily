@@ -1,0 +1,99 @@
+{
+  "date": "2026-10-22",
+  "generated_at": "2026-10-22T09:09:00.314019+08:00",
+  "category": "餐饮零售 & AI科技",
+  "total": 10,
+  "editor_note": "今天共精选 10 条。餐饮零售板块：星巴克的沙发不养闲人等话题值得关注；AI科技板块：影响约 70% 网站：PHP 高危漏洞被等动态持续发酵。",
+  "items": [
+    {
+      "title": "星巴克的沙发不养闲人",
+      "url": "https://www.tmtpost.com/8176482.html",
+      "source": "钛媒体",
+      "source_icon": "🟠",
+      "summary": "装了八年大方的星巴克，终于“坐不住”了。",
+      "tag": "餐饮动态",
+      "id": 1
+    },
+    {
+      "title": "影响约 70% 网站：PHP 高危漏洞被修复，OpenAI 牵头协调全球发现 / 修复",
+      "url": "https://www.ithome.com/1/016/173.htm",
+      "source": "IT之家",
+      "source_icon": "🟢",
+      "summary": "OpenAI公司昨日（10 月 21日）发布博文，宣布通过其“修补地球”（PatchthePlanet）计划，协助安全研究人员发现了PHP编程语言中的两项严重漏洞，并联合 PHP维护团队、安全公司、云…",
+      "tag": "AI产品",
+      "id": 2
+    },
+    {
+      "title": "沃尔玛推出自有智能体网关，AI 可代用户下单购物",
+      "url": "https://www.ithome.com/1/016/172.htm",
+      "source": "IT之家",
+      "source_icon": "🟢",
+      "summary": "沃尔玛于当地时间周三宣布，正式推出自有智能体网关，用于处理交易，并上线多项面向使用AI智能体的消费者的新功能，以此布局智能体电商。",
+      "tag": "零售动态",
+      "id": 3
+    },
+    {
+      "title": "24 小时为你在线打工：Anthropic 推出 Claude Duet AI 智能体，迎战 Meta 和 OpenAI",
+      "url": "https://www.ithome.com/1/016/169.htm",
+      "source": "IT之家",
+      "source_icon": "🟢",
+      "summary": "Anthropic昨日（10 月 21日）宣布以研究预览版形式，推出全新应用ClaudeDuet，定位为可主动工作的 AI智能体（agent），加入由Meta 的Muse、以及OpenAI 的 Dot…",
+      "tag": "大模型",
+      "id": 4
+    },
+    {
+      "title": "Open Inference Code Narrows the Gap Between Rival AI Chips",
+      "url": "https://www.tmtpost.com/8176740.html",
+      "source": "钛媒体",
+      "source_icon": "🟠",
+      "summary": "DeepSeekreleased servingsoftwarethat builds forHuaweiaccelerators andNvidiaGPUs from onecodebase.In …",
+      "tag": "AI产品",
+      "id": 5
+    },
+    {
+      "title": "通用汽车押注 AI、新型电池，目标令电动汽车研发周期减半",
+      "url": "https://www.ithome.com/1/016/180.htm",
+      "source": "IT之家",
+      "source_icon": "🟢",
+      "summary": "美国电动汽车市场经历剧烈调整之际，通用汽车再次强调仍看好电动汽车的未来。当地时间 21日，通用汽车总裁马可· 睿思在纽约举行的 GMForward 活动上重申，公司不会放弃电动汽车业务，计划推出更符合…",
+      "tag": "AI产品",
+      "id": 6
+    },
+    {
+      "title": "iPhone Duo 明日开售，纽约第五大道苹果旗舰店提前布置巨型模型",
+      "url": "https://www.ithome.com/1/016/176.htm",
+      "source": "IT之家",
+      "source_icon": "🟢",
+      "summary": "iPhoneDuo明日正式开售，纽约第五大道苹果旗舰店已经为这场发售活动紧锣密鼓地筹备起来。 IT之家注意到，社交平台X 上的用户 @LChenlz拍到，苹果已经在门店标志性的玻璃立方体入口周边，搭建…",
+      "tag": "大模型",
+      "id": 7
+    },
+    {
+      "title": "通用汽车安吉星服务将全面升级：引入 AI 助手，还能帮你控车、排障",
+      "url": "https://www.ithome.com/1/016/175.htm",
+      "source": "IT之家",
+      "source_icon": "🟢",
+      "summary": "据外媒motor1 今天（22日）凌晨报道，通用汽车将对旗下安吉星车联网服务进行全面升级，引入AI助手，让车主能够直接询问车辆信息、通过语音控制部分功能，还能借助AI排查车辆故障。",
+      "tag": "AI产品",
+      "id": 8
+    },
+    {
+      "title": "英伟达推出百亿级AI数据中心应急方案，哪些标的将从中受益",
+      "url": "https://www.tmtpost.com/8176902.html",
+      "source": "钛媒体",
+      "source_icon": "🟠",
+      "summary": "英伟达首席执行官黄仁勋公布了一项计划：在永久性基础设施尚在建设期间，推出模块化、可快速部署的数据中心，让人工智能相关工作能够先行启动。这些组件类股票可能会成为赢家。",
+      "tag": "AI算力",
+      "id": 9
+    },
+    {
+      "title": "首都在线：账面扭亏，AI算力持续投入｜看财报",
+      "url": "https://www.tmtpost.com/8176619.html",
+      "source": "钛媒体",
+      "source_icon": "🟠",
+      "summary": "毛利修复，资金仍紧。",
+      "tag": "AI算力",
+      "id": 10
+    }
+  ]
+}
