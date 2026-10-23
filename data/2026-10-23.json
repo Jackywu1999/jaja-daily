@@ -1,0 +1,99 @@
+{
+  "date": "2026-10-23",
+  "generated_at": "2026-10-23T09:08:58.391705+08:00",
+  "category": "餐饮零售 & AI科技",
+  "total": 10,
+  "editor_note": "今天共精选 10 条。AI科技板块：美财长贝森特：AI 行业不会重演互联网泡等动态持续发酵。",
+  "items": [
+    {
+      "title": "美财长贝森特：AI 行业不会重演互联网泡沫破裂，我没发现“系统性问题”",
+      "url": "https://www.ithome.com/1/016/795.htm",
+      "source": "IT之家",
+      "source_icon": "🟢",
+      "summary": "美国财政部长斯科特 · 贝森特在一场私人会议上告诉投资者，自己没有发现AI热潮存在“系统性问题”，从而淡化了外界对AI 行业可能重演互联网泡沫破裂的担忧。",
+      "tag": "AI产品",
+      "id": 1
+    },
+    {
+      "title": "消息称 OpenAI 融资磋商进入尾声，估值目标下调至 1.25 万亿美元",
+      "url": "https://www.ithome.com/1/016/782.htm",
+      "source": "IT之家",
+      "source_icon": "🟢",
+      "summary": "知情人士透露，正在寻求在最新一轮融资中筹集约300亿美元",
+      "tag": "AI投融资",
+      "id": 2
+    },
+    {
+      "title": "外部评估人员发现 OpenAI 内部监控系统漏洞：AI 智能体可绕过安全限制",
+      "url": "https://www.ithome.com/1/016/781.htm",
+      "source": "IT之家",
+      "source_icon": "🟢",
+      "summary": "今年早些时候，AI安全评估机构 METR 和RedwoodResearch 对 OpenAI的内部监控系统进行了试点评估，发现多项新漏洞。其中一项漏洞可被AI智能体利用，使数百次操作逃过监控。",
+      "tag": "AI Agent",
+      "id": 3
+    },
+    {
+      "title": "【钛晨报】《对外投资管理办法》12月1日起施行，投资者范围明确含居民个人；DeepSeek据称完成1000亿元融资，宁德时代和腾讯参投；宁德时代董秘被打？知情人士回应",
+      "url": "https://www.tmtpost.com/8178065.html",
+      "source": "钛媒体",
+      "source_icon": "🟠",
+      "summary": "宇树科技创始人王兴兴明确宇树未来三大布局方向；易方达、华夏、富国、汇添富基金各斥资2亿元自购，更多基金公司将加入自购行列；特斯拉证实成立特别委员会，探讨深化与SpaceX关系；摩根大通：股市的暴跌可能…",
+      "tag": "大模型",
+      "id": 4
+    },
+    {
+      "title": "亚马逊云科技Ozgur Tohumcu：决定物理AI规模化落地速度的，往往不是技术本身",
+      "url": "https://www.tmtpost.com/8177096.html",
+      "source": "钛媒体",
+      "source_icon": "🟠",
+      "summary": "大量企业的AI项目停留在概念验证阶段，没有真正走向量产与工业化落地。",
+      "tag": "AI产品",
+      "id": 5
+    },
+    {
+      "title": "把 Muse 装进 ESP-Mosaico：做一个没用的东西，证明 Vibe Coding 也在硬件领域快速成长",
+      "url": "https://sspai.com/post/115437",
+      "source": "少数派",
+      "source_icon": "🔵",
+      "summary": "Matrix首页推荐Matrix是少数派的写作社区，我们主张分享真实的产品体验，有实用价值的经验与思考。我们会不定期挑选Matrix最优质的文章，展示来自用户的最真实的体验和观点。",
+      "tag": "AI产品",
+      "id": 6
+    },
+    {
+      "title": "MiniMax M3.1 Flash 开源模型权重，总参数 428B",
+      "url": "https://www.ithome.com/1/016/800.htm",
+      "source": "IT之家",
+      "source_icon": "🟢",
+      "summary": "MiniMax稀宇科技今日宣布 开源 MiniMaxM3.1Flash 的模型权重，总参数 428B，激活参数 23B。相较于上一代 M3模型，M3.1Flash的模型能力实现了全面提升。",
+      "tag": "大模型",
+      "id": 7
+    },
+    {
+      "title": "“现代史上最大规模财富捐赠”：Anthropic 等 AI 三巨头拟投入近 3000 亿美元做慈善",
+      "url": "https://www.ithome.com/1/016/799.htm",
+      "source": "IT之家",
+      "source_icon": "🟢",
+      "summary": "《华盛顿邮报》昨日（10月 22日）发布博文，报道称 Anthropic、OpenAI和 SpaceXSI 三家 AI巨头正酝酿“现代史上规模最大的财富捐赠”，规模可能接近3,000亿美元",
+      "tag": "AI投融资",
+      "id": 8
+    },
+    {
+      "title": "DeepSeek、MiniMax 已顺利履行登记手续，完成开源和海外授权使用",
+      "url": "https://www.ithome.com/1/016/796.htm",
+      "source": "IT之家",
+      "source_icon": "🟢",
+      "summary": "10月 16日，商务部、科技部就 修订《中国禁止出口限制出口技术目录》公开征求意见 。 其中，人工智能领域包括 大模型、智能体、算力集群、信息处理相关 23项技术；对已通过开源、发表学术论文等方式进入…",
+      "tag": "大模型",
+      "id": 9
+    },
+    {
+      "title": "Unitree Shortens Its Embodied-AI Clock—and Opens a Global Contest",
+      "url": "https://www.tmtpost.com/8178216.html",
+      "source": "钛媒体",
+      "source_icon": "🟠",
+      "summary": "Twomonths after warningthathome robots werestillyears away,Unitree’sfounder saidphysicalAI already s…",
+      "tag": "AI产品",
+      "id": 10
+    }
+  ]
+}
