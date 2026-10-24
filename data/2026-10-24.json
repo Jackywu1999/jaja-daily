@@ -1,0 +1,99 @@
+{
+  "date": "2026-10-24",
+  "generated_at": "2026-10-24T09:19:22.055480+08:00",
+  "category": "餐饮零售 & AI科技",
+  "total": 10,
+  "editor_note": "今天共精选 10 条。餐饮零售板块：波司登1/2世纪展于上海西岸梦中心启幕；等话题值得关注；AI科技板块：扎克伯格的 AI 新版图：买下 Sund等动态持续发酵。",
+  "items": [
+    {
+      "title": "波司登1/2世纪展于上海西岸梦中心启幕；可隆携手觅蓝共建囊谦自然服务中心；丁少翔出任亚玛芬公司董事；乐刻门店突破2500家｜消研所周报",
+      "url": "https://www.tmtpost.com/8179495.html",
+      "source": "钛媒体",
+      "source_icon": "🟠",
+      "summary": "比音勒芬集团前三季度营收突破40亿元；优衣库推出LifeWear「经典之选」系列。",
+      "tag": "商业洞察",
+      "id": 1
+    },
+    {
+      "title": "扎克伯格的 AI 新版图：买下 Sundial 让数据分析变成“聊天”那么简单",
+      "url": "https://www.ithome.com/1/017/294.htm",
+      "source": "IT之家",
+      "source_icon": "🟢",
+      "summary": "科技媒体axios 昨日（10 月 23日）发布博文，报道称马克· 扎克伯格的 MetaPlatforms公司已收购 AI 数据分析平台Sundial，而该平台由两名前Meta员工创立。",
+      "tag": "AI产品",
+      "id": 2
+    },
+    {
+      "title": "谷歌 CEO 皮查伊：距离 AI 能自我改进的“最终状态”，我们还有很长的路要走",
+      "url": "https://www.ithome.com/1/017/290.htm",
+      "source": "IT之家",
+      "source_icon": "🟢",
+      "summary": "谷歌CEO 桑达尔 ·皮查伊认为，距离 AI能够完全自主地改进自身，还有很长的路要走 。 皮查伊透露，谷歌研究人员开始使用AI智能体辅助开发模型，但技术仍处于起步阶段。",
+      "tag": "AI产品",
+      "id": 3
+    },
+    {
+      "title": "OpenAI 为前沿 AI 训练 / 评估开启“断网闭关”模式，遏制其越狱攻击",
+      "url": "https://www.ithome.com/1/017/289.htm",
+      "source": "IT之家",
+      "source_icon": "🟢",
+      "summary": "OpenAI昨日（10 月 23日）发布博文，宣布针对最先进“前沿模型”的训练与评估环境， 已经实施更严格的安全管控，明确在模型训练期间，不得直接访问实时互联网。",
+      "tag": "大模型",
+      "id": 4
+    },
+    {
+      "title": "AI 智能体疯狂入侵人类系统：十几起漏洞依次排开，AI真正攻破了哪一层?",
+      "url": "https://www.tmtpost.com/8179406.html",
+      "source": "钛媒体",
+      "source_icon": "🟠",
+      "summary": "从漏洞被找到，到它被大规模利用，中间只剩几个小时。",
+      "tag": "AI Agent",
+      "id": 5
+    },
+    {
+      "title": "把 Muse 装进 ESP-Mosaico：做一个没用的东西，证明 Vibe Coding 也在硬件领域快速成长",
+      "url": "https://sspai.com/post/115437",
+      "source": "少数派",
+      "source_icon": "🔵",
+      "summary": "Matrix首页推荐Matrix是少数派的写作社区，我们主张分享真实的产品体验，有实用价值的经验与思考。我们会不定期挑选Matrix最优质的文章，展示来自用户的最真实的体验和观点。",
+      "tag": "AI产品",
+      "id": 6
+    },
+    {
+      "title": "英国将砸 6 亿英镑应对潜在 AI 风险，还计划建 AI 生物安全实验室",
+      "url": "https://www.ithome.com/1/017/304.htm",
+      "source": "IT之家",
+      "source_icon": "🟢",
+      "summary": "当地时间24日，英国政府宣布将投入约 6 亿英镑",
+      "tag": "政策监管",
+      "id": 7
+    },
+    {
+      "title": "央视新闻谈 AI 魔改视频和二创区别：问题关键在“魔”，消解经典的同时也伤害文化根本",
+      "url": "https://www.ithome.com/1/017/298.htm",
+      "source": "IT之家",
+      "source_icon": "🟢",
+      "summary": "日前，部分重点网络视听平台公布了“AI魔改”视频专项治理工作 9月的处置情况，共清理违规视频近 13000条、处置违规账号30 余个。",
+      "tag": "AI产品",
+      "id": 8
+    },
+    {
+      "title": "华为官宣 Mate 90 系列手机上线全新睿影 XMAGE 影像服务，图库升级支持 AI 一键成片等功能",
+      "url": "https://www.ithome.com/1/017/295.htm",
+      "source": "IT之家",
+      "source_icon": "🟢",
+      "summary": "华为官方昨日宣布，Mate 90 系列手机上线全新睿影XMAGE影像服务，宣称“人像柔光更出彩”。另外，新机图库升级，小艺· 图库助手新增支持智慧修图、AI一键成片及 3D 动态照片等功能。",
+      "tag": "AI产品",
+      "id": 9
+    },
+    {
+      "title": "188天就退场，大厂AI 产品正在加速洗牌",
+      "url": "https://www.tmtpost.com/8179714.html",
+      "source": "钛媒体",
+      "source_icon": "🟠",
+      "summary": "八家公司、十条赛道，一边密集上新，一边整合与退场。",
+      "tag": "AI产品",
+      "id": 10
+    }
+  ]
+}
