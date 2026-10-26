@@ -1,0 +1,99 @@
+{
+  "date": "2026-10-26",
+  "generated_at": "2026-10-26T08:56:49.382932+08:00",
+  "category": "餐饮零售 & AI科技",
+  "total": 10,
+  "editor_note": "今天共精选 10 条。AI科技板块：马斯克的 Grok 发布 AI 版《奥德等动态持续发酵。",
+  "items": [
+    {
+      "title": "马斯克的 Grok 发布 AI 版《奥德赛》前 7 分钟内容，被指缺乏艺术感染力",
+      "url": "https://www.ithome.com/1/017/727.htm",
+      "source": "IT之家",
+      "source_icon": "🟢",
+      "summary": "就在埃隆· 马斯克（Elon Musk）宣称Grok 将推出一部完整、“符合历史”的《奥德赛》电影三个月之后，Grok 放出了其前七分钟内容，并将其称作《奥德赛》系列第一集。",
+      "tag": "AI产品",
+      "id": 1
+    },
+    {
+      "title": "AI“专属保险”：全国首个人工智能应用风险综合保障方案正式发布",
+      "url": "https://www.ithome.com/1/017/726.htm",
+      "source": "IT之家",
+      "source_icon": "🟢",
+      "summary": "在近期结束的2026金融街论坛年会上， 全国首个人工智能应用风险综合保障方案正式发布。 通过保险产品分别对人工智能服务给第三方造成的损失，和人工智能供应方自身费用损失进行保障，填补国内 AI 保险市场…",
+      "tag": "AI产品",
+      "id": 2
+    },
+    {
+      "title": "国内首部 AI 院线长片《三星堆：未来往事》，票房过百万",
+      "url": "https://www.ithome.com/1/017/719.htm",
+      "source": "IT之家",
+      "source_icon": "🟢",
+      "summary": "猫眼专业版数据显示，《三星堆：未来往事》电影票房已达到116.2万。 据IT之家了解，《三星堆：未来往事》是国内首部获得国家电影局公映许可证的AI全流程院线长片，上映于10 月 23日。",
+      "tag": "AI产品",
+      "id": 3
+    },
+    {
+      "title": "AI大模型狂飙，面板行业也扛不住了",
+      "url": "https://www.tmtpost.com/8180986.html",
+      "source": "钛媒体",
+      "source_icon": "🟠",
+      "summary": "面板厂商集体涨价，但真正的难题在下游。",
+      "tag": "大模型",
+      "id": 4
+    },
+    {
+      "title": "【数智周报】MiniMax港股破发；DeepSeek开源推理框架DeepInfer并披露收入账本；美国国土安全部正式下令禁采DeepSeek……",
+      "url": "https://www.tmtpost.com/8181051.html",
+      "source": "钛媒体",
+      "source_icon": "🟠",
+      "summary": "（10月19日-10月24日）DeepSeek拟在最新一轮融资中筹得约1000亿元；Today AI累计完成超2亿美元融资；工信部：600亿元国家AI基金投出一批项目，AI企业超6600家；中国半数t…",
+      "tag": "大模型",
+      "id": 5
+    },
+    {
+      "title": "把 Muse 装进 ESP-Mosaico：做一个没用的东西，证明 Vibe Coding 也在硬件领域快速成长",
+      "url": "https://sspai.com/post/115437",
+      "source": "少数派",
+      "source_icon": "🔵",
+      "summary": "Matrix首页推荐Matrix是少数派的写作社区，我们主张分享真实的产品体验，有实用价值的经验与思考。我们会不定期挑选Matrix最优质的文章，展示来自用户的最真实的体验和观点。",
+      "tag": "AI产品",
+      "id": 6
+    },
+    {
+      "title": "Epic CEO 斯维尼再批 Steam AI 公示政策，称会导致极端群体攻击开发者",
+      "url": "https://www.ithome.com/1/017/737.htm",
+      "source": "IT之家",
+      "source_icon": "🟢",
+      "summary": "Epic游戏首席执行官蒂姆 · 斯维尼（TimSweeney）数月来一直持续抨击Steam 的 AI内容公示规则，在和Valve 围绕 Steam 这项 AI政策的持续争论中，他又一次公开发声。",
+      "tag": "政策监管",
+      "id": 7
+    },
+    {
+      "title": "Anthropic Claude 被曝绕过付费墙，调取美国佐治亚州选民数据",
+      "url": "https://www.ithome.com/1/017/732.htm",
+      "source": "IT之家",
+      "source_icon": "🟢",
+      "summary": "Anthropic旗下人工智能模型 Claude绕过付费墙 （Paywall），在未经人类授权的情况下调取了美国佐治亚州原本对公众（付费）开放的选民数据。",
+      "tag": "大模型",
+      "id": 8
+    },
+    {
+      "title": "猫王音乐版权方起诉 Anthropic，指控其未经授权用 274 首歌曲训练 AI 模型",
+      "url": "https://www.ithome.com/1/017/731.htm",
+      "source": "IT之家",
+      "source_icon": "🟢",
+      "summary": "猫王· 埃尔维斯 · 普雷斯利（ElvisPresley）音乐曲库的持有方正在起诉人工智能企业 Anthropic，指控该公司未经许可使用普雷斯利的歌曲训练AI模型。",
+      "tag": "大模型",
+      "id": 9
+    },
+    {
+      "title": "连夜蹬了K3.1 pro之后，我觉得Kimi可能真的要做具身智能了",
+      "url": "https://www.tmtpost.com/8180725.html",
+      "source": "钛媒体",
+      "source_icon": "🟠",
+      "summary": "终于不用等那么久了。",
+      "tag": "机器人",
+      "id": 10
+    }
+  ]
+}
