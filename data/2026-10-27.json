@@ -1,0 +1,99 @@
+{
+  "date": "2026-10-27",
+  "generated_at": "2026-10-27T09:46:48.764014+08:00",
+  "category": "餐饮零售 & AI科技",
+  "total": 10,
+  "editor_note": "今天共精选 10 条。餐饮零售板块：端到端推理时延降低 15%：京东广告联合等话题值得关注；AI科技板块：Mac 版 Ollama 新增离线生成 等动态持续发酵。",
+  "items": [
+    {
+      "title": "端到端推理时延降低 15%：京东广告联合鲲鹏超节点，探索生成式广告行业新路径",
+      "url": "https://www.tmtpost.com/8181692.html",
+      "source": "钛媒体",
+      "source_icon": "🟠",
+      "summary": "京东广告面临生成式推荐带来的千倍算力需求与300毫秒时延红线之间的尖锐矛盾，真正的瓶颈在通算侧而非GPU。为此，京东与华为鲲鹏合作，通过灵衢互联将四级缓存压成两级，建成300TB共享内存池，并重构RP…",
+      "tag": "商业洞察",
+      "id": 1
+    },
+    {
+      "title": "头部连锁药房都在主动做“减法”",
+      "url": "https://www.tmtpost.com/8182215.html",
+      "source": "钛媒体",
+      "source_icon": "🟠",
+      "summary": "头部连锁药房都在主动做“减法”",
+      "tag": "商业洞察",
+      "id": 2
+    },
+    {
+      "title": "Mac 版 Ollama 新增离线生成 AI 语音：数据不出门，速度比原方案最高快 35%",
+      "url": "https://www.ithome.com/1/018/228.htm",
+      "source": "IT之家",
+      "source_icon": "🟢",
+      "summary": "本地运行AI 模型的开源平台 Ollama 于10月 24日宣布，其 Mac应用正式支持文本转语音（TTS）生成，Windows 和 Linux版本也将随后跟进。",
+      "tag": "AI产品",
+      "id": 3
+    },
+    {
+      "title": "老干妈否认“用 AI 把 600 名工人裁到 48 人”，回应称相关 AI 裁员传闻为不实信息",
+      "url": "https://www.ithome.com/1/018/227.htm",
+      "source": "IT之家",
+      "source_icon": "🟢",
+      "summary": "“老干妈AI 裁员传闻引争议”话题于 10 月26 日登上社交平台热搜，据蓝鲸新闻报道，老干妈官方热线工作人员回应称，相关 AI 裁员传闻为不实信息，公司从未发布此类信息，请消费者理性看待。",
+      "tag": "AI产品",
+      "id": 4
+    },
+    {
+      "title": "微软 CEO 纳德拉：以前我认为 AI 越强大也会越安全，现在不信了",
+      "url": "https://www.ithome.com/1/018/219.htm",
+      "source": "IT之家",
+      "source_icon": "🟢",
+      "summary": "据《商业内幕》今天（27 日）早间报道，微软CEO 萨提亚 · 纳德拉改变了对AI“对齐”问题的看法。他过去认为，AI 系统越强大，就越容易让其行为符合人类的价值观和目标，但现在，自己不再相信两者会自…",
+      "tag": "政策监管",
+      "id": 5
+    },
+    {
+      "title": "AI 造富：Anthropic 七位联合创始人身家均超 130 亿美元",
+      "url": "https://www.ithome.com/1/018/231.htm",
+      "source": "IT之家",
+      "source_icon": "🟢",
+      "summary": "AnthropicPBC 当地时间周一披露的 IPO文件显示，公司七位联合创始人每人大约持有公司1.4%的股份，按估值计算，各自身家超过130亿美元",
+      "tag": "AI投融资",
+      "id": 6
+    },
+    {
+      "title": "菲尔兹奖得主邓煜评论 AI 公司反蒸馏：你不能只在你蒸馏全人类知识时支持蒸馏",
+      "url": "https://www.ithome.com/1/018/230.htm",
+      "source": "IT之家",
+      "source_icon": "🟢",
+      "summary": "菲尔兹奖得主、芝加哥大学数学系教授邓煜在上周末的“知识分子”“赛先生”论坛上发表主旨演讲，系统阐述了他对AI时代数学研究的思考。",
+      "tag": "AI产品",
+      "id": 7
+    },
+    {
+      "title": "苹果 Siri AI 即日起支持法语、日语、韩语等语言，繁体中文得等到年底前",
+      "url": "https://www.ithome.com/1/018/229.htm",
+      "source": "IT之家",
+      "source_icon": "🟢",
+      "summary": "苹果今天（27 日）通过新闻稿宣布，今天发布的27.2版本软件更新，进一步扩大新一代Siri AI的使用范围，新增支持 法语、日语、韩语、葡萄牙语和西班牙语 。",
+      "tag": "AI产品",
+      "id": 8
+    },
+    {
+      "title": "China’s Big Tech Is Folding AI Experiments Faster Than It Launches Them",
+      "url": "https://www.tmtpost.com/8182953.html",
+      "source": "钛媒体",
+      "source_icon": "🟠",
+      "summary": "Tencent’sQClaw will shutafter188 days in publictest.Across eight majorAIfirms and tenproductlanes, l…",
+      "tag": "AI产品",
+      "id": 9
+    },
+    {
+      "title": "端到端推理时延降低 15%：京东广告联合鲲鹏超节点，探索生成式广告行业新路径",
+      "url": "https://www.tmtpost.com/8181692.html",
+      "source": "钛媒体",
+      "source_icon": "🟠",
+      "summary": "京东广告面临生成式推荐带来的千倍算力需求与300毫秒时延红线之间的尖锐矛盾，真正的瓶颈在通算侧而非GPU。为此，京东与华为鲲鹏合作，通过灵衢互联将四级缓存压成两级，建成300TB共享内存池，并重构RP…",
+      "tag": "商业洞察",
+      "id": 10
+    }
+  ]
+}
