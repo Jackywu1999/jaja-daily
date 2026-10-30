@@ -1,0 +1,99 @@
+{
+  "date": "2026-10-30",
+  "generated_at": "2026-10-30T10:21:08.120922+08:00",
+  "category": "餐饮零售 & AI科技",
+  "total": 10,
+  "editor_note": "今天共精选 10 条。餐饮零售板块：星巴克考虑将 AI 技术引入得来速，提升等话题值得关注；AI科技板块：Mistral AI 开放 Large 等动态持续发酵。",
+  "items": [
+    {
+      "title": "Mistral AI 开放 Large 4 模型权重：1T 参数，编程智能体更省 Token",
+      "url": "https://www.ithome.com/1/019/865.htm",
+      "source": "IT之家",
+      "source_icon": "🟢",
+      "summary": "当地时间10 月 29日，法国公司Mistral AI 正式开放MistralLarge 4（简称ML4，代号leChonk）模型权重。",
+      "tag": "大模型",
+      "id": 1
+    },
+    {
+      "title": "Omdia 预估 2027 年 AI PC 将占 60% 出货，69% 打工人愿为 AI 电脑多花钱",
+      "url": "https://www.ithome.com/1/019/852.htm",
+      "source": "IT之家",
+      "source_icon": "🟢",
+      "summary": "企业AI支出持续攀升，随着主流AI 厂商转向 token计费模式，这项支出也变得越来越难以预测。对PCOEM、ODM、芯片厂商、渠道伙伴和托管服务提供商而言，核心问题在于：AI工作负载应该在哪里运行，…",
+      "tag": "AI产品",
+      "id": 2
+    },
+    {
+      "title": "OpenAI“服软”：ChatGPT Pro 订阅用量翻倍，取消 Pro 200 砍半计划",
+      "url": "https://www.ithome.com/1/019/848.htm",
+      "source": "IT之家",
+      "source_icon": "🟢",
+      "summary": "在用户强烈反对后，OpenAI公司昨日（10 月 29日）宣布，立即上调 ChatGPT Pro 及BusinessPremium 订阅中 Work 与Codex 的用量额度，Pro 100、Pro2…",
+      "tag": "大模型",
+      "id": 3
+    },
+    {
+      "title": "长盈精密前三季度转亏0.66亿元，具身智能收入大增532%仍未撑起利润 | 看财报",
+      "url": "https://www.tmtpost.com/8186722.html",
+      "source": "钛媒体",
+      "source_icon": "🟠",
+      "summary": "具身智能是否能撑起第三曲线有待观察",
+      "tag": "AI投融资",
+      "id": 4
+    },
+    {
+      "title": "深兰科技联合华为，发布全球首款大模型智能体工作手机 Wowoker",
+      "url": "https://www.tmtpost.com/8186683.html",
+      "source": "钛媒体",
+      "source_icon": "🟠",
+      "summary": "10月29日，深兰科技举办新品发布会，正式推出全球首款大模型AI 智能体工作手机Wowoker。这是继豆包发布AI手机后，首家面向工作场景推出AI手机的科技企业。",
+      "tag": "大模型",
+      "id": 5
+    },
+    {
+      "title": "让 Agent 读懂你的身体：数据处理篇",
+      "url": "https://sspai.com/prime/story/how-to-analyze-health-data-with-agent",
+      "source": "少数派",
+      "source_icon": "🔵",
+      "summary": "在上一篇文章《让Agent读懂你的身体：数据获取篇》中，我花了很大的篇幅讲清楚了第一个问题：Agent怎样拿到数据。如果照着实践完，你大概率已经收获了一份存储了运动健康数据的SQLite、Markdo…",
+      "tag": "AI Agent",
+      "id": 6
+    },
+    {
+      "title": "OpenAI 更新 AI 模型规范，将忠于人类意图作为核心准则",
+      "url": "https://www.ithome.com/1/019/898.htm",
+      "source": "IT之家",
+      "source_icon": "🟢",
+      "summary": "OpenAI 于当地时间周四更新了其模型规范（Model Spec）文档，这是一份用于明确其AI模型行为准则的公开路线图。随着AI系统能力持续增强，OpenAI 围绕五大核心价值对该框架进行了重构。",
+      "tag": "大模型",
+      "id": 7
+    },
+    {
+      "title": "谷歌 Gemini 升级：生成的文档、表格可在聊天中直接修改",
+      "url": "https://www.ithome.com/1/019/878.htm",
+      "source": "IT之家",
+      "source_icon": "🟢",
+      "summary": "现在用户可以直接在谷歌Gemini内生成、预览并编辑 PDF、谷歌文档、谷歌表格、幻灯片、Markdown 文件、TXT 文本以及代码文件。",
+      "tag": "大模型",
+      "id": 8
+    },
+    {
+      "title": "星巴克考虑将 AI 技术引入得来速，提升点餐准确率与出餐速度",
+      "url": "https://www.ithome.com/1/019/866.htm",
+      "source": "IT之家",
+      "source_icon": "🟢",
+      "summary": "星巴克公司正考虑在得来速车道引入人工智能技术。这家咖啡连锁品牌的首席执行官布莱恩 ·尼科尔（Brian Niccol）当地时间周四在分析师电话会议上表示，公司准备测试在后台运行的人工智能模型，帮助咖啡…",
+      "tag": "餐饮动态",
+      "id": 9
+    },
+    {
+      "title": "Gemini 4 Carbon登顶难掩财报失色，谷歌AI豪赌的账单",
+      "url": "https://www.tmtpost.com/8186405.html",
+      "source": "钛媒体",
+      "source_icon": "🟠",
+      "summary": "多家万亿市值的科技巨头仍在不断追加资金砝码，这场尚不明朗的AI竞速仍在继续。",
+      "tag": "大模型",
+      "id": 10
+    }
+  ]
+}
