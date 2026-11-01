@@ -1,0 +1,99 @@
+{
+  "date": "2026-11-01",
+  "generated_at": "2026-11-01T09:47:00.742686+08:00",
+  "category": "餐饮零售 & AI科技",
+  "total": 10,
+  "editor_note": "今天共精选 10 条。AI科技板块：消息称 Spotify 计划于明年初推出等动态持续发酵。",
+  "items": [
+    {
+      "title": "消息称 Spotify 计划于明年初推出 AI 音乐混音服务，用户可自制歌曲混音与翻唱版本",
+      "url": "https://www.ithome.com/1/020/647.htm",
+      "source": "IT之家",
+      "source_icon": "🟢",
+      "summary": "据金融时报FT消息，Spotify 正在积极推进版权授权谈判，并努力说服音乐人拥抱新技术。Spotify计划在 2027年初推出一项由人工智能驱动的新服务，允许用户自行制作歌曲的混音与翻唱版本。",
+      "tag": "AI产品",
+      "id": 1
+    },
+    {
+      "title": "OpenAI：12 月起，ChatGPT 将与 Codex 共享额度",
+      "url": "https://www.ithome.com/1/020/645.htm",
+      "source": "IT之家",
+      "source_icon": "🟢",
+      "summary": "OpenAI 发布公告，宣布从12月开始，随着将Work 的智能体能力引入至ChatGPT 主要体验中，Plus、Pro以及 Business 订阅方案的用户将在ChatGPT 与 Codex之间共享…",
+      "tag": "大模型",
+      "id": 2
+    },
+    {
+      "title": "AI 需求暴涨：英特尔火速改造多家 CPU 制造工厂，从桌面处理器改为数据中心处理器",
+      "url": "https://www.ithome.com/1/020/642.htm",
+      "source": "IT之家",
+      "source_icon": "🟢",
+      "summary": "据Tom's Hardware昨日报道，尽管消费级PC市场正在缩小，但英特尔有信心，AI 行业的需求将抵消客户端市场的下滑。",
+      "tag": "AI产品",
+      "id": 3
+    },
+    {
+      "title": "老干妈给所有想用AI的企业“上”了一课",
+      "url": "https://www.tmtpost.com/8188545.html",
+      "source": "钛媒体",
+      "source_icon": "🟠",
+      "summary": "情绪宣泄，究竟能改变什么？",
+      "tag": "AI产品",
+      "id": 4
+    },
+    {
+      "title": "AI电影，正在将电影院逼进“死胡同”",
+      "url": "https://www.tmtpost.com/8188470.html",
+      "source": "钛媒体",
+      "source_icon": "🟠",
+      "summary": "AI电影上院线，观众似乎还不想掏钱。",
+      "tag": "AI产品",
+      "id": 5
+    },
+    {
+      "title": "让 Agent 读懂你的身体：数据处理篇",
+      "url": "https://sspai.com/prime/story/how-to-analyze-health-data-with-agent",
+      "source": "少数派",
+      "source_icon": "🔵",
+      "summary": "在上一篇文章《让Agent读懂你的身体：数据获取篇》中，我花了很大的篇幅讲清楚了第一个问题：Agent怎样拿到数据。如果照着实践完，你大概率已经收获了一份存储了运动健康数据的SQLite、Markdo…",
+      "tag": "AI Agent",
+      "id": 6
+    },
+    {
+      "title": "商汤开源 SenseNova Loop-9B-Preview，宣称媲美 27B 参数大小模型",
+      "url": "https://www.ithome.com/1/020/654.htm",
+      "source": "IT之家",
+      "source_icon": "🟢",
+      "summary": "商汤科技10 月 30 日宣布开源商汤日日新SenseNova Loop-9B-Preview。 官方表示，该模型采用Looped Transformer架构，引入循环计算、扩展模型的有效计算深度，并…",
+      "tag": "大模型",
+      "id": 7
+    },
+    {
+      "title": "Roblox 平台 AI 游戏突破 7 万款，排名前 100 作品超 80% 使用 AI 辅助开发",
+      "url": "https://www.ithome.com/1/020/651.htm",
+      "source": "IT之家",
+      "source_icon": "🟢",
+      "summary": "Roblox在 2026财年第三季度报告中透露，该平台内使用Build 创建的 AI 游戏总数已超过7 万款。9 月游玩时长排名前 100 游戏中，超 80% 使用 AI 辅助开发。",
+      "tag": "AI产品",
+      "id": 8
+    },
+    {
+      "title": "被 AI 假学生薅了 2 亿美元贷款羊毛，美国司法部紧急调查",
+      "url": "https://www.ithome.com/1/020/649.htm",
+      "source": "IT之家",
+      "source_icon": "🟢",
+      "summary": "美国司法部（DOJ）于当地时间10 月 31日公布了“Operation Ghostbusters”行动的结果，该行动主要是调查广泛的学生贷款欺诈行为。",
+      "tag": "AI投融资",
+      "id": 9
+    },
+    {
+      "title": "让AI拼我用了12天完成的1000片“纯白地狱”，它五小时就崩溃了",
+      "url": "https://www.tmtpost.com/8188396.html",
+      "source": "钛媒体",
+      "source_icon": "🟠",
+      "summary": "我耗时12 天拼完 1000片纯白地狱拼图，尝试交给大模型挑战，它 5 小时便陷入崩溃。不是AI不能拼，而是擅长看图描述的生成式大模型缺少精密测量与全局约束能力；传统机器视觉方案反倒可行。",
+      "tag": "AI产品",
+      "id": 10
+    }
+  ]
+}
