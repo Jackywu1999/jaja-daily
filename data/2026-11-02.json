@@ -1,0 +1,99 @@
+{
+  "date": "2026-11-02",
+  "generated_at": "2026-11-02T10:01:22.082375+08:00",
+  "category": "餐饮零售 & AI科技",
+  "total": 10,
+  "editor_note": "今天共精选 10 条。餐饮零售板块：信心还在路上，商场的人气回来了等话题值得关注；AI科技板块：石油巨头沙特阿美收购该国人工智能企业 H等动态持续发酵。",
+  "items": [
+    {
+      "title": "信心还在路上，商场的人气回来了",
+      "url": "https://www.tmtpost.com/8189293.html",
+      "source": "钛媒体",
+      "source_icon": "🟠",
+      "summary": "客流量涨15.5%。",
+      "tag": "零售动态",
+      "id": 1
+    },
+    {
+      "title": "石油巨头沙特阿美收购该国人工智能企业 HUMAIN 49% 股份",
+      "url": "https://www.ithome.com/1/020/863.htm",
+      "source": "IT之家",
+      "source_icon": "🟢",
+      "summary": "此前由沙特阿拉伯主权财富基金PIF 完全控股的人工智能初创企业HUMAIN当地时间本月 1日宣布，全球最大石化企业沙特阿美(Aramco)将收购该企业 49% 的股份，PIF保留剩余51%。",
+      "tag": "AI投融资",
+      "id": 2
+    },
+    {
+      "title": "美国特拉华州拟允许 AI 智能体创办、运营企业",
+      "url": "https://www.ithome.com/1/020/858.htm",
+      "source": "IT之家",
+      "source_icon": "🟢",
+      "summary": "据科技媒体TechRadar今天报道，美国特拉华州计划放宽商业监管规定，允许AI智能体运营的企业注册成立。国会议员对此并不完全认同，一名共和党众议员已致信州长表达担忧。",
+      "tag": "AI Agent",
+      "id": 3
+    },
+    {
+      "title": "思科给 1 位年轻工程师无上限 Token 预算，最终目标 2 年内利用 AI 重写 98% 的遗留代码",
+      "url": "https://www.ithome.com/1/020/857.htm",
+      "source": "IT之家",
+      "source_icon": "🟢",
+      "summary": "思科（Cisco）总裁兼首席产品官吉图· 帕特尔（JeetuPatel）透露，他指派了一位27岁的年轻工程师，设定了在 24 个月内利用 AI 重构/重写公司 98% 遗留代码（LegacyCode）…",
+      "tag": "AI产品",
+      "id": 4
+    },
+    {
+      "title": "谷歌的AI生意越做越大，华尔街为什么不买帐",
+      "url": "https://www.tmtpost.com/8189211.html",
+      "source": "钛媒体",
+      "source_icon": "🟠",
+      "summary": "谷歌不一定要赢得模型竞争，但市场对它的信心在减弱。",
+      "tag": "AI产品",
+      "id": 5
+    },
+    {
+      "title": "美团龙猫发布 LongCat-2.5 原生多模态 AI 模型：1.6T 参数，面向长程智能体任务",
+      "url": "https://www.ithome.com/1/020/873.htm",
+      "source": "IT之家",
+      "source_icon": "🟢",
+      "summary": "美团龙猫今日发布面向长程智能体任务的原生多模态模型 LongCat-2.5，模型总参数量为 1.6 万亿，每个token 激活约 480亿参数，在LongCat-2.0的基础上进一步强化原生视觉理解与…",
+      "tag": "大模型",
+      "id": 6
+    },
+    {
+      "title": "消息称三星首款 AI 眼镜 12 月中旬登陆韩国、美国，要和 Meta 抢市场？",
+      "url": "https://www.ithome.com/1/020/866.htm",
+      "source": "IT之家",
+      "source_icon": "🟢",
+      "summary": "三星正准备进军AI智能眼镜市场，计划12 月中旬在韩国和美国推出品牌首款AI 智能眼镜。命名暂定为“Intelligent Eyewear”，售价尚未确定。",
+      "tag": "AI产品",
+      "id": 7
+    },
+    {
+      "title": "现代汽车集团投资约 9 万亿韩元打造 AI 谷进展：计划成立两家新公司，分别负责 AI 基础设施建设与 GPU 算力服务运营",
+      "url": "https://www.ithome.com/1/020/864.htm",
+      "source": "IT之家",
+      "source_icon": "🟢",
+      "summary": "当地时间10 月 30日，现代汽车集团宣布正式启用新办事处，此举是推进新万金（Saemangeum）人工智能数据中心建设的重要一步。该数据中心是现代汽车集团在韩国群山市投资约 9 万亿韩元",
+      "tag": "AI投融资",
+      "id": 8
+    },
+    {
+      "title": "反神话：当人工智能危机来临，人类如何应对？",
+      "url": "https://www.tmtpost.com/8189371.html",
+      "source": "钛媒体",
+      "source_icon": "🟠",
+      "summary": "面对突飞猛进发展的人工智能，只有将选择的权利和责任掌握在人类手里，人类最后才不会默默而心甘情愿地走向一条通往奴役之路。",
+      "tag": "AI产品",
+      "id": 9
+    },
+    {
+      "title": "借着帕累托曲线，大模型重新定义性价比？",
+      "url": "https://www.tmtpost.com/8189229.html",
+      "source": "钛媒体",
+      "source_icon": "🟠",
+      "summary": "尺子正在换，评判权正在交给业务账单。",
+      "tag": "大模型",
+      "id": 10
+    }
+  ]
+}
