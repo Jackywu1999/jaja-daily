@@ -1,0 +1,99 @@
+{
+  "date": "2026-11-03",
+  "generated_at": "2026-11-03T11:48:36.250668+08:00",
+  "category": "餐饮零售 & AI科技",
+  "total": 10,
+  "editor_note": "今天共精选 10 条。餐饮零售板块：押中泡泡玛特的黑蚁资本，能给野人先生带来等话题值得关注；AI科技板块：美国“最年轻”前陆军部长德里斯科尔加入 等动态持续发酵。",
+  "items": [
+    {
+      "title": "押中泡泡玛特的黑蚁资本，能给野人先生带来“新剧本”吗？",
+      "url": "https://www.tmtpost.com/8190327.html",
+      "source": "钛媒体",
+      "source_icon": "🟠",
+      "summary": "成立15年后首次融资，野人先生想拿“大结果”。",
+      "tag": "商业洞察",
+      "id": 1
+    },
+    {
+      "title": "美国“最年轻”前陆军部长德里斯科尔加入 OpenAI，出任国家安全与现代化事务高级顾问",
+      "url": "https://www.ithome.com/1/021/382.htm",
+      "source": "IT之家",
+      "source_icon": "🟢",
+      "summary": "OpenAI聘请美国前陆军部长丹尼尔 ·德里斯科尔担任顾问，协助推动人工智能在国家安全和网络安全领域的应用。德里斯科尔今年 8月辞去陆军部长职务，此前曾与美国国防部长皮特 · 赫格塞思多次发生冲突。",
+      "tag": "政策监管",
+      "id": 2
+    },
+    {
+      "title": "OpenAI 下一代 GPT-6.2 Astra 正灰度测试，Codex 用量统计中已单独列出",
+      "url": "https://www.ithome.com/1/021/352.htm",
+      "source": "IT之家",
+      "source_icon": "🟢",
+      "summary": "经大量用户反馈，OpenAI下一代模型 GPT-6.2 Astra疑似已进入小范围测试，部分Codex用户的使用量统计中已经出现独立模型标识「gpt-6.2-astra」。",
+      "tag": "大模型",
+      "id": 3
+    },
+    {
+      "title": "豪掷 457.65 亿美元：苹果 2026 财年研发费用同比增 32% 创历史新高，加码 AI 投入",
+      "url": "https://www.ithome.com/1/021/351.htm",
+      "source": "IT之家",
+      "source_icon": "🟢",
+      "summary": "科技媒体9to5Mac 今天（11 月 3日）发布博文，报道称基于官方披露数据，2026财年（2025 年 9 月 28日～2026年 9 月 26 日）第四财季（2026年6 月 28 日–9 月 …",
+      "tag": "AI投融资",
+      "id": 4
+    },
+    {
+      "title": "“存储通胀”中的传音控股：囤芯失血、H股遇冷与AI求生 |深度",
+      "url": "https://www.tmtpost.com/8190090.html",
+      "source": "钛媒体",
+      "source_icon": "🟠",
+      "summary": "“非洲手机之王”传音控股，以低端手机做到全球新兴市场销量第一的消费电子企业，也成为中国消费电子出海最成功的样板之一。2023、2024年利润、营收双双攀上巅峰，2025年却被“存储通胀”超级周期打到净…",
+      "tag": "AI产品",
+      "id": 5
+    },
+    {
+      "title": "国家发改委：强化对 AI 就业替代风险监测预警，做好兜底性、普惠性社会保障",
+      "url": "https://www.ithome.com/1/021/475.htm",
+      "source": "IT之家",
+      "source_icon": "🟢",
+      "summary": "国家发展改革委今日召开奋进“十五五”系列新闻发布会，介绍培育壮大新动能有关情况。 国家发展改革委创新和高技术发展司副司长王若蒙表示， 对于人民群众关心的人工智能就业替代风险，强化监测预警，加强社保体系…",
+      "tag": "AI产品",
+      "id": 6
+    },
+    {
+      "title": "高通：高通 AI Hub 现已面向中国开发者开放",
+      "url": "https://www.ithome.com/1/021/453.htm",
+      "source": "IT之家",
+      "source_icon": "🟢",
+      "summary": "Qualcomm（高通）今日宣布，其高通 AI Hub现已面向中国开发者开放 。合作伙伴与开发者可借助该平台加速打造终端侧生成式AI 和智能体AI。",
+      "tag": "AI产品",
+      "id": 7
+    },
+    {
+      "title": "苹果 CEO 特努斯：Siri 每日处理超过 25 亿次请求，部分高级 AI 功能将收费",
+      "url": "https://www.ithome.com/1/021/400.htm",
+      "source": "IT之家",
+      "source_icon": "🟢",
+      "summary": "科技媒体AppleInsider 今天（11 月3 日）发布博文，报道称在最新财报电话会议上，苹果首席执行官约翰 · 特努斯（JohnTernus）重申Siri 每天处理超过 25 亿次请求，部分高级…",
+      "tag": "AI产品",
+      "id": 8
+    },
+    {
+      "title": "不与大模型对抗，星尘智能想用AOS接住通用智能的红利",
+      "url": "https://www.tmtpost.com/8191171.html",
+      "source": "钛媒体",
+      "source_icon": "🟠",
+      "summary": "投降or对抗？星尘智能决定选第三条路：保持开放，既要又要。",
+      "tag": "大模型",
+      "id": 9
+    },
+    {
+      "title": "AI Subscriptions Hit a Wall as Smarter Models Burn Quotas Faster",
+      "url": "https://www.tmtpost.com/8191236.html",
+      "source": "钛媒体",
+      "source_icon": "🟠",
+      "summary": "Acrossthe industry,frontiermodels are improvingwhilefixed monthly plansfeelsmaller. Moonshot’sKimiis…",
+      "tag": "AI产品",
+      "id": 10
+    }
+  ]
+}
