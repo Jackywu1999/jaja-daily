@@ -1,0 +1,99 @@
+{
+  "date": "2026-11-04",
+  "generated_at": "2026-11-04T10:51:35.710906+08:00",
+  "category": "餐饮零售 & AI科技",
+  "total": 10,
+  "editor_note": "今天共精选 10 条。餐饮零售板块：川菜馆遍地开花，为什么难出全国连锁？等话题值得关注；AI科技板块：OpenAI 证实：ChatGPT 搜索等动态持续发酵。",
+  "items": [
+    {
+      "title": "川菜馆遍地开花，为什么难出全国连锁？",
+      "url": "https://www.tmtpost.com/8187763.html",
+      "source": "钛媒体",
+      "source_icon": "🟠",
+      "summary": "全国化的掣肘在哪里？",
+      "tag": "商业洞察",
+      "id": 1
+    },
+    {
+      "title": "OpenAI 证实：ChatGPT 搜索查询量已达谷歌 20%",
+      "url": "https://www.ithome.com/1/021/885.htm",
+      "source": "IT之家",
+      "source_icon": "🟢",
+      "summary": "OpenAI 挑战谷歌搜索现已“初见成效”。ChatGPT消费者产品负责人亚当 ·弗莱证实：ChatGPT 上的搜索类查询量，约相当于谷歌搜索查询量的 20%。",
+      "tag": "大模型",
+      "id": 2
+    },
+    {
+      "title": "谷歌调整 K-12 教育 AI 政策：Gemini、搜索等服务默认关闭",
+      "url": "https://www.ithome.com/1/021/880.htm",
+      "source": "IT之家",
+      "source_icon": "🟢",
+      "summary": "当地时间11 月 3日，谷歌宣布将从2027 年起调整面向K-12（幼儿园至高中）教育用户的人工智能功能管理政策，学校管理员需要主动启用，学生账户才能使用 Gemini、NotebookLM、Gemi…",
+      "tag": "大模型",
+      "id": 3
+    },
+    {
+      "title": "OpenAI ChatGPT 最新数据：周活跃用户达 12 亿，两个月新增 2 亿",
+      "url": "https://www.ithome.com/1/021/878.htm",
+      "source": "IT之家",
+      "source_icon": "🟢",
+      "summary": "当地时间11 月 2 日 OpenAI消费者产品负责人Adam Fry 在纽约举行的一场OpenAI活动期间接受了 BigTechnology 的采访。",
+      "tag": "大模型",
+      "id": 4
+    },
+    {
+      "title": "AI游戏步入“红果时刻”，腾讯米哈游为何不慌",
+      "url": "https://www.tmtpost.com/8192160.html",
+      "source": "钛媒体",
+      "source_icon": "🟠",
+      "summary": "AI游戏步入“红果时刻”，腾讯米哈游为何不慌",
+      "tag": "AI产品",
+      "id": 5
+    },
+    {
+      "title": "社区速递 164 | 1500 元圆梦昔日卡皇与派友们做的 AI 平替",
+      "url": "https://sspai.com/post/118317",
+      "source": "少数派",
+      "source_icon": "🔵",
+      "summary": "手工压花器、二手TITANV，以及派友们用开源项目与AI Coding替代付费订阅的讨论。",
+      "tag": "AI产品",
+      "id": 6
+    },
+    {
+      "title": "曝字节将大面积限制员工在内部自费使用 Claude、Codex 等",
+      "url": "https://www.ithome.com/1/021/917.htm",
+      "source": "IT之家",
+      "source_icon": "🟢",
+      "summary": "据大厂日爆11 月 3日爆料，字节迎来新规，将大面积限制Claude、Codex等个人账号的内部使用。 爆料称，本月起，字节跳动将会对所有L4 级别的代码仓库和飞书文档进行 外部AI访问封禁，覆盖范围…",
+      "tag": "大模型",
+      "id": 7
+    },
+    {
+      "title": "OpenAI 高管会议室发现“窃听”设备后，知情人士称员工多年不断反映安全漏洞",
+      "url": "https://www.ithome.com/1/021/892.htm",
+      "source": "IT之家",
+      "source_icon": "🟢",
+      "summary": "今年10月，OpenAI 在一间高管会议室发现了被人偷偷安装的录音设备。多名前员工得知消息后却不觉得意外。据路透社援引 5名知情人士消息称，早在2022 年底 ChatGPT问世之前，就有员工对Ope…",
+      "tag": "政策监管",
+      "id": 8
+    },
+    {
+      "title": "微软 Win11 AI PC 路线图曝光：4 档硬件，8GB 内存也有 AI 入场券",
+      "url": "https://www.ithome.com/1/021/886.htm",
+      "source": "IT之家",
+      "source_icon": "🟢",
+      "summary": "消息源@9550pro 昨日（11 月 3日）在 X 平台发布推文，分享了一张题为“Windows 是混合智能之家”的幻灯片，展示了微软“混合智能”（HybridIntelligence）AIPC路线…",
+      "tag": "AI产品",
+      "id": 9
+    },
+    {
+      "title": "机器人生意，造不如租",
+      "url": "https://www.tmtpost.com/8192381.html",
+      "source": "钛媒体",
+      "source_icon": "🟠",
+      "summary": "机器人下游“二开”企业崛起，商业化落地迅速，推动行业繁荣，形成租赁与RaaS模式，呈现科普过渡的商业化景象。",
+      "tag": "机器人",
+      "id": 10
+    }
+  ]
+}
