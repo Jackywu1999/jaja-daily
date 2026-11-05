@@ -1,0 +1,99 @@
+{
+  "date": "2026-11-05",
+  "generated_at": "2026-11-05T11:03:05.507831+08:00",
+  "category": "餐饮零售 & AI科技",
+  "total": 10,
+  "editor_note": "今天共精选 10 条。餐饮零售板块：日赚2300万，瑞幸咖啡的好日子又回来了等话题值得关注；AI科技板块：美国 AI 扩张遭遇地方阻力：水电资源和等动态持续发酵。",
+  "items": [
+    {
+      "title": "日赚2300万，瑞幸咖啡的好日子又回来了",
+      "url": "https://www.tmtpost.com/8194145.html",
+      "source": "钛媒体",
+      "source_icon": "🟠",
+      "summary": "省下11亿配送费，利润回来了。",
+      "tag": "餐饮动态",
+      "id": 1
+    },
+    {
+      "title": "美国 AI 扩张遭遇地方阻力：水电资源和环境争议升温，76% 选民反对在社区建设数据中心",
+      "url": "https://www.ithome.com/1/022/525.htm",
+      "source": "IT之家",
+      "source_icon": "🟢",
+      "summary": "北京时间11 月 5日，据美国科技媒体The Verge报道，随着2026年美国中期选举结果陆续出炉，人工智能行业赖以发展的数据中心建设遭遇重大阻力。",
+      "tag": "AI产品",
+      "id": 2
+    },
+    {
+      "title": "曝 OpenAI 新一代 GPT-6.2 Astra、Sol 及 Cyber 网安模型最快周五发布",
+      "url": "https://www.ithome.com/1/022/522.htm",
+      "source": "IT之家",
+      "source_icon": "🟢",
+      "summary": "据《TheInformation》当地时间 11月 4 日报道，OpenAI最快可能于当地时间周五（11 月 6日）发布新一代 Astra、Sol 系列模型，以及面向网络安全领域的Cyber模型。",
+      "tag": "大模型",
+      "id": 3
+    },
+    {
+      "title": "比尔盖茨批评美国政府：AI 模型能力惊人，不作为让世界面临生物武器风险",
+      "url": "https://www.ithome.com/1/022/512.htm",
+      "source": "IT之家",
+      "source_icon": "🟢",
+      "summary": "北京时间11 月 5日，据《金融时报》报道，微软联合创始人比尔· 盖茨 (Bill Gates)指责特朗普政府阻碍了防范AI风险的努力。",
+      "tag": "大模型",
+      "id": 4
+    },
+    {
+      "title": "AI时代的云计算，少数派繁荣",
+      "url": "https://www.tmtpost.com/8194260.html",
+      "source": "钛媒体",
+      "source_icon": "🟠",
+      "summary": "AI云平台成为企业核心，推动云计算从资源供给转向智能输出，重塑产业格局。",
+      "tag": "AI产品",
+      "id": 5
+    },
+    {
+      "title": "你不知道的客户端开发：AI 时代下的选型、原生与借力",
+      "url": "https://sspai.com/post/117713",
+      "source": "少数派",
+      "source_icon": "🔵",
+      "summary": "选型选得好只是锦上添花，最终还是要先把用户最真实的需求解决好。",
+      "tag": "AI产品",
+      "id": 6
+    },
+    {
+      "title": "社区速递 164 | 1500 元圆梦昔日卡皇与派友们做的 AI 平替",
+      "url": "https://sspai.com/post/118317",
+      "source": "少数派",
+      "source_icon": "🔵",
+      "summary": "手工压花器、二手TITANV，以及派友们用开源项目与AI Coding替代付费订阅的讨论。",
+      "tag": "AI产品",
+      "id": 7
+    },
+    {
+      "title": "“超人”卡维尔自己玩“CGI 剃胡子”梗，借助谷歌 Googlebook 笔记本 AI 开发游戏《胡子协议》",
+      "url": "https://www.ithome.com/1/022/550.htm",
+      "source": "IT之家",
+      "source_icon": "🟢",
+      "summary": "科技媒体Android Authority昨日（11月 4日）发布博文，报道称谷歌携手演员亨利· 卡维尔（HenryCavill）合作，官宣一款直接在 Googlebook上制作的16位横版卷轴游戏《…",
+      "tag": "AI产品",
+      "id": 8
+    },
+    {
+      "title": "原 Uber 总裁 Jill Hazelbaker 加入 OpenAI：美国政界出身，担任首席企业事务官",
+      "url": "https://www.ithome.com/1/022/536.htm",
+      "source": "IT之家",
+      "source_icon": "🟢",
+      "summary": "OpenAI于 11 月 3日宣布，Jill Hazelbaker 将加入OpenAI ，担任首席企业事务官，负责公司的全球传播与企业定位工作。",
+      "tag": "AI产品",
+      "id": 9
+    },
+    {
+      "title": "启元 T1 机器人首次 OTA 明日推送：智能识别楼梯并自动变形、远程音视频通话",
+      "url": "https://www.ithome.com/1/022/530.htm",
+      "source": "IT之家",
+      "source_icon": "🟢",
+      "summary": "启元T1 机器人首次 OTA将于明日开启推送，新增支持智能识别楼梯并自动变形、远程音视频通话等。IT之家整理如下：智能识别楼梯自动变形，四足跟随：支持跟随中自主识别楼梯并切换成四足跟随上下楼梯，也支持…",
+      "tag": "机器人",
+      "id": 10
+    }
+  ]
+}
