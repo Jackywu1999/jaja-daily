@@ -1,0 +1,99 @@
+{
+  "date": "2026-11-08",
+  "generated_at": "2026-11-08T09:59:34.961073+08:00",
+  "category": "餐饮零售 & AI科技",
+  "total": 10,
+  "editor_note": "今天共精选 10 条。餐饮零售板块：双十一，把购物交给了 AI 们，结果居然等话题值得关注；AI科技板块：Claude Max 订阅套餐使用额度被等动态持续发酵。",
+  "items": [
+    {
+      "title": "Claude Max 订阅套餐使用额度被指“虚标”，Anthropic 辩词未获法官采纳",
+      "url": "https://www.ithome.com/1/023/824.htm",
+      "source": "IT之家",
+      "source_icon": "🟢",
+      "summary": "美国联邦治安法官谢文辉（Alex Tse）裁定，Anthropic必须继续应对 Claude Max套餐使用额度涉嫌误导消费者的主要指控。",
+      "tag": "大模型",
+      "id": 1
+    },
+    {
+      "title": "GitHub 推出新 Git 存储架构：内部测试单个代码仓库支持 5000 个智能体同时协作，每秒处理 7200 次推送",
+      "url": "https://www.ithome.com/1/023/823.htm",
+      "source": "IT之家",
+      "source_icon": "🟢",
+      "summary": "当地时间11 月 5日，GitHub 发布博文，称上周在GitHub Universe大会上，正式公布了全新的Git存储架构，代号“Rubicon”。",
+      "tag": "AI Agent",
+      "id": 2
+    },
+    {
+      "title": "印度 IT 行业领袖警告：AI 或致应届毕业生更难进入科技行业",
+      "url": "https://www.ithome.com/1/023/813.htm",
+      "source": "IT之家",
+      "source_icon": "🟢",
+      "summary": "印度最大科技行业协会——印度全国软件与服务公司协会会长拉杰什 · 南比亚尔警告，随着AI逐渐接手基础编程和软件测试工作，印度应届大学毕业生进入科技行业可能更加困难。",
+      "tag": "AI产品",
+      "id": 3
+    },
+    {
+      "title": "双十一，把购物交给了 AI 们，结果居然集体翻车？",
+      "url": "https://www.tmtpost.com/8196807.html",
+      "source": "钛媒体",
+      "source_icon": "🟠",
+      "summary": "价格是真的，但不一定是对的商品",
+      "tag": "电商",
+      "id": 4
+    },
+    {
+      "title": "“不想打工”的人形机器人，在仓库里吃灰 | 潮向",
+      "url": "https://www.tmtpost.com/8196856.html",
+      "source": "钛媒体",
+      "source_icon": "🟠",
+      "summary": "问题不是机器人还能翻多高，是离车间还有多远。",
+      "tag": "机器人",
+      "id": 5
+    },
+    {
+      "title": "芝加哥大学教授：AI 时代数学人才招聘将更看重研究愿景与表达能力",
+      "url": "https://www.ithome.com/1/023/859.htm",
+      "source": "IT之家",
+      "source_icon": "🟢",
+      "summary": "人工智能正在降低数学研究取得突破的门槛，但这也意味着，学术界可能需要重新审视人才招聘方式。芝加哥大学一位知名数学教授认为，未来招聘数学研究人员时，个人交流能力和清晰表达研究构想的能力将变得更加重要。",
+      "tag": "AI产品",
+      "id": 6
+    },
+    {
+      "title": "索尼全球首发“基于视觉语言模型的驾驶接管危险预警”，为驾驶员提供分级提示",
+      "url": "https://www.ithome.com/1/023/849.htm",
+      "source": "IT之家",
+      "source_icon": "🟢",
+      "summary": "2026年 11 月 5日，索尼（中国）有限公司（下称“索尼”）在第九届中国国际进口博览会上，全球首发“基于视觉语言模型的驾驶接管危险预警”移动出行技术。",
+      "tag": "大模型",
+      "id": 7
+    },
+    {
+      "title": "埃森哲报告被曝存在虚假引用案例，公司否认系 AI 幻觉所致",
+      "url": "https://www.ithome.com/1/023/845.htm",
+      "source": "IT之家",
+      "source_icon": "🟢",
+      "summary": "埃森哲（Accenture）被指发布了一份充斥人工智能“幻觉”的研究报告，其中不仅包含大量虚假信息，还出现了多处疑似捏造的研究案例。",
+      "tag": "AI产品",
+      "id": 8
+    },
+    {
+      "title": "AI面试逼疯打工人",
+      "url": "https://www.tmtpost.com/8197213.html",
+      "source": "钛媒体",
+      "source_icon": "🟠",
+      "summary": "企业用AI筛人，求职者用AI练习。",
+      "tag": "AI产品",
+      "id": 9
+    },
+    {
+      "title": "【数智周报】 2026年世界互联网大会乌镇峰会举办；摩根大通副董事长：AI板块估值仍高，预计将出现回调；游族网络拟42亿买GPU；微软收缩AI算力租赁，据称逐步退出甲骨文云协议",
+      "url": "https://www.tmtpost.com/8197131.html",
+      "source": "钛媒体",
+      "source_icon": "🟠",
+      "summary": "（11月2日~11月7日）OpenAI与Cathedral Systems达成网络安全合作；2026年世界互联网大会乌镇峰会举办；华为、阿里等20家单位共建智能体互联基础设施，加速智能体赋能千行百业。",
+      "tag": "AI投融资",
+      "id": 10
+    }
+  ]
+}
