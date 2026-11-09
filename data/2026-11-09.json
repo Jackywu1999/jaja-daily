@@ -1,0 +1,90 @@
+{
+  "date": "2026-11-09",
+  "generated_at": "2026-11-09T10:19:01.667800+08:00",
+  "category": "餐饮零售 & AI科技",
+  "total": 9,
+  "editor_note": "今天共精选 9 条。AI科技板块：腾讯 Workbuddy 致歉：未及时公等动态持续发酵。",
+  "items": [
+    {
+      "title": "腾讯 Workbuddy 致歉：未及时公告优惠活动调整，DeepSeek-V4.1 Flash 积分消耗 5 折结算返还",
+      "url": "https://www.ithome.com/1/024/025.htm",
+      "source": "IT之家",
+      "source_icon": "🟢",
+      "summary": "腾讯Workbuddy昨晚发布公告，对DeepSeek-V4.1 Flash折扣活动进行了说明。9月 10日，WorkBuddy上线 DeepSeek-V4.1Flash，同步开启了为期两周的 5 折…",
+      "tag": "大模型",
+      "id": 1
+    },
+    {
+      "title": "古尔曼称苹果 Siri AI 团队或迎大调整，工程副总裁罗克韦尔考虑明年走人",
+      "url": "https://www.ithome.com/1/024/014.htm",
+      "source": "IT之家",
+      "source_icon": "🟢",
+      "summary": "彭博社记者马克· 古尔曼在今晚更新的《PowerOn》时事通讯中爆料，曾主导Vision Pro头显开发、同时负责新版Siri AI 项目的迈克 ·罗克韦尔，仍在认真考虑离开现有岗位。",
+      "tag": "AI产品",
+      "id": 2
+    },
+    {
+      "title": "古尔曼称苹果 CEO 特努斯“上任三把火”，敦促软件主管费德里吉大胆搞 AI",
+      "url": "https://www.ithome.com/1/024/013.htm",
+      "source": "IT之家",
+      "source_icon": "🟢",
+      "summary": "彭博社记者马克· 古尔曼在今天（8日）晚间更新的《Power On》时事通讯中披露，苹果新任CEO 约翰 ·特努斯敦促软件工程主管克雷格· 费德里吉加快 AI业务发展，采取更大胆的策略，目标是将Sir…",
+      "tag": "AI产品",
+      "id": 3
+    },
+    {
+      "title": "中石油60%控股，与宇树、泛界合设公司，油气机器人“验收权”不能交给外部厂商",
+      "url": "https://www.tmtpost.com/8197535.html",
+      "source": "钛媒体",
+      "source_icon": "🟠",
+      "summary": "中石油控股三方合营，锚定油气具身机器人标准定义。",
+      "tag": "机器人",
+      "id": 4
+    },
+    {
+      "title": "2027 款领克 08 EM-P 将支持选装 EVA 实体机器人，年内更新 FlymeAuto 2.5.0",
+      "url": "https://www.ithome.com/1/024/055.htm",
+      "source": "IT之家",
+      "source_icon": "🟢",
+      "summary": "领克汽车今日发布2027 款领克 08 EM-P答网友问，其中提到，2026款领克 08 EM-P 将于年内进行LYNKFlymeAuto 2.5.0版本更新。",
+      "tag": "机器人",
+      "id": 5
+    },
+    {
+      "title": "马斯克回应黄仁勋出轨风波，同意其对美国 AI 产业不可或缺",
+      "url": "https://www.ithome.com/1/024/052.htm",
+      "source": "IT之家",
+      "source_icon": "🟢",
+      "summary": "特斯拉CEO 埃隆 · 马斯克今日在 X平台发文，回应英伟达CEO黄仁勋的出轨风波。 据悉，红杉资本合伙人肖恩· 马奎尔（ShaunMaguire）最近谈到了黄仁勋，并给出了几条评价： 1、黄仁勋是这…",
+      "tag": "AI产品",
+      "id": 6
+    },
+    {
+      "title": "消息称三大存储器原厂与 SEMI 磋商机器人充电标准化，提升晶圆厂自动化水平",
+      "url": "https://www.ithome.com/1/024/046.htm",
+      "source": "IT之家",
+      "source_icon": "🟢",
+      "summary": "韩媒《首尔经济日报》当地时间本月 8 日报道称，三大存储器原厂（三星电子、SK 海力士、美光）正与SEMI（国际半导体产业协会）一道就晶圆厂内机器人充电系统的标准化事宜进行磋商 。",
+      "tag": "机器人",
+      "id": 7
+    },
+    {
+      "title": "AI会撞上的下一堵墙可能是水",
+      "url": "https://www.tmtpost.com/8197774.html",
+      "source": "钛媒体",
+      "source_icon": "🟠",
+      "summary": "世界经济论坛的报告估计，全球约45%的数据中心设施位于高水压力地区",
+      "tag": "AI产品",
+      "id": 8
+    },
+    {
+      "title": "刘庆峰交出科大讯飞半张AI答卷",
+      "url": "https://www.tmtpost.com/8197516.html",
+      "source": "钛媒体",
+      "source_icon": "🟠",
+      "summary": "科大讯飞的AI布局像个杂货铺么？",
+      "tag": "AI产品",
+      "id": 9
+    }
+  ]
+}
