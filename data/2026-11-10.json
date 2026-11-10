@@ -1,0 +1,99 @@
+{
+  "date": "2026-11-10",
+  "generated_at": "2026-11-10T12:27:58.562422+08:00",
+  "category": "餐饮零售 & AI科技",
+  "total": 10,
+  "editor_note": "今天共精选 10 条。餐饮零售板块：京东百亿买路欧洲等话题值得关注；AI科技板块：波士顿动力给 Atlas 人形机器人装上等动态持续发酵。",
+  "items": [
+    {
+      "title": "京东百亿买路欧洲",
+      "url": "https://www.tmtpost.com/8199017.html",
+      "source": "钛媒体",
+      "source_icon": "🟠",
+      "summary": "京东拟收购德国电商公司，拓展欧洲市场，推动海外扩张与物流布局。",
+      "tag": "电商",
+      "id": 1
+    },
+    {
+      "title": "波士顿动力给 Atlas 人形机器人装上轮子，可以跳起来转一圈",
+      "url": "https://www.ithome.com/1/024/697.htm",
+      "source": "IT之家",
+      "source_icon": "🟢",
+      "summary": "波士顿动力昨日发布视频，展示装上轮子的Atlas人形机器人，如今工程师们正在测试这款机器人的持续高速移动和重载表现。 波士顿动力工程师表示，他们通过定制转接器，将标准电动滑板车的轮子装到Atlas机器…",
+      "tag": "机器人",
+      "id": 2
+    },
+    {
+      "title": "魅族 Flyme AIOS 官宣「超级 Aicy」已上线，支持通话助手、出行管家、主动备车等",
+      "url": "https://www.ithome.com/1/024/641.htm",
+      "source": "IT之家",
+      "source_icon": "🟢",
+      "summary": "魅族Flyme AIOS今日宣布，一位24小时在线、技能满点的赛博搭子——「超级Aicy」已上线。IT之家附主要功能如下：通话助手：指定人、指定场景代接，还能自定义回复要求 出行管家：高铁、飞机、酒店…",
+      "tag": "AI产品",
+      "id": 3
+    },
+    {
+      "title": "联想万全混合词元工厂发布：母本工厂落地张家口，2027 年建成 15000P 异构算力集群",
+      "url": "https://www.ithome.com/1/024/640.htm",
+      "source": "IT之家",
+      "source_icon": "🟢",
+      "summary": "11月 10日，联想万全混合词元工厂品牌发布会在张家口举办，联想宣布国内首个万全混合词元母本工厂落地张家口，提出“为中国智能化腾飞而奋斗”，以张家口为起点布局全国词元经济网络，助力智慧中国建设。",
+      "tag": "AI算力",
+      "id": 4
+    },
+    {
+      "title": "手机芯片困在AI的繁荣里",
+      "url": "https://www.tmtpost.com/8198787.html",
+      "source": "钛媒体",
+      "source_icon": "🟠",
+      "summary": "手机销量下滑，涨价难以弥补芯片订单流失。AI基础设施扩张推高供应链成本，端侧AI尚未兑现换机需求，手机芯片厂商在持续投入的同时，正加速转向数据中心寻找增长。",
+      "tag": "AI算力",
+      "id": 5
+    },
+    {
+      "title": "原今日头条 CEO 陈林首次公开承认离职，筹备 AI 教育创业",
+      "url": "https://www.ithome.com/1/024/748.htm",
+      "source": "IT之家",
+      "source_icon": "🟢",
+      "summary": "原今日头条CEO陈林昨日在个人公众号发表文章《我为什么还要做教育？》，谈到离职字节、筹备AI教育创业等事。 IT之家注意到，陈林在公众号简介中写着“小鹿爱学（银河智学）创始人，曾任今日头条 CEO，大…",
+      "tag": "AI产品",
+      "id": 6
+    },
+    {
+      "title": "Adobe 与迪士尼达成多年战略合作，将 AI 工具推广至迪士尼乐园、内容制作领域",
+      "url": "https://www.ithome.com/1/024/731.htm",
+      "source": "IT之家",
+      "source_icon": "🟢",
+      "summary": "Adobe 公司昨日宣布与华特迪士尼公司达成一项为期多年的战略合作协议，为迪士尼业务开发定制AI模型，计划将 AI工具推广至迪士尼主题乐园、内容制作、体育内容传播等领域 。",
+      "tag": "商业洞察",
+      "id": 7
+    },
+    {
+      "title": "蚂蚁灵波 LingBot-Touch 触觉基础模型开源，为通用大脑接入“手感”",
+      "url": "https://www.ithome.com/1/024/701.htm",
+      "source": "IT之家",
+      "source_icon": "🟢",
+      "summary": "今日，蚂蚁灵波科技开源触觉基础模型 LingBot-Touch，为机器人大脑补齐关键的触觉感知能力。基于近5000小时真实触觉数据预训练，LingBot-Touch 覆盖磁触觉、视触觉和压阻式三类主流…",
+      "tag": "大模型",
+      "id": 8
+    },
+    {
+      "title": "美股AI巨震，如何把握港A的AI产业链分化机遇？",
+      "url": "https://www.tmtpost.com/8198218.html",
+      "source": "钛媒体",
+      "source_icon": "🟠",
+      "summary": "美国中期选举的选情，正在为全球AI估值体系增添新的变数。",
+      "tag": "AI产品",
+      "id": 9
+    },
+    {
+      "title": "连环保组织都离不开AI，这么多电花得值吗？",
+      "url": "https://www.tmtpost.com/8199018.html",
+      "source": "钛媒体",
+      "source_icon": "🟠",
+      "summary": "从野生动物保护到电网扩容，算力的成本远超电费。",
+      "tag": "AI产品",
+      "id": 10
+    }
+  ]
+}
