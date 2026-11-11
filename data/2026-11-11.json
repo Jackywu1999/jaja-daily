@@ -1,0 +1,99 @@
+{
+  "date": "2026-11-11",
+  "generated_at": "2026-11-11T10:28:33.374650+08:00",
+  "category": "餐饮零售 & AI科技",
+  "total": 10,
+  "editor_note": "今天共精选 10 条。餐饮零售板块：亚朵集团三季度营收34.29亿元，酒店业等话题值得关注；AI科技板块：Arm 发布 Cortex-M42 处理等动态持续发酵。",
+  "items": [
+    {
+      "title": "亚朵集团三季度营收34.29亿元，酒店业务稳健发展；欧莱雅进博会首发五大成果；优衣库进博会聚焦可持续发展 ｜消研所周报",
+      "url": "https://www.tmtpost.com/8200086.html",
+      "source": "钛媒体",
+      "source_icon": "🟠",
+      "summary": "Dr.Jart+蒂佳婷新品亮相进博会；泡泡玛特首次以双展位形式亮相进博会。",
+      "tag": "零售动态",
+      "id": 1
+    },
+    {
+      "title": "等位超5000桌，餐饮排队王，为什么都爱开在高端商场？",
+      "url": "https://www.tmtpost.com/8198486.html",
+      "source": "钛媒体",
+      "source_icon": "🟠",
+      "summary": "最火餐饮扎堆开在万象城，商场图的不止是租金。",
+      "tag": "餐饮动态",
+      "id": 2
+    },
+    {
+      "title": "Arm 发布 Cortex-M42 处理器：向量算力最高达前代 3 倍，让更多小型设备用上本地 AI",
+      "url": "https://www.ithome.com/1/025/294.htm",
+      "source": "IT之家",
+      "source_icon": "🟢",
+      "summary": "Arm昨日（11 月 10日）发布公告，宣布推出Cortex-M42 处理器，并将其纳入Flexible Access 和TotalAccess两项技术授权计划。",
+      "tag": "AI算力",
+      "id": 3
+    },
+    {
+      "title": "Anthropic 宣布额度免费重置：Pro、Max、Ultra 和 Team 用户可领，Claude 支持更多 MCP Apps 扩展",
+      "url": "https://www.ithome.com/1/025/292.htm",
+      "source": "IT之家",
+      "source_icon": "🟢",
+      "summary": "Anthropic今日宣布修复了一项小Bug，并为ClaudePro、Max、Ultra和 Team用户提供一次免费的完整额度重置，覆盖所有模型及使用限制。",
+      "tag": "大模型",
+      "id": 4
+    },
+    {
+      "title": "微软正式发布 .NET 11：开发更省时，AI 工具更齐全",
+      "url": "https://www.ithome.com/1/025/246.htm",
+      "source": "IT之家",
+      "source_icon": "🟢",
+      "summary": "昨日（11月 10 日）召开的.NET Conf2026 线上大会上，微软正式发布 .NET11，围绕运行性能、开发效率及AI应用构建推出一系列更新，覆盖网页、移动端和桌面应用开发。",
+      "tag": "AI产品",
+      "id": 5
+    },
+    {
+      "title": "阿里全新一代千问大模型 Qwen4 即将发布，预览版已首发上线",
+      "url": "https://www.ithome.com/1/025/301.htm",
+      "source": "IT之家",
+      "source_icon": "🟢",
+      "summary": "阿里巴巴今日官宣，全新一代千问大模型 Qwen4 即将发布：知识理解更深入，世界感知更立体，Coding与 Agentic能力持续进阶。",
+      "tag": "大模型",
+      "id": 6
+    },
+    {
+      "title": "Day-0 支持：摩尔线程完成 MiniMax H3-Image 图像生成模型适配",
+      "url": "https://www.ithome.com/1/025/296.htm",
+      "source": "IT之家",
+      "source_icon": "🟢",
+      "summary": "摩尔线程今天宣布，公司旗下AI 训推一体智算卡 MTT S5000及MUSA软件栈，已在昨天（开源当日）适配 MiniMax图像生成模型H3-Image。",
+      "tag": "大模型",
+      "id": 7
+    },
+    {
+      "title": "成都第五代贡嘎人形机器人发布，宣称拥有“全球最领先人形机器人大脑核心技术”",
+      "url": "https://www.ithome.com/1/025/295.htm",
+      "source": "IT之家",
+      "source_icon": "🟢",
+      "summary": "成都人形机器人创新中心今日发布了第五代贡嘎人形机器人，宣称拥有“全球最领先人形机器人大脑核心技术”。 作为成都人形机器人创新中心具身智能大脑技术的集大成之作，五代贡嘎搭载自研一体化具身智能系统，在场景…",
+      "tag": "机器人",
+      "id": 8
+    },
+    {
+      "title": "2026，AI应用的钱都流向了哪里？",
+      "url": "https://www.tmtpost.com/8200663.html",
+      "source": "钛媒体",
+      "source_icon": "🟠",
+      "summary": "视频、图像和3D拿走大头。",
+      "tag": "AI产品",
+      "id": 9
+    },
+    {
+      "title": "平头哥要上市，阿里AI的第一个“大结果”",
+      "url": "https://www.tmtpost.com/8200714.html",
+      "source": "钛媒体",
+      "source_icon": "🟠",
+      "summary": "平头哥要上市，阿里AI的第一个“大结果”",
+      "tag": "AI投融资",
+      "id": 10
+    }
+  ]
+}
