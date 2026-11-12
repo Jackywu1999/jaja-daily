@@ -1,0 +1,99 @@
+{
+  "date": "2026-11-12",
+  "generated_at": "2026-11-12T11:32:52.664326+08:00",
+  "category": "餐饮零售 & AI科技",
+  "total": 10,
+  "editor_note": "今天共精选 10 条。餐饮零售板块：通威集团吞下天邦食品等话题值得关注；AI科技板块：百度李彦宏对话联想杨元庆：AI 还替代不等动态持续发酵。",
+  "items": [
+    {
+      "title": "通威集团吞下天邦食品",
+      "url": "https://www.tmtpost.com/8201946.html",
+      "source": "钛媒体",
+      "source_icon": "🟠",
+      "summary": "斥资超14亿元参与重整。",
+      "tag": "餐饮动态",
+      "id": 1
+    },
+    {
+      "title": "百度李彦宏对话联想杨元庆：AI 还替代不了 CEO 出差",
+      "url": "https://www.ithome.com/1/025/895.htm",
+      "source": "IT之家",
+      "source_icon": "🟢",
+      "summary": "IT之家11 月 12日现场消息，在今日的百度世界大会2026活动中，百度创始人李彦宏发表演讲，并在现场对话联想集团董事长兼CEO杨元庆。",
+      "tag": "AI产品",
+      "id": 2
+    },
+    {
+      "title": "Claude API 新增调节 effort 能力：让 AI 按任务使劲，从闲聊转复杂分析可中途“换挡”",
+      "url": "https://www.ithome.com/1/025/894.htm",
+      "source": "IT之家",
+      "source_icon": "🟢",
+      "summary": "Anthropic为 Claude API 新增一项Beta 功能，开发者可以在消息中调整 effort。这意味着， 同一段对话不必始终沿用相同设置，开发者可根据后续任务需要，中途改变模型回答的“努力…",
+      "tag": "大模型",
+      "id": 3
+    },
+    {
+      "title": "亚马逊 AWS 掌门人谈太空 AI 算力：未来 10 至 20 年难具商业可行性",
+      "url": "https://www.ithome.com/1/025/888.htm",
+      "source": "IT之家",
+      "source_icon": "🟢",
+      "summary": "昨日（11月 11 日）作客 Sources播客节目时，亚马逊云计算业务AWS 首席执行官马特 ·加曼（Matt Garman）表示，未来 10 至 20年内，太空数据中心很难在经济性和实际运营层面达…",
+      "tag": "AI算力",
+      "id": 4
+    },
+    {
+      "title": "1.6 亿播放赚 39 万：AI 短剧的暴利，全给云厂商打了工",
+      "url": "https://www.tmtpost.com/8201652.html",
+      "source": "钛媒体",
+      "source_icon": "🟠",
+      "summary": "1.6亿播放只分到39万，可一个5秒镜头光试错就要烧20多块，普通人冲进AI短剧，最后到底在替谁买单？",
+      "tag": "AI产品",
+      "id": 5
+    },
+    {
+      "title": "思特威推出安防应用 5MP CMOS 图像传感器 SC538HAI / SC536HAI，支持全时录像",
+      "url": "https://www.ithome.com/1/025/905.htm",
+      "source": "IT之家",
+      "source_icon": "🟢",
+      "summary": "思特威今天宣布推出两款面向智能安防应用的5MP 高分辨率 CMOS图像传感器：SC538HAI 和 SC536HAI。新品基于SmartClarity -3工艺技术打造，兼具低功耗、低噪声、高动态范围…",
+      "tag": "AI产品",
+      "id": 6
+    },
+    {
+      "title": "百度李彦宏发布大模型的交易所“词元所”：宣称中立、可信，给模型提供商打分",
+      "url": "https://www.ithome.com/1/025/903.htm",
+      "source": "IT之家",
+      "source_icon": "🟢",
+      "summary": "IT之家11 月 12日现场消息，在今日的百度世界大会2026活动中，百度创始人李彦宏宣布推出一个全新的大模型服务平台—— 词元所。",
+      "tag": "大模型",
+      "id": 7
+    },
+    {
+      "title": "李彦宏：百度内部每天的活跃智能体数一年内增至 3.7 万，涨了 6 倍多",
+      "url": "https://www.ithome.com/1/025/900.htm",
+      "source": "IT之家",
+      "source_icon": "🟢",
+      "summary": "IT之家11 月 12日现场消息，在今日举行的百度世界大会2026活动中，百度创始人李彦宏表示，去年百度世界大会上他提出“内化AI能力，打造原生AI组织”。 李彦宏透露， 百度内部每天的活跃智能体数",
+      "tag": "AI Agent",
+      "id": 8
+    },
+    {
+      "title": "融资腰斩、IPO收窄：具身智能的冬天筛掉谁？",
+      "url": "https://www.tmtpost.com/8201689.html",
+      "source": "钛媒体",
+      "source_icon": "🟠",
+      "summary": "泡沫破掉的时候，真正做事的人松了一口气。",
+      "tag": "AI投融资",
+      "id": 9
+    },
+    {
+      "title": "盖茨再“吹哨”：AI猛于核武，人类别大难临头才醒",
+      "url": "https://www.tmtpost.com/8201134.html",
+      "source": "钛媒体",
+      "source_icon": "🟠",
+      "summary": "盖茨再谈AI风险与人类未来。",
+      "tag": "AI产品",
+      "id": 10
+    }
+  ]
+}
