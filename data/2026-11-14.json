@@ -1,0 +1,99 @@
+{
+  "date": "2026-11-14",
+  "generated_at": "2026-11-14T10:52:25.948714+08:00",
+  "category": "餐饮零售 & AI科技",
+  "total": 10,
+  "editor_note": "今天共精选 10 条。餐饮零售板块：瑞幸越来越不像一家咖啡公司了等话题值得关注；AI科技板块：礼来 CEO 回应“AI 十年内攻克癌症等动态持续发酵。",
+  "items": [
+    {
+      "title": "瑞幸越来越不像一家咖啡公司了",
+      "url": "https://www.tmtpost.com/8204697.html",
+      "source": "钛媒体",
+      "source_icon": "🟠",
+      "summary": "做加法往往比做减法容易，同时也危险得多。",
+      "tag": "餐饮动态",
+      "id": 1
+    },
+    {
+      "title": "外卖大战一年后，大厂亲自下场开店",
+      "url": "https://www.tmtpost.com/8204490.html",
+      "source": "钛媒体",
+      "source_icon": "🟠",
+      "summary": "淘宝京东美团都有了“自营厨房”。",
+      "tag": "商业洞察",
+      "id": 2
+    },
+    {
+      "title": "礼来 CEO 回应“AI 十年内攻克癌症”：愿景很美好，但不太可能",
+      "url": "https://www.ithome.com/1/027/037.htm",
+      "source": "IT之家",
+      "source_icon": "🟢",
+      "summary": "礼来（EliLilly）董事长兼首席执行官戴夫 ·里克斯（DaveRicks）于 11 月 12 日在 X平台发布推文，回应Anthropic 首席执行官达里奥 ·阿莫代伊（DarioAmodei）有…",
+      "tag": "AI产品",
+      "id": 3
+    },
+    {
+      "title": "本地推理引擎 llama.cpp 1.0.0 史诗级更新：支持超 150 种模型架构，断网也能满血跑大模型",
+      "url": "https://www.ithome.com/1/027/019.htm",
+      "source": "IT之家",
+      "source_icon": "🟢",
+      "summary": "开发者Georgi Gerganov（X账号为@ggerganov）昨日（11 月13日）在 X平台发布推文，宣布开源 AI 推理项目llama.cpp与底层机器学习引擎 ggml的库版本迈入 1.0…",
+      "tag": "大模型",
+      "id": 4
+    },
+    {
+      "title": "要让 GPT-6 Astra 等通用 AI 当机器人“大脑”：OpenAI 宣布重组具身智能团队",
+      "url": "https://www.ithome.com/1/027/004.htm",
+      "source": "IT之家",
+      "source_icon": "🟢",
+      "summary": "《财富》昨日（11月 13日）发布博文，爆料称OpenAI已解散独立机器人团队，并将相关人员调至公司其他部门。OpenAI 向该媒体确认了此次组织调整， 只是强调本次调整并非退出机器人领域，机器人仍是…",
+      "tag": "大模型",
+      "id": 5
+    },
+    {
+      "title": "研究生如何用 AI 辅助完成一篇综述：我的科研写作工具与实践经验",
+      "url": "https://sspai.com/post/118153",
+      "source": "少数派",
+      "source_icon": "🔵",
+      "summary": "AI 改变的不是科研写作本身，而是我们完成科研写作时的工作方式。",
+      "tag": "AI产品",
+      "id": 6
+    },
+    {
+      "title": "在快 AI 时代，我是怎么把 Mole 做成一款「慢产品」的？",
+      "url": "https://sspai.com/post/118512",
+      "source": "少数派",
+      "source_icon": "🔵",
+      "summary": "距离写完上一篇在少数派发的《从开源清理工具到付费Mac应用，用户教会了我如何做产品》已经过去两个多月。这段时间里，Mole从1.13一路发到了1.19，加上了AI工具清理和系统数据清理，Windows…",
+      "tag": "AI产品",
+      "id": 7
+    },
+    {
+      "title": "苹果推送 tvOS 27.2.1 更新，第二 / 第三代 Apple TV 4K 新增 Siri AI 支持",
+      "url": "https://www.ithome.com/1/027/052.htm",
+      "source": "IT之家",
+      "source_icon": "🟢",
+      "summary": "科技媒体MacRumors 今天（11 月 14日）发布博文，报道称苹果已推送tvOS 27.2.1 以及HomePodSoftware27.2.1，内部开发代号均为 24K157。",
+      "tag": "AI产品",
+      "id": 8
+    },
+    {
+      "title": "实现“躺平式办公”：Mac 版 Perplexity 上线“AI 队友”，组建你的全天候数字员工",
+      "url": "https://www.ithome.com/1/027/050.htm",
+      "source": "IT之家",
+      "source_icon": "🟢",
+      "summary": "Perplexity今天（11 月 14日）发布公告，邀请付费Max订阅用户，在Mac 平台版 Perplexity应用上体验AI智能体功能“队友”（Teammates）。",
+      "tag": "AI产品",
+      "id": 9
+    },
+    {
+      "title": "DeepSeek 前端代码出现“额度耗尽”提示，开发者猜测将首次推出 C 端付费方案",
+      "url": "https://www.ithome.com/1/027/038.htm",
+      "source": "IT之家",
+      "source_icon": "🟢",
+      "summary": "有开发者在chat.deepseek.com的前端代码中发现了一整套额度管理逻辑，提示文案包括“使用额度已达上限，请额度恢复后再试”。",
+      "tag": "大模型",
+      "id": 10
+    }
+  ]
+}
