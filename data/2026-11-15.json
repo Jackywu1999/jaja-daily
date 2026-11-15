@@ -1,0 +1,99 @@
+{
+  "date": "2026-11-15",
+  "generated_at": "2026-11-15T10:19:32.628315+08:00",
+  "category": "餐饮零售 & AI科技",
+  "total": 10,
+  "editor_note": "今天共精选 10 条。餐饮零售板块：当广告开始被追更：肌肉唐僧唱摇滚，AI改等话题值得关注；AI科技板块：国产算力巨头超聚变创业板 IPO 过会，等动态持续发酵。",
+  "items": [
+    {
+      "title": "国产算力巨头超聚变创业板 IPO 过会，前身是华为 X86 服务器业务",
+      "url": "https://www.ithome.com/1/027/255.htm",
+      "source": "IT之家",
+      "source_icon": "🟢",
+      "summary": "深交所上市审核委员会本月12 日召开 2026 年第 61次审议会议，会议结果为超聚变数字技术股份有限公司（以下简称超聚变）（首发） 符合发行条件、上市条件和信息披露要求 。",
+      "tag": "AI投融资",
+      "id": 1
+    },
+    {
+      "title": "SpaceX 星舰飞船首次被发射塔机械臂捕获回收，马斯克将建 AI 数据中心星座",
+      "url": "https://www.ithome.com/1/027/253.htm",
+      "source": "IT之家",
+      "source_icon": "🟢",
+      "summary": "当地时间11 月 14日，SpaceX在星舰第 15次试飞中首次用发射塔机械臂接住从轨道返回的第二级飞船，这是星舰飞船首次完成发射塔捕获。",
+      "tag": "AI产品",
+      "id": 2
+    },
+    {
+      "title": "“像一大群蜜蜂”：亚马逊 Prime Air 送货无人机噪音过大，遭当地居民投诉",
+      "url": "https://www.ithome.com/1/027/239.htm",
+      "source": "IT之家",
+      "source_icon": "🟢",
+      "summary": "亚马逊旗下的超快无人机配送服务Prime Air曾承诺，无论是午间零食、日用百货还是紧急医疗用品，只要重量在 5 磅",
+      "tag": "机器人",
+      "id": 3
+    },
+    {
+      "title": "当广告开始被追更：肌肉唐僧唱摇滚，AI改写游戏获客",
+      "url": "https://www.tmtpost.com/8205248.html",
+      "source": "钛媒体",
+      "source_icon": "🟠",
+      "summary": "素材可以量产，好创意却不能一键生成。",
+      "tag": "商业洞察",
+      "id": 4
+    },
+    {
+      "title": "AI时代，公司越来越扁平，也越来越官僚",
+      "url": "https://www.tmtpost.com/8205239.html",
+      "source": "钛媒体",
+      "source_icon": "🟠",
+      "summary": "未来最有活力的公司，也许不是每件事都管得最细的公司，而是有人敢说：这条规则，该改了。",
+      "tag": "AI产品",
+      "id": 5
+    },
+    {
+      "title": "研究生如何用 AI 辅助完成一篇综述：我的科研写作工具与实践经验",
+      "url": "https://sspai.com/post/118153",
+      "source": "少数派",
+      "source_icon": "🔵",
+      "summary": "AI 改变的不是科研写作本身，而是我们完成科研写作时的工作方式。",
+      "tag": "AI产品",
+      "id": 6
+    },
+    {
+      "title": "在快 AI 时代，我是怎么把 Mole 做成一款「慢产品」的？",
+      "url": "https://sspai.com/post/118512",
+      "source": "少数派",
+      "source_icon": "🔵",
+      "summary": "距离写完上一篇在少数派发的《从开源清理工具到付费Mac应用，用户教会了我如何做产品》已经过去两个多月。这段时间里，Mole从1.13一路发到了1.19，加上了AI工具清理和系统数据清理，Windows…",
+      "tag": "AI产品",
+      "id": 7
+    },
+    {
+      "title": "SK 集团会长崔泰源：我们所有子公司都要蜕变为 AI 企业",
+      "url": "https://www.ithome.com/1/027/277.htm",
+      "source": "IT之家",
+      "source_icon": "🟢",
+      "summary": "SK 集团会长崔泰源最近表示，他们希望打破现有框架，将 SK 集团所有子公司蜕变为 AI企业 。他认为SK 集团应将业务范围从 AI半导体、基础设施和能源进一步扩展至服务领域，构建出持续增长的“AI …",
+      "tag": "AI产品",
+      "id": 8
+    },
+    {
+      "title": "辅助驾驶≠自动驾驶：男子载一家四口在高速启用“智驾”玩手机、躺睡被处罚",
+      "url": "https://www.ithome.com/1/027/276.htm",
+      "source": "IT之家",
+      "source_icon": "🟢",
+      "summary": "据公安部交通管理局分享，近日，山东青岛。群众举报一司机在高速上驾车时双目闭合，疑借助车辆智能辅助驾驶功能行车。 民警随即迅速锁定该车辆。",
+      "tag": "机器人",
+      "id": 9
+    },
+    {
+      "title": "韩国电信运营商 LG U+ 明年进军 AI Token 业务，帮助企业降低 AI 转型成本",
+      "url": "https://www.ithome.com/1/027/262.htm",
+      "source": "IT之家",
+      "source_icon": "🟢",
+      "summary": "韩国电信运营商LG U+ 将于明年进军 AIToken 业务，利用自主研发的Token优化技术，帮助企业降低AI转型（AX）成本。",
+      "tag": "AI产品",
+      "id": 10
+    }
+  ]
+}
