@@ -1,0 +1,99 @@
+{
+  "date": "2026-11-16",
+  "generated_at": "2026-11-16T10:31:33.256798+08:00",
+  "category": "餐饮零售 & AI科技",
+  "total": 10,
+  "editor_note": "今天共精选 10 条。餐饮零售板块：“穷鬼超市”，开启巷战等话题值得关注；AI科技板块：Anthropic CEO 阿莫迪：算力等动态持续发酵。",
+  "items": [
+    {
+      "title": "“穷鬼超市”，开启巷战",
+      "url": "https://www.tmtpost.com/8206099.html",
+      "source": "钛媒体",
+      "source_icon": "🟠",
+      "summary": "硬折扣超市，加速扩张。",
+      "tag": "零售动态",
+      "id": 1
+    },
+    {
+      "title": "Anthropic CEO 阿莫迪：算力是最深层的商业难题",
+      "url": "https://www.ithome.com/1/027/505.htm",
+      "source": "IT之家",
+      "source_icon": "🟢",
+      "summary": "Anthropic联合创始人兼 CEO 达里奥 ·阿莫迪上周五到访纽约，与“华尔街一哥”、摩根大通掌门杰米 · 戴蒙进行公开对谈。 在谈话中， 阿莫迪将算力称为公司面临的“最深层商业难题” 。",
+      "tag": "AI算力",
+      "id": 2
+    },
+    {
+      "title": "不调用图像模型，Anthropic Claude Fable 5.2 用 Python 代码模拟真实画笔作画",
+      "url": "https://www.ithome.com/1/027/490.htm",
+      "source": "IT之家",
+      "source_icon": "🟢",
+      "summary": "Anthropic于当地时间 11 月 9 日发布了最新的ClaudeFable 5.2 和 ClaudeMythos5.2模型。",
+      "tag": "大模型",
+      "id": 3
+    },
+    {
+      "title": "腾讯 WorkBuddy 国际版上线 Gemini 4 Carbon 大模型：支持百万 Token 上下文，暂仅限 Pro 用户使用",
+      "url": "https://www.ithome.com/1/027/487.htm",
+      "source": "IT之家",
+      "source_icon": "🟢",
+      "summary": "腾讯WorkBuddy国际版昨日宣布，已正式上线谷歌Gemini 4 Carbon模型，主要面向需要更深入推理和处理更长任务的使用场景。",
+      "tag": "大模型",
+      "id": 4
+    },
+    {
+      "title": "OpenAI六年两次裁撤机器人团队，中国厂商却在给“小脑”持续下注",
+      "url": "https://www.tmtpost.com/8206248.html",
+      "source": "钛媒体",
+      "source_icon": "🟠",
+      "summary": "人形机器人的2027对赌。",
+      "tag": "机器人",
+      "id": 5
+    },
+    {
+      "title": "研究生如何用 AI 辅助完成一篇综述：我的科研写作工具与实践经验",
+      "url": "https://sspai.com/post/118153",
+      "source": "少数派",
+      "source_icon": "🔵",
+      "summary": "AI 改变的不是科研写作本身，而是我们完成科研写作时的工作方式。",
+      "tag": "AI产品",
+      "id": 6
+    },
+    {
+      "title": "在快 AI 时代，我是怎么把 Mole 做成一款「慢产品」的？",
+      "url": "https://sspai.com/post/118512",
+      "source": "少数派",
+      "source_icon": "🔵",
+      "summary": "距离写完上一篇在少数派发的《从开源清理工具到付费Mac应用，用户教会了我如何做产品》已经过去两个多月。这段时间里，Mole从1.13一路发到了1.19，加上了AI工具清理和系统数据清理，Windows…",
+      "tag": "AI产品",
+      "id": 7
+    },
+    {
+      "title": "2.4 万亿参数阿里通义千问 Qwen4-Max 正式上线：任务成本降低超 60%，后续将开源小尺寸模型",
+      "url": "https://www.ithome.com/1/027/512.htm",
+      "source": "IT之家",
+      "source_icon": "🟢",
+      "summary": "阿里通义千问团队今日宣布推出新一代旗舰模型 Qwen4-Max，采用全新的 MoE（混合专家）架构，主干参数规模达到2.4万亿，原生支持视觉理解，并提供100 万 Token上下文窗口。",
+      "tag": "大模型",
+      "id": 8
+    },
+    {
+      "title": "腾讯总办号召 AI 时代再创业，官方公布原文",
+      "url": "https://www.ithome.com/1/027/509.htm",
+      "source": "IT之家",
+      "source_icon": "🟢",
+      "summary": "11月 16日，腾讯文化发布《总办号召AI时代再创业，“心态归零”》一文，谈到了引发舆论热议的腾讯司庆讲话内容。 腾讯文化表示，公司28岁生日这天，把一年一度的总办LinkTime 做成了一档特别的播…",
+      "tag": "AI产品",
+      "id": 9
+    },
+    {
+      "title": "华为小艺 AI 会员正式上线：体验版赠送 200 积分、49 元起含 1000 积分，Work 订阅用户可 0 元升级",
+      "url": "https://www.ithome.com/1/027/506.htm",
+      "source": "IT之家",
+      "source_icon": "🟢",
+      "summary": "华为官方刚刚宣布小艺AI订阅服务正式上线，支持多场景高阶AI能力，开通即享50GB起云空间。此前分散在“小艺Work”等产品线中的付费能力，被整合进一套三级会员权益体系，用户可在小艺设置页面直接查看A…",
+      "tag": "AI产品",
+      "id": 10
+    }
+  ]
+}
