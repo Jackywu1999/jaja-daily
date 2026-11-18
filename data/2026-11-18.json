@@ -1,0 +1,99 @@
+{
+  "date": "2026-11-18",
+  "generated_at": "2026-11-18T11:59:35.396684+08:00",
+  "category": "餐饮零售 & AI科技",
+  "total": 10,
+  "editor_note": "今天共精选 10 条。AI科技板块：消息称英伟达安抚机器人生态伙伴，“物理 等动态持续发酵。",
+  "items": [
+    {
+      "title": "消息称英伟达安抚机器人生态伙伴，“物理 AI”投资不会急刹车",
+      "url": "https://www.ithome.com/1/028/660.htm",
+      "source": "IT之家",
+      "source_icon": "🟢",
+      "summary": "科技媒体Business Insider今天（11月 18日）发布博文，报道称在黄仁勋突发离职后，英伟达及其风险投资部门NVentures 已联系至少 3家其投资的机器人初创公司， 明确表示业务将“照…",
+      "tag": "AI投融资",
+      "id": 1
+    },
+    {
+      "title": "Claude 关联计费测试上线，第三方应用 AI 消费能“按需结算”",
+      "url": "https://www.ithome.com/1/028/637.htm",
+      "source": "IT之家",
+      "source_icon": "🟢",
+      "summary": "Anthropic昨日（11 月 17 日）更新Claude 平台文档，宣布引入名为“关联计费”（LinkedBilling）的 OAuth测试版功能。",
+      "tag": "大模型",
+      "id": 2
+    },
+    {
+      "title": "韩国总统李在明公布防 AI 作弊新招：考试期间发送最高级别灾难警报，让藏匿的手机无处遁形",
+      "url": "https://www.ithome.com/1/028/629.htm",
+      "source": "IT之家",
+      "source_icon": "🟢",
+      "summary": "韩国总统李在明昨日在 X 平台发文，公布韩国政府正在进行和计划的防止考试作弊政策，其中包括考试期间发送最高级别灾难警报、奖励举报者等。",
+      "tag": "AI产品",
+      "id": 3
+    },
+    {
+      "title": "实测：我们用AI做游戏，把开发成本打到了20块",
+      "url": "https://www.tmtpost.com/8208805.html",
+      "source": "钛媒体",
+      "source_icon": "🟠",
+      "summary": "实测：我们用AI做游戏，把开发成本打到了20块",
+      "tag": "AI产品",
+      "id": 4
+    },
+    {
+      "title": "AI行业里，被高薪叙事平均掉的人",
+      "url": "https://www.tmtpost.com/8208844.html",
+      "source": "钛媒体",
+      "source_icon": "🟠",
+      "summary": "加班和焦虑，跑赢了薪资涨幅。",
+      "tag": "AI产品",
+      "id": 5
+    },
+    {
+      "title": "“童话大王”郑渊洁停更 2 年后发声：用 AI 手搓动画短片开放免费观看，祝贺 00 后赶上知识平权好时代",
+      "url": "https://www.ithome.com/1/028/689.htm",
+      "source": "IT之家",
+      "source_icon": "🟢",
+      "summary": "中国当代知名童话作家、“童话大王”郑渊洁11 月 17日发声，恢复停更两年的自媒体，表示最近自己遇到了一件特别振奋和不可思议的事： 对动画制作绝对是门外汉可以说一窍不通的我，居然斗胆使用 AI将我自己…",
+      "tag": "AI产品",
+      "id": 6
+    },
+    {
+      "title": "小米雷军：“AI+ 手机”“AI+ 具身智能机器人”等有很大想象空间，未来三四年会诞生颠覆性时刻",
+      "url": "https://www.ithome.com/1/028/669.htm",
+      "source": "IT之家",
+      "source_icon": "🟢",
+      "summary": "小米创办人、董事长兼CEO 雷军 11 月 17 日出席APEC 工商领导人峰会。今日（11月 18日），雷军接受了人民日报采访。",
+      "tag": "机器人",
+      "id": 7
+    },
+    {
+      "title": "戴森 Airsmooth 气流丰盈梳发布：吹干蓬松一步到位、断发减少 39%，1899 元",
+      "url": "https://www.ithome.com/1/028/661.htm",
+      "source": "IT之家",
+      "source_icon": "🟢",
+      "summary": "戴森官方今日宣布推出全新的Airsmooth气流丰盈梳（HB01），定价为1899元。京东戴森（DYSON）Airsmooth气流丰盈梳 1899 元 直达链接作为戴森推出的首款专属热风造型梳，Air…",
+      "tag": "AI产品",
+      "id": 8
+    },
+    {
+      "title": "Gartner 2027十大技术趋势：十项里四项与AI治理有关，窗口期只有1到6年",
+      "url": "https://www.tmtpost.com/8209258.html",
+      "source": "钛媒体",
+      "source_icon": "🟠",
+      "summary": "到2028年，25%的企业安全漏洞事件可追溯至AI智能体滥用。",
+      "tag": "政策监管",
+      "id": 9
+    },
+    {
+      "title": "GPT-6.2 Astra终于上线，从PPT做到发动机",
+      "url": "https://www.tmtpost.com/8209040.html",
+      "source": "钛媒体",
+      "source_icon": "🟠",
+      "summary": "新模型什么活都想干，但很难伺候。",
+      "tag": "大模型",
+      "id": 10
+    }
+  ]
+}
