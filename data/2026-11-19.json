@@ -1,0 +1,90 @@
+{
+  "date": "2026-11-19",
+  "generated_at": "2026-11-19T11:56:37.207077+08:00",
+  "category": "餐饮零售 & AI科技",
+  "total": 9,
+  "editor_note": "今天共精选 9 条。餐饮零售板块：名创优品三季报把TOP TOY底裤扒光了等话题值得关注；AI科技板块：“最薄 Mate 直板机”华为 Mate等动态持续发酵。",
+  "items": [
+    {
+      "title": "名创优品三季报把TOP TOY底裤扒光了",
+      "url": "https://www.tmtpost.com/8210308.html",
+      "source": "钛媒体",
+      "source_icon": "🟠",
+      "summary": "专门做潮玩的熄了火，没被当成正经潮玩做的，反而烧了起来。",
+      "tag": "商业洞察",
+      "id": 1
+    },
+    {
+      "title": "“最薄 Mate 直板机”华为 Mate 90 Air 上线官网，预计搭载 7 英寸等深四曲屏",
+      "url": "https://www.ithome.com/1/029/191.htm",
+      "source": "IT之家",
+      "source_icon": "🟢",
+      "summary": "华为Mate90 Air今日上线官方商城，产品SKU信息也随着公布。 商品页面显示，新机将于11 月 24 日 18:08全款预售，提供 玫瑰金、皓月银、曜石黑 三款配色，以及 12GB+256GB、…",
+      "tag": "AI产品",
+      "id": 2
+    },
+    {
+      "title": "Anduril 创始人拉奇谈 AI 网络安全：美国 AI 攻防失衡，长期来看善用 AI 防御的一方将占据优势",
+      "url": "https://www.ithome.com/1/029/176.htm",
+      "source": "IT之家",
+      "source_icon": "🟢",
+      "summary": "Anduril联合创始人帕尔默 · 拉奇（PalmerLuckey）今日在《纽约时报》DealBook 峰会上警告称，美国正面临AI网络攻防体系的严重失衡。",
+      "tag": "政策监管",
+      "id": 3
+    },
+    {
+      "title": "马斯克预警称 AI 或于 2031 年超越全人类智慧总和",
+      "url": "https://www.ithome.com/1/029/161.htm",
+      "source": "IT之家",
+      "source_icon": "🟢",
+      "summary": "在接受《经济学人》采访时，全球首富埃隆· 马斯克（ElonMusk）大胆预测，称未来约 5年内，即约2031年，人工智能（AI）超过全人类智慧的总和 。",
+      "tag": "AI产品",
+      "id": 4
+    },
+    {
+      "title": "英伟达回应“黄仁勋离任会打乱 AI 芯片供货”疑虑：需求仍强劲，产品按计划推进",
+      "url": "https://www.ithome.com/1/029/234.htm",
+      "source": "IT之家",
+      "source_icon": "🟢",
+      "summary": "行业媒体Digitimes 今天（11 月 19日）发布博文，报道称在最新财报电话会议上，针对“换帅是否会打乱AI芯片供货”疑虑，英伟达临时首席执行官科莱特 ·克雷斯（Colette Kress）表示…",
+      "tag": "AI算力",
+      "id": 5
+    },
+    {
+      "title": "最高 853.33% 提升：《GTA 6》PS5 Pro 画面经 AI 加持，帧率飙到 286 FPS",
+      "url": "https://www.ithome.com/1/029/200.htm",
+      "source": "IT之家",
+      "source_icon": "🟢",
+      "summary": "游戏媒体GameGPU 昨日（11 月 18日）发布博文，测试将索尼PS5 Pro 的 4K输出信号接入外置采集卡，再由 PC处理后，《侠盗猎车手VI》（GTA 6）游戏帧率从原生 30FPS提升至约…",
+      "tag": "AI产品",
+      "id": 6
+    },
+    {
+      "title": "华为史上最薄智能手表 WATCH Air 三款配色公布，6.9mm 超薄设计",
+      "url": "https://www.ithome.com/1/029/199.htm",
+      "source": "IT之家",
+      "source_icon": "🟢",
+      "summary": "华为史上最薄智能手表—— 华为 WATCH Air 将于11月 24 日 14:30发布，官方现已公布新品更多信息。 预热视频显示，新机采用6.9mm 超薄设计，提供1.4mm超窄四等边、蓝宝石玻璃表…",
+      "tag": "AI产品",
+      "id": 7
+    },
+    {
+      "title": "“未名·AI Park”正式揭牌，北大海淀共建AI创新转化高地",
+      "url": "https://www.tmtpost.com/8210345.html",
+      "source": "钛媒体",
+      "source_icon": "🟠",
+      "summary": "“未名·AI Park”核心启动区选址北大西门外，构建服务北大的“一公里转化圈”，立足北大顶尖AI学科资源与海淀科创沃土，打通“原始创新—技术攻关—成果落地—产业集聚”全链条，是百年京张AI创新带上的…",
+      "tag": "商业洞察",
+      "id": 8
+    },
+    {
+      "title": "大厂AI对照系：李彦宏布道，马化腾预警",
+      "url": "https://www.tmtpost.com/8208862.html",
+      "source": "钛媒体",
+      "source_icon": "🟠",
+      "summary": "最早看见浪潮的人，为何没跑到最前面；后知后发的赶超者，又靠什么补课？",
+      "tag": "AI产品",
+      "id": 9
+    }
+  ]
+}
