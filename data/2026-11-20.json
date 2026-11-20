@@ -1,0 +1,99 @@
+{
+  "date": "2026-11-20",
+  "generated_at": "2026-11-20T11:50:20.648667+08:00",
+  "category": "餐饮零售 & AI科技",
+  "total": 10,
+  "editor_note": "今天共精选 10 条。餐饮零售板块：Kimi的当务之急是赶紧推广自家AI姬等话题值得关注；AI科技板块：OPPO Pad Air6 平板开售：2等动态持续发酵。",
+  "items": [
+    {
+      "title": "OPPO Pad Air6 平板开售：2.8K 120Hz 柔光屏，国补后 2209.15 元起",
+      "url": "https://www.ithome.com/1/029/792.htm",
+      "source": "IT之家",
+      "source_icon": "🟢",
+      "summary": "OPPOPad Air6平板今日开售，搭载2.8K 120Hz柔光屏，限时优惠价2599元起，国补后2209.15元起。IT之家整理价格如下：8GB+128GB版限时优惠价 2599元，国补到手参考价…",
+      "tag": "AI产品",
+      "id": 1
+    },
+    {
+      "title": "OpenAI 邀部分 Plus 用户体验 dots AI 智能体，移动版 ChatGPT 将为其设独立标签页",
+      "url": "https://www.ithome.com/1/029/784.htm",
+      "source": "IT之家",
+      "source_icon": "🟢",
+      "summary": "OpenAI核心产品负责人蒂博 ·索蒂奥（ThibaultSottiaux）今天（11 月 20日）在 X 平台发布推文，宣布邀请少量 ChatGPT Plus用户测试 dots，同时宣布向所有Cha…",
+      "tag": "大模型",
+      "id": 2
+    },
+    {
+      "title": "国内推出首个智能座舱 AI 分级评价体系，共分为 C1 到 C5 五级",
+      "url": "https://www.ithome.com/1/029/781.htm",
+      "source": "IT之家",
+      "source_icon": "🟢",
+      "summary": "随着新能源汽车快速普及，日前，中国汽车技术研究中心推出了国内首个汽车智能座舱AI能力分级评价体系。这次中汽中心推出的AI能力分级评价体系，共分为 C1 到 C5 五级，把座舱AI主观体验转化为可量化的…",
+      "tag": "AI产品",
+      "id": 3
+    },
+    {
+      "title": "从Anthropic敲钟，看中国大模型怎么定价？",
+      "url": "https://www.tmtpost.com/8211889.html",
+      "source": "钛媒体",
+      "source_icon": "🟠",
+      "summary": "Anthropic上市，更像是一次针对整个AI行业的压力测试。",
+      "tag": "大模型",
+      "id": 4
+    },
+    {
+      "title": "AI办公的“入口之战”打完了吗？",
+      "url": "https://www.tmtpost.com/8211777.html",
+      "source": "钛媒体",
+      "source_icon": "🟠",
+      "summary": "AI办公下半场，要争什么？",
+      "tag": "AI产品",
+      "id": 5
+    },
+    {
+      "title": "三星自研 AI 新进展：Gauss 4 现身 One UI 9.5 代码",
+      "url": "https://www.ithome.com/1/029/833.htm",
+      "source": "IT之家",
+      "source_icon": "🟢",
+      "summary": "科技媒体SammyGuru 昨日（11 月 19日）报道，称三星正在积极推进自研 Gauss 系列AI 模型，在One UI 9.5 首个 Beta测试版中，发现了Gauss 4 E2B模型踪迹。",
+      "tag": "AI产品",
+      "id": 6
+    },
+    {
+      "title": "三星安卓笔记本再曝细节：让 App 适配键鼠操作，整合手机端 AI 技能",
+      "url": "https://www.ithome.com/1/029/826.htm",
+      "source": "IT之家",
+      "source_icon": "🟢",
+      "summary": "科技媒体sammyguru 昨日（11 月 19日）发布博文，通过挖掘One UI 9.5 首个 Beta测试版，发现了三星安卓笔记本的更多线索，有望适配智能简报 NowBrief、主动建议功能Now…",
+      "tag": "AI产品",
+      "id": 7
+    },
+    {
+      "title": "育碧成立 Motherbrain 专注于游戏 AI，半年员工人数减少近 1100 人",
+      "url": "https://www.ithome.com/1/029/795.htm",
+      "source": "IT之家",
+      "source_icon": "🟢",
+      "summary": "VideoGamesChronicle 今日报道称，育碧成立了一家专注于游戏AI 技术的新子公司Motherbrain，负责研发用于游戏玩法创新的AI技术，并为旗下游戏开发团队提供支持。",
+      "tag": "AI产品",
+      "id": 8
+    },
+    {
+      "title": "Kimi的当务之急是赶紧推广自家AI姬",
+      "url": "https://www.tmtpost.com/8211847.html",
+      "source": "钛媒体",
+      "source_icon": "🟠",
+      "summary": "Kimi的角色还停在Benchmark。",
+      "tag": "商业洞察",
+      "id": 9
+    },
+    {
+      "title": "高开又跳水，巨头组团押注 Anthropic：AI 大模型的公开市场考题才刚刚开始",
+      "url": "https://www.tmtpost.com/8212110.html",
+      "source": "钛媒体",
+      "source_icon": "🟠",
+      "summary": "产业资本互相 “输血”，万亿估值能撑多久？",
+      "tag": "大模型",
+      "id": 10
+    }
+  ]
+}
