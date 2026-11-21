@@ -1,0 +1,99 @@
+{
+  "date": "2026-11-21",
+  "generated_at": "2026-11-21T11:42:48.664190+08:00",
+  "category": "餐饮零售 & AI科技",
+  "total": 10,
+  "editor_note": "今天共精选 10 条。餐饮零售板块：阿里发布2027年Q2财报：阿里云AI收等话题值得关注；AI科技板块：外卖翻篇，阿里把钱砸向AI等动态持续发酵。",
+  "items": [
+    {
+      "title": "外卖翻篇，阿里把钱砸向AI",
+      "url": "https://www.tmtpost.com/8213142.html",
+      "source": "钛媒体",
+      "source_icon": "🟠",
+      "summary": "电商利润修复，AI投入加速。",
+      "tag": "AI产品",
+      "id": 1
+    },
+    {
+      "title": "阿里发布2027年Q2财报：阿里云AI收入增长53%，即时零售减亏",
+      "url": "https://www.tmtpost.com/8212798.html",
+      "source": "钛媒体",
+      "source_icon": "🟠",
+      "summary": "AI相关产品收入已经连续第十三个季度保持三位数同比增长，互联网、汽车、具身智能、金融、生物科技等行业客户持续扩容算力采购需求。",
+      "tag": "零售动态",
+      "id": 2
+    },
+    {
+      "title": "沃尔玛Q3财报：中国电商渗透率首破五成",
+      "url": "https://www.tmtpost.com/8212919.html",
+      "source": "钛媒体",
+      "source_icon": "🟠",
+      "summary": "沃尔玛Q3财报：中国电商渗透率首破五成",
+      "tag": "零售动态",
+      "id": 3
+    },
+    {
+      "title": "OpenAI 公布反蒸馏防护进展：GPT-6.2 Astra 思考链提取成功率从 54% 降至 0.2%",
+      "url": "https://www.ithome.com/1/030/319.htm",
+      "source": "IT之家",
+      "source_icon": "🟢",
+      "summary": "当地时间11 月 20日，OpenAI 发布公告介绍了针对「对抗性蒸馏」（Adversarial Distillation）的防御措施。",
+      "tag": "大模型",
+      "id": 4
+    },
+    {
+      "title": "“几乎所有人将永久失业”：Anthropic 研究员预测 2027 年底 AI 在几乎所有领域超越顶尖专家",
+      "url": "https://www.ithome.com/1/030/308.htm",
+      "source": "IT之家",
+      "source_icon": "🟢",
+      "summary": "11月 15 日在接受 PalisadeResearch 采访时，Anthropic公司技术团队成员 Tao Lin 预测到2027 年年底，在编程、电影制作等几乎所有领域，人工智能（AI）在发展大约…",
+      "tag": "AI产品",
+      "id": 5
+    },
+    {
+      "title": "腾讯混元姚顺雨团队：Hy4 仍有很大改进空间，计划训练更大规模模型",
+      "url": "https://www.ithome.com/1/030/338.htm",
+      "source": "IT之家",
+      "source_icon": "🟢",
+      "summary": "11月 21日凌晨，腾讯首席AI科学家、混元大模型负责人姚顺雨和团队成员，在Reddit 进行了一场持续 120分钟的 AMA，回答全球开发者关于混元的“任何问题”。",
+      "tag": "大模型",
+      "id": 6
+    },
+    {
+      "title": "拯救爆满的“下载”文件夹：微软 Win11 将推 AI 整理神器，授权后可查找 / 分类 / 移动 / 重命名文件",
+      "url": "https://www.ithome.com/1/030/333.htm",
+      "source": "IT之家",
+      "source_icon": "🟢",
+      "summary": "科技媒体Windows Latest 昨日（11月20日）发布博文，报道称在Ignite 2026活动中，微软展示 Copilot“本地文件操作”功能， 在征得用户授权后可以查找、分类、移动或重命名本…",
+      "tag": "AI产品",
+      "id": 7
+    },
+    {
+      "title": "近 200 万条请求揭开 AI 隐私漏洞：“零数据保留”也会泄密",
+      "url": "https://www.ithome.com/1/030/322.htm",
+      "source": "IT之家",
+      "source_icon": "🟢",
+      "summary": "科技媒体Ars Technica 今天（11 月21 日）发布博文，报道称安全公司Dragos 首席研究官 HDMoore向多家 AI 服务商发送近 200万条带有可追踪“诱饵”的请求，发现 AI服务…",
+      "tag": "AI产品",
+      "id": 8
+    },
+    {
+      "title": "外卖翻篇，阿里把钱砸向AI",
+      "url": "https://www.tmtpost.com/8213142.html",
+      "source": "钛媒体",
+      "source_icon": "🟠",
+      "summary": "电商利润修复，AI投入加速。",
+      "tag": "AI产品",
+      "id": 9
+    },
+    {
+      "title": "AI交易雪崩：纳指单日狂泻1261点，这次市场不再相信“故事”",
+      "url": "https://www.tmtpost.com/8213381.html",
+      "source": "钛媒体",
+      "source_icon": "🟠",
+      "summary": "AI交易雪崩：纳指单日狂泻1261点，这次市场不再相信“故事”",
+      "tag": "AI产品",
+      "id": 10
+    }
+  ]
+}
