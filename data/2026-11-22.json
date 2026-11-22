@@ -1,0 +1,99 @@
+{
+  "date": "2026-11-22",
+  "generated_at": "2026-11-22T10:46:46.115905+08:00",
+  "category": "餐饮零售 & AI科技",
+  "total": 10,
+  "editor_note": "今天共精选 10 条。餐饮零售板块：“奶茶第一股”的翻红账本等话题值得关注；AI科技板块：群联展示内置 NPU 与 64GB 内存等动态持续发酵。",
+  "items": [
+    {
+      "title": "“奶茶第一股”的翻红账本",
+      "url": "https://www.tmtpost.com/8212602.html",
+      "source": "钛媒体",
+      "source_icon": "🟠",
+      "summary": "翻红最难的一环，是让下一次被讨论的理由，从流量换成业绩。",
+      "tag": "餐饮动态",
+      "id": 1
+    },
+    {
+      "title": "泡泡玛特和瑞幸，要分同一块蛋糕？",
+      "url": "https://www.tmtpost.com/8213177.html",
+      "source": "钛媒体",
+      "source_icon": "🟠",
+      "summary": "网红小家电的逻辑要变了？",
+      "tag": "餐饮动态",
+      "id": 2
+    },
+    {
+      "title": "群联展示内置 NPU 与 64GB 内存的智能固态硬盘，可直接运行 AI 模型",
+      "url": "https://www.ithome.com/1/030/524.htm",
+      "source": "IT之家",
+      "source_icon": "🟢",
+      "summary": "据科技媒体Tom's Hardware昨天报道，群联在SC26大会中展示两款企业级固态硬盘，专为AI场景设计。其中一款甚至带有NPU 和 64GB内存，可以直接运行AI模型。",
+      "tag": "大模型",
+      "id": 3
+    },
+    {
+      "title": "加密聊天应用 Signal 默认屏蔽截图，防止 AI 智能体读取用户消息",
+      "url": "https://www.ithome.com/1/030/517.htm",
+      "source": "IT之家",
+      "source_icon": "🟢",
+      "summary": "开源端到端加密聊天应用Signal 近日推出 iOS /Android 版更新，默认关闭应用程序内截图功能，以阻止Siri AI 和 Gemini 等AI 智能体读取用户私人消息。",
+      "tag": "AI Agent",
+      "id": 4
+    },
+    {
+      "title": "韩国总统李在明：速度在 AI 竞赛中至关重要",
+      "url": "https://www.ithome.com/1/030/506.htm",
+      "source": "IT之家",
+      "source_icon": "🟢",
+      "summary": "当地时间21日，韩国总统李在明前往韩国东南部城市蔚山，视察当地一座在建数据中心，并敦促韩国加快在全球AI竞赛中的步伐。“ 全世界都在竞相角逐，速度至关重要 。” 数据中心是芯片需求的重要来源。",
+      "tag": "AI产品",
+      "id": 5
+    },
+    {
+      "title": "Anthropic 数学家 AI 攻克黎曼猜想？Lean 社区通过核验，数十人报告代码库编译正确",
+      "url": "https://www.ithome.com/1/030/547.htm",
+      "source": "IT之家",
+      "source_icon": "🟢",
+      "summary": "11月 21日，Lean与 Mathlib社区发布联合声明，称莱文特・阿尔波格（LeventAlpöge）以 Lean库形式给出的黎曼猜想证明已经通过核验，该证明的代码约 1700 万行。",
+      "tag": "AI产品",
+      "id": 6
+    },
+    {
+      "title": "试题经过大模型测试？国家中医药管理局认证中心：未与任何大模型企业合作，亦未开展测评",
+      "url": "https://www.ithome.com/1/030/540.htm",
+      "source": "IT之家",
+      "source_icon": "🟢",
+      "summary": "11月 21日晚，国家中医药管理局中医师资格认证中心通过官方公众号发布声明称，该中心从未公开历年真题，未与任何大模型企业合作，亦未开展测评。",
+      "tag": "大模型",
+      "id": 7
+    },
+    {
+      "title": "李小龙预热华为史上最薄智能手表 WATCH Air：对男性穿西装衬衣非常友好",
+      "url": "https://www.ithome.com/1/030/534.htm",
+      "source": "IT之家",
+      "source_icon": "🟢",
+      "summary": "华为史上最薄智能手表—— 华为WATCH Air 将于 11月24 日 14:30登场。该产品拥有6.9毫米机身，号称“薄，且强”。11 月 20日，华为终端BG CTO李小龙对这款新品进行了预热。",
+      "tag": "AI产品",
+      "id": 8
+    },
+    {
+      "title": "全球Meta一家独大，中国AI眼镜为何还在混战？",
+      "url": "https://www.tmtpost.com/8213674.html",
+      "source": "钛媒体",
+      "source_icon": "🟠",
+      "summary": "中国AI眼镜，胜负未分。",
+      "tag": "AI产品",
+      "id": 9
+    },
+    {
+      "title": "特锐德、LG抢跑进场，AI抢电抢到气田门口，气电先端走69%份额，真正的账单还在后面",
+      "url": "https://www.tmtpost.com/8213639.html",
+      "source": "钛媒体",
+      "source_icon": "🟠",
+      "summary": "数据中心抢购稳定电力，重画美国气电定价与电网调峰；国内东数西算调峰账本同步重算，订单兑现待观察。",
+      "tag": "AI产品",
+      "id": 10
+    }
+  ]
+}
