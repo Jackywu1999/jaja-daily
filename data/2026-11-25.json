@@ -1,0 +1,99 @@
+{
+  "date": "2026-11-25",
+  "generated_at": "2026-11-25T13:11:24.263095+08:00",
+  "category": "餐饮零售 & AI科技",
+  "total": 10,
+  "editor_note": "今天共精选 10 条。餐饮零售板块：网易 AI 语音输入法“叭哥说”移动版上等话题值得关注；AI科技板块：OpenAI 眼中的新 AI 金矿：从写等动态持续发酵。",
+  "items": [
+    {
+      "title": "OpenAI 眼中的新 AI 金矿：从写代码转向防黑客",
+      "url": "https://www.ithome.com/1/031/989.htm",
+      "source": "IT之家",
+      "source_icon": "🟢",
+      "summary": "科技媒体The Information昨日（11月 24日）发布博文，报道称 OpenAI正把网络安全视为可能超越编程业务的下一个增长引擎，但外界仍不清楚该公司将如何把这一愿景转化为可规模化、可盈利的…",
+      "tag": "AI产品",
+      "id": 1
+    },
+    {
+      "title": "网易 AI 语音输入法“叭哥说”移动版上线：主打口语整理，承诺终身免费无广告",
+      "url": "https://www.ithome.com/1/031/978.htm",
+      "source": "IT之家",
+      "source_icon": "🟢",
+      "summary": "经用户反馈，网易有道新推出了一款AI 语音输入法 ——网易叭哥说。应用描述：网易叭哥说，是网易推出的免费AI 语音输入与表达Agent。",
+      "tag": "商业洞察",
+      "id": 2
+    },
+    {
+      "title": "联想推出 1599 元来酷 AI 便携智慧屏闺蜜机：24.5 英寸 FHD 大屏、10W 双扬声器",
+      "url": "https://www.ithome.com/1/031/970.htm",
+      "source": "IT之家",
+      "source_icon": "🟢",
+      "summary": "联想新推出了一款来酷AI便携智慧屏（闺蜜机），将于今晚24时开售，建议零售价1799元，首发1599元，另外晒单返现100 元 E卡。",
+      "tag": "AI产品",
+      "id": 3
+    },
+    {
+      "title": "新鲜感之后，陪伴机器人如何被用起来？",
+      "url": "https://www.tmtpost.com/8212446.html",
+      "source": "钛媒体",
+      "source_icon": "🟠",
+      "summary": "新鲜感退去之后，这些主打陪伴的机器人还有多少被家庭继续使用，又有谁愿意为此持续付费。",
+      "tag": "机器人",
+      "id": 4
+    },
+    {
+      "title": "自变量发布具身基础模型WALL-OSS-1.0，自测零样本成功率55.1%",
+      "url": "https://www.tmtpost.com/8216666.html",
+      "source": "钛媒体",
+      "source_icon": "🟠",
+      "summary": "“理解世界”与“执行动作”在同一模型中成形",
+      "tag": "大模型",
+      "id": 5
+    },
+    {
+      "title": "众擎 CEO 赵同阳：人形机器人进入商业化关键阶段，下一阶段比拼的是工程能力",
+      "url": "https://www.ithome.com/1/032/062.htm",
+      "source": "IT之家",
+      "source_icon": "🟢",
+      "summary": "众擎机器人创始人兼CEO赵同阳今日在众擎机器人全球开发者大会表示，人形机器人正处在从整机量产走向商业化应用的关键阶段，下一阶段的竞争不再只是能不能造出来，而是考验多方面的工程能力。",
+      "tag": "机器人",
+      "id": 6
+    },
+    {
+      "title": "AI 泡沫要来了？教授称英伟达像郁金香和 NFT",
+      "url": "https://www.ithome.com/1/032/058.htm",
+      "source": "IT之家",
+      "source_icon": "🟢",
+      "summary": "科技媒体Business Insider昨日（11月 24日）发布博文，针对英伟达公司股价剧烈震荡，密歇根大学罗斯商学院教授埃里克· 戈登（ErikGordon）认为其估值像17世纪荷兰“郁金香狂热”…",
+      "tag": "AI算力",
+      "id": 7
+    },
+    {
+      "title": "天钡带来 AMD 锐龙 AI 9 HX 470 版 WORK 迷你主机，集成 32GB LPDDR5",
+      "url": "https://www.ithome.com/1/032/014.htm",
+      "source": "IT之家",
+      "source_icon": "🟢",
+      "summary": "天钡(AOOSTAR) 昨日推出了基于AMD锐龙 7 H 255 处理器的 WORKH255 工作站迷你主机。而IT之家注意到，同系列产品WORK 470也一并上市。",
+      "tag": "AI产品",
+      "id": 8
+    },
+    {
+      "title": "世界模型变天了",
+      "url": "https://www.tmtpost.com/8216357.html",
+      "source": "钛媒体",
+      "source_icon": "🟠",
+      "summary": "争抢定义“什么是好的世界模型”。",
+      "tag": "大模型",
+      "id": 9
+    },
+    {
+      "title": "手机、汽车、AI，小米需要一场新的增长接力",
+      "url": "https://www.tmtpost.com/8216871.html",
+      "source": "钛媒体",
+      "source_icon": "🟠",
+      "summary": "从手机到汽车再到AI，小米在寻找下一个增长点，但恰巧碰到了消费电子的下行周期。",
+      "tag": "商业洞察",
+      "id": 10
+    }
+  ]
+}
