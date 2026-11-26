@@ -1,0 +1,99 @@
+{
+  "date": "2026-11-26",
+  "generated_at": "2026-11-26T12:39:45.403842+08:00",
+  "category": "餐饮零售 & AI科技",
+  "total": 10,
+  "editor_note": "今天共精选 10 条。AI科技板块：黎曼猜想 AI 证明代码暴砍 99.5%等动态持续发酵。",
+  "items": [
+    {
+      "title": "黎曼猜想 AI 证明代码暴砍 99.5%：只剩 7.6 万行，又是 Anthropic",
+      "url": "https://www.ithome.com/1/032/611.htm",
+      "source": "IT之家",
+      "source_icon": "🟢",
+      "summary": "只剩7.6 万行了！！刚刚，轰动全网的1740 万行黎曼猜想证明，迎来了一波史诗级大瘦身。代码量暴砍99.56%。原版证明那 175,188个文件，在AWS 高配机器上得跑足足 21个小时才能编译完；…",
+      "tag": "AI产品",
+      "id": 1
+    },
+    {
+      "title": "OpenAI 开始合并 ChatGPT 聊天 / 工作模式，重度用户可能更早触及限额",
+      "url": "https://www.ithome.com/1/032/599.htm",
+      "source": "IT之家",
+      "source_icon": "🟢",
+      "summary": "OpenAICodex&amp;ChatGPT团队负责人蒂博 ·索蒂奥",
+      "tag": "大模型",
+      "id": 2
+    },
+    {
+      "title": "知乎 CEO 周源回应间接投资 DeepSeek：对长期价值有清晰判断，不会牺牲主营业务发展",
+      "url": "https://www.ithome.com/1/032/582.htm",
+      "source": "IT之家",
+      "source_icon": "🟢",
+      "summary": "知乎11 月 23日发布自愿公告，宣布知乎参投的天津砺思星深股权投资合伙企业已通过中间主体间接投资 DeepSeek，取得低个位数百分比股权。",
+      "tag": "大模型",
+      "id": 3
+    },
+    {
+      "title": "“得Agent开发者，得天下”，70+技术大咖共探AI技术演进与生态变革，2026奇点智能技术大会圆满收官！",
+      "url": "https://www.tmtpost.com/8217882.html",
+      "source": "钛媒体",
+      "source_icon": "🟠",
+      "summary": "为期两天的「2026奇点智能技术大会」与「2026 C++及系统软件技术大会」圆满落幕。",
+      "tag": "AI Agent",
+      "id": 4
+    },
+    {
+      "title": "ByteDance's Short-Video Platform Hongguo Forces Second-Tier Platforms to Bet on AI",
+      "url": "https://www.tmtpost.com/8218450.html",
+      "source": "钛媒体",
+      "source_icon": "🟠",
+      "summary": "China'ssecond-tierentertainmentcompanies arescramblingto cut costs and goallin on artificialintellig…",
+      "tag": "AI产品",
+      "id": 5
+    },
+    {
+      "title": "我用AI做了一张两千年的中国历史地图",
+      "url": "https://sspai.com/post/117510",
+      "source": "少数派",
+      "source_icon": "🔵",
+      "summary": "希望这张地图，能陪更多人走一遍故纸堆里的万里江山。",
+      "tag": "AI产品",
+      "id": 6
+    },
+    {
+      "title": "App+1｜Yab：开源、AI 友好的双内核浏览器，给舍不得 Arc 的你",
+      "url": "https://sspai.com/post/119310",
+      "source": "少数派",
+      "source_icon": "🔵",
+      "summary": "Arc 花了很大力气重新设计「人该如何使用浏览器」，YAB 在继承这份交互遗产的同时，又顺手为AI打开了另一扇门。",
+      "tag": "开源",
+      "id": 7
+    },
+    {
+      "title": "降幅约 20%~35%：报告称马斯克 SpaceX 降价出租 AI 算力",
+      "url": "https://www.ithome.com/1/032/716.htm",
+      "source": "IT之家",
+      "source_icon": "🟢",
+      "summary": "行业研究机构SemiAnalysis 昨日（11 月25 日）发布报告，称全球首富埃隆 · 马斯克（ElonMusk）旗下SpaceX 公司正在下调其 AI计算资源的租赁价格，其重要客户Anthrop…",
+      "tag": "AI算力",
+      "id": 8
+    },
+    {
+      "title": "中国牵头制定，人工智能训练数据质量国际标准成 30 余个欧洲国家重要技术参考",
+      "url": "https://www.ithome.com/1/032/714.htm",
+      "source": "IT之家",
+      "source_icon": "🟢",
+      "summary": "由我国专家牵头制定的人工智能训练数据质量国际标准（ISO/ IEC 5259-4:2024）已被欧洲相关机构采纳，成为30余个欧洲国家人工智能合规评估的重要技术参考 ，将应用于人工智能训练数据采集、标…",
+      "tag": "大模型",
+      "id": 9
+    },
+    {
+      "title": "Anthropic 掌门人阿莫迪怒斥“人类将控制权交给 AI”说法荒谬，讽刺某些对手口是心非",
+      "url": "https://www.ithome.com/1/032/655.htm",
+      "source": "IT之家",
+      "source_icon": "🟢",
+      "summary": "Anthropic首席执行官达里奥 · 阿莫迪（DarioAmodei）今天（11月 26 日）在 X平台发布推文，公开否认外界对其“主张人类应向 AI交出自由意志”的指控，称这种说法“荒谬”。",
+      "tag": "AI产品",
+      "id": 10
+    }
+  ]
+}
