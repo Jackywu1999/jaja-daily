@@ -1,0 +1,99 @@
+{
+  "date": "2026-11-27",
+  "generated_at": "2026-11-27T12:43:35.719589+08:00",
+  "category": "餐饮零售 & AI科技",
+  "total": 10,
+  "editor_note": "今天共精选 10 条。AI科技板块：App+1｜Yab：开源、AI 友好的双等动态持续发酵。",
+  "items": [
+    {
+      "title": "App+1｜Yab：开源、AI 友好的双内核浏览器，给舍不得 Arc 的你",
+      "url": "https://sspai.com/post/119310",
+      "source": "少数派",
+      "source_icon": "🔵",
+      "summary": "Arc 花了很大力气重新设计「人该如何使用浏览器」，YAB 在继承这份交互遗产的同时，又顺手为AI打开了另一扇门。",
+      "tag": "开源",
+      "id": 1
+    },
+    {
+      "title": "深蓝汽车：2027 年华为引望星驰辅助驾驶开通订阅时，所有已售“AI 激光版”车辆免费 OTA 升级",
+      "url": "https://www.ithome.com/1/033/280.htm",
+      "source": "IT之家",
+      "source_icon": "🟢",
+      "summary": "IT之家11 月 27日现场消息，在11 月 26 日晚的 2026华为乾崑生态大会上，华为智能汽车解决方案 BU CEO靳玉志正式发布了华为星驰辅助驾驶系统 。",
+      "tag": "AI产品",
+      "id": 2
+    },
+    {
+      "title": "与小米 18 标准版同步发布，消息称小米 AI 眼镜 2 代下月中旬上市",
+      "url": "https://www.ithome.com/1/033/203.htm",
+      "source": "IT之家",
+      "source_icon": "🟢",
+      "summary": "《科创板日报》今天（27 日）上午独家获悉，小米AI 眼镜 2 代或将于 12 月中旬与小米18 标准版手机同步发布，并于当天上市开售。",
+      "tag": "AI投融资",
+      "id": 3
+    },
+    {
+      "title": "259 元酷态科 5 号磁吸电能卡 Air 开售，5000mAh 电芯容量",
+      "url": "https://www.ithome.com/1/033/194.htm",
+      "source": "IT之家",
+      "source_icon": "🟢",
+      "summary": "酷态科5 号磁吸电能卡 Air 今日10:00 开售，日常价299元，首销权益价不高于259元。 作为酷态科首款超薄磁吸，该产品薄约0.77cm，轻约115g，全面通过2026新国标认证，飞机 / 高…",
+      "tag": "AI产品",
+      "id": 4
+    },
+    {
+      "title": "一场物理AI闭门会里的三层“温差”",
+      "url": "https://www.tmtpost.com/8218564.html",
+      "source": "钛媒体",
+      "source_icon": "🟠",
+      "summary": "一份调研、四道考题，和“一手托两方”的答案",
+      "tag": "AI产品",
+      "id": 5
+    },
+    {
+      "title": "App+1｜Agora：开源、易用、好用，给 Android 用户的 LLM 聊天工具",
+      "url": "https://sspai.com/post/116773",
+      "source": "少数派",
+      "source_icon": "🔵",
+      "summary": "如果你在通过API调用你喜欢的大模型，希望它们能像Kimi 等商业 AI客户端那样用着顺手，那Agora就是为你而来的。相信我，Agora 不会让你失望。",
+      "tag": "大模型",
+      "id": 6
+    },
+    {
+      "title": "论文作图不求人，用 ChatGPT 和 Keynote 免费搞定机理图",
+      "url": "https://sspai.com/post/119563",
+      "source": "少数派",
+      "source_icon": "🔵",
+      "summary": "在AI工具玲琅满目的今天，用各种方法「写」出一篇论文已经不算难事。但有一个环节依然很让人头疼——论文里的机理图。",
+      "tag": "大模型",
+      "id": 7
+    },
+    {
+      "title": "我用AI做了一张两千年的中国历史地图",
+      "url": "https://sspai.com/post/117510",
+      "source": "少数派",
+      "source_icon": "🔵",
+      "summary": "希望这张地图，能陪更多人走一遍故纸堆里的万里江山。",
+      "tag": "AI产品",
+      "id": 8
+    },
+    {
+      "title": "纳德拉承认微软放缓应届生招聘，AI 时代年轻人的第一份工作更难拿",
+      "url": "https://www.ithome.com/1/033/309.htm",
+      "source": "IT之家",
+      "source_icon": "🟢",
+      "summary": "科技媒体Windows Latest 今天（11月27日）发布博文，报道称在《务实工程师》（ThePragmaticEngineer）播客节目中，微软首席执行官萨蒂亚· 纳德拉（SatyaNadell…",
+      "tag": "AI产品",
+      "id": 9
+    },
+    {
+      "title": "腾讯混元发布 3D 生成大模型 Hy3D 3.6：面向专业 3D 创作",
+      "url": "https://www.ithome.com/1/033/282.htm",
+      "source": "IT之家",
+      "source_icon": "🟢",
+      "summary": "腾讯混元今天（27日）正式发布最新一代 3D 大模型Hy3D 3.6。新版本面向专业3D创作，重点优化了高模和PBR材质贴图的生成能力。",
+      "tag": "大模型",
+      "id": 10
+    }
+  ]
+}
