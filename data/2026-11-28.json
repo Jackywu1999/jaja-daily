@@ -1,0 +1,99 @@
+{
+  "date": "2026-11-28",
+  "generated_at": "2026-11-28T12:28:11.572589+08:00",
+  "category": "餐饮零售 & AI科技",
+  "total": 10,
+  "editor_note": "今天共精选 10 条。AI科技板块：App+1｜Yab：开源、AI 友好的双等动态持续发酵。",
+  "items": [
+    {
+      "title": "App+1｜Yab：开源、AI 友好的双内核浏览器，给舍不得 Arc 的你",
+      "url": "https://sspai.com/post/119310",
+      "source": "少数派",
+      "source_icon": "🔵",
+      "summary": "Arc 花了很大力气重新设计「人该如何使用浏览器」，YAB 在继承这份交互遗产的同时，又顺手为AI打开了另一扇门。",
+      "tag": "开源",
+      "id": 1
+    },
+    {
+      "title": "Edge 浏览器右键菜单不加新 AI 了，微软对搁置可能造成的不便深表歉意",
+      "url": "https://www.ithome.com/1/033/810.htm",
+      "source": "IT之家",
+      "source_icon": "🟢",
+      "summary": "科技媒体NeoWin 昨日（11 月 27日）发布博文，报道称微软已搁置为Edge 浏览器扩展 AI功能计划， 不再为该浏览器右键菜单加入摘要、引用和翻译功能。",
+      "tag": "AI产品",
+      "id": 2
+    },
+    {
+      "title": "脑癌治疗新希望：加州理工学院研发纳米机器人 BrainBot，可随血液循环突破血脑屏障向脑内递药",
+      "url": "https://www.ithome.com/1/033/798.htm",
+      "source": "IT之家",
+      "source_icon": "🟢",
+      "summary": "当地时间27日，据外媒TechSpot报道，加州理工学院研究人员开发出一种能够 随血液循环、将药物送入大脑的纳米机器人 BrainBot。 据悉，该机器人能够穿过血脑屏障。",
+      "tag": "机器人",
+      "id": 3
+    },
+    {
+      "title": "iOS 27.3 前瞻苹果 AI 限额：Siri AI 标准每日 20 次云端请求",
+      "url": "https://www.ithome.com/1/033/795.htm",
+      "source": "IT之家",
+      "source_icon": "🟢",
+      "summary": "技术博主@itspdfu 于 11 月 26日在 X 平台发布长推文，通过挖掘 iOS 27.3 Beta 2开发者预览版，发现了苹果Siri AI 和多项 AppleIntelligence 功能的…",
+      "tag": "AI产品",
+      "id": 4
+    },
+    {
+      "title": "AI服务器卖爆了，但卖服务器的不赚钱了：股价跌一半，市场在清算什么",
+      "url": "https://www.tmtpost.com/8221273.html",
+      "source": "钛媒体",
+      "source_icon": "🟠",
+      "summary": "一场还没有完全出现在报表里的利润挤压。",
+      "tag": "AI产品",
+      "id": 5
+    },
+    {
+      "title": "App+1｜Agora：开源、易用、好用，给 Android 用户的 LLM 聊天工具",
+      "url": "https://sspai.com/post/116773",
+      "source": "少数派",
+      "source_icon": "🔵",
+      "summary": "如果你在通过API调用你喜欢的大模型，希望它们能像Kimi 等商业 AI客户端那样用着顺手，那Agora就是为你而来的。相信我，Agora 不会让你失望。",
+      "tag": "大模型",
+      "id": 6
+    },
+    {
+      "title": "论文作图不求人，用 ChatGPT 和 Keynote 免费搞定机理图",
+      "url": "https://sspai.com/post/119563",
+      "source": "少数派",
+      "source_icon": "🔵",
+      "summary": "在AI工具玲琅满目的今天，用各种方法「写」出一篇论文已经不算难事。但有一个环节依然很让人头疼——论文里的机理图。",
+      "tag": "大模型",
+      "id": 7
+    },
+    {
+      "title": "我用AI做了一张两千年的中国历史地图",
+      "url": "https://sspai.com/post/117510",
+      "source": "少数派",
+      "source_icon": "🔵",
+      "summary": "希望这张地图，能陪更多人走一遍故纸堆里的万里江山。",
+      "tag": "AI产品",
+      "id": 8
+    },
+    {
+      "title": "“iPod 之父”法德尔：OpenAI 曾邀乔纳森 · 艾维打造实体 AI 设备，因为苹果永远不会提供数据",
+      "url": "https://www.ithome.com/1/033/824.htm",
+      "source": "IT之家",
+      "source_icon": "🟢",
+      "summary": "当地时间26日，据《财富》杂志报道，托尼 · 法德尔透露，萨姆· 奥尔特曼曾邀请苹果前设计主管乔纳森·艾夫为 OpenAI打造一款实体设备，原因是OpenAI 无法从运行其 AI 服务的iPhone中…",
+      "tag": "AI产品",
+      "id": 9
+    },
+    {
+      "title": "Galaxy S27 系列手机专享，三星 One UI 9.5 Beta 曝光 36 项 AI 新功能",
+      "url": "https://www.ithome.com/1/033/822.htm",
+      "source": "IT之家",
+      "source_icon": "🟢",
+      "summary": "科技媒体Android Authority昨日（11月 27日）发布博文，通过挖掘 One UI 9.5 首个Beta 测试版代码，发现了关联“20271”的36 项 Galaxy AI功能，预估将成…",
+      "tag": "AI产品",
+      "id": 10
+    }
+  ]
+}
